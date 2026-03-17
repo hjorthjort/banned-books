@@ -32,3 +32,12 @@ Static Astro site for a source-tracked index of books and texts banned by govern
 - Amazon links are search URLs only in this version.
 - The dataset is intentionally incomplete; the current priority is breadth plus explicit provenance.
 - Do not open `dist/index.html` directly from the filesystem. Use `npm start` for live development or `npm run serve` to preview the built site over HTTP.
+
+## License
+
+This repository is licensed under the MIT License. See [LICENSE](/Users/hjort/code/forbidden-books/LICENSE).
+
+Scope:
+
+- The site code, generated JSON records, and original editorial text in this repository are MIT-licensed unless noted otherwise.
+- Linked third-party source material, book covers, Wikipedia/Wikimedia pages, and Amazon pages remain under their own terms and are not relicensed by this repository.
