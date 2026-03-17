@@ -24,29 +24,32 @@ const workCount = works.length;
     </div>
 
     <p class="hero__summary">
-      This page lists every published work currently in the dataset. By default it is alphabetized by title, and you can
-      reorder it in place by author or publication date.
+      This page lists every published work currently in the dataset. By default it is alphabetized by title. Click the
+      table headers to sort by title, author, or publication date in ascending or descending order.
     </p>
-
-    <div class="index-controls" role="toolbar" aria-label="Sort the master index">
-      <button class="index-controls__button index-controls__button--active" type="button" data-index-sort-button data-sort="title" aria-pressed="true">
-        Title
-      </button>
-      <button class="index-controls__button" type="button" data-index-sort-button data-sort="author" aria-pressed="false">
-        Author
-      </button>
-      <button class="index-controls__button" type="button" data-index-sort-button data-sort="year" aria-pressed="false">
-        Publication date
-      </button>
-    </div>
 
     <div class="table-wrap">
       <table class="ban-table index-table">
         <thead>
           <tr>
-            <th scope="col">Title</th>
-            <th scope="col">Publication date</th>
-            <th scope="col">Author</th>
+            <th scope="col" data-index-header data-sort-key="title" aria-sort="ascending">
+              <button class="index-table__sort-button index-table__sort-button--active" type="button" data-index-sort-button data-sort="title" data-direction="asc">
+                <span>Title</span>
+                <span class="index-table__sort-indicator" aria-hidden="true"></span>
+              </button>
+            </th>
+            <th scope="col" data-index-header data-sort-key="year" aria-sort="none">
+              <button class="index-table__sort-button" type="button" data-index-sort-button data-sort="year" data-direction="none">
+                <span>Publication date</span>
+                <span class="index-table__sort-indicator" aria-hidden="true"></span>
+              </button>
+            </th>
+            <th scope="col" data-index-header data-sort-key="author" aria-sort="none">
+              <button class="index-table__sort-button" type="button" data-index-sort-button data-sort="author" data-direction="none">
+                <span>Author(s)</span>
+                <span class="index-table__sort-indicator" aria-hidden="true"></span>
+              </button>
+            </th>
           </tr>
         </thead>
         <tbody data-index-body>
@@ -82,8 +85,9 @@ const workCount = works.length;
   <script is:inline>
     const body = document.querySelector("[data-index-body]");
     const buttons = Array.from(document.querySelectorAll("[data-index-sort-button]"));
+    const headers = Array.from(document.querySelectorAll("[data-index-header]"));
 
-    if (body && buttons.length) {
+    if (body && buttons.length && headers.length) {
       const rows = Array.from(body.querySelectorAll("[data-index-row]"));
       const collator = new Intl.Collator("en", { sensitivity: "base" });
 
@@ -99,18 +103,25 @@ const workCount = works.length;
           collator.compare(left.dataset.title ?? "", right.dataset.title ?? ""),
       };
 
-      const setActiveButton = (sortKey) => {
+      const setActiveHeader = (sortKey, direction) => {
         buttons.forEach((button) => {
           const active = button.dataset.sort === sortKey;
+          button.dataset.direction = active ? direction : "none";
+          button.classList.toggle("index-table__sort-button--active", active);
           button.setAttribute("aria-pressed", String(active));
-          button.classList.toggle("index-controls__button--active", active);
+        });
+
+        headers.forEach((header) => {
+          const active = header.dataset.sortKey === sortKey;
+          header.setAttribute("aria-sort", active ? (direction === "desc" ? "descending" : "ascending") : "none");
         });
       };
 
-      const applySort = (sortKey) => {
-        rows.sort(comparators[sortKey] ?? comparators.title);
+      const applySort = (sortKey, direction) => {
+        const directionMultiplier = direction === "desc" ? -1 : 1;
+        rows.sort((left, right) => directionMultiplier * (comparators[sortKey] ?? comparators.title)(left, right));
         rows.forEach((row) => body.appendChild(row));
-        setActiveButton(sortKey);
+        setActiveHeader(sortKey, direction);
 
         const url = new URL(window.location.href);
         if (sortKey === "title") {
@@ -118,17 +129,27 @@ const workCount = works.length;
         } else {
           url.searchParams.set("sort", sortKey);
         }
+        if (direction === "asc" && sortKey === "title") {
+          url.searchParams.delete("dir");
+        } else {
+          url.searchParams.set("dir", direction);
+        }
         history.replaceState(null, "", `${url.pathname}${url.search}`);
       };
 
       const params = new URLSearchParams(window.location.search);
       const initialSort = ["title", "author", "year"].includes(params.get("sort") ?? "") ? params.get("sort") : "title";
+      const initialDirection = ["asc", "desc"].includes(params.get("dir") ?? "") ? params.get("dir") : "asc";
 
-      applySort(initialSort ?? "title");
+      applySort(initialSort ?? "title", initialDirection ?? "asc");
 
       buttons.forEach((button) => {
         button.addEventListener("click", () => {
-          applySort(button.dataset.sort ?? "title");
+          const sortKey = button.dataset.sort ?? "title";
+          const activeDirection = button.dataset.direction;
+          const isActive = button.classList.contains("index-table__sort-button--active");
+          const nextDirection = isActive && activeDirection === "asc" ? "desc" : "asc";
+          applySort(sortKey, nextDirection);
         });
       });
     }
