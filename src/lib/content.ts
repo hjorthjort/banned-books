@@ -1,14 +1,92 @@
-import { getCollection } from "astro:content";
+import { getCollection, type CollectionEntry } from "astro:content";
+
+export type WorkEntry = CollectionEntry<"works">;
+
+const titleCollator = new Intl.Collator("en", { sensitivity: "base" });
+
+function compareTitles(left: string, right: string) {
+  return titleCollator.compare(left, right);
+}
+
+export function getPrimaryAuthorLabel(work: WorkEntry) {
+  return work.data.authors.join(", ");
+}
+
+export function getPrimaryAuthorSortKey(work: WorkEntry) {
+  const primaryAuthor = work.data.authors[0]?.trim() ?? "";
+
+  if (!primaryAuthor) {
+    return "";
+  }
+
+  const parts = primaryAuthor.split(/\s+/);
+  const surname = parts.at(-1) ?? primaryAuthor;
+  return `${surname} ${primaryAuthor}`.toLowerCase();
+}
+
+export function getSortablePublicationYear(yearText: string) {
+  const normalized = yearText.trim().toLowerCase();
+
+  if (!normalized) {
+    return Number.MAX_SAFE_INTEGER;
+  }
+
+  if (normalized.includes("ancient")) {
+    return -10000;
+  }
+
+  const centuryMatch = normalized.match(/(\d+)(st|nd|rd|th)\s+century/);
+  if (centuryMatch) {
+    const century = Number.parseInt(centuryMatch[1], 10);
+    const year = (century - 1) * 100;
+    return /\bbce\b|\bbc\b/.test(normalized) ? -year : year;
+  }
+
+  const yearMatch = normalized.match(/(\d{1,4})/);
+  if (!yearMatch) {
+    return Number.MAX_SAFE_INTEGER;
+  }
+
+  const year = Number.parseInt(yearMatch[1], 10);
+  return /\bbce\b|\bbc\b/.test(normalized) ? -year : year;
+}
+
+export function sortWorksByRanking(works: WorkEntry[]) {
+  return [...works].sort((left, right) => {
+    return (
+      right.data.ranking.copiesSoldEstimate - left.data.ranking.copiesSoldEstimate ||
+      compareTitles(left.data.title, right.data.title)
+    );
+  });
+}
+
+export function sortWorksByTitle(works: WorkEntry[]) {
+  return [...works].sort((left, right) => {
+    return compareTitles(left.data.title, right.data.title);
+  });
+}
+
+export function sortWorksByPrimaryAuthor(works: WorkEntry[]) {
+  return [...works].sort((left, right) => {
+    return (
+      compareTitles(getPrimaryAuthorSortKey(left), getPrimaryAuthorSortKey(right)) ||
+      compareTitles(left.data.title, right.data.title)
+    );
+  });
+}
+
+export function sortWorksByPublicationDate(works: WorkEntry[]) {
+  return [...works].sort((left, right) => {
+    return (
+      getSortablePublicationYear(left.data.publishedYearText) - getSortablePublicationYear(right.data.publishedYearText) ||
+      compareTitles(left.data.title, right.data.title)
+    );
+  });
+}
 
 export async function getPublishedWorks() {
   const works = await getCollection("works", ({ data }) => data.published);
-  return works.sort((left, right) => {
-    if (left.data.featured !== right.data.featured) {
-      return left.data.featured ? -1 : 1;
-    }
-
-    return right.data.ranking.copiesSoldEstimate - left.data.ranking.copiesSoldEstimate;
-  });
+  return sortWorksByRanking(works);
 }
 
 export async function getAllSources() {
@@ -33,4 +111,3 @@ export async function getBanEventsForWork(workId: string) {
 export function getUniqueSourceIds(workSourceIds: string[], banEventSourceIds: string[]) {
   return [...new Set([...workSourceIds, ...banEventSourceIds])];
 }
-

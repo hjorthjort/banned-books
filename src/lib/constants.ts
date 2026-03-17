@@ -1,6 +1,7 @@
 export const SITE_TITLE = "Forbidden Books Wiki";
 export const SITE_DESCRIPTION =
   "A growing, source-backed index of books and texts banned by governments across time.";
+export const TOP_PAGE_SIZE = 20;
 
 export const REVIEW_LABELS = {
   seeded: "Seeded",
@@ -13,4 +14,3 @@ export const REVIEW_DESCRIPTIONS = {
   reviewed: "Edited and checked against the current source set.",
   verified: "Includes at least one qualifying non-Wikipedia source for the section.",
 } as const;
-
