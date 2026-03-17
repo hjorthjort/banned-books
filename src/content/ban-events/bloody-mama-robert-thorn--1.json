@@ -1,0 +1,21 @@
+{
+  "id": "bloody-mama-robert-thorn--1",
+  "workId": "bloody-mama-robert-thorn",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Indecent Publications Tribunal",
+  "dateText": "1971-2012",
+  "startYear": 1971,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "Ruled indecent in 1971. Unrestricted by the OFLC in 2012.",
+  "note": "Ruled indecent in 1971. Unrestricted by the OFLC in 2012.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

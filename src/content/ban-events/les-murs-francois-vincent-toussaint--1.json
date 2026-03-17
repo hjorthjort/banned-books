@@ -1,0 +1,20 @@
+{
+  "id": "les-murs-francois-vincent-toussaint--1",
+  "workId": "les-murs-francois-vincent-toussaint",
+  "jurisdictionId": "france",
+  "governingBody": "France authorities",
+  "dateText": "Date not yet pinned down",
+  "startYear": 1748,
+  "endYear": null,
+  "actionType": "banned publication or circulation",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "Officially banned in France in 1748.",
+  "note": "Officially banned in France in 1748.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-government-list"
+  ],
+  "reviewStatus": "verified"
+}

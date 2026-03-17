@@ -2,6 +2,9 @@
   "id": "the-turner-diaries",
   "slug": "the-turner-diaries",
   "title": "The Turner Diaries",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
   "authors": [
     "William Luther Pierce"
   ],

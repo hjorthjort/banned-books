@@ -1,0 +1,21 @@
+{
+  "id": "lord-horror-david-britton--1",
+  "workId": "lord-horror-david-britton",
+  "jurisdictionId": "united-kingdom",
+  "governingBody": "United Kingdom authorities",
+  "dateText": "1991",
+  "startYear": 1991,
+  "endYear": null,
+  "actionType": "banned publication or circulation",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "Banned in England in 1991 where it was found obscene; it is currently the last book to be banned in the UK. The judge ordered the remaining print run to be destroyed. The ban was lifted in the Appeal Court in July 1992.",
+  "note": "Banned in England in 1991 where it was found obscene; it is currently the last book to be banned in the UK. The judge ordered the remaining print run to be destroyed. The ban was lifted in the Appeal Court in July 1992 but the book remains out of print.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-government-list"
+  ],
+  "reviewStatus": "verified"
+}

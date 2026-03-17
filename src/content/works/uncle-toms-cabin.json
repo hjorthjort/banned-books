@@ -2,6 +2,9 @@
   "id": "uncle-toms-cabin",
   "slug": "uncle-toms-cabin",
   "title": "Uncle Tom's Cabin",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
   "authors": [
     "Harriet Beecher Stowe"
   ],
@@ -13,7 +16,8 @@
   "description": "A landmark antislavery novel that turned plantation brutality into mass political reading.",
   "descriptionParagraphs": [
     "Uncle Tom's Cabin turns slavery into an emotionally immediate domestic and moral crisis by tracing families broken by sale, violence, and legal power. Harriet Beecher Stowe writes through scenes of separation, flight, martyrdom, and Christian witness in order to make the plantation economy legible to readers who might otherwise keep its brutality at a distance.",
-    "The book is both historically powerful and critically complex. It helped mobilize antislavery sentiment on a mass scale, yet it also works through sentimental conventions and racial typologies that later readers have judged limited or damaging. Its importance lies in that double history: it is a politically consequential novel that shows both the force and the constraints of moral protest fiction."
+    "The book is both historically powerful and critically complex. It helped mobilize antislavery sentiment on a mass scale, yet it also works through sentimental conventions and racial typologies that later readers have judged limited or damaging. Its importance lies in that double history: it is a politically consequential novel that shows both the force and the constraints of moral protest fiction.",
+    "A landmark antislavery novel that turned plantation brutality into mass political reading."
   ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",

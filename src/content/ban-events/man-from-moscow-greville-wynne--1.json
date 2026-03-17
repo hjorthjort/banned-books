@@ -1,0 +1,20 @@
+{
+  "id": "man-from-moscow-greville-wynne--1",
+  "workId": "man-from-moscow-greville-wynne",
+  "jurisdictionId": "india",
+  "governingBody": "Government of India or British Indian authorities",
+  "dateText": "1970",
+  "startYear": 1970,
+  "endYear": null,
+  "actionType": "banned publication, sale, or possession",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "This book cannot be imported into India. Greville Wynne was a courier for the British Secret Intelligence Service (MI6). The book is about his involvement with Oleg Penkovsky. The book was banned for purportedly.",
+  "note": "This book cannot be imported into India. Greville Wynne was a courier for the British Secret Intelligence Service (MI6). The book is about his involvement with Oleg Penkovsky. The book was banned for purportedly misrepresenting Indian policies.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-india"
+  ],
+  "reviewStatus": "verified"
+}

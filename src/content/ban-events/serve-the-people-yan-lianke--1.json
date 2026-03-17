@@ -1,0 +1,20 @@
+{
+  "id": "serve-the-people-yan-lianke--1",
+  "workId": "serve-the-people-yan-lianke",
+  "jurisdictionId": "china",
+  "governingBody": "Chinese state censors and party authorities",
+  "dateText": "20th-21st century",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "banned or suppressed publication",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "Banned for \"slandering Mao Zedong\", and depicting images of sex.",
+  "note": "Banned for \"slandering Mao Zedong\", and depicting images of sex.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-book-censorship-china"
+  ],
+  "reviewStatus": "verified"
+}

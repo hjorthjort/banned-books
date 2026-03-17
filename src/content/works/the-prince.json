@@ -2,6 +2,9 @@
   "id": "the-prince",
   "slug": "the-prince",
   "title": "The Prince",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
   "authors": [
     "Niccolo Machiavelli"
   ],
@@ -13,7 +16,8 @@
   "description": "A hard-edged manual of political rule, calculation, and statecraft under unstable conditions.",
   "descriptionParagraphs": [
     "The Prince is a compact treatise on how rulers gain, keep, and lose power in unstable political conditions. Machiavelli is less interested in moral perfection than in contingency, necessity, reputation, and the difficult choices made by leaders who operate in a world of enemies, shifting alliances, and unreliable fortune.",
-    "Its lasting fascination comes from the way it strips politics of comforting illusions without reducing it to simple cynicism. Machiavelli asks what effective rule requires when virtue in the classical or Christian sense does not reliably preserve the state. The result is a book that still frames debates about realism, reason of state, and the relation between ethics and power."
+    "Its lasting fascination comes from the way it strips politics of comforting illusions without reducing it to simple cynicism. Machiavelli asks what effective rule requires when virtue in the classical or Christian sense does not reliably preserve the state. The result is a book that still frames debates about realism, reason of state, and the relation between ethics and power.",
+    "A hard-edged manual of political rule, calculation, and statecraft under unstable conditions."
   ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",

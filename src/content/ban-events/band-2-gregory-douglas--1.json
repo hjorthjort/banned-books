@@ -1,0 +1,20 @@
+{
+  "id": "band-2-gregory-douglas--1",
+  "workId": "band-2-gregory-douglas",
+  "jurisdictionId": "germany",
+  "governingBody": "List of books confiscated for violating Criminal Code 86, 86a, 130 or 130a authorities",
+  "dateText": "Date not yet pinned down",
+  "startYear": 1999,
+  "endYear": null,
+  "actionType": "banned publication or circulation",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "Confiscated by the Starnberg Regional Court in January 1999. Unofficial title translation: Secret Files Gestapo Müller - Documents and Evidence from the US Secret Archives",
+  "note": "Confiscated by the Starnberg Regional Court in January 1999. Unofficial title translation: Secret Files Gestapo Müller - Documents and Evidence from the US Secret Archives",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-government-list"
+  ],
+  "reviewStatus": "verified"
+}

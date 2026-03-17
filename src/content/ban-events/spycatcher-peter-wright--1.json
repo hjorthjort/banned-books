@@ -1,0 +1,20 @@
+{
+  "id": "spycatcher-peter-wright--1",
+  "workId": "spycatcher-peter-wright",
+  "jurisdictionId": "united-kingdom",
+  "governingBody": "United Kingdom authorities",
+  "dateText": "1985",
+  "startYear": 1985,
+  "endYear": null,
+  "actionType": "banned publication or circulation",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "Banned in the UK from 1985 to 1988 for revealing secrets. Wright was a former MI5 intelligence officer and his book was banned before it was even published in 1987.",
+  "note": "Banned in the UK from 1985 to 1988 for revealing secrets. Wright was a former MI5 intelligence officer and his book was banned before it was even published in 1987.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-government-list"
+  ],
+  "reviewStatus": "verified"
+}

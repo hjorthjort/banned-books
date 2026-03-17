@@ -1,0 +1,20 @@
+{
+  "id": "unarmed-victory-bertrand-russell--1",
+  "workId": "unarmed-victory-bertrand-russell",
+  "jurisdictionId": "india",
+  "governingBody": "Government of India or British Indian authorities",
+  "dateText": "1963",
+  "startYear": 1963,
+  "endYear": null,
+  "actionType": "banned publication, sale, or possession",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "The book dealt with the Sino-Indian War and showed involved political leaders in poor light.",
+  "note": "The book dealt with the Sino-Indian War and showed involved political leaders in poor light.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-india"
+  ],
+  "reviewStatus": "verified"
+}

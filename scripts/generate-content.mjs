@@ -1,4 +1,4 @@
-import { mkdir, rm, writeFile } from "node:fs/promises";
+import { mkdir, readFile, rm, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { counterPacks } from "./data/counter-packs.mjs";
 import { criticismTargetOverrides } from "./data/criticism-target-overrides.mjs";
@@ -141,13 +141,22 @@ function buildLegacyParagraph(work, themes) {
 }
 
 function buildDescriptionParagraphs(work) {
-  if (descriptionOverrides[work.id]) {
-    return descriptionOverrides[work.id];
+  const themes = formatList(unique(work.contentTags).map(humanizeTag));
+  const fallbackParagraphs = [work.description, buildFormParagraph(work, themes), buildLegacyParagraph(work, themes)];
+
+  if (work.descriptionParagraphs?.length) {
+    return work.descriptionParagraphs.length >= 3
+      ? work.descriptionParagraphs
+      : [...work.descriptionParagraphs, ...fallbackParagraphs].slice(0, 3);
   }
 
-  const themes = formatList(unique(work.contentTags).map(humanizeTag));
+  if (descriptionOverrides[work.id]) {
+    return descriptionOverrides[work.id].length >= 3
+      ? descriptionOverrides[work.id]
+      : [...descriptionOverrides[work.id], ...fallbackParagraphs].slice(0, 3);
+  }
 
-  return [work.description, buildFormParagraph(work, themes), buildLegacyParagraph(work, themes)];
+  return fallbackParagraphs;
 }
 
 function buildBanningParagraphs(work, banEvents, jurisdictionMap) {
@@ -208,6 +217,22 @@ async function writeJson(targetPath, value) {
   await writeFile(targetPath, `${JSON.stringify(value, null, 2)}\n`, "utf8");
 }
 
+async function loadImportedWorks() {
+  const importedPath = path.join(ROOT, "scripts", "data", "imported-works.json");
+
+  try {
+    const raw = await readFile(importedPath, "utf8");
+    const parsed = JSON.parse(raw);
+    return Array.isArray(parsed) ? parsed : [];
+  } catch (error) {
+    if (error?.code === "ENOENT") {
+      return [];
+    }
+
+    throw error;
+  }
+}
+
 async function resetOutput() {
   await rm(path.join(OUTPUT, "works"), { recursive: true, force: true });
   await rm(path.join(OUTPUT, "ban-events"), { recursive: true, force: true });
@@ -222,6 +247,8 @@ async function resetOutput() {
 
 async function main() {
   const jurisdictionMap = new Map(jurisdictions.map((jurisdiction) => [jurisdiction.id, jurisdiction]));
+  const importedWorks = await loadImportedWorks();
+  const allWorks = [...works, ...importedWorks];
 
   await resetOutput();
 
@@ -233,7 +260,7 @@ async function main() {
     await writeJson(path.join(OUTPUT, "jurisdictions", `${jurisdiction.id}.json`), jurisdiction);
   }
 
-  for (const work of works) {
+  for (const work of allWorks) {
     const summary = await fetchSummary(work.wikipediaTitle);
     const counterReadings = buildCounterReadings(work.counterThemes);
     const descriptionParagraphs = buildDescriptionParagraphs(work);
@@ -271,10 +298,13 @@ async function main() {
       id: work.id,
       slug: work.slug ?? slugify(work.title),
       title: work.title,
+      originalTitle: work.originalTitle ?? null,
+      romanizedTitle: work.romanizedTitle ?? null,
+      titleNote: work.titleNote ?? null,
       authors: work.authors,
       workType: work.workType,
-      originalLanguage: work.originalLanguage,
-      publishedYearText: work.publishedYearText,
+      originalLanguage: work.originalLanguage ?? null,
+      publishedYearText: work.publishedYearText ?? null,
       wikipediaTitle: work.wikipediaTitle ?? null,
       wikipediaUrl: work.wikipediaTitle ? `https://en.wikipedia.org/wiki/${work.wikipediaTitle}` : null,
       description: work.description,
@@ -282,7 +312,7 @@ async function main() {
       descriptionSourceIds: unique(work.descriptionSourceIds ?? ["wikipedia-summary-api", "encyclopedia-censorship-2005"]),
       cover,
       ranking: {
-        copiesSoldEstimate: work.copiesSoldEstimate,
+        copiesSoldEstimate: work.copiesSoldEstimate ?? 1000,
         basis: "copies_sold_estimate",
       },
       contentTags: work.contentTags,
@@ -294,7 +324,7 @@ async function main() {
       },
       counterReadings,
       sourceIds: unique([
-        "wikipedia-government-list",
+        ...(work.seedSourceIds ?? ["wikipedia-government-list"]),
         "wikipedia-summary-api",
         ...(work.sourceIds ?? []),
         ...banEvents.flatMap((event) => event.sourceIds),

@@ -1,0 +1,21 @@
+{
+  "id": "india-independent-charles-bettelheim--1",
+  "workId": "india-independent-charles-bettelheim",
+  "jurisdictionId": "india",
+  "governingBody": "Government of India or British Indian authorities",
+  "dateText": "1976",
+  "startYear": 1976,
+  "endYear": null,
+  "actionType": "banned publication, sale, or possession",
+  "reasonTags": [
+    "political-control",
+    "political-dissent"
+  ],
+  "reasonSummary": "This book cannot be imported into India. It was banned for criticising the policies of the Indian government.",
+  "note": "This book cannot be imported into India. It was banned for criticising the policies of the Indian government.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-india"
+  ],
+  "reviewStatus": "verified"
+}

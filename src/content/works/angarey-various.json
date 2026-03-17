@@ -1,0 +1,110 @@
+{
+  "id": "angarey-various",
+  "slug": "angarey-various",
+  "title": "Angarey",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "Various"
+  ],
+  "workType": "Book",
+  "originalLanguage": null,
+  "publishedYearText": null,
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "Angarey is a book by Various. This collection of stories by Sajjad Zaheer, Ahmed Ali, Rashid Jahan and Mahmud-uz-Zafar was published in 1932.",
+  "descriptionParagraphs": [
+    "Angarey is a book by Various. This collection of stories by Sajjad Zaheer, Ahmed Ali, Rashid Jahan and Mahmud-uz-Zafar was published in 1932.",
+    "What makes it interesting is that interpretation, devotion, satire, or doctrinal conflict becomes a matter of state administration. As a book, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in India. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: This collection of stories by Sajjad Zaheer, Ahmed Ali, Rashid Jahan and Mahmud-uz-Zafar was published in 1932. It drew protests from Muslim religious leaders. In 1933, it was banned by the British colonial government. More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "wikipedia-books-banned-india"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "doctrine",
+    "public controversy",
+    "religion"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "religious-control",
+    "religious-offense"
+  ],
+  "overview": {
+    "englishDescription": "Angarey is a book by Various. This collection of stories by Sajjad Zaheer, Ahmed Ali, Rashid Jahan and Mahmud-uz-Zafar was published in 1932.",
+    "banningParagraphs": [
+      "Angarey entered censorship debates as a book associated with doctrine, public controversy, and religion. In the current dossier, the main state objections cluster around religious control and religious offense.",
+      "The earliest event currently captured here is 1933 in India, where Government of India or British Indian authorities banned publication, sale, or possession. This collection of stories by Sajjad Zaheer, Ahmed Ali, Rashid Jahan and Mahmud-uz-Zafar was published in 1932. It drew protests from Muslim religious leaders. In 1933, it was banned by the British colonial government. This collection of stories by Sajjad Zaheer, Ahmed Ali, Rashid Jahan and Mahmud-uz-Zafar was published in 1932. It drew protests from Muslim religious leaders. In 1933, it was banned by the British colonial government.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "Assassins of the Mind",
+      "author": "Christopher Hitchens",
+      "url": "https://www.vanityfair.com/news/2009/02/rushdie200902",
+      "note": "Frames the Rushdie affair as a test of free speech against violent religious intimidation.",
+      "sourceIds": [
+        "hitchens-assassins-of-the-mind"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "From Fatwa to Jihad",
+      "author": "Kenan Malik",
+      "url": "https://www.malikonline.co.uk/books/from-fatwa-to-jihad/",
+      "note": "Tracks how conflicts over blasphemy, race, and offense evolved after the Rushdie controversy.",
+      "sourceIds": [
+        "malik-from-fatwa-to-jihad"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-books-banned-india",
+    "wikipedia-summary-api",
+    "hitchens-assassins-of-the-mind",
+    "malik-from-fatwa-to-jihad",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Angarey%20Various"
+}

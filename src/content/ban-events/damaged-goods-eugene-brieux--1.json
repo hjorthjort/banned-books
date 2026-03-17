@@ -1,0 +1,21 @@
+{
+  "id": "damaged-goods-eugene-brieux--1",
+  "workId": "damaged-goods-eugene-brieux",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Customs Department",
+  "dateText": "1917-1922",
+  "startYear": 1917,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "Seized by Customs in 1917 for being indecent. Released in April 1922.",
+  "note": "Seized by Customs in 1917 for being indecent. Released in April 1922.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

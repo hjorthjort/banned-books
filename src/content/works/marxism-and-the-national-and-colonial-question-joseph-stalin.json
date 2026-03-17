@@ -1,0 +1,88 @@
+{
+  "id": "marxism-and-the-national-and-colonial-question-joseph-stalin",
+  "slug": "marxism-and-the-national-and-colonial-question-joseph-stalin",
+  "title": "Marxism and the National and Colonial Question",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "Joseph Stalin"
+  ],
+  "workType": "Non-fiction",
+  "originalLanguage": null,
+  "publishedYearText": "1937",
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "Marxism and the National and Colonial Question is a non-fiction by Joseph Stalin. Banned under the Internal Security (Prohibition of Publications) (Consolidation) Order.",
+  "descriptionParagraphs": [
+    "Marxism and the National and Colonial Question is a non-fiction by Joseph Stalin. Banned under the Internal Security (Prohibition of Publications) (Consolidation) Order.",
+    "Its significance comes from how questions of race, empire, or hierarchy remain live enough to provoke official suppression. As a non-fiction, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in Singapore. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: Banned under the Internal Security (Prohibition of Publications) (Consolidation) Order. More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "wikipedia-government-list"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "history",
+    "political memory",
+    "race"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "political-sensitivity",
+    "racial-politics"
+  ],
+  "overview": {
+    "englishDescription": "Marxism and the National and Colonial Question is a non-fiction by Joseph Stalin. Banned under the Internal Security (Prohibition of Publications) (Consolidation) Order.",
+    "banningParagraphs": [
+      "Marxism and the National and Colonial Question entered censorship debates as a non-fiction associated with history, political memory, and race. In the current dossier, the main state objections cluster around political sensitivity and racial politics.",
+      "The earliest event currently captured here is Date not yet pinned down in Singapore, where Singapore authorities banned publication or circulation. Banned under the Internal Security (Prohibition of Publications) (Consolidation) Order. Banned under the Internal Security (Prohibition of Publications) (Consolidation) Order.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "Everybody's Protest Novel",
+      "author": "James Baldwin",
+      "url": "https://harpers.org/archive/1949/06/everybodys-protest-novel/",
+      "note": "A skeptical response to the politics of moral uplift in canonical anti-slavery fiction.",
+      "sourceIds": [
+        "baldwin-everybodys-protest-novel"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "The Wretched of the Earth",
+      "author": "Frantz Fanon",
+      "url": "https://groveatlantic.com/book/the-wretched-of-the-earth/",
+      "note": "Helps contextualize race, violence, and liberation in books targeted under colonial or apartheid systems.",
+      "sourceIds": [
+        "fanon-wretched-of-the-earth"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "baldwin-everybodys-protest-novel",
+    "fanon-wretched-of-the-earth"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Marxism%20and%20the%20National%20and%20Colonial%20Question%20Joseph%20Stalin"
+}

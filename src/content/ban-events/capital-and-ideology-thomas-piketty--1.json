@@ -1,0 +1,20 @@
+{
+  "id": "capital-and-ideology-thomas-piketty--1",
+  "workId": "capital-and-ideology-thomas-piketty",
+  "jurisdictionId": "china",
+  "governingBody": "Chinese state censors and party authorities",
+  "dateText": "20th-21st century",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "banned or suppressed publication",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "Banned for discussing China's income inequality and for refusing to accept censorship for a planned translation.",
+  "note": "Banned for discussing China's income inequality and for refusing to accept censorship for a planned translation.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-book-censorship-china"
+  ],
+  "reviewStatus": "verified"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "how-to-make-disposable-silencers-desert-and-eliezer-flores",
+  "slug": "how-to-make-disposable-silencers-desert-and-eliezer-flores",
+  "title": "How to make disposable silencers",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "Desert and Eliezer Flores"
+  ],
+  "workType": "Instructional",
+  "originalLanguage": null,
+  "publishedYearText": "1984",
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "How to make disposable silencers is a instructional by Desert and Eliezer Flores. An example of a class of books banned in Australia that \"promote, incite or instruct in matters of crime or violence\".",
+  "descriptionParagraphs": [
+    "How to make disposable silencers is a instructional by Desert and Eliezer Flores. An example of a class of books banned in Australia that \"promote, incite or instruct in matters of crime or violence\".",
+    "The surviving record is interesting because it shows how even ordinary-looking books can acquire a charged political afterlife. As a instructional, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in Australia. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: An example of a class of books banned in Australia that \"promote, incite or instruct in matters of crime or violence\". More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "wikipedia-government-list"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "controversy",
+    "publication history",
+    "state scrutiny"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "overview": {
+    "englishDescription": "How to make disposable silencers is a instructional by Desert and Eliezer Flores. An example of a class of books banned in Australia that \"promote, incite or instruct in matters of crime or violence\".",
+    "banningParagraphs": [
+      "How to make disposable silencers entered censorship debates as a instructional associated with controversy, publication history, and state scrutiny. In the current dossier, the main state objections cluster around political sensitivity.",
+      "The earliest event currently captured here is *Unknown* in Australia, where Australia authorities banned publication or circulation. An example of a class of books banned in Australia that \"promote, incite or instruct in matters of crime or violence\". An example of a class of books banned in Australia that \"promote, incite or instruct in matters of crime or violence\".",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=How%20to%20make%20disposable%20silencers%20Desert%20and%20Eliezer%20Flores"
+}

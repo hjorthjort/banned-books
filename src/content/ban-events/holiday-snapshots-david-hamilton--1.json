@@ -1,0 +1,20 @@
+{
+  "id": "holiday-snapshots-david-hamilton--1",
+  "workId": "holiday-snapshots-david-hamilton",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Office of Film and Literature ClassificationFilm and Literature Board of Review",
+  "dateText": "2000",
+  "startYear": 2000,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "Banned in 2000. The ban was upheld by the Board of Review in 2001 and 2004.",
+  "note": "Banned in 2000. The ban was upheld by the Board of Review in 2001 and 2004.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

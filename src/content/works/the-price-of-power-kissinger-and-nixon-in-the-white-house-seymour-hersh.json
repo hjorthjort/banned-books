@@ -1,0 +1,87 @@
+{
+  "id": "the-price-of-power-kissinger-and-nixon-in-the-white-house-seymour-hersh",
+  "slug": "the-price-of-power-kissinger-and-nixon-in-the-white-house-seymour-hersh",
+  "title": "The Price of Power: Kissinger and Nixon in the White House",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "Seymour Hersh"
+  ],
+  "workType": "Book",
+  "originalLanguage": null,
+  "publishedYearText": null,
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "The Price of Power: Kissinger and Nixon in the White House is a book by Seymour Hersh. The book claimed that Morarji Desai was paid US$20,000 per year, starting from the time of Lyndon B.",
+  "descriptionParagraphs": [
+    "The Price of Power: Kissinger and Nixon in the White House is a book by Seymour Hersh. The book claimed that Morarji Desai was paid US$20,000 per year, starting from the time of Lyndon B.",
+    "The surviving record is interesting because it shows how even ordinary-looking books can acquire a charged political afterlife. As a book, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in India. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: Briefly banned for alleging Morarji Desai to be a CIA informer. The book claimed that Morarji Desai was paid US$20,000 per year, starting from the time of Lyndon B. Johnson. Desai obtained an injunction from the Bombay. More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "wikipedia-books-banned-india"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "controversy",
+    "publication history",
+    "state scrutiny"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "overview": {
+    "englishDescription": "The Price of Power: Kissinger and Nixon in the White House is a book by Seymour Hersh. The book claimed that Morarji Desai was paid US$20,000 per year, starting from the time of Lyndon B.",
+    "banningParagraphs": [
+      "The Price of Power: Kissinger and Nixon in the White House entered censorship debates as a book associated with controversy, publication history, and state scrutiny. In the current dossier, the main state objections cluster around political sensitivity.",
+      "The earliest event currently captured here is 1983 in India, where Government of India or British Indian authorities banned publication, sale, or possession. Briefly banned for alleging Morarji Desai to be a CIA informer. The book claimed that Morarji Desai was paid US$20,000 per year, starting from the time of Lyndon B. Johnson. Desai obtained an injunction from the Bombay. Briefly banned for alleging Morarji Desai to be a CIA informer. The book claimed that Morarji Desai was paid US$20,000 per year, starting from the time of Lyndon B. Johnson. Desai obtained an injunction from the Bombay High Court for a temporary ban and sued.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-books-banned-india",
+    "wikipedia-summary-api",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Price%20of%20Power%3A%20Kissinger%20and%20Nixon%20in%20the%20White%20House%20Seymour%20Hersh"
+}

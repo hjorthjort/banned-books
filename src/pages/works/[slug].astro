@@ -26,6 +26,7 @@ const pageSources = pageSourceIds
     return source ? { ...source, id: sourceId } : null;
   })
   .filter((source): source is NonNullable<typeof source> => Boolean(source));
+const metaBits = [work.data.originalLanguage, work.data.publishedYearText].filter(Boolean).join(" • ");
 const tableRows = banEvents.map((event) => ({
   dateText: event.data.dateText,
   jurisdictionName: jurisdictions.get(event.data.jurisdictionId)?.name ?? event.data.jurisdictionId,
@@ -41,13 +42,23 @@ const tableRows = banEvents.map((event) => ({
       <div class="work-hero__copy">
         <p class="eyebrow">{work.data.workType}</p>
         <h1>{work.data.title}</h1>
+        {
+          (work.data.originalTitle || work.data.romanizedTitle) && (
+            <p class="work-hero__alternate">
+              {work.data.originalTitle && <span><strong>Original title:</strong> {work.data.originalTitle}</span>}
+              {work.data.originalTitle && work.data.romanizedTitle && <span> • </span>}
+              {work.data.romanizedTitle && <span><strong>Romanized:</strong> {work.data.romanizedTitle}</span>}
+            </p>
+          )
+        }
         <p class="work-hero__authors">{work.data.authors.join(", ")}</p>
-        <p class="work-hero__meta">{work.data.originalLanguage} • {work.data.publishedYearText}</p>
+        {metaBits && <p class="work-hero__meta">{metaBits}</p>}
         <div class="badge-row">
           <SectionBadge status={work.data.reviewStatus} />
           <span class="metric">Top-list proxy: {work.data.ranking.copiesSoldEstimate.toLocaleString()} estimated copies sold</span>
         </div>
         <p class="work-hero__summary">{work.data.overview.englishDescription}</p>
+        {work.data.titleNote && <p class="notice work-hero__title-note">{work.data.titleNote}</p>}
         <p>
           <a class="button button--secondary" href={work.data.amazonSearchUrl} target="_blank" rel="noreferrer">
             Search on Amazon

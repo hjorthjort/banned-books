@@ -1,0 +1,21 @@
+{
+  "id": "memoirs-of-hecate-county-edmund-wilson--1",
+  "workId": "memoirs-of-hecate-county-edmund-wilson",
+  "jurisdictionId": "united-states",
+  "governingBody": "United States authorities",
+  "dateText": "Date not yet pinned down",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "banned publication or circulation",
+  "reasonTags": [
+    "political-control",
+    "political-dissent"
+  ],
+  "reasonSummary": "Banned in the state of New York by the Supreme Court.",
+  "note": "Banned in the state of New York by the Supreme Court.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-government-list"
+  ],
+  "reviewStatus": "verified"
+}

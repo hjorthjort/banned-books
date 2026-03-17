@@ -1,0 +1,110 @@
+{
+  "id": "dwikhandito-taslima-nasrin",
+  "slug": "dwikhandito-taslima-nasrin",
+  "title": "Dwikhandito",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "Taslima Nasrin"
+  ],
+  "workType": "Book",
+  "originalLanguage": null,
+  "publishedYearText": null,
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "Dwikhandito is a book by Taslima Nasrin. The CPI(M) government banned the book on 28 November 2003 fearing that book could incite communal discord.",
+  "descriptionParagraphs": [
+    "Dwikhandito is a book by Taslima Nasrin. The CPI(M) government banned the book on 28 November 2003 fearing that book could incite communal discord.",
+    "What makes it interesting is the way a book becomes legible to officials as a political instrument rather than a neutral cultural object. As a book, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in India. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: The CPI(M) government banned the book on 28 November 2003 fearing that book could incite communal discord. In November 2003, the Calcutta High Court put out an injunction against publication after a poet, Syed Hasmat. More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "wikipedia-books-banned-india"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "politics",
+    "public argument",
+    "state power"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "political-control",
+    "political-dissent"
+  ],
+  "overview": {
+    "englishDescription": "Dwikhandito is a book by Taslima Nasrin. The CPI(M) government banned the book on 28 November 2003 fearing that book could incite communal discord.",
+    "banningParagraphs": [
+      "Dwikhandito entered censorship debates as a book associated with politics, public argument, and state power. In the current dossier, the main state objections cluster around political control and political dissent.",
+      "The earliest event currently captured here is 2003 in India, where Government of West Bengal banned publication, sale, or possession. The CPI(M) government banned the book on 28 November 2003 fearing that book could incite communal discord. In November 2003, the Calcutta High Court put out an injunction against publication after a poet, Syed Hasmat. The CPI(M) government banned the book on 28 November 2003 fearing that book could incite communal discord. In November 2003, the Calcutta High Court put out an injunction against publication after a poet, Syed Hasmat Jalal, filed a 110 million INR defamation.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-books-banned-india",
+    "wikipedia-summary-api",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Dwikhandito%20Taslima%20Nasrin"
+}

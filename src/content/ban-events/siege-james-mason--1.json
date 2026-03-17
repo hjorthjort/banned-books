@@ -1,0 +1,21 @@
+{
+  "id": "siege-james-mason--1",
+  "workId": "siege-james-mason",
+  "jurisdictionId": "russia",
+  "governingBody": "Russia authorities",
+  "dateText": "Date not yet pinned down",
+  "startYear": 2023,
+  "endYear": null,
+  "actionType": "banned publication or circulation",
+  "reasonTags": [
+    "political-control",
+    "political-dissent"
+  ],
+  "reasonSummary": "Anthology of essays advocating for neo-Nazi revolution through terrorism. Banned on August 14, 2023.",
+  "note": "Anthology of essays advocating for neo-Nazi revolution through terrorism. Banned on August 14, 2023.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-government-list"
+  ],
+  "reviewStatus": "verified"
+}

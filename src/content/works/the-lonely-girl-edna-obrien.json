@@ -1,0 +1,87 @@
+{
+  "id": "the-lonely-girl-edna-obrien",
+  "slug": "the-lonely-girl-edna-obrien",
+  "title": "The Lonely Girl",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "Edna O'Brien"
+  ],
+  "workType": "Novel",
+  "originalLanguage": null,
+  "publishedYearText": "1962",
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "The Lonely Girl is a novel by Edna O'Brien. Banned in Ireland in 1962 after Archbishop John Charles McQuaid complained personally to Justice Minister Charles Haughey that it \"was particularly bad\".",
+  "descriptionParagraphs": [
+    "The Lonely Girl is a novel by Edna O'Brien. Banned in Ireland in 1962 after Archbishop John Charles McQuaid complained personally to Justice Minister Charles Haughey that it \"was particularly bad\".",
+    "The surviving record is interesting because it shows how even ordinary-looking books can acquire a charged political afterlife. As a novel, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in Ireland. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: Banned in Ireland in 1962 after Archbishop John Charles McQuaid complained personally to Justice Minister Charles Haughey that it \"was particularly bad\". More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "wikipedia-government-list"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "controversy",
+    "publication history",
+    "state scrutiny"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "overview": {
+    "englishDescription": "The Lonely Girl is a novel by Edna O'Brien. Banned in Ireland in 1962 after Archbishop John Charles McQuaid complained personally to Justice Minister Charles Haughey that it \"was particularly bad\".",
+    "banningParagraphs": [
+      "The Lonely Girl entered censorship debates as a novel associated with controversy, publication history, and state scrutiny. In the current dossier, the main state objections cluster around political sensitivity.",
+      "The earliest event currently captured here is Date not yet pinned down in Ireland, where Ireland authorities banned publication or circulation. Banned in Ireland in 1962 after Archbishop John Charles McQuaid complained personally to Justice Minister Charles Haughey that it \"was particularly bad\". Banned in Ireland in 1962 after Archbishop John Charles McQuaid complained personally to Justice Minister Charles Haughey that it \"was particularly bad\".",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Lonely%20Girl%20Edna%20O'Brien"
+}

@@ -2,6 +2,9 @@
   "id": "alices-adventures-in-wonderland",
   "slug": "alices-adventures-in-wonderland",
   "title": "Alice's Adventures in Wonderland",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
   "authors": [
     "Lewis Carroll"
   ],

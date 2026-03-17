@@ -2,6 +2,9 @@
   "id": "soul-on-ice",
   "slug": "soul-on-ice",
   "title": "Soul on Ice",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
   "authors": [
     "Eldridge Cleaver"
   ],
@@ -21,9 +24,9 @@
     "encyclopedia-censorship-2005"
   ],
   "cover": {
-    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/SOIcover.jpg/120px-SOIcover.jpg",
-    "width": 330,
-    "height": 493,
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/f/fa/SOIcover.jpg",
+    "width": 201,
+    "height": 300,
     "alt": "Soul on Ice cover thumbnail from Wikipedia",
     "pageUrl": "https://en.wikipedia.org/wiki/Soul_on_Ice_(book)",
     "licenseLabel": "Wikimedia-hosted thumbnail"

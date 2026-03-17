@@ -1,0 +1,20 @@
+{
+  "id": "gold-for-iron-fellowship-of-reconciliation--1",
+  "workId": "gold-for-iron-fellowship-of-reconciliation",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Attorney-General",
+  "dateText": "1918",
+  "startYear": 1918,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "Prohibited by an Order in Council on 19 July 1918.",
+  "note": "Prohibited by an Order in Council on 19 July 1918.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

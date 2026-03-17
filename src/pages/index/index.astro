@@ -67,7 +67,7 @@ const workCount = works.length;
                     {work.data.title}
                   </a>
                 </td>
-                <td>{work.data.publishedYearText}</td>
+                <td>{work.data.publishedYearText ?? "Unknown"}</td>
                 <td>{getPrimaryAuthorLabel(work)}</td>
               </tr>
             ))

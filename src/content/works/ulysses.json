@@ -2,6 +2,9 @@
   "id": "ulysses",
   "slug": "ulysses",
   "title": "Ulysses",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
   "authors": [
     "James Joyce"
   ],
@@ -13,7 +16,8 @@
   "description": "Joyce's modernist epic of Dublin life, interior monologue, bodily detail, and formal experiment.",
   "descriptionParagraphs": [
     "Ulysses follows a single day in Dublin through the intertwined movements of Stephen Dedalus, Leopold Bloom, and Molly Bloom. Joyce transforms ordinary errands, conversations, fantasies, bodily routines, and fleeting associations into an epic of urban consciousness, showing that the material of modern life can be as formally rich and emotionally charged as the high subjects of classical literature.",
-    "The novel's themes include exile, fidelity, grief, paternity, sexuality, nationalism, language, and the density of everyday perception. But what makes it revolutionary is form: each episode invents a different way of hearing thought, public speech, parody, desire, and memory. Ulysses matters because it expands the novel's claim on reality, insisting that nothing in ordinary life is too humble, messy, comic, or bodily to deserve serious art."
+    "The novel's themes include exile, fidelity, grief, paternity, sexuality, nationalism, language, and the density of everyday perception. But what makes it revolutionary is form: each episode invents a different way of hearing thought, public speech, parody, desire, and memory. Ulysses matters because it expands the novel's claim on reality, insisting that nothing in ordinary life is too humble, messy, comic, or bodily to deserve serious art.",
+    "Joyce's modernist epic of Dublin life, interior monologue, bodily detail, and formal experiment."
   ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",

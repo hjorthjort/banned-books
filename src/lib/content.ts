@@ -24,8 +24,8 @@ export function getPrimaryAuthorSortKey(work: WorkEntry) {
   return `${surname} ${primaryAuthor}`.toLowerCase();
 }
 
-export function getSortablePublicationYear(yearText: string) {
-  const normalized = yearText.trim().toLowerCase();
+export function getSortablePublicationYear(yearText?: string | null) {
+  const normalized = yearText?.trim().toLowerCase() ?? "";
 
   if (!normalized) {
     return Number.MAX_SAFE_INTEGER;

@@ -1,0 +1,21 @@
+{
+  "id": "soul-mountain-gao-xingjian--1",
+  "workId": "soul-mountain-gao-xingjian",
+  "jurisdictionId": "china",
+  "governingBody": "Chinese state censors and party authorities",
+  "dateText": "20th-21st century",
+  "startYear": 2000,
+  "endYear": null,
+  "actionType": "banned or suppressed publication",
+  "reasonTags": [
+    "political-control",
+    "political-dissent"
+  ],
+  "reasonSummary": "Gao Xingjian won the 2000 Nobel Prize in Literature for the book, however all of his works have been banned for having content critical of the CCP.",
+  "note": "Gao Xingjian won the 2000 Nobel Prize in Literature for the book, however all of his works have been banned for having content critical of the CCP.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-book-censorship-china"
+  ],
+  "reviewStatus": "verified"
+}

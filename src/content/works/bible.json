@@ -2,6 +2,9 @@
   "id": "bible",
   "slug": "the-bible",
   "title": "The Bible",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
   "authors": [
     "Various authors"
   ],
@@ -13,7 +16,8 @@
   "description": "A foundational scriptural collection in Judaism and Christianity, translated and contested across centuries.",
   "descriptionParagraphs": [
     "The Bible is not a single book in the modern sense but a many-layered scriptural library made up of law codes, poems, prophecies, wisdom literature, gospels, letters, and apocalyptic visions. Across those genres it gathers stories of creation, covenant, kingship, exile, judgment, mercy, redemption, and the struggle to live under divine command in changing historical worlds.",
-    "Its themes are vast and often internally contested: justice and sacrifice, sin and forgiveness, chosenness and universality, political rule and prophetic critique. Part of the Bible's power comes from exactly that range. It is read devotionally, legally, liturgically, politically, and literarily, which is why arguments over the text rarely remain confined to theology alone."
+    "Its themes are vast and often internally contested: justice and sacrifice, sin and forgiveness, chosenness and universality, political rule and prophetic critique. Part of the Bible's power comes from exactly that range. It is read devotionally, legally, liturgically, politically, and literarily, which is why arguments over the text rarely remain confined to theology alone.",
+    "A foundational scriptural collection in Judaism and Christianity, translated and contested across centuries."
   ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",

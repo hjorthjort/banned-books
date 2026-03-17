@@ -1,0 +1,20 @@
+{
+  "id": "bare-kills-oscar-diaz-cobo--1",
+  "workId": "bare-kills-oscar-diaz-cobo",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Indecent Publications Tribunal",
+  "dateText": "1983",
+  "startYear": 1983,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "Authorities treated the work as objectionable under the current New Zealand censorship record.",
+  "note": "This imported record still needs fuller local archival detail.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

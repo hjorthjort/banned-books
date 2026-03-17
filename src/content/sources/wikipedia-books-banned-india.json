@@ -1,0 +1,10 @@
+{
+  "id": "wikipedia-books-banned-india",
+  "title": "Wikipedia: List of books banned in India",
+  "url": "https://en.wikipedia.org/wiki/List_of_books_banned_in_India",
+  "sourceType": "reference",
+  "scope": "Large-scale seed source for nationwide and state-level government bans in India.",
+  "harvestStatus": "partial",
+  "qualifiesForVerification": false,
+  "notes": "Used to expand the Indian corpus. Imported entries remain starter records until deeper sourcing is added."
+}

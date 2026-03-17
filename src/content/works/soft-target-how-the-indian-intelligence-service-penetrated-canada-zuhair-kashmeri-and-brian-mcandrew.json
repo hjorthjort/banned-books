@@ -1,0 +1,110 @@
+{
+  "id": "soft-target-how-the-indian-intelligence-service-penetrated-canada-zuhair-kashmeri-and-brian-mcandrew",
+  "slug": "soft-target-how-the-indian-intelligence-service-penetrated-canada-zuhair-kashmeri-and-brian-mcandrew",
+  "title": "Soft Target: How the Indian Intelligence Service Penetrated Canada",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "Zuhair Kashmeri and Brian McAndrew"
+  ],
+  "workType": "Book",
+  "originalLanguage": null,
+  "publishedYearText": null,
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "Soft Target: How the Indian Intelligence Service Penetrated Canada is a book by Zuhair Kashmeri and Brian McAndrew. The book claims that the Indian intelligence agencies penetrated the Canadian Sikh community, Royal Canadian Mounted Police (RCMP) and Canadian Security Intelligence Service (CSIS) to discredit the demand for a separate Sikh state.",
+  "descriptionParagraphs": [
+    "Soft Target: How the Indian Intelligence Service Penetrated Canada is a book by Zuhair Kashmeri and Brian McAndrew. The book claims that the Indian intelligence agencies penetrated the Canadian Sikh community, Royal Canadian Mounted Police (RCMP) and Canadian Security Intelligence Service (CSIS) to discredit the demand for a separate Sikh state.",
+    "What makes it interesting is the way a book becomes legible to officials as a political instrument rather than a neutral cultural object. As a book, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in India. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: The book claims that the Indian intelligence agencies penetrated the Canadian Sikh community, Royal Canadian Mounted Police (RCMP) and Canadian Security Intelligence Service (CSIS) to discredit the demand for a. More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "wikipedia-books-banned-india"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "politics",
+    "public argument",
+    "state power"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "political-control",
+    "political-dissent"
+  ],
+  "overview": {
+    "englishDescription": "Soft Target: How the Indian Intelligence Service Penetrated Canada is a book by Zuhair Kashmeri and Brian McAndrew. The book claims that the Indian intelligence agencies penetrated the Canadian Sikh community, Royal Canadian Mounted Police (RCMP) and Canadian Security Intelligence Service (CSIS) to discredit the demand for a separate Sikh state.",
+    "banningParagraphs": [
+      "Soft Target: How the Indian Intelligence Service Penetrated Canada entered censorship debates as a book associated with politics, public argument, and state power. In the current dossier, the main state objections cluster around political control and political dissent.",
+      "The earliest event currently captured here is 1989 in India, where Government of India or British Indian authorities banned publication, sale, or possession. The book claims that the Indian intelligence agencies penetrated the Canadian Sikh community, Royal Canadian Mounted Police (RCMP) and Canadian Security Intelligence Service (CSIS) to discredit the demand for a. The book claims that the Indian intelligence agencies penetrated the Canadian Sikh community, Royal Canadian Mounted Police (RCMP) and Canadian Security Intelligence Service (CSIS) to discredit the demand for a separate Sikh state.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-books-banned-india",
+    "wikipedia-summary-api",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Soft%20Target%3A%20How%20the%20Indian%20Intelligence%20Service%20Penetrated%20Canada%20Zuhair%20Kashmeri%20and%20Brian%20McAndrew"
+}

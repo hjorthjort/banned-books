@@ -1,0 +1,10 @@
+{
+  "id": "wikipedia-books-banned-new-zealand",
+  "title": "Wikipedia: List of books banned in New Zealand",
+  "url": "https://en.wikipedia.org/wiki/List_of_books_banned_in_New_Zealand",
+  "sourceType": "reference",
+  "scope": "Seed source for government classification, customs, and tribunal bans in New Zealand.",
+  "harvestStatus": "partial",
+  "qualifiesForVerification": false,
+  "notes": "Used as a lower-priority backfill source after stronger non-Western import tranches were selected."
+}

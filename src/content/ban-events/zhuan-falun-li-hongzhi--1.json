@@ -1,0 +1,20 @@
+{
+  "id": "zhuan-falun-li-hongzhi--1",
+  "workId": "zhuan-falun-li-hongzhi",
+  "jurisdictionId": "china",
+  "governingBody": "Chinese state censors and party authorities",
+  "dateText": "20th-21st century",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "banned or suppressed publication",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "Banned in mainland China.",
+  "note": "Banned in mainland China.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-book-censorship-china"
+  ],
+  "reviewStatus": "verified"
+}

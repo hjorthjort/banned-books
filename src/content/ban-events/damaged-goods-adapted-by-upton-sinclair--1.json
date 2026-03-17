@@ -1,0 +1,21 @@
+{
+  "id": "damaged-goods-adapted-by-upton-sinclair--1",
+  "workId": "damaged-goods-adapted-by-upton-sinclair",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Customs Department",
+  "dateText": "1921-1922",
+  "startYear": 1921,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "Seized by Customs in 1921 for being indecent. Sinclair wrote to the Comptroller of Customs on 28 December 1921: \"It is hard for me to believe that your government, which has the reputation of being one of the most.",
+  "note": "Seized by Customs in 1921 for being indecent. Sinclair wrote to the Comptroller of Customs on 28 December 1921: \"It is hard for me to believe that your government, which has the reputation of being one of the most liberal in the world, should bar serious.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

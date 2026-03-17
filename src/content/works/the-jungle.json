@@ -2,6 +2,9 @@
   "id": "the-jungle",
   "slug": "the-jungle",
   "title": "The Jungle",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
   "authors": [
     "Upton Sinclair"
   ],

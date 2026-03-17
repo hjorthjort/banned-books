@@ -19,7 +19,7 @@ const { works, rankOffset = 0 } = Astro.props;
             {work.data.title}
           </a>
           <p class="ranking-list__meta">
-            {work.data.authors.join(", ")} • {work.data.publishedYearText}
+            {[work.data.authors.join(", "), work.data.publishedYearText].filter(Boolean).join(" • ")}
           </p>
         </div>
         <small>{work.data.ranking.copiesSoldEstimate.toLocaleString()} estimated copies</small>

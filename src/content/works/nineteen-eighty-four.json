@@ -2,6 +2,9 @@
   "id": "nineteen-eighty-four",
   "slug": "nineteen-eighty-four",
   "title": "Nineteen Eighty-Four",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
   "authors": [
     "George Orwell"
   ],
@@ -13,7 +16,8 @@
   "description": "A dystopian novel about surveillance, language control, and total state power.",
   "descriptionParagraphs": [
     "Nineteen Eighty-Four follows Winston Smith, a minor functionary in a regime that seeks control not only over bodies and institutions but over language, memory, and inner life itself. The novel's world is built from surveillance, falsified history, ritual hatred, and the slow destruction of private trust, all of it organized to make independent judgment feel impossible.",
-    "What gives the book its lasting force is the way Orwell links politics to habits of thought. Newspeak, doublethink, and perpetual war are not decorative inventions; they are mechanisms for shrinking the range of what can be imagined and said. The novel endures because it shows that tyranny is strongest not when it merely punishes dissent, but when it rearranges reality so thoroughly that dissent becomes difficult to formulate."
+    "What gives the book its lasting force is the way Orwell links politics to habits of thought. Newspeak, doublethink, and perpetual war are not decorative inventions; they are mechanisms for shrinking the range of what can be imagined and said. The novel endures because it shows that tyranny is strongest not when it merely punishes dissent, but when it rearranges reality so thoroughly that dissent becomes difficult to formulate.",
+    "A dystopian novel about surveillance, language control, and total state power."
   ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",

@@ -1,0 +1,20 @@
+{
+  "id": "the-federal-mafia-irwin-schiff--1",
+  "workId": "the-federal-mafia-irwin-schiff",
+  "jurisdictionId": "united-states",
+  "governingBody": "United States authorities",
+  "dateText": "Date not yet pinned down",
+  "startYear": 7408,
+  "endYear": null,
+  "actionType": "banned publication or circulation",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "An injunction was issued by a US District Court in Nevada under 26 U.S.C. § 7408 against Irwin Schiff and associates Cynthia Neun and Lawrence Cohen against the sale of this book by those persons as the court found.",
+  "note": "An injunction was issued by a US District Court in Nevada under 26 U.S.C. § 7408 against Irwin Schiff and associates Cynthia Neun and Lawrence Cohen against the sale of this book by those persons as the court found that the information it contains is.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-government-list"
+  ],
+  "reviewStatus": "verified"
+}
