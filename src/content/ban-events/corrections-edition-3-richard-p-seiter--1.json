@@ -1,0 +1,21 @@
+{
+  "id": "corrections-edition-3-richard-p-seiter--1",
+  "workId": "corrections-edition-3-richard-p-seiter",
+  "jurisdictionId": "texas",
+  "governingBody": "Texas corrections agencies and prison mailrooms",
+  "dateText": "2017-03-13",
+  "startYear": 2017,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PGS 422, 423, 426.",
+  "note": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PGS 422, 423, 426, 427, 428 & 429 COULD CAUSE SECURITY.",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

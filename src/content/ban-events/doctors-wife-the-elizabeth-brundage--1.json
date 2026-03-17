@@ -1,0 +1,21 @@
+{
+  "id": "doctors-wife-the-elizabeth-brundage--1",
+  "workId": "doctors-wife-the-elizabeth-brundage",
+  "jurisdictionId": "texas",
+  "governingBody": "Texas corrections agencies and prison mailrooms",
+  "dateText": "2008-01-25",
+  "startYear": 2008,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PG 218 SEX W/MINOR.",
+  "note": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PG 218 SEX W/MINOR (AGE PG 217)",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

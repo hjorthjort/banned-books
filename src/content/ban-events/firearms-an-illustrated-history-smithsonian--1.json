@@ -1,0 +1,21 @@
+{
+  "id": "firearms-an-illustrated-history-smithsonian--1",
+  "workId": "firearms-an-illustrated-history-smithsonian",
+  "jurisdictionId": "texas",
+  "governingBody": "Texas corrections agencies and prison mailrooms",
+  "dateText": "2019-11-19",
+  "startYear": 2019,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PAGES 213 & 249.",
+  "note": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PAGES 213 & 249 CONTAIN THE BREAKDOWN OF A WEAPON",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "first-love-last-rites-ian-mcewan--1",
+  "workId": "first-love-last-rites-ian-mcewan",
+  "jurisdictionId": "texas",
+  "governingBody": "Texas corrections agencies and prison mailrooms",
+  "dateText": "2007-09-20",
+  "startYear": 2007,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PGS 42 & 43 INCEST.",
+  "note": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PGS 42 & 43 INCEST (BRO/SIS)",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cavewoman-2014-convention-book-budd-roog--1",
+  "workId": "cavewoman-2014-convention-book-budd-roog",
+  "jurisdictionId": "wisconsin",
+  "governingBody": "Wisconsin corrections agencies and prison mailrooms",
+  "dateText": "2014-07-02",
+  "startYear": 2014,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Wisconsin prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: DAI 309.00.50.",
+  "note": "The Wisconsin prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: DAI 309.00.50 I. A. (1) (c) (3).",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "killer-book-of-serial-killers-the-tom-philbin--1",
+  "workId": "killer-book-of-serial-killers-the-tom-philbin",
+  "jurisdictionId": "texas",
+  "governingBody": "Texas corrections agencies and prison mailrooms",
+  "dateText": "2010-02-25",
+  "startYear": 2010,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PG 107 BST",
+  "note": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PG 107 BST",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

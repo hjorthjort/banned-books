@@ -1,0 +1,21 @@
+{
+  "id": "good-inn-the-black-francis--1",
+  "workId": "good-inn-the-black-francis",
+  "jurisdictionId": "texas",
+  "governingBody": "Texas corrections agencies and prison mailrooms",
+  "dateText": "2016-11-07",
+  "startYear": 2016,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PGS 45, 69, 70 &.",
+  "note": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PGS 45, 69, 70 & 85 SEXUALLY EXPLICIT IMAGES",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

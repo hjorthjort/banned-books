@@ -1,0 +1,21 @@
+{
+  "id": "blow-50-cent-kwan--1",
+  "workId": "blow-50-cent-kwan",
+  "jurisdictionId": "wisconsin",
+  "governingBody": "Wisconsin corrections agencies and prison mailrooms",
+  "dateText": "2014-04-23",
+  "startYear": 2014,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Wisconsin prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: Reconsidered.",
+  "note": "The Wisconsin prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: Reconsidered, denied per Mike Saunders",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

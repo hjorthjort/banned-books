@@ -1,0 +1,21 @@
+{
+  "id": "flint-3-back-to-the-streets-treasure-hernandez--1",
+  "workId": "flint-3-back-to-the-streets-treasure-hernandez",
+  "jurisdictionId": "wisconsin",
+  "governingBody": "Wisconsin corrections agencies and prison mailrooms",
+  "dateText": "2017-11-10",
+  "startYear": 2017,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Wisconsin prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: Urban fiction.",
+  "note": "The Wisconsin prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: Urban fiction that is too graphic and depicts corrupt.",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

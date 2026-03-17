@@ -1,0 +1,21 @@
+{
+  "id": "browning-high-power-pistol-the-leroy-thompson--1",
+  "workId": "browning-high-power-pistol-the-leroy-thompson",
+  "jurisdictionId": "texas",
+  "governingBody": "Texas corrections agencies and prison mailrooms",
+  "dateText": "2022-06-06",
+  "startYear": 2022,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PAGES 10 & 16.",
+  "note": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PAGES 10 & 16 CONTAIN THE BREAKDOWN OF A WEAPON",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

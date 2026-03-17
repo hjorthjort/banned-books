@@ -1,0 +1,21 @@
+{
+  "id": "carbongrey-v3-mothers-of-revolution-paul-gardner--1",
+  "workId": "carbongrey-v3-mothers-of-revolution-paul-gardner",
+  "jurisdictionId": "texas",
+  "governingBody": "Texas corrections agencies and prison mailrooms",
+  "dateText": "2014-10-10",
+  "startYear": 2014,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PG 57 SEXUALLY.",
+  "note": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PG 57 SEXUALLY EXPLICIT IMAGE",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

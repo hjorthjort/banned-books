@@ -1,0 +1,21 @@
+{
+  "id": "an-oral-visual-history-by-the-red-hot-chili-pepper-brendan-mullen--1",
+  "workId": "an-oral-visual-history-by-the-red-hot-chili-pepper-brendan-mullen",
+  "jurisdictionId": "texas",
+  "governingBody": "Texas corrections agencies and prison mailrooms",
+  "dateText": "2011-12-02",
+  "startYear": 2011,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PG 15 SEXUALLY.",
+  "note": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PG 15 SEXUALLY EXPLICIT IMAGE",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

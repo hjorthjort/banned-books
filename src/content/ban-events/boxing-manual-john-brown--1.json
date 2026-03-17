@@ -1,0 +1,23 @@
+{
+  "id": "boxing-manual-john-brown--1",
+  "workId": "boxing-manual-john-brown",
+  "jurisdictionId": "montana",
+  "governingBody": "Montana corrections agencies and prison mailrooms",
+  "dateText": "2012-02-09",
+  "startYear": 2012,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "incitement-to-violence",
+    "instructional-harm",
+    "public-order",
+    "violence"
+  ],
+  "reasonSummary": "The Montana prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: Promotes.",
+  "note": "The Montana prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: Promotes violence. (Boxing)",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

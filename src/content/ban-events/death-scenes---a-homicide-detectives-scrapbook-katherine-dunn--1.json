@@ -1,0 +1,21 @@
+{
+  "id": "death-scenes---a-homicide-detectives-scrapbook-katherine-dunn--1",
+  "workId": "death-scenes---a-homicide-detectives-scrapbook-katherine-dunn",
+  "jurisdictionId": "wisconsin",
+  "governingBody": "Wisconsin corrections agencies and prison mailrooms",
+  "dateText": "2010-05-26",
+  "startYear": 2010,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "The Wisconsin prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: 309.05.01 J.",
+  "note": "The Wisconsin prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: 309.05.01 J., (1); Pornography; 309.04 c.8.a. Depicts.",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

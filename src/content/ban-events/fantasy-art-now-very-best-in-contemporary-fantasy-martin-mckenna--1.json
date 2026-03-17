@@ -1,0 +1,21 @@
+{
+  "id": "fantasy-art-now-very-best-in-contemporary-fantasy-martin-mckenna--1",
+  "workId": "fantasy-art-now-very-best-in-contemporary-fantasy-martin-mckenna",
+  "jurisdictionId": "texas",
+  "governingBody": "Texas corrections agencies and prison mailrooms",
+  "dateText": "2008-01-10",
+  "startYear": 2008,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PGS 82, 97, 98.",
+  "note": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PGS 82, 97, 98, 102, 106 & 161 SEI",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

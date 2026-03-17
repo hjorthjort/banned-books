@@ -1,0 +1,21 @@
+{
+  "id": "life-and-crimes-of-richard-ramirez-the-night-philip-carlo--1",
+  "workId": "life-and-crimes-of-richard-ramirez-the-night-philip-carlo",
+  "jurisdictionId": "texas",
+  "governingBody": "Texas corrections agencies and prison mailrooms",
+  "dateText": "2017-11-15",
+  "startYear": 2017,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PAGS 149 IND W/CHILD",
+  "note": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PAGS 149 IND W/CHILD",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "legacy-selected-paintings-drawings-by-frank-frazetta-frank-frazetta--1",
+  "workId": "legacy-selected-paintings-drawings-by-frank-frazetta-frank-frazetta",
+  "jurisdictionId": "wisconsin",
+  "governingBody": "Wisconsin corrections agencies and prison mailrooms",
+  "dateText": "2012-12-21",
+  "startYear": 2012,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "obscenity",
+    "public-morality",
+    "public-order"
+  ],
+  "reasonSummary": "The Wisconsin prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: Features.",
+  "note": "The Wisconsin prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: Features nudity DOC 309.04(4)8a.c.",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

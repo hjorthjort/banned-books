@@ -1,0 +1,21 @@
+{
+  "id": "i-am-ozzy-ozzy-osbourne--1",
+  "workId": "i-am-ozzy-ozzy-osbourne",
+  "jurisdictionId": "texas",
+  "governingBody": "Texas corrections agencies and prison mailrooms",
+  "dateText": "2010-02-05",
+  "startYear": 2010,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PAGE 3 OF PHOTO.",
+  "note": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PAGE 3 OF PHOTO INSERT (BETWEEN PGS. 108 & 109) NUDE CHILD",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

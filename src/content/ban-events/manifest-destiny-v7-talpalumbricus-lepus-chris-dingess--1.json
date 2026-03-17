@@ -1,0 +1,21 @@
+{
+  "id": "manifest-destiny-v7-talpalumbricus-lepus-chris-dingess--1",
+  "workId": "manifest-destiny-v7-talpalumbricus-lepus-chris-dingess",
+  "jurisdictionId": "texas",
+  "governingBody": "Texas corrections agencies and prison mailrooms",
+  "dateText": "2021-10-19",
+  "startYear": 2021,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PAGE 78 CONTAINS A.",
+  "note": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PAGE 78 CONTAINS A SEXUALLY EXPLICIT IMAGE",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

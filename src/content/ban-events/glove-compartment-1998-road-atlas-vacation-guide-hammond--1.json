@@ -1,0 +1,21 @@
+{
+  "id": "glove-compartment-1998-road-atlas-vacation-guide-hammond--1",
+  "workId": "glove-compartment-1998-road-atlas-vacation-guide-hammond",
+  "jurisdictionId": "texas",
+  "governingBody": "Texas corrections agencies and prison mailrooms",
+  "dateText": "2002-09-10",
+  "startYear": 2002,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PGS 18, 30-33 & 35.",
+  "note": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PGS 18, 30-33 & 35 DETAILED MAPS OF TEXAS COULD FACILITATE.",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

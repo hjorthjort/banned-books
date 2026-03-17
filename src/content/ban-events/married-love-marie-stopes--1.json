@@ -1,20 +1,21 @@
 {
   "id": "married-love-marie-stopes--1",
   "workId": "married-love-marie-stopes",
-  "jurisdictionId": "ireland",
-  "governingBody": "Ireland authorities",
-  "dateText": "Date not yet pinned down",
-  "startYear": null,
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Customs Department",
+  "dateText": "20th century",
+  "startYear": 1910,
   "endYear": null,
-  "actionType": "banned publication or circulation",
+  "actionType": "classified, prohibited, or restricted",
   "reasonTags": [
-    "political-sensitivity"
+    "obscenity",
+    "public-morality"
   ],
-  "reasonSummary": "Banned by the Irish Censorship Board for discussing birth control.",
-  "note": "Banned by the Irish Censorship Board for discussing birth control.",
+  "reasonSummary": "Allowed to be imported \"on the understanding that no guarantee is given that action will not be taken by the police if any offence in respect of them is subsequently committed under the Indecent Publications Act 1910\".",
+  "note": "Allowed to be imported \"on the understanding that no guarantee is given that action will not be taken by the police if any offence in respect of them is subsequently committed under the Indecent Publications Act 1910\".",
   "quotation": null,
   "sourceIds": [
-    "wikipedia-government-list"
+    "wikipedia-books-banned-new-zealand"
   ],
   "reviewStatus": "verified"
 }

@@ -1,0 +1,21 @@
+{
+  "id": "i-know-you-are-lying-mark-mcclish--1",
+  "workId": "i-know-you-are-lying-mark-mcclish",
+  "jurisdictionId": "kansas",
+  "governingBody": "Kansas corrections agencies and prison mailrooms",
+  "dateText": "2021-08-17",
+  "startYear": 2021,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Kansas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: 4 ‐ Describes.",
+  "note": "The Kansas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: 4 ‐ Describes procedures for construction of weapons.",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

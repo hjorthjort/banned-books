@@ -1,0 +1,21 @@
+{
+  "id": "black-scarface-the-wrath-of-face-jimmy-dasaint--1",
+  "workId": "black-scarface-the-wrath-of-face-jimmy-dasaint",
+  "jurisdictionId": "georgia",
+  "governingBody": "Georgia corrections agencies and prison mailrooms",
+  "dateText": "2015",
+  "startYear": 2015,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Georgia prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported row does not preserve a.",
+  "note": "The Georgia prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported row does not preserve a fuller justification.",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "felon-fitness-kroger-t-teufel-w--1",
+  "workId": "felon-fitness-kroger-t-teufel-w",
+  "jurisdictionId": "montana",
+  "governingBody": "Montana corrections agencies and prison mailrooms",
+  "dateText": "2012-05-18",
+  "startYear": 2012,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Montana prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: Uses items that.",
+  "note": "The Montana prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: Uses items that alter State Property.",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

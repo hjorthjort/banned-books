@@ -1,0 +1,21 @@
+{
+  "id": "evil-serial-killers-to-kill-and-kill-again-al-cimino--1",
+  "workId": "evil-serial-killers-to-kill-and-kill-again-al-cimino",
+  "jurisdictionId": "montana",
+  "governingBody": "Montana corrections agencies and prison mailrooms",
+  "dateText": "2022-02-04",
+  "startYear": 2022,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Montana prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: True Crime",
+  "note": "The Montana prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: True Crime",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

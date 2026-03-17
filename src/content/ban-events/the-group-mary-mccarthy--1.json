@@ -1,0 +1,20 @@
+{
+  "id": "the-group-mary-mccarthy--1",
+  "workId": "the-group-mary-mccarthy",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Customs Department",
+  "dateText": "1964",
+  "startYear": 1964,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "Although The Group was on the Customs list of prohibited or restricted books in 1964, it had already been imported and was available in bookshops. The book was later removed from the list.",
+  "note": "Although The Group was on the Customs list of prohibited or restricted books in 1964, it had already been imported and was available in bookshops. The book was later removed from the list.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

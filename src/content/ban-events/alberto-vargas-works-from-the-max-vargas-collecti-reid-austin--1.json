@@ -1,0 +1,21 @@
+{
+  "id": "alberto-vargas-works-from-the-max-vargas-collecti-reid-austin--1",
+  "workId": "alberto-vargas-works-from-the-max-vargas-collecti-reid-austin",
+  "jurisdictionId": "texas",
+  "governingBody": "Texas corrections agencies and prison mailrooms",
+  "dateText": "2009-03-09",
+  "startYear": 2009,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PGS 7, 8, 20, 23 &.",
+  "note": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PGS 7, 8, 20, 23 & 24 SEXUALLY EXPLICIT IMAGES",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

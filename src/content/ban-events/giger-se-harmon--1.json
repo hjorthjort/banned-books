@@ -1,0 +1,21 @@
+{
+  "id": "giger-se-harmon--1",
+  "workId": "giger-se-harmon",
+  "jurisdictionId": "montana",
+  "governingBody": "Montana corrections agencies and prison mailrooms",
+  "dateText": "2020-05-27",
+  "startYear": 2020,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Montana prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: Prohibited writing",
+  "note": "The Montana prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: Prohibited writing",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

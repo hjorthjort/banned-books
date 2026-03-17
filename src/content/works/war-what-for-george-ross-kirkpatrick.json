@@ -1,0 +1,87 @@
+{
+  "id": "war-what-for-george-ross-kirkpatrick",
+  "slug": "war-what-for-george-ross-kirkpatrick",
+  "title": "War: What For?",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "George Ross Kirkpatrick"
+  ],
+  "workType": "Non-fiction",
+  "originalLanguage": null,
+  "publishedYearText": "1910",
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "War: What For? is a non-fiction by George Ross Kirkpatrick. Withheld by Customs in 1920 although it had been distributed in the country previously.",
+  "descriptionParagraphs": [
+    "War: What For? is a non-fiction by George Ross Kirkpatrick. Withheld by Customs in 1920 although it had been distributed in the country previously.",
+    "The surviving record is interesting because it shows how even ordinary-looking books can acquire a charged political afterlife. As a non-fiction, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in New Zealand. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: Withheld by Customs in 1920 although it had been distributed in the country previously. More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "controversy",
+    "publication history",
+    "state scrutiny"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "overview": {
+    "englishDescription": "War: What For? is a non-fiction by George Ross Kirkpatrick. Withheld by Customs in 1920 although it had been distributed in the country previously.",
+    "banningParagraphs": [
+      "War: What For? entered censorship debates as a non-fiction associated with controversy, publication history, and state scrutiny. In the current dossier, the main state objections cluster around political sensitivity.",
+      "The earliest event currently captured here is 1920 in New Zealand, where New Zealand censorship authorities classified, prohibited, or restricted. Withheld by Customs in 1920 although it had been distributed in the country previously. Withheld by Customs in 1920 although it had been distributed in the country previously.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand",
+    "wikipedia-summary-api",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=War%3A%20What%20For%3F%20George%20Ross%20Kirkpatrick"
+}

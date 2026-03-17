@@ -1,0 +1,23 @@
+{
+  "id": "bad-girl-club-drawn-to-misbehave-dave-nestler--1",
+  "workId": "bad-girl-club-drawn-to-misbehave-dave-nestler",
+  "jurisdictionId": "montana",
+  "governingBody": "Montana corrections agencies and prison mailrooms",
+  "dateText": "2020-09-02",
+  "startYear": 2020,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "obscenity",
+    "public-morality",
+    "public-order"
+  ],
+  "reasonSummary": "The Montana prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: Nudity",
+  "note": "The Montana prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: Nudity",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

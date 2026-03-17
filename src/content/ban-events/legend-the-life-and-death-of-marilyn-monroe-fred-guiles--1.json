@@ -1,0 +1,21 @@
+{
+  "id": "legend-the-life-and-death-of-marilyn-monroe-fred-guiles--1",
+  "workId": "legend-the-life-and-death-of-marilyn-monroe-fred-guiles",
+  "jurisdictionId": "texas",
+  "governingBody": "Texas corrections agencies and prison mailrooms",
+  "dateText": "2008-06-06",
+  "startYear": 2008,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PG 232 SEXUALLY.",
+  "note": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PG 232 SEXUALLY EXPLICIT IMAGES",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

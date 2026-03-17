@@ -1,0 +1,23 @@
+{
+  "id": "expose-of-the-roman-catholic-church-an-charles-a-weisman--1",
+  "workId": "expose-of-the-roman-catholic-church-an-charles-a-weisman",
+  "jurisdictionId": "michigan",
+  "governingBody": "Michigan corrections agencies and prison mailrooms",
+  "dateText": "2012-05-01",
+  "startYear": 2012,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order",
+    "religious-control",
+    "religious-offense"
+  ],
+  "reasonSummary": "The Michigan prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: Threat to the.",
+  "note": "The Michigan prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: Threat to the order/security of institution",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

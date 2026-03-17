@@ -1,0 +1,23 @@
+{
+  "id": "field-guide-to-law-enforcemenet-weinreb-lloyd-l-whaley-james-d--1",
+  "workId": "field-guide-to-law-enforcemenet-weinreb-lloyd-l-whaley-james-d",
+  "jurisdictionId": "michigan",
+  "governingBody": "Michigan corrections agencies and prison mailrooms",
+  "dateText": "2013-02-13",
+  "startYear": 2013,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "incitement-to-violence",
+    "instructional-harm",
+    "public-order",
+    "violence"
+  ],
+  "reasonSummary": "The Michigan prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: This book may.",
+  "note": "The Michigan prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: This book may aid in facilitating criminal activity as.",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

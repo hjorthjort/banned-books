@@ -1,0 +1,23 @@
+{
+  "id": "ajin-demi-human-gamon-sakurai--1",
+  "workId": "ajin-demi-human-gamon-sakurai",
+  "jurisdictionId": "wisconsin",
+  "governingBody": "Wisconsin corrections agencies and prison mailrooms",
+  "dateText": "Date not yet pinned down",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "incitement-to-violence",
+    "instructional-harm",
+    "public-order",
+    "violence"
+  ],
+  "reasonSummary": "The Wisconsin prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: 309.05 1.",
+  "note": "The Wisconsin prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: 309.05 1. Teach or advocate violence or hatred and.",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

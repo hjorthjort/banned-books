@@ -1,0 +1,23 @@
+{
+  "id": "drunk-stoned-brilliant-dead-rick-meyerwitz--1",
+  "workId": "drunk-stoned-brilliant-dead-rick-meyerwitz",
+  "jurisdictionId": "wisconsin",
+  "governingBody": "Wisconsin corrections agencies and prison mailrooms",
+  "dateText": "2016-05-17",
+  "startYear": 2016,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "obscenity",
+    "public-morality",
+    "public-order"
+  ],
+  "reasonSummary": "The Wisconsin prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: DOC 309.04 4.",
+  "note": "The Wisconsin prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: DOC 309.04 4 (c) 8 a. nudity, sex acts",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

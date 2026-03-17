@@ -1,0 +1,21 @@
+{
+  "id": "hobo-handbook-a-field-guide-to-living-by-your-own-rules-josh-mack--1",
+  "workId": "hobo-handbook-a-field-guide-to-living-by-your-own-rules-josh-mack",
+  "jurisdictionId": "michigan",
+  "governingBody": "Michigan corrections agencies and prison mailrooms",
+  "dateText": "2015-04-03",
+  "startYear": 2015,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Michigan prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: The book is a.",
+  "note": "The Michigan prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: The book is a threat to the security of the facility.",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

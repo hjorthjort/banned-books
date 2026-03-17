@@ -1,0 +1,21 @@
+{
+  "id": "hard-core-fitness-training-developed-in-some-of-americas-toughest-prisons-steven-hansen-cpt--1",
+  "workId": "hard-core-fitness-training-developed-in-some-of-americas-toughest-prisons-steven-hansen-cpt",
+  "jurisdictionId": "wisconsin",
+  "governingBody": "Wisconsin corrections agencies and prison mailrooms",
+  "dateText": "2010-11-05",
+  "startYear": 2010,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Wisconsin prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: DOC 309.05.",
+  "note": "The Wisconsin prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: DOC 309.05 (2)(b)(1) Teaches self defense techniques.",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

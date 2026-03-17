@@ -1,0 +1,21 @@
+{
+  "id": "crime-archives-inside-the-minds-of-the-deadliest-criminals-of-the-twenty-first-century-hardcover---june-7-2011-damon-wilson--1",
+  "workId": "crime-archives-inside-the-minds-of-the-deadliest-criminals-of-the-twenty-first-century-hardcover---june-7-2011-damon-wilson",
+  "jurisdictionId": "wisconsin",
+  "governingBody": "Wisconsin corrections agencies and prison mailrooms",
+  "dateText": "Date not yet pinned down",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Wisconsin prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: DOC 309.04 4.",
+  "note": "The Wisconsin prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: DOC 309.04 4 (c) 8 c. Concerns sending contraband in.",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

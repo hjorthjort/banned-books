@@ -1,0 +1,23 @@
+{
+  "id": "beautys-punishment-anne-rice-3--1",
+  "workId": "beautys-punishment-anne-rice-3",
+  "jurisdictionId": "michigan",
+  "governingBody": "Michigan corrections agencies and prison mailrooms",
+  "dateText": "2012-01-04",
+  "startYear": 2012,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "incitement-to-violence",
+    "obscenity",
+    "public-morality",
+    "violence"
+  ],
+  "reasonSummary": "The Michigan prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: Rape, violence.",
+  "note": "The Michigan prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: Rape, violence, sexual abuse, bondage",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

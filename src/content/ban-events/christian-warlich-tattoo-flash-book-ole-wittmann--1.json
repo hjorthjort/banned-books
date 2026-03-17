@@ -1,0 +1,21 @@
+{
+  "id": "christian-warlich-tattoo-flash-book-ole-wittmann--1",
+  "workId": "christian-warlich-tattoo-flash-book-ole-wittmann",
+  "jurisdictionId": "texas",
+  "governingBody": "Texas corrections agencies and prison mailrooms",
+  "dateText": "2021-06-03",
+  "startYear": 2021,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PAGES 22, 25,34.",
+  "note": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PAGES 22, 25,34, 37, 38, 39,53, 59, 62, 65, 88 AND 106.",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

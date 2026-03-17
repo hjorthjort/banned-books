@@ -1,0 +1,21 @@
+{
+  "id": "ghettoside-a-true-story-of-murder-in-america-jill-leovy--1",
+  "workId": "ghettoside-a-true-story-of-murder-in-america-jill-leovy",
+  "jurisdictionId": "michigan",
+  "governingBody": "Michigan corrections agencies and prison mailrooms",
+  "dateText": "2015-08-04",
+  "startYear": 2015,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "The Michigan prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: Describes.",
+  "note": "The Michigan prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: Describes sexual acts involving a child.",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

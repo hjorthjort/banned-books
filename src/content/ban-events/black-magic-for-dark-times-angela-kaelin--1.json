@@ -1,0 +1,23 @@
+{
+  "id": "black-magic-for-dark-times-angela-kaelin--1",
+  "workId": "black-magic-for-dark-times-angela-kaelin",
+  "jurisdictionId": "kansas",
+  "governingBody": "Kansas corrections agencies and prison mailrooms",
+  "dateText": "2021-09-17",
+  "startYear": 2021,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "incitement-to-violence",
+    "instructional-harm",
+    "public-order",
+    "violence"
+  ],
+  "reasonSummary": "The Kansas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: 1 ‐.",
+  "note": "The Kansas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: 1 ‐ Advocates/encourages violence, hatred, group.",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

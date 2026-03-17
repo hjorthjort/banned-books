@@ -1,0 +1,21 @@
+{
+  "id": "the-world-trade-union-movement-unknown-author--1",
+  "workId": "the-world-trade-union-movement-unknown-author",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Customs Department",
+  "dateText": "1930s",
+  "startYear": 1930,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "incitement-to-violence",
+    "violence"
+  ],
+  "reasonSummary": "Banned in the 1930s for advocating violence, lawlessness, or disorder or expressing seditious intention.",
+  "note": "Banned in the 1930s for advocating violence, lawlessness, or disorder or expressing seditious intention.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

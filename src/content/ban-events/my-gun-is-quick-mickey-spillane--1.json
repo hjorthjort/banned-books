@@ -1,0 +1,20 @@
+{
+  "id": "my-gun-is-quick-mickey-spillane--1",
+  "workId": "my-gun-is-quick-mickey-spillane",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Department of Justice",
+  "dateText": "1955",
+  "startYear": 1955,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "Banned by the Department of Justice with the cooperation of Associated Booksellers of New Zealand.",
+  "note": "Banned by the Department of Justice with the cooperation of Associated Booksellers of New Zealand.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

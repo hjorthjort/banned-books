@@ -1,0 +1,21 @@
+{
+  "id": "electronic-troubleshootin-and-repair-handbook-homer-davidson--1",
+  "workId": "electronic-troubleshootin-and-repair-handbook-homer-davidson",
+  "jurisdictionId": "texas",
+  "governingBody": "Texas corrections agencies and prison mailrooms",
+  "dateText": "2016-09-07",
+  "startYear": 2016,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PGS 205-234.",
+  "note": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PGS 205-234 CONTAIN BREAKDOWN OF ELECTRICAL CIRCUITS WHICH.",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

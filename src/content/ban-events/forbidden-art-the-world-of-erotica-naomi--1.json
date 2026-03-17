@@ -1,0 +1,21 @@
+{
+  "id": "forbidden-art-the-world-of-erotica-naomi--1",
+  "workId": "forbidden-art-the-world-of-erotica-naomi",
+  "jurisdictionId": "oregon",
+  "governingBody": "Oregon corrections agencies and prison mailrooms",
+  "dateText": "Date not yet pinned down",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "The Oregon prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported row does not preserve a fuller.",
+  "note": "The Oregon prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported row does not preserve a fuller justification.",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

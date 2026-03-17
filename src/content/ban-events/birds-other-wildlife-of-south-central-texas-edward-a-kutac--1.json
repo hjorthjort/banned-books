@@ -1,0 +1,21 @@
+{
+  "id": "birds-other-wildlife-of-south-central-texas-edward-a-kutac--1",
+  "workId": "birds-other-wildlife-of-south-central-texas-edward-a-kutac",
+  "jurisdictionId": "texas",
+  "governingBody": "Texas corrections agencies and prison mailrooms",
+  "dateText": "2015-04-22",
+  "startYear": 2015,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PG 46 CONTAINS.",
+  "note": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PG 46 CONTAINS MAPS WHICH COULD FACILITATE AN ESCAPE",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

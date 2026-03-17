@@ -1,0 +1,21 @@
+{
+  "id": "safe-marriage-ettie-rout--1",
+  "workId": "safe-marriage-ettie-rout",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Customs Department",
+  "dateText": "1923",
+  "startYear": 1923,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "political-sensitivity",
+    "racial-politics"
+  ],
+  "reasonSummary": "The book advocated the use of contraception in marriage. It was banned in 1923 to public outcry ultimately leading to the creation of a committee to advise Customs on book censorship. By 1930, the ban had been reversed.",
+  "note": "The book advocated the use of contraception in marriage. It was banned in 1923 to public outcry ultimately leading to the creation of a committee to advise Customs on book censorship. By 1930, the ban had been reversed.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

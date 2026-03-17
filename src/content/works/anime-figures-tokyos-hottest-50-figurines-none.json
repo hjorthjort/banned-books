@@ -1,0 +1,99 @@
+{
+  "id": "anime-figures-tokyos-hottest-50-figurines-none",
+  "slug": "anime-figures-tokyos-hottest-50-figurines-none",
+  "title": "ANIME FIGURES: TOKYO'S HOTTEST 50 FIGURINES",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "NONE"
+  ],
+  "workType": "Book",
+  "originalLanguage": null,
+  "publishedYearText": null,
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "ANIME FIGURES: TOKYO'S HOTTEST 50 FIGURINES is a book by NONE. The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime.",
+  "descriptionParagraphs": [
+    "ANIME FIGURES: TOKYO'S HOTTEST 50 FIGURINES is a book by NONE. The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime.",
+    "Its interest lies partly in the way literary or informational writing gets collapsed into a public-morality problem. As a book, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in Texas. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PAGES: 13, 24 & 34. More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "morality",
+    "print scandal",
+    "sexuality"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "overview": {
+    "englishDescription": "ANIME FIGURES: TOKYO'S HOTTEST 50 FIGURINES is a book by NONE. The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime.",
+    "banningParagraphs": [
+      "ANIME FIGURES: TOKYO'S HOTTEST 50 FIGURINES entered censorship debates as a book associated with morality, print scandal, and sexuality. In the current dossier, the main state objections cluster around obscenity and public morality.",
+      "The earliest event currently captured here is 2012-02-28 in Texas, where Texas corrections agencies and prison mailrooms excluded from prison circulation. The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PAGES: 13, 24 & 34. The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PAGES: 13, 24 & 34 SEXUALLY EXPLICIT IMAGES",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "Banned Books: Literature Suppressed on Sexual Grounds",
+      "author": "Dawn B. Sova",
+      "url": "https://archive.org/details/literaturesuppre0000sova_r9r5",
+      "note": "Surveys the legal and moral language used to suppress books as obscene.",
+      "sourceIds": [
+        "sova-sexual-grounds"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for seeing how obscenity law and censorship habits changed over time.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "marshall-project-prison-bans",
+    "wikipedia-summary-api",
+    "sova-sexual-grounds",
+    "haight-1978",
+    "karolides-1999"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=ANIME%20FIGURES%3A%20TOKYO'S%20HOTTEST%2050%20FIGURINES%20NONE"
+}

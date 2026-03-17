@@ -1,0 +1,21 @@
+{
+  "id": "fabulous-furry-freak-brothers-omnibus-gilbert-shelton--1",
+  "workId": "fabulous-furry-freak-brothers-omnibus-gilbert-shelton",
+  "jurisdictionId": "texas",
+  "governingBody": "Texas corrections agencies and prison mailrooms",
+  "dateText": "2009-01-13",
+  "startYear": 2009,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PG 288 SEXUALLY.",
+  "note": "The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PG 288 SEXUALLY EXPLICIT IMAGE",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

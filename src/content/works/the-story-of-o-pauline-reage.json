@@ -1,0 +1,99 @@
+{
+  "id": "the-story-of-o-pauline-reage",
+  "slug": "the-story-of-o-pauline-reage",
+  "title": "The Story of O",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "Pauline Réage"
+  ],
+  "workType": "Erotic novel",
+  "originalLanguage": null,
+  "publishedYearText": "1965",
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "The Story of O is a erotic novel by Pauline Réage. In 1967 it was restricted to professional psychiatrists.",
+  "descriptionParagraphs": [
+    "The Story of O is a erotic novel by Pauline Réage. In 1967 it was restricted to professional psychiatrists.",
+    "Its interest lies partly in the way literary or informational writing gets collapsed into a public-morality problem. As a erotic novel, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in New Zealand. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: In 1967 it was restricted to professional psychiatrists. The terms of its circulation was expanded in 1976 to include clinical psychologists. In 2014 it was given an R16 classification by the OFLC. More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "morality",
+    "print scandal",
+    "sexuality"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "overview": {
+    "englishDescription": "The Story of O is a erotic novel by Pauline Réage. In 1967 it was restricted to professional psychiatrists.",
+    "banningParagraphs": [
+      "The Story of O entered censorship debates as a erotic novel associated with morality, print scandal, and sexuality. In the current dossier, the main state objections cluster around obscenity and public morality.",
+      "The earliest event currently captured here is 1967-2014 in New Zealand, where Indecent Publications Tribunal classified, prohibited, or restricted. In 1967 it was restricted to professional psychiatrists. The terms of its circulation was expanded in 1976 to include clinical psychologists. In 2014 it was given an R16 classification by the OFLC. In 1967 it was restricted to professional psychiatrists. The terms of its circulation was expanded in 1976 to include clinical psychologists. In 2014 it was given an R16 classification by the OFLC.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "Banned Books: Literature Suppressed on Sexual Grounds",
+      "author": "Dawn B. Sova",
+      "url": "https://archive.org/details/literaturesuppre0000sova_r9r5",
+      "note": "Surveys the legal and moral language used to suppress books as obscene.",
+      "sourceIds": [
+        "sova-sexual-grounds"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for seeing how obscenity law and censorship habits changed over time.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand",
+    "wikipedia-summary-api",
+    "sova-sexual-grounds",
+    "haight-1978",
+    "karolides-1999"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Story%20of%20O%20Pauline%20R%C3%A9age"
+}

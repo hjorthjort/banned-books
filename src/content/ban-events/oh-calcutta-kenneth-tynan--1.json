@@ -1,0 +1,21 @@
+{
+  "id": "oh-calcutta-kenneth-tynan--1",
+  "workId": "oh-calcutta-kenneth-tynan",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Indecent Publications Tribunal",
+  "dateText": "1970-1974",
+  "startYear": 1970,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "Ruled indecent in 1970. The ruling applied only to the script, not to any performance of the play. Ruled not indecent in 1974.",
+  "note": "Ruled indecent in 1970. The ruling applied only to the script, not to any performance of the play. Ruled not indecent in 1974.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "memoirs-of-a-young-rakehell-guillaume-apollinaire--1",
+  "workId": "memoirs-of-a-young-rakehell-guillaume-apollinaire",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Indecent Publications Tribunal",
+  "dateText": "20th century",
+  "startYear": 1965,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "Ruled indecent in 1965 unless circulation was \"restricted to persons professionally engaged in the study of abnormal psychology\". Given an R18 classification in 1975.",
+  "note": "Ruled indecent in 1965 unless circulation was \"restricted to persons professionally engaged in the study of abnormal psychology\". Given an R18 classification in 1975.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

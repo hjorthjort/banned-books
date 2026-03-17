@@ -1,0 +1,21 @@
+{
+  "id": "american-hardcore-steven-blush--2",
+  "workId": "american-hardcore-steven-blush",
+  "jurisdictionId": "kansas",
+  "governingBody": "Kansas corrections agencies and prison mailrooms",
+  "dateText": "2020-09-23",
+  "startYear": 2020,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Kansas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: 7 ‐ Contains.",
+  "note": "The Kansas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: 7 ‐ Contains Security Threat Group material",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

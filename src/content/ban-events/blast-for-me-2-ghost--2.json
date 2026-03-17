@@ -1,0 +1,25 @@
+{
+  "id": "blast-for-me-2-ghost--2",
+  "workId": "blast-for-me-2-ghost",
+  "jurisdictionId": "wisconsin",
+  "governingBody": "Wisconsin corrections agencies and prison mailrooms",
+  "dateText": "Date not yet pinned down",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "incitement-to-violence",
+    "instructional-harm",
+    "obscenity",
+    "public-morality",
+    "public-order",
+    "violence"
+  ],
+  "reasonSummary": "The Wisconsin prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: per DOC 309.04.",
+  "note": "The Wisconsin prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: per DOC 309.04 4 a, c. Contains Pornography and.",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

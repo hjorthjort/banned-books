@@ -1,0 +1,21 @@
+{
+  "id": "little-sister-club-2-do-comics--1",
+  "workId": "little-sister-club-2-do-comics",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Office of Film and Literature Classification",
+  "dateText": "2007",
+  "startYear": 2007,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "Banned for encouraging readers to view children and young teenagers as valid objects of sexual desire, to derive sexual pleasure from inflicting pain, and to use violence against vulnerable young people to compel.",
+  "note": "Banned for encouraging readers to view children and young teenagers as valid objects of sexual desire, to derive sexual pleasure from inflicting pain, and to use violence against vulnerable young people to compel participation in sexual conduct.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

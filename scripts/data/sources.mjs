@@ -70,6 +70,16 @@ export const sources = [
     notes: "Used as a lower-priority backfill source after stronger non-Western import tranches were selected.",
   },
   {
+    id: "marshall-project-prison-bans",
+    title: "The Marshall Project: Banned book lists from 18 states",
+    url: "https://observablehq.com/@themarshallproject/banned-book-lists-from-18-states",
+    sourceType: "database",
+    scope: "Large-scale seed source for state prison and mailroom bans in the United States.",
+    harvestStatus: "partial",
+    qualifiesForVerification: false,
+    notes: "Used as a large backfill source after the Hong Kong, India, China, Iran, and other country-level imports. The notebook republishes lists obtained from state correctional agencies.",
+  },
+  {
     id: "karolides-1999",
     title: "100 Banned Books: Censorship Histories of World Literature",
     url: "https://books.google.com/books?id=Ab8vAQAAIAAJ",

@@ -1,0 +1,21 @@
+{
+  "id": "kokonotokoro-ishikei--1",
+  "workId": "kokonotokoro-ishikei",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Office of Film and Literature Classification",
+  "dateText": "2018",
+  "startYear": 2018,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "Banned for encouraging adults to regard children and young persons as appropriate subjects for sexual fantasy.",
+  "note": "Banned for encouraging adults to regard children and young persons as appropriate subjects for sexual fantasy.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

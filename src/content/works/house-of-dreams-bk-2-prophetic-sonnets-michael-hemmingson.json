@@ -1,0 +1,110 @@
+{
+  "id": "house-of-dreams-bk-2-prophetic-sonnets-michael-hemmingson",
+  "slug": "house-of-dreams-bk-2-prophetic-sonnets-michael-hemmingson",
+  "title": "HOUSE OF DREAMS BK 2 PROPHETIC SONNETS",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "MICHAEL HEMMINGSON"
+  ],
+  "workType": "Book",
+  "originalLanguage": null,
+  "publishedYearText": null,
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "HOUSE OF DREAMS BK 2 PROPHETIC SONNETS is a book by MICHAEL HEMMINGSON. The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime.",
+  "descriptionParagraphs": [
+    "HOUSE OF DREAMS BK 2 PROPHETIC SONNETS is a book by MICHAEL HEMMINGSON. The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime.",
+    "What makes it interesting is that interpretation, devotion, satire, or doctrinal conflict becomes a matter of state administration. As a book, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in Texas. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PGS 148 & 149 RAPE More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "doctrine",
+    "public controversy",
+    "religion"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "religious-control",
+    "religious-offense"
+  ],
+  "overview": {
+    "englishDescription": "HOUSE OF DREAMS BK 2 PROPHETIC SONNETS is a book by MICHAEL HEMMINGSON. The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime.",
+    "banningParagraphs": [
+      "HOUSE OF DREAMS BK 2 PROPHETIC SONNETS entered censorship debates as a book associated with doctrine, public controversy, and religion. In the current dossier, the main state objections cluster around religious control and religious offense.",
+      "The earliest event currently captured here is 2009-01-29 in Texas, where Texas corrections agencies and prison mailrooms excluded from prison circulation. The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PGS 148 & 149 RAPE The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PGS 148 & 149 RAPE",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "Assassins of the Mind",
+      "author": "Christopher Hitchens",
+      "url": "https://www.vanityfair.com/news/2009/02/rushdie200902",
+      "note": "Frames the Rushdie affair as a test of free speech against violent religious intimidation.",
+      "sourceIds": [
+        "hitchens-assassins-of-the-mind"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "From Fatwa to Jihad",
+      "author": "Kenan Malik",
+      "url": "https://www.malikonline.co.uk/books/from-fatwa-to-jihad/",
+      "note": "Tracks how conflicts over blasphemy, race, and offense evolved after the Rushdie controversy.",
+      "sourceIds": [
+        "malik-from-fatwa-to-jihad"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "marshall-project-prison-bans",
+    "wikipedia-summary-api",
+    "hitchens-assassins-of-the-mind",
+    "malik-from-fatwa-to-jihad",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=HOUSE%20OF%20DREAMS%20BK%202%20PROPHETIC%20SONNETS%20MICHAEL%20HEMMINGSON"
+}

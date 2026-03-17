@@ -1,0 +1,21 @@
+{
+  "id": "the-communist-programme-unknown-author--1",
+  "workId": "the-communist-programme-unknown-author",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "New Zealand censorship authorities",
+  "dateText": "20th century",
+  "startYear": 1921,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "political-control",
+    "political-dissent"
+  ],
+  "reasonSummary": "Some time before May 1921, a man was sentenced to three months' hard labour for selling copies of The Communist Programme.",
+  "note": "Some time before May 1921, a man was sentenced to three months' hard labour for selling copies of The Communist Programme.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

@@ -20,6 +20,7 @@
     "It also matters as part of a wider censorship history in Russia. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: Collection of articles, interviews and documents exploring various marginal aspects of 20th century culture. In 2006, shortly after Ultra.Kultura (Ультра.Культура) published a Russian edition combining Apocalypse. More publication history, translations, and close reading can be added later."
   ],
   "descriptionSourceIds": [
+    "marshall-project-prison-bans",
     "wikipedia-government-list"
   ],
   "cover": null,
@@ -29,19 +30,24 @@
   },
   "contentTags": [
     "controversy",
+    "morality",
+    "print scandal",
     "publication history",
+    "sexuality",
     "state scrutiny"
   ],
   "criticismTargets": [],
   "reasonTags": [
-    "political-sensitivity"
+    "political-sensitivity",
+    "obscenity",
+    "public-morality"
   ],
   "overview": {
     "englishDescription": "Apocalypse Culture is a non-fiction by Adam Parfrey. Collection of articles, interviews and documents exploring various marginal aspects of 20th century culture.",
     "banningParagraphs": [
-      "Apocalypse Culture entered censorship debates as a non-fiction associated with controversy, publication history, and state scrutiny. In the current dossier, the main state objections cluster around political sensitivity.",
+      "Apocalypse Culture entered censorship debates as a non-fiction associated with controversy, morality, print scandal, publication history, sexuality, and state scrutiny. In the current dossier, the main state objections cluster around political sensitivity, obscenity, and public morality.",
       "The earliest event currently captured here is Date not yet pinned down in Russia, where Russia authorities banned publication or circulation. Collection of articles, interviews and documents exploring various marginal aspects of 20th century culture. In 2006, shortly after Ultra.Kultura (Ультра.Культура) published a Russian edition combining Apocalypse. Collection of articles, interviews and documents exploring various marginal aspects of 20th century culture. In 2006, shortly after Ultra.Kultura (Ультра.Культура) published a Russian edition combining Apocalypse Culture and Apocalypse Culture II as a single.",
-      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+      "The record already stretches across Russia and Texas, which is why the page should be read as a cross-border censorship trail rather than a single isolated dispute."
     ]
   },
   "counterReadings": [
@@ -64,13 +70,25 @@
       "sourceIds": [
         "haight-1978"
       ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: Literature Suppressed on Sexual Grounds",
+      "author": "Dawn B. Sova",
+      "url": "https://archive.org/details/literaturesuppre0000sova_r9r5",
+      "note": "Surveys the legal and moral language used to suppress books as obscene.",
+      "sourceIds": [
+        "sova-sexual-grounds"
+      ]
     }
   ],
   "sourceIds": [
+    "marshall-project-prison-bans",
     "wikipedia-government-list",
     "wikipedia-summary-api",
     "karolides-1999",
-    "haight-1978"
+    "haight-1978",
+    "sova-sexual-grounds"
   ],
   "sectionStatus": {
     "bibliographic": "seeded",

@@ -1,0 +1,94 @@
+{
+  "id": "psilocybin-mushrooms-of-the-world-paul-stamets",
+  "slug": "psilocybin-mushrooms-of-the-world-paul-stamets",
+  "title": "Psilocybin Mushrooms of the World",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "Paul Stamets"
+  ],
+  "workType": "Educational",
+  "originalLanguage": null,
+  "publishedYearText": "1996",
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "Psilocybin Mushrooms of the World is a educational by Paul Stamets. Banned because it \"deals exclusively with the location, identification and ingestion\" of controlled hallucinogenic plants.",
+  "descriptionParagraphs": [
+    "Psilocybin Mushrooms of the World is a educational by Paul Stamets. Banned because it \"deals exclusively with the location, identification and ingestion\" of controlled hallucinogenic plants.",
+    "The surviving record is interesting because it shows how even ordinary-looking books can acquire a charged political afterlife. As a educational, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in New Zealand. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: Banned because it \"deals exclusively with the location, identification and ingestion\" of controlled hallucinogenic plants. More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "marshall-project-prison-bans",
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "circulation politics",
+    "controversy",
+    "institutional control",
+    "publication history",
+    "risk knowledge",
+    "state scrutiny"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "political-sensitivity",
+    "instructional-harm",
+    "public-order"
+  ],
+  "overview": {
+    "englishDescription": "Psilocybin Mushrooms of the World is a educational by Paul Stamets. Banned because it \"deals exclusively with the location, identification and ingestion\" of controlled hallucinogenic plants.",
+    "banningParagraphs": [
+      "Psilocybin Mushrooms of the World entered censorship debates as a educational associated with circulation politics, controversy, institutional control, publication history, risk knowledge, and state scrutiny. In the current dossier, the main state objections cluster around political sensitivity, instructional harm, and public order.",
+      "The earliest event currently captured here is 2002 in New Zealand, where Office of Film and Literature Classification classified, prohibited, or restricted. Banned because it \"deals exclusively with the location, identification and ingestion\" of controlled hallucinogenic plants. Banned because it \"deals exclusively with the location, identification and ingestion\" of controlled hallucinogenic plants.",
+      "The record already stretches across New Zealand, Virginia, and Wisconsin, which is why the page should be read as a cross-border censorship trail rather than a single isolated dispute."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "marshall-project-prison-bans",
+    "wikipedia-books-banned-new-zealand",
+    "wikipedia-summary-api",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Psilocybin%20Mushrooms%20of%20the%20World%20Paul%20Stamets"
+}

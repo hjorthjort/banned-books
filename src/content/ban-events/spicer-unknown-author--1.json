@@ -1,0 +1,21 @@
+{
+  "id": "spicer-unknown-author--1",
+  "workId": "spicer-unknown-author",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Customs Department",
+  "dateText": "1938",
+  "startYear": 1938,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "incitement-to-violence",
+    "violence"
+  ],
+  "reasonSummary": "Among the 300,000 American pulp magazines seized by Customs in 1938 for glorifying violence.",
+  "note": "Among the 300,000 American pulp magazines seized by Customs in 1938 for glorifying violence.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

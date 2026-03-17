@@ -1,0 +1,104 @@
+{
+  "id": "bone-marrow-nei-kung-mantak-chia",
+  "slug": "bone-marrow-nei-kung-mantak-chia",
+  "title": "BONE MARROW NEI KUNG",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "MANTAK CHIA"
+  ],
+  "workType": "Book",
+  "originalLanguage": null,
+  "publishedYearText": null,
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "BONE MARROW NEI KUNG is a book by MANTAK CHIA. The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime.",
+  "descriptionParagraphs": [
+    "BONE MARROW NEI KUNG is a book by MANTAK CHIA. The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime.",
+    "Its interest lies partly in the way literary or informational writing gets collapsed into a public-morality problem. As a book, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in Texas. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PGS 67, 68, 69, 75. More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "circulation politics",
+    "institutional control",
+    "morality",
+    "print scandal",
+    "risk knowledge",
+    "sexuality"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "obscenity",
+    "public-morality",
+    "instructional-harm",
+    "public-order"
+  ],
+  "overview": {
+    "englishDescription": "BONE MARROW NEI KUNG is a book by MANTAK CHIA. The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime.",
+    "banningParagraphs": [
+      "BONE MARROW NEI KUNG entered censorship debates as a book associated with circulation politics, institutional control, morality, print scandal, risk knowledge, and sexuality. In the current dossier, the main state objections cluster around obscenity, public morality, instructional harm, and public order.",
+      "The earliest event currently captured here is 2014-10-08 in Texas, where Texas corrections agencies and prison mailrooms excluded from prison circulation. The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PGS 67, 68, 69, 75. The Texas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: PGS 67, 68, 69, 75 & 81 SEXUALLY EXPLICIT IMAGES",
+      "The record already stretches across Texas and Wisconsin, which is why the page should be read as a cross-border censorship trail rather than a single isolated dispute."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: Literature Suppressed on Sexual Grounds",
+      "author": "Dawn B. Sova",
+      "url": "https://archive.org/details/literaturesuppre0000sova_r9r5",
+      "note": "Surveys the legal and moral language used to suppress books as obscene.",
+      "sourceIds": [
+        "sova-sexual-grounds"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "marshall-project-prison-bans",
+    "wikipedia-summary-api",
+    "karolides-1999",
+    "haight-1978",
+    "sova-sexual-grounds"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=BONE%20MARROW%20NEI%20KUNG%20MANTAK%20CHIA"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cooking-in-the-big-house-inmate-cuisine-big-papi--1",
+  "workId": "cooking-in-the-big-house-inmate-cuisine-big-papi",
+  "jurisdictionId": "kansas",
+  "governingBody": "Kansas corrections agencies and prison mailrooms",
+  "dateText": "2022-01-03",
+  "startYear": 2022,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Kansas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: 3 ‐.",
+  "note": "The Kansas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: 3 ‐ Encourages/instructs commission of criminal activity",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

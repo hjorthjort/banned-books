@@ -1,0 +1,21 @@
+{
+  "id": "natsu-no-maboroshi-takanae-kyourin--1",
+  "workId": "natsu-no-maboroshi-takanae-kyourin",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Office of Film and Literature Classification",
+  "dateText": "2018",
+  "startYear": 2018,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "Banned because \"Its purpose is to sexually arouse those with a interest in children and it encourages adults to regard children as appropriate subjects for sexual fantasy.\"",
+  "note": "Banned because \"Its purpose is to sexually arouse those with a interest in children and it encourages adults to regard children as appropriate subjects for sexual fantasy.\"",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

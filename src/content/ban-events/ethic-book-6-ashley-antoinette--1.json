@@ -1,0 +1,21 @@
+{
+  "id": "ethic-book-6-ashley-antoinette--1",
+  "workId": "ethic-book-6-ashley-antoinette",
+  "jurisdictionId": "kansas",
+  "governingBody": "Kansas corrections agencies and prison mailrooms",
+  "dateText": "2021-12-07",
+  "startYear": 2021,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "The Kansas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: 5 ‐ Describes.",
+  "note": "The Kansas prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: 5 ‐ Describes procedures for making alcohol/drugs or.",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "nana-emile-zola--1",
+  "workId": "nana-emile-zola",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Magistrate's Court",
+  "dateText": "1890",
+  "startYear": 1890,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "In 1888-89, publisher Henry Vizetelly was prosecuted in the United Kingdom for obscene libel for publishing translated works of Émile Zola. This led to an investigation into Zola's works by the Christchurch police in.",
+  "note": "In 1888-89, publisher Henry Vizetelly was prosecuted in the United Kingdom for obscene libel for publishing translated works of Émile Zola. This led to an investigation into Zola's works by the Christchurch police in which detectives were sent to local.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

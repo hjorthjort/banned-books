@@ -1,0 +1,21 @@
+{
+  "id": "twenty-five-years-of-an-artist-david-hamilton--1",
+  "workId": "twenty-five-years-of-an-artist-david-hamilton",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Office of Film and Literature Classification",
+  "dateText": "1998",
+  "startYear": 1998,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "Banned for sexualizing children and young persons.",
+  "note": "Banned for sexualizing children and young persons.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "the-perfumed-garden-translated-by-sir-richard-francis-burton--1",
+  "workId": "the-perfumed-garden-translated-by-sir-richard-francis-burton",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "New Zealand censorship authorities",
+  "dateText": "20th century",
+  "startYear": 1964,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "Banned before the Indecent Publications Act 1964. It was ruled not indecent in 1966.",
+  "note": "Banned before the Indecent Publications Act 1964. It was ruled not indecent in 1966.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

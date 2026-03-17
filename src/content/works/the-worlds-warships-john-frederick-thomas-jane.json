@@ -1,0 +1,87 @@
+{
+  "id": "the-worlds-warships-john-frederick-thomas-jane",
+  "slug": "the-worlds-warships-john-frederick-thomas-jane",
+  "title": "The World's Warships",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "John Frederick Thomas Jane"
+  ],
+  "workType": "Reference book",
+  "originalLanguage": null,
+  "publishedYearText": null,
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "The World's Warships is a reference book by John Frederick Thomas Jane. Sale of these books was prohibited on 17 November 1915 under the War Regulations Act 1914.",
+  "descriptionParagraphs": [
+    "The World's Warships is a reference book by John Frederick Thomas Jane. Sale of these books was prohibited on 17 November 1915 under the War Regulations Act 1914.",
+    "The surviving record is interesting because it shows how even ordinary-looking books can acquire a charged political afterlife. As a reference book, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in New Zealand. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: Sale of these books was prohibited on 17 November 1915 under the War Regulations Act 1914. More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "controversy",
+    "publication history",
+    "state scrutiny"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "overview": {
+    "englishDescription": "The World's Warships is a reference book by John Frederick Thomas Jane. Sale of these books was prohibited on 17 November 1915 under the War Regulations Act 1914.",
+    "banningParagraphs": [
+      "The World's Warships entered censorship debates as a reference book associated with controversy, publication history, and state scrutiny. In the current dossier, the main state objections cluster around political sensitivity.",
+      "The earliest event currently captured here is 1915 in New Zealand, where Minister of Defence classified, prohibited, or restricted. Sale of these books was prohibited on 17 November 1915 under the War Regulations Act 1914. Sale of these books was prohibited on 17 November 1915 under the War Regulations Act 1914.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand",
+    "wikipedia-summary-api",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20World's%20Warships%20John%20Frederick%20Thomas%20Jane"
+}

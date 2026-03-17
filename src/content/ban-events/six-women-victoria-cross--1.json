@@ -1,0 +1,21 @@
+{
+  "id": "six-women-victoria-cross--1",
+  "workId": "six-women-victoria-cross",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Magistrate's Court",
+  "dateText": "1908",
+  "startYear": 1908,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "In 1908 bookshop Whitcomb & Tombs in Christchurch was prosecuted for selling works by Victoria Cross after a police detective was sent to purchase copies. The books were ruled indecent under the Offensive Publications.",
+  "note": "In 1908 bookshop Whitcomb & Tombs in Christchurch was prosecuted for selling works by Victoria Cross after a police detective was sent to purchase copies. The books were ruled indecent under the Offensive Publications Act 1892.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}
