@@ -2,6 +2,9 @@
   "id": "the-satanic-bible",
   "slug": "the-satanic-bible",
   "title": "The Satanic Bible",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
   "authors": [
     "Anton LaVey"
   ],
@@ -21,9 +24,9 @@
     "encyclopedia-censorship-2005"
   ],
   "cover": {
-    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/TheSatanicBible.jpg/120px-TheSatanicBible.jpg",
-    "width": 330,
-    "height": 546,
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/9/91/TheSatanicBible.jpg",
+    "width": 245,
+    "height": 405,
     "alt": "The Satanic Bible cover thumbnail from Wikipedia",
     "pageUrl": "https://en.wikipedia.org/wiki/The_Satanic_Bible",
     "licenseLabel": "Wikimedia-hosted thumbnail"

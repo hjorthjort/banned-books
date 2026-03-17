@@ -2,6 +2,9 @@
   "id": "oliver-twist",
   "slug": "oliver-twist",
   "title": "Oliver Twist",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
   "authors": [
     "Charles Dickens"
   ],

@@ -1,0 +1,87 @@
+{
+  "id": "all-quiet-on-the-western-front-erich-maria-remarque",
+  "slug": "all-quiet-on-the-western-front-erich-maria-remarque",
+  "title": "All Quiet on the Western Front",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "Erich Maria Remarque"
+  ],
+  "workType": "Anti-war novel",
+  "originalLanguage": null,
+  "publishedYearText": "1929",
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "All Quiet on the Western Front is a anti-war novel by Erich Maria Remarque. Banned in Nazi Germany for being demoralizing and insulting to the Wehrmacht.",
+  "descriptionParagraphs": [
+    "All Quiet on the Western Front is a anti-war novel by Erich Maria Remarque. Banned in Nazi Germany for being demoralizing and insulting to the Wehrmacht.",
+    "The surviving record is interesting because it shows how even ordinary-looking books can acquire a charged political afterlife. As a anti-war novel, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in Nazi Germany (1933-1945). The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: Banned in Nazi Germany for being demoralizing and insulting to the Wehrmacht. More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "wikipedia-government-list"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "controversy",
+    "publication history",
+    "state scrutiny"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "overview": {
+    "englishDescription": "All Quiet on the Western Front is a anti-war novel by Erich Maria Remarque. Banned in Nazi Germany for being demoralizing and insulting to the Wehrmacht.",
+    "banningParagraphs": [
+      "All Quiet on the Western Front entered censorship debates as a anti-war novel associated with controversy, publication history, and state scrutiny. In the current dossier, the main state objections cluster around political sensitivity.",
+      "The earliest event currently captured here is Date not yet pinned down in Germany, where Nazi Germany (1933-1945) authorities banned publication or circulation. Banned in Nazi Germany for being demoralizing and insulting to the Wehrmacht. Banned in Nazi Germany for being demoralizing and insulting to the Wehrmacht.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=All%20Quiet%20on%20the%20Western%20Front%20Erich%20Maria%20Remarque"
+}

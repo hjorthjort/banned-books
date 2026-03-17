@@ -1,0 +1,110 @@
+{
+  "id": "united-states---vietnam-relations-1945-1967-a-study-prepared-by-the-department-of-defense-robert-mcnamara-and-the-united-states-department-of-defense",
+  "slug": "united-states---vietnam-relations-1945-1967-a-study-prepared-by-the-department-of-defense-robert-mcnamara-and-the-united-states-department-of-defense",
+  "title": "United States - Vietnam Relations, 1945-1967: A Study Prepared by the Department of Defense",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "Robert McNamara and the United States Department of Defense"
+  ],
+  "workType": "Government study",
+  "originalLanguage": null,
+  "publishedYearText": "1971",
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "United States - Vietnam Relations, 1945-1967: A Study Prepared by the Department of Defense is a government study by Robert McNamara and the United States Department of Defense. Also known as the Pentagon Papers.",
+  "descriptionParagraphs": [
+    "United States - Vietnam Relations, 1945-1967: A Study Prepared by the Department of Defense is a government study by Robert McNamara and the United States Department of Defense. Also known as the Pentagon Papers.",
+    "What makes it interesting is the way a book becomes legible to officials as a political instrument rather than a neutral cultural object. As a government study, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in United States. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: Also known as the Pentagon Papers. U.S. President Nixon attempted to suspend publication of classified information. The restraint was lifted by the U.S. Supreme Court in a 6-3 decision. See also New York Times Co. v. More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "wikipedia-government-list"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "politics",
+    "public argument",
+    "state power"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "political-control",
+    "political-dissent"
+  ],
+  "overview": {
+    "englishDescription": "United States - Vietnam Relations, 1945-1967: A Study Prepared by the Department of Defense is a government study by Robert McNamara and the United States Department of Defense. Also known as the Pentagon Papers.",
+    "banningParagraphs": [
+      "United States - Vietnam Relations, 1945-1967: A Study Prepared by the Department of Defense entered censorship debates as a government study associated with politics, public argument, and state power. In the current dossier, the main state objections cluster around political control and political dissent.",
+      "The earliest event currently captured here is Date not yet pinned down in United States, where United States authorities banned publication or circulation. Also known as the Pentagon Papers. U.S. President Nixon attempted to suspend publication of classified information. The restraint was lifted by the U.S. Supreme Court in a 6-3 decision. See also New York Times Co. v. Also known as the Pentagon Papers. U.S. President Nixon attempted to suspend publication of classified information. The restraint was lifted by the U.S. Supreme Court in a 6-3 decision. See also New York Times Co. v. United States.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=United%20States%20-%20Vietnam%20Relations%2C%201945-1967%3A%20A%20Study%20Prepared%20by%20the%20Department%20of%20Defense%20Robert%20McNamara%20and%20the%20United%20States%20Department%20of%20Defense"
+}

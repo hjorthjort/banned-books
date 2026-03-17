@@ -5,6 +5,7 @@ import SectionBadge from "../components/SectionBadge.astro";
 import { getPublishedWorks } from "../lib/content";
 
 const works = await getPublishedWorks();
+const workCount = works.length;
 const featured = works.find((work) => work.data.featured) ?? works[0];
 const topList = works.slice(0, 12);
 const sourceBacked = works
@@ -79,7 +80,7 @@ const sourceBacked = works
           }
         </ol>
         <p class="panel__footer-link">
-          <a href="/index/">Open the full 100-work master index</a>
+          <a href="/index/">Open the full {workCount}-work master index</a>
         </p>
       </section>
 
@@ -99,7 +100,7 @@ const sourceBacked = works
                 authors={work.data.authors}
                 description={work.data.overview.englishDescription}
                 cover={work.data.cover ? { sourceUrl: work.data.cover.sourceUrl, alt: work.data.cover.alt } : null}
-                meta={`${work.data.workType} • ${work.data.publishedYearText}`}
+                meta={[work.data.workType, work.data.publishedYearText].filter(Boolean).join(" • ")}
               />
             ))
           }

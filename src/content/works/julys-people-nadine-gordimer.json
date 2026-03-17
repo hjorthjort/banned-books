@@ -1,0 +1,88 @@
+{
+  "id": "julys-people-nadine-gordimer",
+  "slug": "julys-people-nadine-gordimer",
+  "title": "July's People",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "Nadine Gordimer"
+  ],
+  "workType": "Novel",
+  "originalLanguage": null,
+  "publishedYearText": "1981",
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "July's People is a novel by Nadine Gordimer. Banned during the Apartheid-era in South Africa.",
+  "descriptionParagraphs": [
+    "July's People is a novel by Nadine Gordimer. Banned during the Apartheid-era in South Africa.",
+    "Its significance comes from how questions of race, empire, or hierarchy remain live enough to provoke official suppression. As a novel, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in South Africa. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: Banned during the Apartheid-era in South Africa. July's People is now included in the South African school curriculum. More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "wikipedia-government-list"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "history",
+    "political memory",
+    "race"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "political-sensitivity",
+    "racial-politics"
+  ],
+  "overview": {
+    "englishDescription": "July's People is a novel by Nadine Gordimer. Banned during the Apartheid-era in South Africa.",
+    "banningParagraphs": [
+      "July's People entered censorship debates as a novel associated with history, political memory, and race. In the current dossier, the main state objections cluster around political sensitivity and racial politics.",
+      "The earliest event currently captured here is Date not yet pinned down in South Africa, where South Africa authorities banned publication or circulation. Banned during the Apartheid-era in South Africa. July's People is now included in the South African school curriculum. Banned during the Apartheid-era in South Africa. July's People is now included in the South African school curriculum.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "Everybody's Protest Novel",
+      "author": "James Baldwin",
+      "url": "https://harpers.org/archive/1949/06/everybodys-protest-novel/",
+      "note": "A skeptical response to the politics of moral uplift in canonical anti-slavery fiction.",
+      "sourceIds": [
+        "baldwin-everybodys-protest-novel"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "The Wretched of the Earth",
+      "author": "Frantz Fanon",
+      "url": "https://groveatlantic.com/book/the-wretched-of-the-earth/",
+      "note": "Helps contextualize race, violence, and liberation in books targeted under colonial or apartheid systems.",
+      "sourceIds": [
+        "fanon-wretched-of-the-earth"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "baldwin-everybodys-protest-novel",
+    "fanon-wretched-of-the-earth"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=July's%20People%20Nadine%20Gordimer"
+}

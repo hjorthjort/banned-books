@@ -1,0 +1,21 @@
+{
+  "id": "quran-unknown--1",
+  "workId": "quran-unknown",
+  "jurisdictionId": "russia",
+  "governingBody": "Russia authorities",
+  "dateText": "Date not yet pinned down",
+  "startYear": 2013,
+  "endYear": null,
+  "actionType": "banned publication or circulation",
+  "reasonTags": [
+    "religious-control",
+    "religious-offense"
+  ],
+  "reasonSummary": "In 2013, a Russian court in Novorossiysk banned a translation of the Quran by Elmir Kuliyev under the country's 'extremism' laws. The ban was soon overturned.",
+  "note": "In 2013, a Russian court in Novorossiysk banned a translation of the Quran by Elmir Kuliyev under the country's 'extremism' laws. The ban was soon overturned.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-government-list"
+  ],
+  "reviewStatus": "verified"
+}

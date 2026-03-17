@@ -390,6 +390,15 @@ h2 {
   width: 100%;
 }
 
+.work-hero__alternate {
+  margin: -0.35rem 0 0.35rem;
+  color: var(--muted);
+}
+
+.work-hero__title-note {
+  margin: 0;
+}
+
 .notice {
   margin-top: 1rem;
   padding: 1rem;

@@ -1,0 +1,21 @@
+{
+  "id": "a-farewell-to-arms-ernest-hemingway--1",
+  "workId": "a-farewell-to-arms-ernest-hemingway",
+  "jurisdictionId": "ireland",
+  "governingBody": "Ireland authorities",
+  "dateText": "Date not yet pinned down",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "banned publication or circulation",
+  "reasonTags": [
+    "political-control",
+    "political-dissent"
+  ],
+  "reasonSummary": "Suppressed in the Irish Free State.",
+  "note": "Suppressed in the Irish Free State.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-government-list"
+  ],
+  "reviewStatus": "verified"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "men-of-good-will-jules-romains--1",
+  "workId": "men-of-good-will-jules-romains",
+  "jurisdictionId": "ireland",
+  "governingBody": "Ireland authorities",
+  "dateText": "Date not yet pinned down",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "banned publication or circulation",
+  "reasonTags": [
+    "political-control",
+    "political-dissent"
+  ],
+  "reasonSummary": "The English translations of Romains' novel sequence were banned in the Irish Free State.",
+  "note": "The English translations of Romains' novel sequence were banned in the Irish Free State.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-government-list"
+  ],
+  "reviewStatus": "verified"
+}

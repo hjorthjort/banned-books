@@ -1,0 +1,21 @@
+{
+  "id": "the-struggle-is-my-life-nelson-mandela--1",
+  "workId": "the-struggle-is-my-life-nelson-mandela",
+  "jurisdictionId": "south-africa",
+  "governingBody": "South Africa authorities",
+  "dateText": "Date not yet pinned down",
+  "startYear": 1990,
+  "endYear": null,
+  "actionType": "banned publication or circulation",
+  "reasonTags": [
+    "political-sensitivity",
+    "racial-politics"
+  ],
+  "reasonSummary": "Banned in Apartheid South Africa until 1990.",
+  "note": "Banned in Apartheid South Africa until 1990.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-government-list"
+  ],
+  "reviewStatus": "verified"
+}

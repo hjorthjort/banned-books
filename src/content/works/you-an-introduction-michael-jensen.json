@@ -1,0 +1,110 @@
+{
+  "id": "you-an-introduction-michael-jensen",
+  "slug": "you-an-introduction-michael-jensen",
+  "title": "You: An Introduction",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "Michael Jensen"
+  ],
+  "workType": "Religious text",
+  "originalLanguage": null,
+  "publishedYearText": "2008",
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "You: An Introduction is a religious text by Michael Jensen. Banned by the New South Wales Department of Education and Communities from state schools on May 6, 2015, on the basis of a \"potential risk to students in the delivery of this material, if not taught sensitively and in an age appropriate manner.\" The ban was lifted May 18, 2015.",
+  "descriptionParagraphs": [
+    "You: An Introduction is a religious text by Michael Jensen. Banned by the New South Wales Department of Education and Communities from state schools on May 6, 2015, on the basis of a \"potential risk to students in the delivery of this material, if not taught sensitively and in an age appropriate manner.\" The ban was lifted May 18, 2015.",
+    "What makes it interesting is that interpretation, devotion, satire, or doctrinal conflict becomes a matter of state administration. As a religious text, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in Australia. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: Banned by the New South Wales Department of Education and Communities from state schools on May 6, 2015, on the basis of a \"potential risk to students in the delivery of this material, if not taught sensitively and in. More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "wikipedia-government-list"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "doctrine",
+    "public controversy",
+    "religion"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "religious-control",
+    "religious-offense"
+  ],
+  "overview": {
+    "englishDescription": "You: An Introduction is a religious text by Michael Jensen. Banned by the New South Wales Department of Education and Communities from state schools on May 6, 2015, on the basis of a \"potential risk to students in the delivery of this material, if not taught sensitively and in an age appropriate manner.\" The ban was lifted May 18, 2015.",
+    "banningParagraphs": [
+      "You: An Introduction entered censorship debates as a religious text associated with doctrine, public controversy, and religion. In the current dossier, the main state objections cluster around religious control and religious offense.",
+      "The earliest event currently captured here is 2015 in Australia, where Australia authorities banned publication or circulation. Banned by the New South Wales Department of Education and Communities from state schools on May 6, 2015, on the basis of a \"potential risk to students in the delivery of this material, if not taught sensitively and in. Banned by the New South Wales Department of Education and Communities from state schools on May 6, 2015, on the basis of a \"potential risk to students in the delivery of this material, if not taught sensitively and in an age appropriate manner.\" The ban was.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "Assassins of the Mind",
+      "author": "Christopher Hitchens",
+      "url": "https://www.vanityfair.com/news/2009/02/rushdie200902",
+      "note": "Frames the Rushdie affair as a test of free speech against violent religious intimidation.",
+      "sourceIds": [
+        "hitchens-assassins-of-the-mind"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "From Fatwa to Jihad",
+      "author": "Kenan Malik",
+      "url": "https://www.malikonline.co.uk/books/from-fatwa-to-jihad/",
+      "note": "Tracks how conflicts over blasphemy, race, and offense evolved after the Rushdie controversy.",
+      "sourceIds": [
+        "malik-from-fatwa-to-jihad"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "hitchens-assassins-of-the-mind",
+    "malik-from-fatwa-to-jihad",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=You%3A%20An%20Introduction%20Michael%20Jensen"
+}

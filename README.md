@@ -15,7 +15,8 @@ Static Astro site for a source-tracked index of books and texts banned by govern
 
 ## Data layout
 
-- `scripts/data/works.mjs`: curated 100-work seed with short descriptions, theme tags, and ban-event seeds.
+- `scripts/data/works.mjs`: curated core seed with descriptions, theme tags, and ban-event seeds.
+- `scripts/data/imported-works.json`: generated long-tail corpus used to bring the site up to 1000 published records.
 - `scripts/data/sources.mjs`: source registry used by both page generation and the repo ledger.
 - `scripts/data/jurisdictions.mjs`: normalized jurisdiction list for countries and historical states.
 - `scripts/data/counter-packs.mjs`: shared counter and critical reading packs.

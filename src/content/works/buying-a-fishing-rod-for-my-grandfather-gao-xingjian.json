@@ -1,0 +1,110 @@
+{
+  "id": "buying-a-fishing-rod-for-my-grandfather-gao-xingjian",
+  "slug": "buying-a-fishing-rod-for-my-grandfather-gao-xingjian",
+  "title": "Buying a Fishing Rod for My Grandfather",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "Gao Xingjian"
+  ],
+  "workType": "Short story collections",
+  "originalLanguage": null,
+  "publishedYearText": null,
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "Buying a Fishing Rod for My Grandfather is a short story collections by Gao Xingjian. All of Gao Xingjian's works have been banned for having content critical of the CCP.",
+  "descriptionParagraphs": [
+    "Buying a Fishing Rod for My Grandfather is a short story collections by Gao Xingjian. All of Gao Xingjian's works have been banned for having content critical of the CCP.",
+    "What makes it interesting is the way a book becomes legible to officials as a political instrument rather than a neutral cultural object. As a short story collections, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in China. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: All of Gao Xingjian's works have been banned for having content critical of the CCP. More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "wikipedia-book-censorship-china"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "politics",
+    "public argument",
+    "state power"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "political-control",
+    "political-dissent"
+  ],
+  "overview": {
+    "englishDescription": "Buying a Fishing Rod for My Grandfather is a short story collections by Gao Xingjian. All of Gao Xingjian's works have been banned for having content critical of the CCP.",
+    "banningParagraphs": [
+      "Buying a Fishing Rod for My Grandfather entered censorship debates as a short story collections associated with politics, public argument, and state power. In the current dossier, the main state objections cluster around political control and political dissent.",
+      "The earliest event currently captured here is 20th-21st century in China, where Chinese state censors and party authorities banned or suppressed publication. All of Gao Xingjian's works have been banned for having content critical of the CCP. All of Gao Xingjian's works have been banned for having content critical of the CCP.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-book-censorship-china",
+    "wikipedia-summary-api",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Buying%20a%20Fishing%20Rod%20for%20My%20Grandfather%20Gao%20Xingjian"
+}

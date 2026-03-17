@@ -1,0 +1,110 @@
+{
+  "id": "happy-new-year-rubem-fonseca",
+  "slug": "happy-new-year-rubem-fonseca",
+  "title": "Happy New Year",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "Rubem Fonseca"
+  ],
+  "workType": "Short story collection",
+  "originalLanguage": null,
+  "publishedYearText": "1975",
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "Happy New Year is a short story collection by Rubem Fonseca. Banned in Brazil during the military dictatorship by order of the then Minister of Justice, Armando Falcão, under the accusation of \"attacking morality and good habits\".",
+  "descriptionParagraphs": [
+    "Happy New Year is a short story collection by Rubem Fonseca. Banned in Brazil during the military dictatorship by order of the then Minister of Justice, Armando Falcão, under the accusation of \"attacking morality and good habits\".",
+    "What makes it interesting is the way a book becomes legible to officials as a political instrument rather than a neutral cultural object. As a short story collection, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in Brazil. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: Banned in Brazil during the military dictatorship by order of the then Minister of Justice, Armando Falcão, under the accusation of \"attacking morality and good habits\". The author of the book, Rubem Fonseca, filed a. More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "wikipedia-government-list"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "politics",
+    "public argument",
+    "state power"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "political-control",
+    "political-dissent"
+  ],
+  "overview": {
+    "englishDescription": "Happy New Year is a short story collection by Rubem Fonseca. Banned in Brazil during the military dictatorship by order of the then Minister of Justice, Armando Falcão, under the accusation of \"attacking morality and good habits\".",
+    "banningParagraphs": [
+      "Happy New Year entered censorship debates as a short story collection associated with politics, public argument, and state power. In the current dossier, the main state objections cluster around political control and political dissent.",
+      "The earliest event currently captured here is Date not yet pinned down in Brazil, where Brazil authorities banned publication or circulation. Banned in Brazil during the military dictatorship by order of the then Minister of Justice, Armando Falcão, under the accusation of \"attacking morality and good habits\". The author of the book, Rubem Fonseca, filed a. Banned in Brazil during the military dictatorship by order of the then Minister of Justice, Armando Falcão, under the accusation of \"attacking morality and good habits\". The author of the book, Rubem Fonseca, filed a lawsuit against the Brazilian government.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Happy%20New%20Year%20Rubem%20Fonseca"
+}

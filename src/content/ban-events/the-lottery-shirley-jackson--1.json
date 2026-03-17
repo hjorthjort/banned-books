@@ -1,0 +1,21 @@
+{
+  "id": "the-lottery-shirley-jackson--1",
+  "workId": "the-lottery-shirley-jackson",
+  "jurisdictionId": "south-africa",
+  "governingBody": "South Africa authorities",
+  "dateText": "Date not yet pinned down",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "banned publication or circulation",
+  "reasonTags": [
+    "political-sensitivity",
+    "racial-politics"
+  ],
+  "reasonSummary": "Banned in South Africa during Apartheid.",
+  "note": "Banned in South Africa during Apartheid.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-government-list"
+  ],
+  "reviewStatus": "verified"
+}

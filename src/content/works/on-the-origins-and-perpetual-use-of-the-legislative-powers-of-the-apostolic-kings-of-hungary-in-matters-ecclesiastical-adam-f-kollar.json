@@ -1,0 +1,110 @@
+{
+  "id": "on-the-origins-and-perpetual-use-of-the-legislative-powers-of-the-apostolic-kings-of-hungary-in-matters-ecclesiastical-adam-f-kollar",
+  "slug": "on-the-origins-and-perpetual-use-of-the-legislative-powers-of-the-apostolic-kings-of-hungary-in-matters-ecclesiastical-adam-f-kollar",
+  "title": "On the Origins and Perpetual Use of the Legislative Powers of the Apostolic Kings of Hungary in Matters Ecclesiastical",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "Adam F. Kollár"
+  ],
+  "workType": "Political memoir",
+  "originalLanguage": null,
+  "publishedYearText": "1764",
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "On the Origins and Perpetual Use of the Legislative Powers of the Apostolic Kings of Hungary in Matters Ecclesiastical is a political memoir by Adam F. Kollár. Banned in the Papal States for arguments against the political role of the Roman Catholic Church.",
+  "descriptionParagraphs": [
+    "On the Origins and Perpetual Use of the Legislative Powers of the Apostolic Kings of Hungary in Matters Ecclesiastical is a political memoir by Adam F. Kollár. Banned in the Papal States for arguments against the political role of the Roman Catholic Church.",
+    "What makes it interesting is that interpretation, devotion, satire, or doctrinal conflict becomes a matter of state administration. As a political memoir, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in Papal States. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: Banned in the Papal States for arguments against the political role of the Roman Catholic Church. Original title: De Originibus et Usu perpetuo. More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "wikipedia-government-list"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "doctrine",
+    "public controversy",
+    "religion"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "religious-control",
+    "religious-offense"
+  ],
+  "overview": {
+    "englishDescription": "On the Origins and Perpetual Use of the Legislative Powers of the Apostolic Kings of Hungary in Matters Ecclesiastical is a political memoir by Adam F. Kollár. Banned in the Papal States for arguments against the political role of the Roman Catholic Church.",
+    "banningParagraphs": [
+      "On the Origins and Perpetual Use of the Legislative Powers of the Apostolic Kings of Hungary in Matters Ecclesiastical entered censorship debates as a political memoir associated with doctrine, public controversy, and religion. In the current dossier, the main state objections cluster around religious control and religious offense.",
+      "The earliest event currently captured here is Date not yet pinned down in Papal States, where Papal States authorities banned publication or circulation. Banned in the Papal States for arguments against the political role of the Roman Catholic Church. Original title: De Originibus et Usu perpetuo. Banned in the Papal States for arguments against the political role of the Roman Catholic Church. Original title: De Originibus et Usu perpetuo.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "Assassins of the Mind",
+      "author": "Christopher Hitchens",
+      "url": "https://www.vanityfair.com/news/2009/02/rushdie200902",
+      "note": "Frames the Rushdie affair as a test of free speech against violent religious intimidation.",
+      "sourceIds": [
+        "hitchens-assassins-of-the-mind"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "From Fatwa to Jihad",
+      "author": "Kenan Malik",
+      "url": "https://www.malikonline.co.uk/books/from-fatwa-to-jihad/",
+      "note": "Tracks how conflicts over blasphemy, race, and offense evolved after the Rushdie controversy.",
+      "sourceIds": [
+        "malik-from-fatwa-to-jihad"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "hitchens-assassins-of-the-mind",
+    "malik-from-fatwa-to-jihad",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=On%20the%20Origins%20and%20Perpetual%20Use%20of%20the%20Legislative%20Powers%20of%20the%20Apostolic%20Kings%20of%20Hungary%20in%20Matters%20Ecclesiastical%20Adam%20F.%20Koll%C3%A1r"
+}

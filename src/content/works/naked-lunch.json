@@ -2,6 +2,9 @@
   "id": "naked-lunch",
   "slug": "naked-lunch",
   "title": "Naked Lunch",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
   "authors": [
     "William S. Burroughs"
   ],
@@ -21,9 +24,9 @@
     "encyclopedia-censorship-2005"
   ],
   "cover": {
-    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/NakedLunch1stedition.jpg/120px-NakedLunch1stedition.jpg",
-    "width": 330,
-    "height": 485,
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/b/b8/NakedLunch1stedition.jpg",
+    "width": 238,
+    "height": 350,
     "alt": "Naked Lunch cover thumbnail from Wikipedia",
     "pageUrl": "https://en.wikipedia.org/wiki/Naked_Lunch",
     "licenseLabel": "Wikimedia-hosted thumbnail"

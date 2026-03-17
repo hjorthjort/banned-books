@@ -1,0 +1,20 @@
+{
+  "id": "mysterious-india-moki-singh--1",
+  "workId": "mysterious-india-moki-singh",
+  "jurisdictionId": "india",
+  "governingBody": "Government of India or British Indian authorities",
+  "dateText": "1940",
+  "startYear": 1940,
+  "endYear": null,
+  "actionType": "banned publication, sale, or possession",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "The book cannot be imported into India. The book purportedly contained stereotypes.",
+  "note": "The book cannot be imported into India. The book purportedly contained stereotypes.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-india"
+  ],
+  "reviewStatus": "verified"
+}

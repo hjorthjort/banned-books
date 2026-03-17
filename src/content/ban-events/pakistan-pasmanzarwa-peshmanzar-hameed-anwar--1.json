@@ -1,0 +1,20 @@
+{
+  "id": "pakistan-pasmanzarwa-peshmanzar-hameed-anwar--1",
+  "workId": "pakistan-pasmanzarwa-peshmanzar-hameed-anwar",
+  "jurisdictionId": "india",
+  "governingBody": "Government of India or British Indian authorities",
+  "dateText": "1950",
+  "startYear": 1950,
+  "endYear": null,
+  "actionType": "banned publication, sale, or possession",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "This book, originally in Urdu, cannot be imported into India.",
+  "note": "This book, originally in Urdu, cannot be imported into India.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-india"
+  ],
+  "reviewStatus": "verified"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tombstone-the-great-chinese-famine-1958-1962-yang-jisheng--1",
+  "workId": "tombstone-the-great-chinese-famine-1958-1962-yang-jisheng",
+  "jurisdictionId": "china",
+  "governingBody": "Chinese state censors and party authorities",
+  "dateText": "20th-21st century",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "banned or suppressed publication",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "Published in Hong Kong, banned for discussing the Great Chinese Famine.",
+  "note": "Published in Hong Kong, banned for discussing the Great Chinese Famine.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-book-censorship-china"
+  ],
+  "reviewStatus": "verified"
+}

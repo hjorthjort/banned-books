@@ -2,6 +2,9 @@
   "id": "mein-kampf",
   "slug": "mein-kampf",
   "title": "Mein Kampf",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
   "authors": [
     "Adolf Hitler"
   ],
@@ -13,7 +16,8 @@
   "description": "Hitler's manifesto of racial ideology, antisemitism, dictatorship, and expansionist politics.",
   "descriptionParagraphs": [
     "Mein Kampf is a political manifesto built out of grievance, self-mythologizing, racial paranoia, and pseudo-historical explanation. Hitler combines autobiography, propaganda, and programmatic argument in order to portray politics as a biological struggle between nations and races, with antisemitism placed at the center of his account of modern history.",
-    "The book matters not because it is intellectually sound but because it shows how a totalizing ideology can present hatred as destiny and domination as necessity. Its prose is repetitive and often crude, yet its structure is revealing: it turns resentment into worldview, prejudice into system, and conspiracy thinking into a claim on state power. That is why it is read today chiefly as evidence of fascist political imagination and genocidal intent."
+    "The book matters not because it is intellectually sound but because it shows how a totalizing ideology can present hatred as destiny and domination as necessity. Its prose is repetitive and often crude, yet its structure is revealing: it turns resentment into worldview, prejudice into system, and conspiracy thinking into a claim on state power. That is why it is read today chiefly as evidence of fascist political imagination and genocidal intent.",
+    "Hitler's manifesto of racial ideology, antisemitism, dictatorship, and expansionist politics."
   ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",

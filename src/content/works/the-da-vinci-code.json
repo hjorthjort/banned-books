@@ -2,6 +2,9 @@
   "id": "the-da-vinci-code",
   "slug": "the-da-vinci-code",
   "title": "The Da Vinci Code",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
   "authors": [
     "Dan Brown"
   ],

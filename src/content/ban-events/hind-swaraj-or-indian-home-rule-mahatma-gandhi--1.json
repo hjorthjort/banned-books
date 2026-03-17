@@ -1,0 +1,20 @@
+{
+  "id": "hind-swaraj-or-indian-home-rule-mahatma-gandhi--1",
+  "workId": "hind-swaraj-or-indian-home-rule-mahatma-gandhi",
+  "jurisdictionId": "india",
+  "governingBody": "Government of India or British Indian authorities",
+  "dateText": "1909",
+  "startYear": 1909,
+  "endYear": null,
+  "actionType": "banned publication, sale, or possession",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "The Gujarati translation of Hind Swaraj was banned by the British authorities on its publication in India.",
+  "note": "The Gujarati translation of Hind Swaraj was banned by the British authorities on its publication in India.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-india"
+  ],
+  "reviewStatus": "verified"
+}

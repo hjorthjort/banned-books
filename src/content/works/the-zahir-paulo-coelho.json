@@ -1,0 +1,87 @@
+{
+  "id": "the-zahir-paulo-coelho",
+  "slug": "the-zahir-paulo-coelho",
+  "title": "The Zahir",
+  "originalTitle": null,
+  "romanizedTitle": "zahir",
+  "titleNote": "The title shown here follows the source page's parenthetical English rendering; the romanized source form is preserved for search and future cleanup.",
+  "authors": [
+    "Paulo Coelho"
+  ],
+  "workType": "Novel",
+  "originalLanguage": null,
+  "publishedYearText": null,
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "The Zahir is a novel by Paulo Coelho. Translated by Arash Hejazi",
+  "descriptionParagraphs": [
+    "The Zahir is a novel by Paulo Coelho. Translated by Arash Hejazi",
+    "The surviving record is interesting because it shows how even ordinary-looking books can acquire a charged political afterlife. As a novel, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in Iran. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: Translated by Arash Hejazi More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "wikipedia-book-censorship-iran"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "controversy",
+    "publication history",
+    "state scrutiny"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "overview": {
+    "englishDescription": "The Zahir is a novel by Paulo Coelho. Translated by Arash Hejazi",
+    "banningParagraphs": [
+      "The Zahir entered censorship debates as a novel associated with controversy, publication history, and state scrutiny. In the current dossier, the main state objections cluster around political sensitivity.",
+      "The earliest event currently captured here is Post-1979 Islamic Republic period in Iran, where Iranian censors and the Ministry of Culture and Islamic Guidance banned or denied publication. Translated by Arash Hejazi Translated by Arash Hejazi",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-book-censorship-iran",
+    "wikipedia-summary-api",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Zahir%20Paulo%20Coelho"
+}

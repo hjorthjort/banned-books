@@ -1,0 +1,21 @@
+{
+  "id": "blue-movie-terry-southern--1",
+  "workId": "blue-movie-terry-southern",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Indecent Publications Tribunal",
+  "dateText": "1972",
+  "startYear": 1972,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "Ruled indecent in 1972.",
+  "note": "Ruled indecent in 1972.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

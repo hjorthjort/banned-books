@@ -2,6 +2,9 @@
   "id": "brave-new-world",
   "slug": "brave-new-world",
   "title": "Brave New World",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
   "authors": [
     "Aldous Huxley"
   ],
@@ -13,7 +16,8 @@
   "description": "A dystopian novel about engineered happiness, social conditioning, and soft authoritarian control.",
   "descriptionParagraphs": [
     "Brave New World imagines a society that has largely solved conflict by engineering its citizens from birth, organizing them into castes, and saturating daily life with pleasure, distraction, and conditioned consent. Huxley builds a world where stability is purchased at the cost of solitude, mourning, memory, high art, and the freedom to become difficult or dissatisfied.",
-    "The novel remains potent because it depicts soft domination rather than overt terror. People are not ruled mainly by pain but by managed desire, easy entertainment, chemical relief, and social scripts that make serious inward life look pathological. Its central question is whether comfort without depth, and order without freedom, can ever amount to a fully human civilization."
+    "The novel remains potent because it depicts soft domination rather than overt terror. People are not ruled mainly by pain but by managed desire, easy entertainment, chemical relief, and social scripts that make serious inward life look pathological. Its central question is whether comfort without depth, and order without freedom, can ever amount to a fully human civilization.",
+    "A dystopian novel about engineered happiness, social conditioning, and soft authoritarian control."
   ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",

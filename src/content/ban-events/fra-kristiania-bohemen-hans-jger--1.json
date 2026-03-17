@@ -1,0 +1,21 @@
+{
+  "id": "fra-kristiania-bohemen-hans-jger--1",
+  "workId": "fra-kristiania-bohemen-hans-jger",
+  "jurisdictionId": "norway",
+  "governingBody": "Norway authorities",
+  "dateText": "Date not yet pinned down",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "banned publication or circulation",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "Sexually explicit.",
+  "note": "Sexually explicit.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-government-list"
+  ],
+  "reviewStatus": "verified"
+}

@@ -2,6 +2,9 @@
   "id": "one-day-in-the-life-of-ivan-denisovich",
   "slug": "one-day-in-the-life-of-ivan-denisovich",
   "title": "One Day in the Life of Ivan Denisovich",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
   "authors": [
     "Aleksandr Solzhenitsyn"
   ],
@@ -21,9 +24,9 @@
     "encyclopedia-censorship-2005"
   ],
   "cover": {
-    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/One_Day_in_the_Life_of_Ivan_Denisovich_cover.jpg/120px-One_Day_in_the_Life_of_Ivan_Denisovich_cover.jpg",
-    "width": 330,
-    "height": 564,
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/f/f7/One_Day_in_the_Life_of_Ivan_Denisovich_cover.jpg",
+    "width": 241,
+    "height": 412,
     "alt": "One Day in the Life of Ivan Denisovich cover thumbnail from Wikipedia",
     "pageUrl": "https://en.wikipedia.org/wiki/One_Day_in_the_Life_of_Ivan_Denisovich",
     "licenseLabel": "Wikimedia-hosted thumbnail"

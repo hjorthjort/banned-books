@@ -1,0 +1,99 @@
+{
+  "id": "i-love-my-mum-chen-xiwo",
+  "slug": "i-love-my-mum-chen-xiwo",
+  "title": "I Love My Mum",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "Chen Xiwo"
+  ],
+  "workType": "Political memoir",
+  "originalLanguage": null,
+  "publishedYearText": null,
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "I Love My Mum is a political memoir by Chen Xiwo. A novella in which the relationship between Chinese citizens and their government are metaphorically portrayed as a cognitively impaired man in extreme sexual situations with their mother.",
+  "descriptionParagraphs": [
+    "I Love My Mum is a political memoir by Chen Xiwo. A novella in which the relationship between Chinese citizens and their government are metaphorically portrayed as a cognitively impaired man in extreme sexual situations with their mother.",
+    "Its interest lies partly in the way literary or informational writing gets collapsed into a public-morality problem. As a political memoir, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in China. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: A novella in which the relationship between Chinese citizens and their government are metaphorically portrayed as a cognitively impaired man in extreme sexual situations with their mother. More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "wikipedia-book-censorship-china"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "morality",
+    "print scandal",
+    "sexuality"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "overview": {
+    "englishDescription": "I Love My Mum is a political memoir by Chen Xiwo. A novella in which the relationship between Chinese citizens and their government are metaphorically portrayed as a cognitively impaired man in extreme sexual situations with their mother.",
+    "banningParagraphs": [
+      "I Love My Mum entered censorship debates as a political memoir associated with morality, print scandal, and sexuality. In the current dossier, the main state objections cluster around obscenity and public morality.",
+      "The earliest event currently captured here is 20th-21st century in China, where Chinese state censors and party authorities banned or suppressed publication. A novella in which the relationship between Chinese citizens and their government are metaphorically portrayed as a cognitively impaired man in extreme sexual situations with their mother. A novella in which the relationship between Chinese citizens and their government are metaphorically portrayed as a cognitively impaired man in extreme sexual situations with their mother.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "Banned Books: Literature Suppressed on Sexual Grounds",
+      "author": "Dawn B. Sova",
+      "url": "https://archive.org/details/literaturesuppre0000sova_r9r5",
+      "note": "Surveys the legal and moral language used to suppress books as obscene.",
+      "sourceIds": [
+        "sova-sexual-grounds"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for seeing how obscenity law and censorship habits changed over time.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-book-censorship-china",
+    "wikipedia-summary-api",
+    "sova-sexual-grounds",
+    "haight-1978",
+    "karolides-1999"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=I%20Love%20My%20Mum%20Chen%20Xiwo"
+}

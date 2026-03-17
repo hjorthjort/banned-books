@@ -1,0 +1,21 @@
+{
+  "id": "rowena-goes-too-far-h-c-asterley--1",
+  "workId": "rowena-goes-too-far-h-c-asterley",
+  "jurisdictionId": "australia",
+  "governingBody": "Australia authorities",
+  "dateText": "*Unknown*",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "banned publication or circulation",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "Banned in Australia because of customs belief that it \"lacked sufficient claim to the literary to excuse the obscenity\"",
+  "note": "Banned in Australia because of customs belief that it \"lacked sufficient claim to the literary to excuse the obscenity\"",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-government-list"
+  ],
+  "reviewStatus": "verified"
+}

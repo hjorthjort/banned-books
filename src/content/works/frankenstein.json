@@ -2,6 +2,9 @@
   "id": "frankenstein",
   "slug": "frankenstein",
   "title": "Frankenstein",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
   "authors": [
     "Mary Shelley"
   ],
@@ -13,7 +16,8 @@
   "description": "A gothic novel about creation, abandonment, scientific ambition, and social exclusion.",
   "descriptionParagraphs": [
     "Frankenstein begins with a scientific act of creation but quickly becomes a story about abandonment. Victor Frankenstein brings a sentient being into existence and then recoils from his responsibility, leaving the creature to learn language, desire, shame, and rage in a world that reads his appearance as monstrosity before it hears his voice.",
-    "Shelley's themes include ambition, care, loneliness, revenge, and the ethics of making what one cannot love. The novel endures because it never lets its questions settle into a single lesson about science. It is as much about failed parenthood, social exclusion, and the demand to be recognized as it is about experiment, discovery, or forbidden knowledge."
+    "Shelley's themes include ambition, care, loneliness, revenge, and the ethics of making what one cannot love. The novel endures because it never lets its questions settle into a single lesson about science. It is as much about failed parenthood, social exclusion, and the demand to be recognized as it is about experiment, discovery, or forbidden knowledge.",
+    "A gothic novel about creation, abandonment, scientific ambition, and social exclusion."
   ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",

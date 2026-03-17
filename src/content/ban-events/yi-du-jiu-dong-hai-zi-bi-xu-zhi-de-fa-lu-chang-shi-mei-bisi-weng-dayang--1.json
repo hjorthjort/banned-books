@@ -1,0 +1,21 @@
+{
+  "id": "yi-du-jiu-dong-hai-zi-bi-xu-zhi-de-fa-lu-chang-shi-mei-bisi-weng-dayang--1",
+  "workId": "yi-du-jiu-dong-hai-zi-bi-xu-zhi-de-fa-lu-chang-shi-mei-bisi-weng-dayang",
+  "jurisdictionId": "hong-kong",
+  "governingBody": "Hong Kong public libraries and other government-managed collections",
+  "dateText": "2021-07-24",
+  "startYear": 2021,
+  "endYear": null,
+  "actionType": "removed from government-managed collections",
+  "reasonTags": [
+    "national-security",
+    "political-dissent"
+  ],
+  "reasonSummary": "The source page records removal or withholding in public libraries amid the post-2020 tightening of Hong Kong's public reading infrastructure.",
+  "note": "The source page records removal or withholding in public libraries amid the post-2020 tightening of Hong Kong's public reading infrastructure.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-book-censorship-hong-kong"
+  ],
+  "reviewStatus": "verified"
+}

@@ -47,7 +47,7 @@ async function main() {
 
     if (work.published) {
       assert(Boolean(work.overview?.englishDescription), `Published work missing description: ${work.id}`);
-      assert((work.descriptionParagraphs ?? []).length >= 2, `Published work missing expanded description: ${work.id}`);
+      assert((work.descriptionParagraphs ?? []).length >= 3, `Published work missing expanded description: ${work.id}`);
       assert((work.overview?.banningParagraphs ?? []).length > 0, `Published work missing banning overview: ${work.id}`);
       assert((work.counterReadings ?? []).length > 0, `Published work missing counter readings: ${work.id}`);
       assert((work.sourceIds ?? []).length > 0, `Published work missing sources: ${work.id}`);

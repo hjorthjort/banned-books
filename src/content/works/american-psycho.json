@@ -2,6 +2,9 @@
   "id": "american-psycho",
   "slug": "american-psycho",
   "title": "American Psycho",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
   "authors": [
     "Bret Easton Ellis"
   ],
@@ -13,7 +16,8 @@
   "description": "A satirical horror novel about consumerism, misogyny, status anxiety, and stylized violence.",
   "descriptionParagraphs": [
     "American Psycho is told through the deadened voice of Patrick Bateman, a Wall Street banker whose days are structured by restaurants, brands, workouts, status competition, and scenes of escalating cruelty. Bret Easton Ellis uses that flat, repetitive surface to create a world in which consumption and violence become nearly indistinguishable forms of display.",
-    "The novel's deepest subject is emptiness: empty masculinity, empty prestige, empty desire, and the collapse of moral seriousness into style. Whether every murder is literal is less important than the atmosphere the book produces, where people are so commodified and interchangeable that even atrocity feels like another luxury signal. Its satire works by pushing that logic to an almost unbearable extreme."
+    "The novel's deepest subject is emptiness: empty masculinity, empty prestige, empty desire, and the collapse of moral seriousness into style. Whether every murder is literal is less important than the atmosphere the book produces, where people are so commodified and interchangeable that even atrocity feels like another luxury signal. Its satire works by pushing that logic to an almost unbearable extreme.",
+    "A satirical horror novel about consumerism, misogyny, status anxiety, and stylized violence."
   ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",

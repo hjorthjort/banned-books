@@ -2,6 +2,9 @@
   "id": "the-decameron",
   "slug": "the-decameron",
   "title": "The Decameron",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
   "authors": [
     "Giovanni Boccaccio"
   ],
@@ -13,7 +16,8 @@
   "description": "A fourteenth-century frame narrative of storytelling, desire, wit, and social satire.",
   "descriptionParagraphs": [
     "The Decameron frames one hundred stories within a plague-time retreat, where young Florentines flee the city and create an ordered world of storytelling in the face of death and disorder. The tales range from comic deception to erotic intrigue, anticlerical satire, clever reversals of fortune, and sharp observations about money, class, appetite, luck, and social performance.",
-    "Boccaccio's great achievement is to make the collection feel both festive and analytical. Desire is everywhere in the book, but so are wit, opportunism, hypocrisy, and the improvisations people use to survive unstable times. The work remains central not only because of its erotic candor, but because it treats storytelling itself as a social technology for enduring catastrophe and reassembling community."
+    "Boccaccio's great achievement is to make the collection feel both festive and analytical. Desire is everywhere in the book, but so are wit, opportunism, hypocrisy, and the improvisations people use to survive unstable times. The work remains central not only because of its erotic candor, but because it treats storytelling itself as a social technology for enduring catastrophe and reassembling community.",
+    "A fourteenth-century frame narrative of storytelling, desire, wit, and social satire."
   ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",

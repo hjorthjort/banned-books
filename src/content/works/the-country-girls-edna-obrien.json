@@ -1,0 +1,99 @@
+{
+  "id": "the-country-girls-edna-obrien",
+  "slug": "the-country-girls-edna-obrien",
+  "title": "The Country Girls",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "Edna O'Brien"
+  ],
+  "workType": "Novel",
+  "originalLanguage": null,
+  "publishedYearText": "1960",
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "The Country Girls is a novel by Edna O'Brien. Banned by Ireland's censorship board in 1960 for its explicit sexual content.",
+  "descriptionParagraphs": [
+    "The Country Girls is a novel by Edna O'Brien. Banned by Ireland's censorship board in 1960 for its explicit sexual content.",
+    "Its interest lies partly in the way literary or informational writing gets collapsed into a public-morality problem. As a novel, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in Ireland. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: Banned by Ireland's censorship board in 1960 for its explicit sexual content. More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "wikipedia-government-list"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "morality",
+    "print scandal",
+    "sexuality"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "overview": {
+    "englishDescription": "The Country Girls is a novel by Edna O'Brien. Banned by Ireland's censorship board in 1960 for its explicit sexual content.",
+    "banningParagraphs": [
+      "The Country Girls entered censorship debates as a novel associated with morality, print scandal, and sexuality. In the current dossier, the main state objections cluster around obscenity and public morality.",
+      "The earliest event currently captured here is Date not yet pinned down in Ireland, where Ireland authorities banned publication or circulation. Banned by Ireland's censorship board in 1960 for its explicit sexual content. Banned by Ireland's censorship board in 1960 for its explicit sexual content.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "Banned Books: Literature Suppressed on Sexual Grounds",
+      "author": "Dawn B. Sova",
+      "url": "https://archive.org/details/literaturesuppre0000sova_r9r5",
+      "note": "Surveys the legal and moral language used to suppress books as obscene.",
+      "sourceIds": [
+        "sova-sexual-grounds"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for seeing how obscenity law and censorship habits changed over time.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "sova-sexual-grounds",
+    "haight-1978",
+    "karolides-1999"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Country%20Girls%20Edna%20O'Brien"
+}

@@ -2,6 +2,9 @@
   "id": "tropic-of-cancer",
   "slug": "tropic-of-cancer",
   "title": "Tropic of Cancer",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
   "authors": [
     "Henry Miller"
   ],
@@ -21,9 +24,9 @@
     "encyclopedia-censorship-2005"
   ],
   "cover": {
-    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/TropicOfCancer.JPG/250px-TropicOfCancer.JPG",
-    "width": 330,
-    "height": 433,
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/2/22/TropicOfCancer.JPG",
+    "width": 275,
+    "height": 361,
     "alt": "Tropic of Cancer cover thumbnail from Wikipedia",
     "pageUrl": "https://en.wikipedia.org/wiki/Tropic_of_Cancer_(novel)",
     "licenseLabel": "Wikimedia-hosted thumbnail"

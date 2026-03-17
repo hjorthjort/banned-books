@@ -1,0 +1,21 @@
+{
+  "id": "boss-of-britains-underworld-billy-hill--1",
+  "workId": "boss-of-britains-underworld-billy-hill",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Department of Justice",
+  "dateText": "1956",
+  "startYear": 1956,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "Deemed indecent in 1956 for encouraging lawlessness. The Minister of Justice stated publicly in 1956 that anyone selling the book would be prosecuted and any copies that were imported would be seized by the Customs.",
+  "note": "Deemed indecent in 1956 for encouraging lawlessness. The Minister of Justice stated publicly in 1956 that anyone selling the book would be prosecuted and any copies that were imported would be seized by the Customs Department. Banned by the Ministry of.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

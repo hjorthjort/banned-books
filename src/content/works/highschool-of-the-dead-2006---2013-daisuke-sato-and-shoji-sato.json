@@ -1,0 +1,87 @@
+{
+  "id": "highschool-of-the-dead-2006---2013-daisuke-sato-and-shoji-sato",
+  "slug": "highschool-of-the-dead-2006---2013-daisuke-sato-and-shoji-sato",
+  "title": "Highschool of the Dead (2006 - 2013)",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "Daisuke Satō and Shōji Satō"
+  ],
+  "workType": "Japanese Manga",
+  "originalLanguage": null,
+  "publishedYearText": null,
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "Highschool of the Dead (2006 - 2013) is a japanese manga by Daisuke Satō and Shōji Satō. Banned for the purpose of protecting \"the healthy development of youth\".",
+  "descriptionParagraphs": [
+    "Highschool of the Dead (2006 - 2013) is a japanese manga by Daisuke Satō and Shōji Satō. Banned for the purpose of protecting \"the healthy development of youth\".",
+    "The surviving record is interesting because it shows how even ordinary-looking books can acquire a charged political afterlife. As a japanese manga, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in China. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: Banned for the purpose of protecting \"the healthy development of youth\". More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "wikipedia-book-censorship-china"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "controversy",
+    "publication history",
+    "state scrutiny"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "overview": {
+    "englishDescription": "Highschool of the Dead (2006 - 2013) is a japanese manga by Daisuke Satō and Shōji Satō. Banned for the purpose of protecting \"the healthy development of youth\".",
+    "banningParagraphs": [
+      "Highschool of the Dead (2006 - 2013) entered censorship debates as a japanese manga associated with controversy, publication history, and state scrutiny. In the current dossier, the main state objections cluster around political sensitivity.",
+      "The earliest event currently captured here is 20th-21st century in China, where Chinese state censors and party authorities banned or suppressed publication. Banned for the purpose of protecting \"the healthy development of youth\". Banned for the purpose of protecting \"the healthy development of youth\".",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-book-censorship-china",
+    "wikipedia-summary-api",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Highschool%20of%20the%20Dead%20(2006%20-%202013)%20Daisuke%20Sat%C5%8D%20and%20Sh%C5%8Dji%20Sat%C5%8D"
+}

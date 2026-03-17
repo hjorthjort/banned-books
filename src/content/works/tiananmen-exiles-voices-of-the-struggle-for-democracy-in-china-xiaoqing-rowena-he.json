@@ -1,0 +1,111 @@
+{
+  "id": "tiananmen-exiles-voices-of-the-struggle-for-democracy-in-china-xiaoqing-rowena-he",
+  "slug": "tiananmen-exiles-voices-of-the-struggle-for-democracy-in-china-xiaoqing-rowena-he",
+  "title": "Tiananmen exiles : voices of the struggle for democracy in China",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "Xiaoqing Rowena He"
+  ],
+  "workType": "Book",
+  "originalLanguage": "Chinese",
+  "publishedYearText": null,
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "Tiananmen exiles : voices of the struggle for democracy in China is a book by Xiaoqing Rowena He. The source page records removal or withholding in public libraries amid the post-2020 tightening of Hong Kong's public reading infrastructure.",
+  "descriptionParagraphs": [
+    "Tiananmen exiles : voices of the struggle for democracy in China is a book by Xiaoqing Rowena He. The source page records removal or withholding in public libraries amid the post-2020 tightening of Hong Kong's public reading infrastructure.",
+    "What makes it interesting is the way a book becomes legible to officials as a political instrument rather than a neutral cultural object. As a book, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in Hong Kong. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: The source page records removal or withholding in public libraries amid the post-2020 tightening of Hong Kong's public reading infrastructure. More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "wikipedia-book-censorship-hong-kong"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "politics",
+    "public argument",
+    "state power"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "national-security",
+    "political-control",
+    "political-dissent"
+  ],
+  "overview": {
+    "englishDescription": "Tiananmen exiles : voices of the struggle for democracy in China is a book by Xiaoqing Rowena He. The source page records removal or withholding in public libraries amid the post-2020 tightening of Hong Kong's public reading infrastructure.",
+    "banningParagraphs": [
+      "Tiananmen exiles : voices of the struggle for democracy in China entered censorship debates as a book associated with politics, public argument, and state power. In the current dossier, the main state objections cluster around national security, political control, and political dissent.",
+      "The earliest event currently captured here is 2023-02-28 in Hong Kong, where Hong Kong public libraries and other government-managed collections removed from government-managed collections. The source page records removal or withholding in public libraries amid the post-2020 tightening of Hong Kong's public reading infrastructure. The source page records removal or withholding in public libraries amid the post-2020 tightening of Hong Kong's public reading infrastructure.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-book-censorship-hong-kong",
+    "wikipedia-summary-api",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Tiananmen%20exiles%20%3A%20voices%20of%20the%20struggle%20for%20democracy%20in%20China%20Xiaoqing%20Rowena%20He"
+}

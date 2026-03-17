@@ -1,0 +1,110 @@
+{
+  "id": "jinnah-india-partition-independence-jaswant-singh",
+  "slug": "jinnah-india-partition-independence-jaswant-singh",
+  "title": "Jinnah: India, Partition, Independence",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "Jaswant Singh"
+  ],
+  "workType": "Book",
+  "originalLanguage": null,
+  "publishedYearText": null,
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "Jinnah: India, Partition, Independence is a book by Jaswant Singh. The book was on banned on 19 August 2009, for containing defamatory references to Sardar Vallabhbhai Patel.",
+  "descriptionParagraphs": [
+    "Jinnah: India, Partition, Independence is a book by Jaswant Singh. The book was on banned on 19 August 2009, for containing defamatory references to Sardar Vallabhbhai Patel.",
+    "What makes it interesting is the way a book becomes legible to officials as a political instrument rather than a neutral cultural object. As a book, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in India. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: Banned in Gujarat but overturned. The book was on banned on 19 August 2009, for containing defamatory references to Sardar Vallabhbhai Patel. Jaswant Singh was also expelled from his political party, BJP, for writing. More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "wikipedia-books-banned-india"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "politics",
+    "public argument",
+    "state power"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "political-control",
+    "political-dissent"
+  ],
+  "overview": {
+    "englishDescription": "Jinnah: India, Partition, Independence is a book by Jaswant Singh. The book was on banned on 19 August 2009, for containing defamatory references to Sardar Vallabhbhai Patel.",
+    "banningParagraphs": [
+      "Jinnah: India, Partition, Independence entered censorship debates as a book associated with politics, public argument, and state power. In the current dossier, the main state objections cluster around political control and political dissent.",
+      "The earliest event currently captured here is 2009 in India, where Government of Gujarat banned publication, sale, or possession. Banned in Gujarat but overturned. The book was on banned on 19 August 2009, for containing defamatory references to Sardar Vallabhbhai Patel. Jaswant Singh was also expelled from his political party, BJP, for writing. Banned in Gujarat but overturned. The book was on banned on 19 August 2009, for containing defamatory references to Sardar Vallabhbhai Patel. Jaswant Singh was also expelled from his political party, BJP, for writing this book. On 4 September, the Gujarat.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-books-banned-india",
+    "wikipedia-summary-api",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Jinnah%3A%20India%2C%20Partition%2C%20Independence%20Jaswant%20Singh"
+}

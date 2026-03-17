@@ -2,6 +2,9 @@
   "id": "boy",
   "slug": "boy",
   "title": "Boy",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
   "authors": [
     "James Hanley"
   ],

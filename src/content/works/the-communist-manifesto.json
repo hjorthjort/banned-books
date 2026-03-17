@@ -2,6 +2,9 @@
   "id": "the-communist-manifesto",
   "slug": "the-communist-manifesto",
   "title": "The Communist Manifesto",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
   "authors": [
     "Karl Marx",
     "Friedrich Engels"
@@ -14,7 +17,8 @@
   "description": "A revolutionary pamphlet calling for class struggle and the overthrow of capitalist society.",
   "descriptionParagraphs": [
     "The Communist Manifesto compresses a sweeping theory of history into a short, urgent polemic about class struggle, capitalist transformation, and revolutionary possibility. Marx and Engels depict the bourgeoisie as an immensely dynamic force that has remade the world, even as they argue that capitalism generates exploitation, instability, and the collective power that could overthrow it.",
-    "What makes the text durable is its combination of diagnosis and slogan. It is both analytic and rhetorical, capable of striking formulations about markets, labor, and social change that have outlived the immediate moment of publication. Even critics read it because it captures the drama of capitalism's creative destruction with unusual speed, clarity, and antagonistic energy."
+    "What makes the text durable is its combination of diagnosis and slogan. It is both analytic and rhetorical, capable of striking formulations about markets, labor, and social change that have outlived the immediate moment of publication. Even critics read it because it captures the drama of capitalism's creative destruction with unusual speed, clarity, and antagonistic energy.",
+    "A revolutionary pamphlet calling for class struggle and the overthrow of capitalist society."
   ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",

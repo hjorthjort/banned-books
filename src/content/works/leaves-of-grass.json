@@ -2,6 +2,9 @@
   "id": "leaves-of-grass",
   "slug": "leaves-of-grass",
   "title": "Leaves of Grass",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
   "authors": [
     "Walt Whitman"
   ],
@@ -13,7 +16,8 @@
   "description": "Whitman's expansive poetic celebration of democracy, the body, labor, and desire.",
   "descriptionParagraphs": [
     "Leaves of Grass is Whitman's long, evolving poetic project of self, nation, body, labor, comradeship, and democratic expansiveness. The poems stretch outward in catalogs, apostrophes, erotic addresses, and prophetic announcements, trying to invent a voice large enough to hold common speech, sensual life, spiritual speculation, and civic aspiration at once.",
-    "The work's themes are equality, embodiment, mortality, desire, and the hope that poetry can register the fullness of ordinary existence without hierarchy. Its importance lies in that wager on scale and inclusiveness. Whitman makes lyric poetry sound public, intimate, sexual, and national all at the same time, which is part of why the book was felt as liberating by some readers and scandalous by others."
+    "The work's themes are equality, embodiment, mortality, desire, and the hope that poetry can register the fullness of ordinary existence without hierarchy. Its importance lies in that wager on scale and inclusiveness. Whitman makes lyric poetry sound public, intimate, sexual, and national all at the same time, which is part of why the book was felt as liberating by some readers and scandalous by others.",
+    "Whitman's expansive poetic celebration of democracy, the body, labor, and desire."
   ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",

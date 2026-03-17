@@ -1,0 +1,21 @@
+{
+  "id": "prisoner-of-the-state-zhao-ziyang--1",
+  "workId": "prisoner-of-the-state-zhao-ziyang",
+  "jurisdictionId": "china",
+  "governingBody": "Chinese state censors and party authorities",
+  "dateText": "20th-21st century",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "banned or suppressed publication",
+  "reasonTags": [
+    "political-control",
+    "political-dissent"
+  ],
+  "reasonSummary": "Banned. The book is memoirs by former Chinese General Secretary Zhao Ziyang.",
+  "note": "Banned. The book is memoirs by former Chinese General Secretary Zhao Ziyang.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-book-censorship-china"
+  ],
+  "reviewStatus": "verified"
+}

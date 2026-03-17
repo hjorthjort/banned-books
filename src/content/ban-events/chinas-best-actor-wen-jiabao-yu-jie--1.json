@@ -1,0 +1,21 @@
+{
+  "id": "chinas-best-actor-wen-jiabao-yu-jie--1",
+  "workId": "chinas-best-actor-wen-jiabao-yu-jie",
+  "jurisdictionId": "china",
+  "governingBody": "Chinese state censors and party authorities",
+  "dateText": "20th-21st century",
+  "startYear": 2012,
+  "endYear": null,
+  "actionType": "banned or suppressed publication",
+  "reasonTags": [
+    "political-control",
+    "political-dissent"
+  ],
+  "reasonSummary": "Published in Hong Kong and banned in mainland China. Author moved to the United States in 2012.",
+  "note": "Published in Hong Kong and banned in mainland China. Author moved to the United States in 2012.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-book-censorship-china"
+  ],
+  "reviewStatus": "verified"
+}
