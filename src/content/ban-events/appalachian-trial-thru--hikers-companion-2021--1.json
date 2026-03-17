@@ -1,0 +1,21 @@
+{
+  "id": "appalachian-trial-thru--hikers-companion-2021--1",
+  "workId": "appalachian-trial-thru--hikers-companion-2021",
+  "jurisdictionId": "virginia",
+  "governingBody": "Virginia corrections agencies and prison mailrooms",
+  "dateText": "7273",
+  "startYear": 7273,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Virginia prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: 58 59 7273",
+  "note": "The Virginia prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: 58 59 7273",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

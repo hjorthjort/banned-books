@@ -1,0 +1,21 @@
+{
+  "id": "red-europe-frank-anstey--1",
+  "workId": "red-europe-frank-anstey",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "New Zealand censorship authorities",
+  "dateText": "20th century",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "political-control",
+    "political-dissent"
+  ],
+  "reasonSummary": "Banned by the Reform Government according to Opposition MP Harry Holland.",
+  "note": "Banned by the Reform Government according to Opposition MP Harry Holland.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

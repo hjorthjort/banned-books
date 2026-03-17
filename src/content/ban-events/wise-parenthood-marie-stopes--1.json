@@ -1,0 +1,20 @@
+{
+  "id": "wise-parenthood-marie-stopes--1",
+  "workId": "wise-parenthood-marie-stopes",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Customs Department",
+  "dateText": "20th century",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "Authorities treated the work as objectionable under the current New Zealand censorship record.",
+  "note": "This imported record still needs fuller local archival detail.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

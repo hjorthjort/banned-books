@@ -1,0 +1,21 @@
+{
+  "id": "fema-is-346-an-orientation-to-hazardous-material-for-medical-personnel-91997-issue-fema--1",
+  "workId": "fema-is-346-an-orientation-to-hazardous-material-for-medical-personnel-91997-issue-fema",
+  "jurisdictionId": "michigan",
+  "governingBody": "Michigan corrections agencies and prison mailrooms",
+  "dateText": "2004-06-01",
+  "startYear": 2004,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Michigan prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: Threat to the.",
+  "note": "The Michigan prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: Threat to the order and security of the institution.",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

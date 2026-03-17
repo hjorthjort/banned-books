@@ -8,8 +8,10 @@
   "endYear": null,
   "actionType": "removed from government-managed collections",
   "reasonTags": [
+    "instructional-harm",
     "national-security",
-    "political-dissent"
+    "political-dissent",
+    "public-order"
   ],
   "reasonSummary": "The source page records removal or withholding in public libraries amid the post-2020 tightening of Hong Kong's public reading infrastructure.",
   "note": "The source page records removal or withholding in public libraries amid the post-2020 tightening of Hong Kong's public reading infrastructure.",

@@ -8,7 +8,8 @@
   "endYear": null,
   "actionType": "banned publication or circulation",
   "reasonTags": [
-    "political-sensitivity"
+    "incitement-to-violence",
+    "violence"
   ],
   "reasonSummary": "Criminal due to containing information useful to terrorists.",
   "note": "Criminal due to containing information useful to terrorists.",

@@ -1,0 +1,88 @@
+{
+  "id": "americas-massacre-butler-2014",
+  "slug": "americas-massacre-butler-2014",
+  "title": "Americas Massacre",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "Butler 2014"
+  ],
+  "workType": "Book",
+  "originalLanguage": null,
+  "publishedYearText": null,
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "Americas Massacre is a book by Butler 2014. The Virginia prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime.",
+  "descriptionParagraphs": [
+    "Americas Massacre is a book by Butler 2014. The Virginia prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime.",
+    "What makes it interesting is the prison-censorship logic: officials treat the book as a practical threat model and collapse the distinction between reading about something and doing it. As a book, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in Virginia. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: The Virginia prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: C, F More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "circulation politics",
+    "institutional control",
+    "risk knowledge"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "overview": {
+    "englishDescription": "Americas Massacre is a book by Butler 2014. The Virginia prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime.",
+    "banningParagraphs": [
+      "Americas Massacre entered censorship debates as a book associated with circulation politics, institutional control, and risk knowledge. In the current dossier, the main state objections cluster around instructional harm and public order.",
+      "The earliest event currently captured here is Date not yet pinned down in Virginia, where Virginia corrections agencies and prison mailrooms excluded from prison circulation. The Virginia prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: C, F The Virginia prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: C, F",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "marshall-project-prison-bans",
+    "wikipedia-summary-api",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Americas%20Massacre%20Butler%202014"
+}

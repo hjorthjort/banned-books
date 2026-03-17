@@ -1,0 +1,101 @@
+{
+  "id": "psychopathia-sexualis-richard-von-krafft-ebing",
+  "slug": "psychopathia-sexualis-richard-von-krafft-ebing",
+  "title": "Psychopathia Sexualis",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "Richard von Krafft-Ebing"
+  ],
+  "workType": "Medical textbook",
+  "originalLanguage": null,
+  "publishedYearText": "1887",
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "Psychopathia Sexualis is a medical textbook by Richard von Krafft-Ebing. It was given an unrestricted classification by the OFLC in 2015.",
+  "descriptionParagraphs": [
+    "Psychopathia Sexualis is a medical textbook by Richard von Krafft-Ebing. It was given an unrestricted classification by the OFLC in 2015.",
+    "Its interest lies partly in the way literary or informational writing gets collapsed into a public-morality problem. As a medical textbook, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in New Zealand. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: In 1967 its sale was restricted to persons concerned either professionally or as students with sexual abnormalities. It was given an unrestricted classification by the OFLC in 2015. More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "marshall-project-prison-bans",
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "morality",
+    "print scandal",
+    "sexuality"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "overview": {
+    "englishDescription": "Psychopathia Sexualis is a medical textbook by Richard von Krafft-Ebing. It was given an unrestricted classification by the OFLC in 2015.",
+    "banningParagraphs": [
+      "Psychopathia Sexualis entered censorship debates as a medical textbook associated with morality, print scandal, and sexuality. In the current dossier, the main state objections cluster around obscenity and public morality.",
+      "The earliest event currently captured here is 1967-2015 in New Zealand, where Indecent Publications Tribunal classified, prohibited, or restricted. In 1967 its sale was restricted to persons concerned either professionally or as students with sexual abnormalities. It was given an unrestricted classification by the OFLC in 2015. In 1967 its sale was restricted to persons concerned either professionally or as students with sexual abnormalities. It was given an unrestricted classification by the OFLC in 2015.",
+      "The record already stretches across New Zealand and Texas, which is why the page should be read as a cross-border censorship trail rather than a single isolated dispute."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: Literature Suppressed on Sexual Grounds",
+      "author": "Dawn B. Sova",
+      "url": "https://archive.org/details/literaturesuppre0000sova_r9r5",
+      "note": "Surveys the legal and moral language used to suppress books as obscene.",
+      "sourceIds": [
+        "sova-sexual-grounds"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "marshall-project-prison-bans",
+    "wikipedia-books-banned-new-zealand",
+    "wikipedia-summary-api",
+    "karolides-1999",
+    "haight-1978",
+    "sova-sexual-grounds"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Psychopathia%20Sexualis%20Richard%20von%20Krafft-Ebing"
+}

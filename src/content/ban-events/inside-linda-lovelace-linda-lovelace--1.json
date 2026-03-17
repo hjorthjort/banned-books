@@ -1,0 +1,21 @@
+{
+  "id": "inside-linda-lovelace-linda-lovelace--1",
+  "workId": "inside-linda-lovelace-linda-lovelace",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Indecent Publications Tribunal",
+  "dateText": "1974",
+  "startYear": 1974,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "Ruled indecent in 1974 and 1978.",
+  "note": "Ruled indecent in 1974 and 1978.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

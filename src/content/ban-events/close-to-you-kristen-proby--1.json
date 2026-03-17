@@ -1,0 +1,21 @@
+{
+  "id": "close-to-you-kristen-proby--1",
+  "workId": "close-to-you-kristen-proby",
+  "jurisdictionId": "oregon",
+  "governingBody": "Oregon corrections agencies and prison mailrooms",
+  "dateText": "Date not yet pinned down",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Oregon prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported row does not preserve a fuller.",
+  "note": "The Oregon prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported row does not preserve a fuller justification.",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

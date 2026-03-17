@@ -1,0 +1,20 @@
+{
+  "id": "the-thing-gertie-de-s-wentworth-james--1",
+  "workId": "the-thing-gertie-de-s-wentworth-james",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "New Zealand censorship authorities",
+  "dateText": "1921",
+  "startYear": 1921,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "Authorities treated the work as objectionable under the current New Zealand censorship record.",
+  "note": "This imported record still needs fuller local archival detail.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

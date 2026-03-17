@@ -1,0 +1,20 @@
+{
+  "id": "six-chapters-in-a-mans-life-victoria-cross--1",
+  "workId": "six-chapters-in-a-mans-life-victoria-cross",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Customs Department",
+  "dateText": "20th century",
+  "startYear": 1921,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "The book was on the Customs lists of prohibited books in 1921.",
+  "note": "The book was on the Customs lists of prohibited books in 1921.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

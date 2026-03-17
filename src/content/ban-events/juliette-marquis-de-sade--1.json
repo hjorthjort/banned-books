@@ -1,0 +1,21 @@
+{
+  "id": "juliette-marquis-de-sade--1",
+  "workId": "juliette-marquis-de-sade",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Indecent Publications Tribunal",
+  "dateText": "20th century",
+  "startYear": 1969,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "In 1969 it was ruled indecent except in the hands of bona fide students over the age of 20 years engaged in work or research in sociological and related fields.",
+  "note": "In 1969 it was ruled indecent except in the hands of bona fide students over the age of 20 years engaged in work or research in sociological and related fields.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

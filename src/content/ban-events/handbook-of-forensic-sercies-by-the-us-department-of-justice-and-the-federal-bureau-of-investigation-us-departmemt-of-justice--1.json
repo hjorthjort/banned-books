@@ -1,0 +1,21 @@
+{
+  "id": "handbook-of-forensic-sercies-by-the-us-department-of-justice-and-the-federal-bureau-of-investigation-us-departmemt-of-justice--1",
+  "workId": "handbook-of-forensic-sercies-by-the-us-department-of-justice-and-the-federal-bureau-of-investigation-us-departmemt-of-justice",
+  "jurisdictionId": "michigan",
+  "governingBody": "Michigan corrections agencies and prison mailrooms",
+  "dateText": "2013-04-13",
+  "startYear": 2013,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Michigan prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: This book.",
+  "note": "The Michigan prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: This book provides specific information about the.",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

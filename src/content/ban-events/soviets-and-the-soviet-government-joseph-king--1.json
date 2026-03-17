@@ -1,0 +1,21 @@
+{
+  "id": "soviets-and-the-soviet-government-joseph-king--1",
+  "workId": "soviets-and-the-soviet-government-joseph-king",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "New Zealand censorship authorities",
+  "dateText": "1920",
+  "startYear": 1920,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "political-control",
+    "political-dissent"
+  ],
+  "reasonSummary": "Barred by Customs from entering New Zealand in 1920.",
+  "note": "Barred by Customs from entering New Zealand in 1920.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

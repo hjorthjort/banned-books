@@ -16,7 +16,7 @@
   "description": "Reverend Insanity (2012-2019) is a web novel / xianxia by Gu Zhen Ren. Removed from major Chinese online platforms following a government ban in mainland China, as the work was deemed to promote unhealthy values of violence, cruelty, and extreme individualism.",
   "descriptionParagraphs": [
     "Reverend Insanity (2012-2019) is a web novel / xianxia by Gu Zhen Ren. Removed from major Chinese online platforms following a government ban in mainland China, as the work was deemed to promote unhealthy values of violence, cruelty, and extreme individualism.",
-    "What makes it interesting is the way a book becomes legible to officials as a political instrument rather than a neutral cultural object. As a web novel / xianxia, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "Its interest lies in how censors blur depiction, endorsement, and imitation, treating a book's violent material as if it were already an act. As a web novel / xianxia, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
     "It also matters as part of a wider censorship history in China. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: Removed from major Chinese online platforms following a government ban in mainland China, as the work was deemed to promote unhealthy values of violence, cruelty, and extreme individualism. More publication history, translations, and close reading can be added later."
   ],
   "descriptionSourceIds": [
@@ -28,44 +28,24 @@
     "basis": "copies_sold_estimate"
   },
   "contentTags": [
-    "politics",
-    "public argument",
-    "state power"
+    "risk",
+    "sensational culture",
+    "violence"
   ],
   "criticismTargets": [],
   "reasonTags": [
-    "political-control",
-    "political-dissent"
+    "incitement-to-violence",
+    "violence"
   ],
   "overview": {
     "englishDescription": "Reverend Insanity (2012-2019) is a web novel / xianxia by Gu Zhen Ren. Removed from major Chinese online platforms following a government ban in mainland China, as the work was deemed to promote unhealthy values of violence, cruelty, and extreme individualism.",
     "banningParagraphs": [
-      "Reverend Insanity (2012-2019) entered censorship debates as a web novel / xianxia associated with politics, public argument, and state power. In the current dossier, the main state objections cluster around political control and political dissent.",
+      "Reverend Insanity (2012-2019) entered censorship debates as a web novel / xianxia associated with risk, sensational culture, and violence. In the current dossier, the main state objections cluster around incitement to violence and violence.",
       "The earliest event currently captured here is 20th-21st century in China, where Chinese state censors and party authorities banned or suppressed publication. Removed from major Chinese online platforms following a government ban in mainland China, as the work was deemed to promote unhealthy values of violence, cruelty, and extreme individualism. Removed from major Chinese online platforms following a government ban in mainland China, as the work was deemed to promote unhealthy values of violence, cruelty, and extreme individualism.",
       "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
     ]
   },
   "counterReadings": [
-    {
-      "type": "book",
-      "title": "The Origins of Totalitarianism",
-      "author": "Hannah Arendt",
-      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
-      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
-      "sourceIds": [
-        "arendt-origins-totalitarianism"
-      ]
-    },
-    {
-      "type": "book",
-      "title": "On Tyranny",
-      "author": "Timothy Snyder",
-      "url": "https://timothysnyder.org/on-tyranny",
-      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
-      "sourceIds": [
-        "snyder-on-tyranny"
-      ]
-    },
     {
       "type": "book",
       "title": "100 Banned Books: Censorship Histories of World Literature",
@@ -90,8 +70,6 @@
   "sourceIds": [
     "wikipedia-book-censorship-china",
     "wikipedia-summary-api",
-    "arendt-origins-totalitarianism",
-    "snyder-on-tyranny",
     "karolides-1999",
     "haight-1978"
   ],

@@ -1,0 +1,20 @@
+{
+  "id": "the-allies-crime-against-russia-aw-humphrey--1",
+  "workId": "the-allies-crime-against-russia-aw-humphrey",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "New Zealand censorship authorities",
+  "dateText": "1920",
+  "startYear": 1920,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "Barred by Customs from entering New Zealand in 1920.",
+  "note": "Barred by Customs from entering New Zealand in 1920.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

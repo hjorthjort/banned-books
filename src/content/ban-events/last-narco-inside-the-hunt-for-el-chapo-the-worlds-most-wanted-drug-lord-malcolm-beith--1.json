@@ -1,0 +1,21 @@
+{
+  "id": "last-narco-inside-the-hunt-for-el-chapo-the-worlds-most-wanted-drug-lord-malcolm-beith--1",
+  "workId": "last-narco-inside-the-hunt-for-el-chapo-the-worlds-most-wanted-drug-lord-malcolm-beith",
+  "jurisdictionId": "michigan",
+  "governingBody": "Michigan corrections agencies and prison mailrooms",
+  "dateText": "2010-11-01",
+  "startYear": 2010,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Michigan prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: Mail.",
+  "note": "The Michigan prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: Mail encouraging or providing instruction in the.",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

@@ -29,19 +29,24 @@
   },
   "contentTags": [
     "controversy",
+    "morality",
+    "print scandal",
     "publication history",
+    "sexuality",
     "state scrutiny"
   ],
   "criticismTargets": [],
   "reasonTags": [
-    "political-sensitivity"
+    "political-sensitivity",
+    "obscenity",
+    "public-morality"
   ],
   "overview": {
     "englishDescription": "Fanny Hill or Memoirs of a Woman of Pleasure is a novel by John Cleland. Banned in the UK until after the Second World War.",
     "banningParagraphs": [
-      "Fanny Hill or Memoirs of a Woman of Pleasure entered censorship debates as a novel associated with controversy, publication history, and state scrutiny. In the current dossier, the main state objections cluster around political sensitivity.",
+      "Fanny Hill or Memoirs of a Woman of Pleasure entered censorship debates as a novel associated with controversy, morality, print scandal, publication history, sexuality, and state scrutiny. In the current dossier, the main state objections cluster around political sensitivity, obscenity, and public morality.",
       "The earliest event currently captured here is 1749 in United Kingdom, where United Kingdom authorities banned publication or circulation. Banned in the UK until after the Second World War. Banned in the UK until after the Second World War.",
-      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+      "The record already stretches across United Kingdom and United States, which is why the page should be read as a cross-border censorship trail rather than a single isolated dispute."
     ]
   },
   "counterReadings": [
@@ -64,13 +69,24 @@
       "sourceIds": [
         "haight-1978"
       ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: Literature Suppressed on Sexual Grounds",
+      "author": "Dawn B. Sova",
+      "url": "https://archive.org/details/literaturesuppre0000sova_r9r5",
+      "note": "Surveys the legal and moral language used to suppress books as obscene.",
+      "sourceIds": [
+        "sova-sexual-grounds"
+      ]
     }
   ],
   "sourceIds": [
     "wikipedia-government-list",
     "wikipedia-summary-api",
     "karolides-1999",
-    "haight-1978"
+    "haight-1978",
+    "sova-sexual-grounds"
   ],
   "sectionStatus": {
     "bibliographic": "seeded",

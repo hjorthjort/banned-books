@@ -1,0 +1,21 @@
+{
+  "id": "art-of-shaolin-kung-fu-wong-kit--2",
+  "workId": "art-of-shaolin-kung-fu-wong-kit",
+  "jurisdictionId": "virginia",
+  "governingBody": "Virginia corrections agencies and prison mailrooms",
+  "dateText": "Date not yet pinned down",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Virginia prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: D",
+  "note": "The Virginia prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: D",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

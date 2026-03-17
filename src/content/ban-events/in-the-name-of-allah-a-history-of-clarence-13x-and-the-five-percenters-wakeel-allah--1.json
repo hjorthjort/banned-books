@@ -1,0 +1,21 @@
+{
+  "id": "in-the-name-of-allah-a-history-of-clarence-13x-and-the-five-percenters-wakeel-allah--1",
+  "workId": "in-the-name-of-allah-a-history-of-clarence-13x-and-the-five-percenters-wakeel-allah",
+  "jurisdictionId": "wisconsin",
+  "governingBody": "Wisconsin corrections agencies and prison mailrooms",
+  "dateText": "2014-03-20",
+  "startYear": 2014,
+  "endYear": null,
+  "actionType": "excluded from prison circulation",
+  "reasonTags": [
+    "instructional-harm",
+    "public-order"
+  ],
+  "reasonSummary": "The Wisconsin prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: per DOC 309.05.",
+  "note": "The Wisconsin prison-ban record treats the book as excluded reading inside state custody, which shows how prison and mailroom censorship function as a government reading regime. The exported reason says: per DOC 309.05 (2)(b)(4) unsanctioned group",
+  "quotation": null,
+  "sourceIds": [
+    "marshall-project-prison-bans"
+  ],
+  "reviewStatus": "verified"
+}

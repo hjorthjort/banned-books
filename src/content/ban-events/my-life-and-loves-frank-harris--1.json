@@ -1,0 +1,21 @@
+{
+  "id": "my-life-and-loves-frank-harris--1",
+  "workId": "my-life-and-loves-frank-harris",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "New Zealand censorship authorities",
+  "dateText": "20th century",
+  "startYear": 1964,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "Banned before the Indecent Publications Act 1964. Found not indecent by the IPT in 1967.",
+  "note": "Banned before the Indecent Publications Act 1964. Found not indecent by the IPT in 1967.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

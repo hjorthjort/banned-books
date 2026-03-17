@@ -1,0 +1,20 @@
+{
+  "id": "into-the-river-ted-dawe--1",
+  "workId": "into-the-river-ted-dawe",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Office of Film and Literature Classification",
+  "dateText": "2015",
+  "startYear": 2015,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "Banned in 2015; subsequently unrestricted in the same year.",
+  "note": "Banned in 2015; subsequently unrestricted in the same year.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

@@ -10,7 +10,7 @@
   ],
   "workType": "Book",
   "originalLanguage": null,
-  "publishedYearText": null,
+  "publishedYearText": "1954",
   "wikipediaTitle": null,
   "wikipediaUrl": null,
   "description": "Rama Retold is a book by Aubrey Menen. This book cannot be imported into India.",
@@ -20,7 +20,8 @@
     "It also matters as part of a wider censorship history in India. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: This book cannot be imported into India. It was a play which was a spoof of the Ramayana. It was one of the first books to be banned in independent India. The American edition was simply called The Ramayana. More publication history, translations, and close reading can be added later."
   ],
   "descriptionSourceIds": [
-    "wikipedia-books-banned-india"
+    "wikipedia-books-banned-india",
+    "wikipedia-government-list"
   ],
   "cover": null,
   "ranking": {
@@ -29,19 +30,24 @@
   },
   "contentTags": [
     "controversy",
+    "doctrine",
+    "public controversy",
     "publication history",
+    "religion",
     "state scrutiny"
   ],
   "criticismTargets": [],
   "reasonTags": [
-    "political-sensitivity"
+    "political-sensitivity",
+    "religious-control",
+    "religious-offense"
   ],
   "overview": {
     "englishDescription": "Rama Retold is a book by Aubrey Menen. This book cannot be imported into India.",
     "banningParagraphs": [
-      "Rama Retold entered censorship debates as a book associated with controversy, publication history, and state scrutiny. In the current dossier, the main state objections cluster around political sensitivity.",
+      "Rama Retold entered censorship debates as a book associated with controversy, doctrine, public controversy, publication history, religion, and state scrutiny. In the current dossier, the main state objections cluster around political sensitivity, religious control, and religious offense.",
       "The earliest event currently captured here is 1955 in India, where Government of India or British Indian authorities banned publication, sale, or possession. This book cannot be imported into India. It was a play which was a spoof of the Ramayana. It was one of the first books to be banned in independent India. The American edition was simply called The Ramayana. This book cannot be imported into India. It was a play which was a spoof of the Ramayana. It was one of the first books to be banned in independent India. The American edition was simply called The Ramayana.",
-      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+      "The record already stretches across India, which is why the page should be read as a cross-border censorship trail rather than a single isolated dispute."
     ]
   },
   "counterReadings": [
@@ -64,13 +70,36 @@
       "sourceIds": [
         "haight-1978"
       ]
+    },
+    {
+      "type": "article",
+      "title": "Assassins of the Mind",
+      "author": "Christopher Hitchens",
+      "url": "https://www.vanityfair.com/news/2009/02/rushdie200902",
+      "note": "Frames the Rushdie affair as a test of free speech against violent religious intimidation.",
+      "sourceIds": [
+        "hitchens-assassins-of-the-mind"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "From Fatwa to Jihad",
+      "author": "Kenan Malik",
+      "url": "https://www.malikonline.co.uk/books/from-fatwa-to-jihad/",
+      "note": "Tracks how conflicts over blasphemy, race, and offense evolved after the Rushdie controversy.",
+      "sourceIds": [
+        "malik-from-fatwa-to-jihad"
+      ]
     }
   ],
   "sourceIds": [
     "wikipedia-books-banned-india",
+    "wikipedia-government-list",
     "wikipedia-summary-api",
     "karolides-1999",
-    "haight-1978"
+    "haight-1978",
+    "hitchens-assassins-of-the-mind",
+    "malik-from-fatwa-to-jihad"
   ],
   "sectionStatus": {
     "bibliographic": "seeded",

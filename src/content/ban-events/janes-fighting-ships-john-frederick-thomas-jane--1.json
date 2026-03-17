@@ -1,0 +1,20 @@
+{
+  "id": "janes-fighting-ships-john-frederick-thomas-jane--1",
+  "workId": "janes-fighting-ships-john-frederick-thomas-jane",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "New Zealand censorship authorities",
+  "dateText": "20th century",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "Authorities treated the work as objectionable under the current New Zealand censorship record.",
+  "note": "This imported record still needs fuller local archival detail.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

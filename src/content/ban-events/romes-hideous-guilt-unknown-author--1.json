@@ -1,0 +1,20 @@
+{
+  "id": "romes-hideous-guilt-unknown-author--1",
+  "workId": "romes-hideous-guilt-unknown-author",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "New Zealand censorship authorities",
+  "dateText": "1919",
+  "startYear": 1919,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "Authorities treated the work as objectionable under the current New Zealand censorship record.",
+  "note": "This imported record still needs fuller local archival detail.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

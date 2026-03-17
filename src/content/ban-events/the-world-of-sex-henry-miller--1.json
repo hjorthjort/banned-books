@@ -1,0 +1,21 @@
+{
+  "id": "the-world-of-sex-henry-miller--1",
+  "workId": "the-world-of-sex-henry-miller",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Customs Department",
+  "dateText": "20th century",
+  "startYear": 1934,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "Henry Miller novels were on the Customs Department's list of banned books for periods between 1934 and 1964. Found not indecent by the IPT in 1967.",
+  "note": "Henry Miller novels were on the Customs Department's list of banned books for periods between 1934 and 1964. Found not indecent by the IPT in 1967.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

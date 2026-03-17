@@ -2,8 +2,9 @@
 
 from __future__ import annotations
 
+import csv
+import io
 import json
-import os
 import re
 import subprocess
 import sys
@@ -18,7 +19,7 @@ from typing import Callable
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT_PATH = ROOT / "scripts" / "data" / "imported-works.json"
 USER_AGENT = "ForbiddenBooksWiki/1.0 (+https://forbidden-books.example)"
-TARGET_IMPORTED_COUNT = 900
+TARGET_TOTAL_COUNT = 10000
 
 EXISTING_GLOBAL_JURISDICTIONS = {
     "Albania": "albania",
@@ -76,11 +77,60 @@ PAGE_PRIORITY = {
     "wikipedia-book-censorship-iran": 300,
     "wikipedia-government-list": 200,
     "wikipedia-books-banned-new-zealand": 150,
+    "marshall-project-prison-bans": 75,
 }
 
 TITLE_OVERRIDE_TRANSLATIONS = {
     "重構二二八：戰後美中體制、中國統治模式與臺灣": "Reconstructing 228: The Postwar US-China System, China's Governance Model, and Taiwan",
     "香港政治：發展歷程與核心課題": "Hong Kong Politics: Development History and Core Issues",
+}
+
+PRISON_STATE_INFO = {
+    "az": ("arizona", "Arizona"),
+    "ca": ("california", "California"),
+    "ct": ("connecticut", "Connecticut"),
+    "fl": ("florida", "Florida"),
+    "ga": ("georgia", "Georgia"),
+    "ia": ("iowa", "Iowa"),
+    "il": ("illinois", "Illinois"),
+    "ks": ("kansas", "Kansas"),
+    "mi": ("michigan", "Michigan"),
+    "mt": ("montana", "Montana"),
+    "nc": ("north-carolina", "North Carolina"),
+    "nj": ("new-jersey", "New Jersey"),
+    "or": ("oregon", "Oregon"),
+    "ri": ("rhode-island", "Rhode Island"),
+    "sc": ("south-carolina", "South Carolina"),
+    "tx": ("texas", "Texas"),
+    "va": ("virginia", "Virginia"),
+    "wi": ("wisconsin", "Wisconsin"),
+}
+
+PRISON_STATE_FILES = {
+    "az": ["https://s3.amazonaws.com/tmp-gfx-public-data/banned-books20220819/banned_book_data_az-list.csv"],
+    "ca": ["https://s3.amazonaws.com/tmp-gfx-public-data/banned-books20220819/banned_book_data_ca-list.csv"],
+    "ct": ["https://s3.amazonaws.com/tmp-gfx-public-data/banned-books20220819/banned_book_data_ct-list.csv"],
+    "fl": [
+        "https://s3.amazonaws.com/tmp-gfx-public-data/banned-books20220819/banned_book_data_fl-list-1.csv",
+        "https://s3.amazonaws.com/tmp-gfx-public-data/banned-books20220819/banned_book_data_fl-list-2.csv",
+    ],
+    "ga": ["https://s3.amazonaws.com/tmp-gfx-public-data/banned-books20220819/banned_book_data_ga-list.csv"],
+    "ia": ["https://s3.amazonaws.com/tmp-gfx-public-data/banned-books20220819/banned_book_data_ia-list.csv"],
+    "il": ["https://s3.amazonaws.com/tmp-gfx-public-data/banned-books20220819/banned_book_data_il-list-2.csv"],
+    "ks": ["https://s3.amazonaws.com/tmp-gfx-public-data/banned-books20220819/banned_book_data_ks-list.csv"],
+    "mi": ["https://s3.amazonaws.com/tmp-gfx-public-data/banned-books20220819/banned_book_data_mi-list.csv"],
+    "mt": ["https://s3.amazonaws.com/tmp-gfx-public-data/banned-books20220819/banned_book_data_mt-list.csv"],
+    "nc": ["https://s3.amazonaws.com/tmp-gfx-public-data/banned-books20220819/banned_book_data_nc-list.csv"],
+    "nj": ["https://s3.amazonaws.com/tmp-gfx-public-data/banned-books20220819/banned_book_data_nj-list.csv"],
+    "or": ["https://s3.amazonaws.com/tmp-gfx-public-data/banned-books20220819/banned_book_data_or-list.csv"],
+    "ri": ["https://s3.amazonaws.com/tmp-gfx-public-data/banned-books20220819/banned_book_data_ri-list.csv"],
+    "sc": ["https://s3.amazonaws.com/tmp-gfx-public-data/banned-books20220819/banned_book_data_sc-list.csv"],
+    "tx": ["https://s3.amazonaws.com/tmp-gfx-public-data/banned-books20220819/banned_book_data_tx-list.csv"],
+    "va": ["https://s3.amazonaws.com/tmp-gfx-public-data/banned-books20220819/banned_book_data_va-list.csv"],
+    "wi": [
+        "https://s3.amazonaws.com/tmp-gfx-public-data/banned-books20220819/banned_book_data_wi-list-1.csv",
+        "https://s3.amazonaws.com/tmp-gfx-public-data/banned-books20220819/banned_book_data_wi-list-2.csv",
+    ],
 }
 
 
@@ -246,6 +296,32 @@ def detect_profile(
         content_tags.extend(["religion", "doctrine", "public controversy"])
         counter_themes = ["religious-freedom", "censorship"]
         hook = "What makes it interesting is that interpretation, devotion, satire, or doctrinal conflict becomes a matter of state administration."
+    elif any(
+        term in haystack
+        for term in (
+            "criminal activity",
+            "security issue",
+            "safety/security",
+            "institutional security",
+            "contraband",
+            "escape",
+            "weapon",
+            "wiring information",
+            "computer security",
+            "mailroom",
+            "prison",
+            "corrections",
+        )
+    ):
+        reason_tags.extend(["instructional-harm", "public-order"])
+        content_tags.extend(["institutional control", "risk knowledge", "circulation politics"])
+        counter_themes = ["censorship"]
+        hook = "What makes it interesting is the prison-censorship logic: officials treat the book as a practical threat model and collapse the distinction between reading about something and doing it."
+    elif any(term in haystack for term in ("violence", "violent", "murder", "killing", "assassin", "terror")):
+        reason_tags.extend(["violence", "incitement-to-violence"])
+        content_tags.extend(["violence", "risk", "sensational culture"])
+        counter_themes = ["censorship"]
+        hook = "Its interest lies in how censors blur depiction, endorsement, and imitation, treating a book's violent material as if it were already an act."
     elif any(term in haystack for term in ("communist", "ccp", "party", "dissident", "national security", "state", "government", "revolution", "sovereignty", "democracy", "dictator", "military")):
         reason_tags.extend(["political-dissent", "political-control"])
         content_tags.extend(["politics", "state power", "public argument"])
@@ -377,6 +453,55 @@ def title_key(title: str, authors: list[str]) -> tuple[str, str]:
     normalized_title = re.sub(r"\s+", " ", clean_text(title).lower())
     author_key = normalize_author(authors[0] if authors else "").lower()
     return normalized_title, author_key
+
+
+def fetch_text(url: str) -> str:
+    request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    with urllib.request.urlopen(request, timeout=60) as response:
+        return response.read().decode("utf8", "ignore")
+
+
+def fetch_csv_rows(url: str) -> list[dict[str, str]]:
+    payload = fetch_text(url)
+    return list(csv.DictReader(io.StringIO(payload)))
+
+
+def looks_like_placeholder_title(title: str) -> bool:
+    cleaned = clean_text(title)
+    if not cleaned:
+        return True
+    if re.fullmatch(r"\[[^\]]*language characters[^\]]*\][\s\.\-:;]*", cleaned, flags=re.IGNORECASE):
+        return True
+    if not re.search(r"[A-Za-z0-9\u0080-\uffff]", cleaned):
+        return True
+    return False
+
+
+def prison_reason_tags(reason: str) -> list[str]:
+    haystack = reason.lower()
+    tags: list[str] = []
+
+    if any(term in haystack for term in ("sexual", "nudity", "obscene", "porn", "erotic")):
+        tags.extend(["obscenity", "public-morality"])
+    if any(term in haystack for term in ("criminal activity", "security", "safety", "escape", "weapon", "hacking", "contraband")):
+        tags.extend(["instructional-harm", "public-order"])
+    if any(term in haystack for term in ("violence", "violent", "kill", "mutilat", "terror")):
+        tags.extend(["violence", "incitement-to-violence"])
+    if any(term in haystack for term in ("relig", "quran", "islam", "prophet")):
+        tags.extend(["religious-offense", "religious-control"])
+
+    return sorted(set(tags))
+
+
+def build_prison_note(state_name: str, reason: str) -> str:
+    base = (
+        f"The {state_name} prison-ban record treats the book as excluded reading inside state custody, "
+        "which shows how prison and mailroom censorship function as a government reading regime."
+    )
+    reason = short_note(reason, 220)
+    if reason:
+        return f"{base} The exported reason says: {reason}"
+    return f"{base} The exported row does not preserve a fuller justification."
 
 
 def build_description_paragraphs(
@@ -616,7 +741,7 @@ class Candidate:
     counter_themes: list[str]
     source_ids: list[str]
     description_source_ids: list[str]
-    ban_event: dict[str, object]
+    ban_events: list[dict[str, object]]
     priority: int
 
     @property
@@ -718,7 +843,7 @@ def build_candidate(
         counter_themes=counter_themes,
         source_ids=[source_id],
         description_source_ids=[source_id],
-        ban_event=ban_event,
+        ban_events=[ban_event],
         priority=priority,
     )
 
@@ -953,8 +1078,53 @@ def iter_new_zealand_candidates() -> list[Candidate]:
     return candidates
 
 
+def iter_marshall_project_candidates() -> list[Candidate]:
+    candidates: list[Candidate] = []
+
+    for state_code, urls in PRISON_STATE_FILES.items():
+        jurisdiction_id, state_name = PRISON_STATE_INFO[state_code]
+        for url in urls:
+            for row in fetch_csv_rows(url):
+                raw_title = clean_text(row.get("publication", ""))
+                raw_author = clean_text(row.get("author", ""))
+
+                if looks_like_placeholder_title(raw_title):
+                    continue
+                if not raw_author:
+                    continue
+
+                lowered_title = raw_title.lower()
+                if any(token in lowered_title for token in ("magazine", "newsletter", "periodical", "newspaper")):
+                    continue
+
+                reason = clean_text(row.get("reason", ""))
+                date_text = clean_text(row.get("date", "")) or (row.get("year", "").strip() if row.get("year") else "")
+
+                candidate = build_candidate(
+                    source_id="marshall-project-prison-bans",
+                    jurisdiction_id=jurisdiction_id,
+                    jurisdiction_name=state_name,
+                    raw_title=raw_title,
+                    raw_author=raw_author,
+                    raw_type="Book",
+                    raw_published=None,
+                    raw_date=date_text,
+                    note=build_prison_note(state_name, reason),
+                    governing_body=f"{state_name} corrections agencies and prison mailrooms",
+                    action_type="excluded from prison circulation",
+                    extra_reason_tags=prison_reason_tags(reason),
+                    start_year_fallback=extract_year(date_text) or extract_year(row.get("year")),
+                )
+                if candidate:
+                    if contains_non_latin(raw_title) or contains_non_latin(raw_author):
+                        candidate.priority += 15
+                    candidates.append(candidate)
+
+    return candidates
+
+
 def dedupe_candidates(
-    candidates: list[Candidate], existing_keys: set[tuple[str, str]], existing_titles: set[str]
+    candidates: list[Candidate], existing_keys: set[tuple[str, str]], existing_titles: set[str], target_count: int
 ) -> list[Candidate]:
     chosen: dict[tuple[str, str], Candidate] = {}
 
@@ -962,8 +1132,19 @@ def dedupe_candidates(
         if candidate.key in existing_keys or slugify(candidate.title) in existing_titles:
             continue
         current = chosen.get(candidate.key)
-        if current is None or candidate.priority > current.priority:
+        if current is None:
             chosen[candidate.key] = candidate
+            continue
+
+        current.content_tags = sorted(set(current.content_tags + candidate.content_tags))
+        current.counter_themes = sorted(set(current.counter_themes + candidate.counter_themes))
+        current.source_ids = sorted(set(current.source_ids + candidate.source_ids))
+        current.description_source_ids = sorted(set(current.description_source_ids + candidate.description_source_ids))
+        current.ban_events.extend(candidate.ban_events)
+
+        for field_name in ("original_title", "romanized_title", "title_note", "published_year_text", "original_language"):
+            if getattr(current, field_name) is None and getattr(candidate, field_name) is not None:
+                setattr(current, field_name, getattr(candidate, field_name))
 
     ordered = sorted(chosen.values(), key=lambda item: (-item.priority, item.title.lower(), item.authors[0].lower()))
     title_groups: dict[str, list[Candidate]] = {}
@@ -979,21 +1160,49 @@ def dedupe_candidates(
             filtered.append(group[0])
 
     filtered.sort(key=lambda item: (-item.priority, item.title.lower(), item.authors[0].lower()))
-    return filtered[:TARGET_IMPORTED_COUNT]
+    return filtered[:target_count]
 
 
 def ensure_unique_ids(records: list[dict[str, object]]) -> None:
-    seen: dict[str, int] = {}
+    seen_ids: dict[str, int] = {}
+    seen_slugs: dict[str, int] = {}
     for record in records:
-        base = slugify(f"{record['title']} {' '.join(record['authors'])}")
-        count = seen.get(base, 0)
-        record["id"] = base if count == 0 else f"{base}-{count + 1}"
-        seen[base] = count + 1
+        base_id = slugify(f"{record['title']} {' '.join(record['authors'])}")
+        id_count = seen_ids.get(base_id, 0)
+        record["id"] = base_id if id_count == 0 else f"{base_id}-{id_count + 1}"
+        seen_ids[base_id] = id_count + 1
+
+        base_slug = str(record.get("slug") or slugify(str(record["title"])))
+        slug_count = seen_slugs.get(base_slug, 0)
+        record["slug"] = base_slug if slug_count == 0 else f"{base_slug}-{slug_count + 1}"
+        seen_slugs[base_slug] = slug_count + 1
 
 
 def build_records(candidates: list[Candidate]) -> list[dict[str, object]]:
     records: list[dict[str, object]] = []
     for candidate in candidates:
+        event_key = lambda event: (
+            event["startYear"] or 9999,
+            str(event["jurisdictionId"]),
+            str(event["governingBody"]),
+            str(event["dateText"]),
+            str(event["reasonSummary"]),
+        )
+        ban_events = []
+        seen_events: set[tuple[object, ...]] = set()
+        for event in sorted(candidate.ban_events, key=event_key):
+            key = (
+                event["jurisdictionId"],
+                event["governingBody"],
+                event["dateText"],
+                event["actionType"],
+                event["reasonSummary"],
+            )
+            if key in seen_events:
+                continue
+            seen_events.add(key)
+            ban_events.append(event)
+
         record = {
             "title": candidate.title,
             "slug": slugify(f"{candidate.title} {candidate.authors[0]}"),
@@ -1013,7 +1222,7 @@ def build_records(candidates: list[Candidate]) -> list[dict[str, object]]:
             "counterThemes": candidate.counter_themes,
             "sourceIds": candidate.source_ids,
             "seedSourceIds": candidate.source_ids,
-            "banEvents": [candidate.ban_event],
+            "banEvents": ban_events,
             "sectionStatus": make_section_status(),
             "reviewStatus": "seeded",
             "published": True,
@@ -1029,6 +1238,7 @@ def build_records(candidates: list[Candidate]) -> list[dict[str, object]]:
 
 def main() -> int:
     existing_keys, existing_titles = load_existing_baseline()
+    target_imported_count = max(TARGET_TOTAL_COUNT - len(existing_keys), 0)
 
     candidates = []
     candidates.extend(iter_hong_kong_candidates())
@@ -1037,11 +1247,12 @@ def main() -> int:
     candidates.extend(iter_iran_candidates())
     candidates.extend(iter_global_candidates())
     candidates.extend(iter_new_zealand_candidates())
+    candidates.extend(iter_marshall_project_candidates())
 
-    selected = dedupe_candidates(candidates, existing_keys, existing_titles)
-    if len(selected) < TARGET_IMPORTED_COUNT:
+    selected = dedupe_candidates(candidates, existing_keys, existing_titles, target_imported_count)
+    if len(selected) < target_imported_count:
         print(
-            f"Expected at least {TARGET_IMPORTED_COUNT} imported works, only found {len(selected)} after dedupe.",
+            f"Expected at least {target_imported_count} imported works, only found {len(selected)} after dedupe.",
             file=sys.stderr,
         )
         return 1

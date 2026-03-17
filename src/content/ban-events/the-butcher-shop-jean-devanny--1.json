@@ -1,0 +1,21 @@
+{
+  "id": "the-butcher-shop-jean-devanny--1",
+  "workId": "the-butcher-shop-jean-devanny",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Customs Department",
+  "dateText": "1926",
+  "startYear": 1926,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "The first New Zealand novel to be banned. In March 1926, the Prime Minister's secretary received correspondence from London that described the book as \"disgusting indecent communistic\", and in April that year Customs.",
+  "note": "The first New Zealand novel to be banned. In March 1926, the Prime Minister's secretary received correspondence from London that described the book as \"disgusting indecent communistic\", and in April that year Customs was advised to ban it: \"The Board.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

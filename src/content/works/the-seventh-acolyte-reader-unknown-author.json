@@ -1,0 +1,87 @@
+{
+  "id": "the-seventh-acolyte-reader-unknown-author",
+  "slug": "the-seventh-acolyte-reader-unknown-author",
+  "title": "The Seventh Acolyte Reader",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "Unknown author"
+  ],
+  "workType": "Collection of short stories",
+  "originalLanguage": null,
+  "publishedYearText": "1992",
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "The Seventh Acolyte Reader is a collection of short stories by Unknown author. Banned in 1996.",
+  "descriptionParagraphs": [
+    "The Seventh Acolyte Reader is a collection of short stories by Unknown author. Banned in 1996.",
+    "The surviving record is interesting because it shows how even ordinary-looking books can acquire a charged political afterlife. As a collection of short stories, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in New Zealand. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: Banned in 1996. The ban was upheld by the Board of Review in 1997 and 2000. In Moonen v Film and Literature Board of Review, the 1997 classification was appealed to the High Court and then to the Court of Appeal. The. More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "controversy",
+    "publication history",
+    "state scrutiny"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "overview": {
+    "englishDescription": "The Seventh Acolyte Reader is a collection of short stories by Unknown author. Banned in 1996.",
+    "banningParagraphs": [
+      "The Seventh Acolyte Reader entered censorship debates as a collection of short stories associated with controversy, publication history, and state scrutiny. In the current dossier, the main state objections cluster around political sensitivity.",
+      "The earliest event currently captured here is 1996 in New Zealand, where Office of Film and Literature ClassificationFilm and Literature Board of Review classified, prohibited, or restricted. Banned in 1996. The ban was upheld by the Board of Review in 1997 and 2000. In Moonen v Film and Literature Board of Review, the 1997 classification was appealed to the High Court and then to the Court of Appeal. The. Banned in 1996. The ban was upheld by the Board of Review in 1997 and 2000. In Moonen v Film and Literature Board of Review, the 1997 classification was appealed to the High Court and then to the Court of Appeal. The Court of Appeal rejected the appeal, but.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand",
+    "wikipedia-summary-api",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Seventh%20Acolyte%20Reader%20Unknown%20author"
+}

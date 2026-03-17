@@ -1,0 +1,87 @@
+{
+  "id": "six-chapters-in-a-mans-life-victoria-cross",
+  "slug": "six-chapters-in-a-mans-life-victoria-cross",
+  "title": "Six Chapters in a Man's Life",
+  "originalTitle": null,
+  "romanizedTitle": null,
+  "titleNote": null,
+  "authors": [
+    "Victoria Cross"
+  ],
+  "workType": "Novel",
+  "originalLanguage": null,
+  "publishedYearText": "1903",
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "Six Chapters in a Man's Life is a novel by Victoria Cross. The book was on the Customs lists of prohibited books in 1921.",
+  "descriptionParagraphs": [
+    "Six Chapters in a Man's Life is a novel by Victoria Cross. The book was on the Customs lists of prohibited books in 1921.",
+    "The surviving record is interesting because it shows how even ordinary-looking books can acquire a charged political afterlife. As a novel, it can be read not only for subject matter but for the way form, tone, and circulation make a text feel dangerous, intimate, or politically usable to anxious officials.",
+    "It also matters as part of a wider censorship history in New Zealand. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: The book was on the Customs lists of prohibited books in 1921. More publication history, translations, and close reading can be added later."
+  ],
+  "descriptionSourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "controversy",
+    "publication history",
+    "state scrutiny"
+  ],
+  "criticismTargets": [],
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "overview": {
+    "englishDescription": "Six Chapters in a Man's Life is a novel by Victoria Cross. The book was on the Customs lists of prohibited books in 1921.",
+    "banningParagraphs": [
+      "Six Chapters in a Man's Life entered censorship debates as a novel associated with controversy, publication history, and state scrutiny. In the current dossier, the main state objections cluster around political sensitivity.",
+      "The earliest event currently captured here is 20th century in New Zealand, where Customs Department classified, prohibited, or restricted. The book was on the Customs lists of prohibited books in 1921. The book was on the Customs lists of prohibited books in 1921.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand",
+    "wikipedia-summary-api",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "seeded",
+    "description": "seeded",
+    "banningOverview": "seeded",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "seeded",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Six%20Chapters%20in%20a%20Man's%20Life%20Victoria%20Cross"
+}

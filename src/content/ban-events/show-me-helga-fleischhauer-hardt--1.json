@@ -1,0 +1,21 @@
+{
+  "id": "show-me-helga-fleischhauer-hardt--1",
+  "workId": "show-me-helga-fleischhauer-hardt",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Indecent Publications Tribunal",
+  "dateText": "1976",
+  "startYear": 1976,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "obscenity",
+    "public-morality"
+  ],
+  "reasonSummary": "The English-language edition was ruled indecent by the IPT in 1976. The German-language edition was classified as objectionable by the OFLC in 1996: \"the book purports to be a manual for the sexual education of.",
+  "note": "The English-language edition was ruled indecent by the IPT in 1976. The German-language edition was classified as objectionable by the OFLC in 1996: \"the book purports to be a manual for the sexual education of children, but presents children in an erotic.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

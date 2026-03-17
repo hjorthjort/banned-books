@@ -1,0 +1,20 @@
+{
+  "id": "opium-for-the-masses-jim-hogshire--1",
+  "workId": "opium-for-the-masses-jim-hogshire",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Office of Film and Literature Classification",
+  "dateText": "2002",
+  "startYear": 2002,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "Banned for explicitly detailing methods of procurement, cultivation, extraction and consumption of opium.",
+  "note": "Banned for explicitly detailing methods of procurement, cultivation, extraction and consumption of opium.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

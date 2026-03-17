@@ -1,0 +1,20 @@
+{
+  "id": "war-what-for-george-ross-kirkpatrick--1",
+  "workId": "war-what-for-george-ross-kirkpatrick",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "New Zealand censorship authorities",
+  "dateText": "1920",
+  "startYear": 1920,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "Withheld by Customs in 1920 although it had been distributed in the country previously.",
+  "note": "Withheld by Customs in 1920 although it had been distributed in the country previously.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

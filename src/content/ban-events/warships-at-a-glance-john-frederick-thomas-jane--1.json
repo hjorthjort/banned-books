@@ -1,0 +1,20 @@
+{
+  "id": "warships-at-a-glance-john-frederick-thomas-jane--1",
+  "workId": "warships-at-a-glance-john-frederick-thomas-jane",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Minister of Defence",
+  "dateText": "1915",
+  "startYear": 1915,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "Sale of these books was prohibited on 17 November 1915 under the War Regulations Act 1914.",
+  "note": "Sale of these books was prohibited on 17 November 1915 under the War Regulations Act 1914.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}

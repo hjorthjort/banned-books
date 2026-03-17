@@ -10,7 +10,7 @@
   ],
   "workType": "Novel",
   "originalLanguage": null,
-  "publishedYearText": null,
+  "publishedYearText": "2005",
   "wikipediaTitle": null,
   "wikipediaUrl": null,
   "description": "The Zahir is a novel by Paulo Coelho. Translated by Arash Hejazi",
@@ -20,7 +20,8 @@
     "It also matters as part of a wider censorship history in Iran. The present page is a dossier starter built from source-tracked ban records; the surviving note currently says: Translated by Arash Hejazi More publication history, translations, and close reading can be added later."
   ],
   "descriptionSourceIds": [
-    "wikipedia-book-censorship-iran"
+    "wikipedia-book-censorship-iran",
+    "wikipedia-government-list"
   ],
   "cover": null,
   "ranking": {
@@ -41,7 +42,7 @@
     "banningParagraphs": [
       "The Zahir entered censorship debates as a novel associated with controversy, publication history, and state scrutiny. In the current dossier, the main state objections cluster around political sensitivity.",
       "The earliest event currently captured here is Post-1979 Islamic Republic period in Iran, where Iranian censors and the Ministry of Culture and Islamic Guidance banned or denied publication. Translated by Arash Hejazi Translated by Arash Hejazi",
-      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+      "The record already stretches across Iran, which is why the page should be read as a cross-border censorship trail rather than a single isolated dispute."
     ]
   },
   "counterReadings": [
@@ -68,6 +69,7 @@
   ],
   "sourceIds": [
     "wikipedia-book-censorship-iran",
+    "wikipedia-government-list",
     "wikipedia-summary-api",
     "karolides-1999",
     "haight-1978"

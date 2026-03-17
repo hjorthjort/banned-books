@@ -1,0 +1,20 @@
+{
+  "id": "the-great-big-narcotics-cookbook-unknown-author--1",
+  "workId": "the-great-big-narcotics-cookbook-unknown-author",
+  "jurisdictionId": "new-zealand",
+  "governingBody": "Office of Film and Literature Classification",
+  "dateText": "1995",
+  "startYear": 1995,
+  "endYear": null,
+  "actionType": "classified, prohibited, or restricted",
+  "reasonTags": [
+    "political-sensitivity"
+  ],
+  "reasonSummary": "Banned because it details how to manufacture and use illegal drugs.",
+  "note": "Banned because it details how to manufacture and use illegal drugs.",
+  "quotation": null,
+  "sourceIds": [
+    "wikipedia-books-banned-new-zealand"
+  ],
+  "reviewStatus": "verified"
+}
