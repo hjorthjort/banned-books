@@ -1,0 +1,59 @@
+---
+interface Props {
+  basePath: string;
+  currentPage: number;
+  pageCount: number;
+}
+
+const { basePath, currentPage, pageCount } = Astro.props;
+
+function hrefForPage(page: number) {
+  return page === 1 ? `${basePath}/` : `${basePath}/${page}/`;
+}
+
+const pages = Array.from({ length: pageCount }, (_, index) => index + 1);
+---
+
+{
+  pageCount > 1 && (
+    <nav class="pagination" aria-label="Pagination">
+      {
+        currentPage > 1 ? (
+          <a class="pagination__link" href={hrefForPage(currentPage - 1)}>
+            Previous
+          </a>
+        ) : (
+          <span class="pagination__link pagination__link--disabled">Previous</span>
+        )
+      }
+
+      <ol class="pagination__list">
+        {
+          pages.map((page) => (
+            <li>
+              {page === currentPage ? (
+                <span class="pagination__link pagination__link--current" aria-current="page">
+                  {page}
+                </span>
+              ) : (
+                <a class="pagination__link" href={hrefForPage(page)}>
+                  {page}
+                </a>
+              )}
+            </li>
+          ))
+        }
+      </ol>
+
+      {
+        currentPage < pageCount ? (
+          <a class="pagination__link" href={hrefForPage(currentPage + 1)}>
+            Next
+          </a>
+        ) : (
+          <span class="pagination__link pagination__link--disabled">Next</span>
+        )
+      }
+    </nav>
+  )
+}

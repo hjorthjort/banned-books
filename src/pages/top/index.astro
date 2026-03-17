@@ -1,0 +1,34 @@
+---
+import PaginationNav from "../../components/PaginationNav.astro";
+import RankedWorkList from "../../components/RankedWorkList.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { TOP_PAGE_SIZE } from "../../lib/constants";
+import { getPublishedWorks } from "../../lib/content";
+
+const works = await getPublishedWorks();
+const currentPage = 1;
+const pageCount = Math.ceil(works.length / TOP_PAGE_SIZE);
+const pageWorks = works.slice(0, TOP_PAGE_SIZE);
+---
+
+<BaseLayout title="Top list | Forbidden Books Wiki" description="Paginated ranking of the most banned works in the Forbidden Books Wiki, currently ordered by estimated copies sold.">
+  <section class="panel ranking-panel">
+    <div class="panel__header">
+      <div>
+        <p class="eyebrow">Top list</p>
+        <h1>Most banned works, proxy-ranked by sales</h1>
+      </div>
+      <p class="panel__eyebrow-detail">
+        Page {currentPage} of {pageCount}
+      </p>
+    </div>
+
+    <p class="hero__summary">
+      This ranking is still a proxy. For now it sorts the current corpus by estimated copies sold, while the long-term plan
+      is to rank by breadth, duration, and population affected by government bans.
+    </p>
+
+    <RankedWorkList works={pageWorks} rankOffset={0} />
+    <PaginationNav basePath="/top" currentPage={currentPage} pageCount={pageCount} />
+  </section>
+</BaseLayout>
