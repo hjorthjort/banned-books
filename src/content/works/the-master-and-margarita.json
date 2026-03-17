@@ -37,6 +37,10 @@
     "religion",
     "state control"
   ],
+  "criticismTargets": [
+    "soviet-state",
+    "state-bureaucracy"
+  ],
   "reasonTags": [
     "political-dissent",
     "religious-content"

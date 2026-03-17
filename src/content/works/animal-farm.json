@@ -36,6 +36,11 @@
     "satire",
     "revolution"
   ],
+  "criticismTargets": [
+    "communist-party",
+    "soviet-state",
+    "stalinism"
+  ],
   "reasonTags": [
     "anti-communism",
     "political-dissent"

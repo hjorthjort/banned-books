@@ -1,5 +1,6 @@
 import { readFile, readdir } from "node:fs/promises";
 import path from "node:path";
+import { banReasonTagIds, criticismTargetTagIds } from "./data/tag-taxonomy.mjs";
 
 const ROOT = process.cwd();
 
@@ -31,6 +32,7 @@ async function main() {
   const jurisdictions = await readJsonDirectory(path.join(ROOT, "src/content/jurisdictions"));
   const sources = await readJsonDirectory(path.join(ROOT, "src/content/sources"));
   const sourcesMd = await readFile(path.join(ROOT, "SOURCES.md"), "utf8");
+  const tagsMd = await readFile(path.join(ROOT, "TAGS.md"), "utf8");
 
   const workIds = new Set();
   const slugs = new Set();
@@ -56,6 +58,14 @@ async function main() {
 
     for (const sourceId of [...workSourceIds, ...readingSourceIds, ...(work.descriptionSourceIds ?? [])]) {
       assert(sourceMap.has(sourceId), `Unknown source id ${sourceId} referenced by work ${work.id}`);
+    }
+
+    for (const targetId of work.criticismTargets ?? []) {
+      assert(criticismTargetTagIds.has(targetId), `Unknown criticism target tag ${targetId} on work ${work.id}`);
+    }
+
+    for (const reasonTag of work.reasonTags ?? []) {
+      assert(banReasonTagIds.has(reasonTag), `Unknown work-level ban reason tag ${reasonTag} on work ${work.id}`);
     }
 
     if (work.sectionStatus.bibliographic === "verified") {
@@ -85,6 +95,10 @@ async function main() {
     assert(workIds.has(event.workId), `Ban event ${event.id} references missing work ${event.workId}`);
     assert(jurisdictionIds.has(event.jurisdictionId), `Ban event ${event.id} references missing jurisdiction ${event.jurisdictionId}`);
 
+    for (const reasonTag of event.reasonTags ?? []) {
+      assert(banReasonTagIds.has(reasonTag), `Unknown ban reason tag ${reasonTag} on event ${event.id}`);
+    }
+
     for (const sourceId of event.sourceIds ?? []) {
       assert(sourceMap.has(sourceId), `Ban event ${event.id} references unknown source ${sourceId}`);
     }
@@ -92,6 +106,14 @@ async function main() {
 
   for (const source of sources) {
     assert(sourcesMd.includes(`\`${source.id}\``), `SOURCES.md is missing entry for source id ${source.id}`);
+  }
+
+  for (const tagId of banReasonTagIds) {
+    assert(tagsMd.includes(`\`${tagId}\``), `TAGS.md is missing ban reason tag ${tagId}`);
+  }
+
+  for (const tagId of criticismTargetTagIds) {
+    assert(tagsMd.includes(`\`${tagId}\``), `TAGS.md is missing criticism target tag ${tagId}`);
   }
 }
 

@@ -37,9 +37,10 @@
     "fantasy",
     "satire"
   ],
+  "criticismTargets": [],
   "reasonTags": [
-    "anthropomorphic animals",
-    "moral panic"
+    "anthropomorphic-animals",
+    "moral-panic"
   ],
   "overview": {
     "englishDescription": "A children's fantasy of nonsense logic, verbal play, and destabilized authority.",

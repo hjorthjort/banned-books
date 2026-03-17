@@ -61,6 +61,7 @@ const workCollection = defineCollection({
       basis: z.literal("copies_sold_estimate"),
     }),
     contentTags: z.array(z.string()),
+    criticismTargets: z.array(z.string()),
     reasonTags: z.array(z.string()),
     overview: z.object({
       englishDescription: z.string(),

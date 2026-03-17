@@ -1,9 +1,11 @@
 import { mkdir, rm, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { counterPacks } from "./data/counter-packs.mjs";
+import { criticismTargetOverrides } from "./data/criticism-target-overrides.mjs";
 import { descriptionOverrides } from "./data/description-overrides.mjs";
 import { jurisdictions } from "./data/jurisdictions.mjs";
 import { sources } from "./data/sources.mjs";
+import { normalizeBanReasonTags } from "./data/tag-taxonomy.mjs";
 import { works } from "./data/works.mjs";
 
 const ROOT = process.cwd();
@@ -235,6 +237,7 @@ async function main() {
     const summary = await fetchSummary(work.wikipediaTitle);
     const counterReadings = buildCounterReadings(work.counterThemes);
     const descriptionParagraphs = buildDescriptionParagraphs(work);
+    const criticismTargets = unique([...(work.criticismTargets ?? []), ...(criticismTargetOverrides[work.id] ?? [])]);
     const banEvents = work.banEvents.map((event, index) => ({
       id: `${work.id}--${index + 1}`,
       workId: work.id,
@@ -244,7 +247,7 @@ async function main() {
       startYear: event.startYear ?? null,
       endYear: event.endYear ?? null,
       actionType: event.actionType,
-      reasonTags: event.reasonTags,
+      reasonTags: normalizeBanReasonTags(event.reasonTags),
       reasonSummary: event.reasonSummary,
       note: event.note,
       quotation: event.quotation ?? null,
@@ -283,6 +286,7 @@ async function main() {
         basis: "copies_sold_estimate",
       },
       contentTags: work.contentTags,
+      criticismTargets,
       reasonTags: unique(banEvents.flatMap((event) => event.reasonTags)),
       overview: {
         englishDescription: work.description,

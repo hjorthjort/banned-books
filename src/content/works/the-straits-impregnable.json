@@ -37,9 +37,10 @@
     "military censorship",
     "politics"
   ],
+  "criticismTargets": [],
   "reasonTags": [
-    "wartime censorship",
-    "national security"
+    "wartime-censorship",
+    "national-security"
   ],
   "overview": {
     "englishDescription": "An Australian war novel whose publication collided with military censorship during World War I.",
