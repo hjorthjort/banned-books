@@ -23,6 +23,7 @@ const sourceBacked = works
       <div class="hero__actions">
         <a class="button button--primary" href={`/works/${featured.data.slug}/`}>Read the featured work</a>
         <a class="button button--secondary" href="/random">Random article</a>
+        <a class="button button--secondary" href="/index/">Master index</a>
       </div>
     </div>
     <aside class="featured-panel">
@@ -62,6 +63,7 @@ const sourceBacked = works
             <p class="eyebrow">Most banned, proxy-ranked by sales</p>
             <h2>Top list</h2>
           </div>
+          <a class="panel__link" href="/top/">View all pages</a>
         </div>
         <ol class="top-list">
           {
@@ -76,6 +78,9 @@ const sourceBacked = works
             ))
           }
         </ol>
+        <p class="panel__footer-link">
+          <a href="/index/">Open the full 100-work master index</a>
+        </p>
       </section>
 
       <section class="panel">

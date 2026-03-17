@@ -1,0 +1,61 @@
+---
+import PaginationNav from "../../components/PaginationNav.astro";
+import RankedWorkList from "../../components/RankedWorkList.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { TOP_PAGE_SIZE } from "../../lib/constants";
+import { getPublishedWorks, type WorkEntry } from "../../lib/content";
+
+interface Props {
+  currentPage: number;
+  pageCount: number;
+  pageWorks: WorkEntry[];
+}
+
+export async function getStaticPaths() {
+  const works = await getPublishedWorks();
+  const pageCount = Math.ceil(works.length / TOP_PAGE_SIZE);
+
+  return Array.from({ length: Math.max(pageCount - 1, 0) }, (_, index) => {
+    const currentPage = index + 2;
+    const start = (currentPage - 1) * TOP_PAGE_SIZE;
+    const end = start + TOP_PAGE_SIZE;
+
+    return {
+      params: { page: String(currentPage) },
+      props: {
+        currentPage,
+        pageCount,
+        pageWorks: works.slice(start, end),
+      },
+    };
+  });
+}
+
+const { currentPage, pageCount, pageWorks } = Astro.props;
+const rankOffset = (currentPage - 1) * TOP_PAGE_SIZE;
+---
+
+<BaseLayout
+  title={`Top list, page ${currentPage} | Forbidden Books Wiki`}
+  description={`Page ${currentPage} of the paginated ranking of banned works in the Forbidden Books Wiki.`}
+>
+  <section class="panel ranking-panel">
+    <div class="panel__header">
+      <div>
+        <p class="eyebrow">Top list</p>
+        <h1>Most banned works, proxy-ranked by sales</h1>
+      </div>
+      <p class="panel__eyebrow-detail">
+        Page {currentPage} of {pageCount}
+      </p>
+    </div>
+
+    <p class="hero__summary">
+      This ranking is still a proxy. For now it sorts the current corpus by estimated copies sold, while the long-term plan
+      is to rank by breadth, duration, and population affected by government bans.
+    </p>
+
+    <RankedWorkList works={pageWorks} rankOffset={rankOffset} />
+    <PaginationNav basePath="/top" currentPage={currentPage} pageCount={pageCount} />
+  </section>
+</BaseLayout>

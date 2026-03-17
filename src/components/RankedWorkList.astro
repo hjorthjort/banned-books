@@ -1,0 +1,29 @@
+---
+import type { WorkEntry } from "../lib/content";
+
+interface Props {
+  works: WorkEntry[];
+  rankOffset?: number;
+}
+
+const { works, rankOffset = 0 } = Astro.props;
+---
+
+<ol class="ranking-list">
+  {
+    works.map((work, index) => (
+      <li class="ranking-list__item">
+        <span class="ranking-list__rank">{rankOffset + index + 1}</span>
+        <div class="ranking-list__body">
+          <a class="ranking-list__title" href={`/works/${work.data.slug}/`}>
+            {work.data.title}
+          </a>
+          <p class="ranking-list__meta">
+            {work.data.authors.join(", ")} • {work.data.publishedYearText}
+          </p>
+        </div>
+        <small>{work.data.ranking.copiesSoldEstimate.toLocaleString()} estimated copies</small>
+      </li>
+    ))
+  }
+</ol>

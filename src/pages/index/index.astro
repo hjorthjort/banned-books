@@ -1,0 +1,136 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import {
+  getPrimaryAuthorLabel,
+  getPrimaryAuthorSortKey,
+  getPublishedWorks,
+  getSortablePublicationYear,
+  sortWorksByTitle,
+} from "../../lib/content";
+
+const rankedWorks = await getPublishedWorks();
+const works = sortWorksByTitle(rankedWorks);
+const workCount = works.length;
+---
+
+<BaseLayout title="Master index | Forbidden Books Wiki" description="A full index of all published works in the Forbidden Books Wiki.">
+  <section class="panel index-panel">
+    <div class="panel__header">
+      <div>
+        <p class="eyebrow">Master index</p>
+        <h1>All banned works in the current corpus</h1>
+      </div>
+      <p class="panel__eyebrow-detail">{workCount} published records</p>
+    </div>
+
+    <p class="hero__summary">
+      This page lists every published work currently in the dataset. By default it is alphabetized by title, and you can
+      reorder it in place by author or publication date.
+    </p>
+
+    <div class="index-controls" role="toolbar" aria-label="Sort the master index">
+      <button class="index-controls__button index-controls__button--active" type="button" data-index-sort-button data-sort="title" aria-pressed="true">
+        Title
+      </button>
+      <button class="index-controls__button" type="button" data-index-sort-button data-sort="author" aria-pressed="false">
+        Author
+      </button>
+      <button class="index-controls__button" type="button" data-index-sort-button data-sort="year" aria-pressed="false">
+        Publication date
+      </button>
+    </div>
+
+    <div class="table-wrap">
+      <table class="ban-table index-table">
+        <thead>
+          <tr>
+            <th scope="col">Title</th>
+            <th scope="col">Publication date</th>
+            <th scope="col">Author</th>
+          </tr>
+        </thead>
+        <tbody data-index-body>
+          {
+            works.map((work, index) => (
+              <tr
+                data-index-row
+                data-title={work.data.title.toLowerCase()}
+                data-author={getPrimaryAuthorSortKey(work)}
+                data-year={String(getSortablePublicationYear(work.data.publishedYearText))}
+                data-default-order={String(index)}
+              >
+                <td>
+                  <a class="index-table__title" href={`/works/${work.data.slug}/`}>
+                    {work.data.title}
+                  </a>
+                </td>
+                <td>{work.data.publishedYearText}</td>
+                <td>{getPrimaryAuthorLabel(work)}</td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+
+    <p class="note">
+      Publication dates are normalized only for sorting. Ancient texts, centuries, and approximate dates keep their original
+      labels in the table.
+    </p>
+  </section>
+
+  <script is:inline>
+    const body = document.querySelector("[data-index-body]");
+    const buttons = Array.from(document.querySelectorAll("[data-index-sort-button]"));
+
+    if (body && buttons.length) {
+      const rows = Array.from(body.querySelectorAll("[data-index-row]"));
+      const collator = new Intl.Collator("en", { sensitivity: "base" });
+
+      const comparators = {
+        title: (left, right) =>
+          collator.compare(left.dataset.title ?? "", right.dataset.title ?? "") ||
+          Number(left.dataset.defaultOrder ?? "0") - Number(right.dataset.defaultOrder ?? "0"),
+        author: (left, right) =>
+          collator.compare(left.dataset.author ?? "", right.dataset.author ?? "") ||
+          collator.compare(left.dataset.title ?? "", right.dataset.title ?? ""),
+        year: (left, right) =>
+          Number(left.dataset.year ?? Number.MAX_SAFE_INTEGER) - Number(right.dataset.year ?? Number.MAX_SAFE_INTEGER) ||
+          collator.compare(left.dataset.title ?? "", right.dataset.title ?? ""),
+      };
+
+      const setActiveButton = (sortKey) => {
+        buttons.forEach((button) => {
+          const active = button.dataset.sort === sortKey;
+          button.setAttribute("aria-pressed", String(active));
+          button.classList.toggle("index-controls__button--active", active);
+        });
+      };
+
+      const applySort = (sortKey) => {
+        rows.sort(comparators[sortKey] ?? comparators.title);
+        rows.forEach((row) => body.appendChild(row));
+        setActiveButton(sortKey);
+
+        const url = new URL(window.location.href);
+        if (sortKey === "title") {
+          url.searchParams.delete("sort");
+        } else {
+          url.searchParams.set("sort", sortKey);
+        }
+        history.replaceState(null, "", `${url.pathname}${url.search}`);
+      };
+
+      const params = new URLSearchParams(window.location.search);
+      const initialSort = ["title", "author", "year"].includes(params.get("sort") ?? "") ? params.get("sort") : "title";
+
+      applySort(initialSort ?? "title");
+
+      buttons.forEach((button) => {
+        button.addEventListener("click", () => {
+          applySort(button.dataset.sort ?? "title");
+        });
+      });
+    }
+  </script>
+</BaseLayout>
