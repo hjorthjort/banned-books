@@ -11,6 +11,11 @@
   "wikipediaTitle": "The_Story_of_Ferdinand",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Story_of_Ferdinand",
   "description": "A picture book about a peaceable bull who refuses martial expectations.",
+  "descriptionParagraphs": [
+    "A picture book about a peaceable bull who refuses martial expectations.",
+    "The Story of Ferdinand is usually read through its treatment of pacifism, children's literature, and nonconformity. As a children's book, it turns those concerns into conflicts of character, voice, setting, and social pressure rather than leaving them as abstract ideas.",
+    "Part of the work's durability lies in the way its form intensifies its themes. Readers return to it not only for subject matter but for the distinctive voice, structure, and atmosphere through which it makes pacifism, children's literature, and nonconformity feel immediate."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

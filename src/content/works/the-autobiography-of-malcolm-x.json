@@ -12,6 +12,11 @@
   "wikipediaTitle": "The_Autobiography_of_Malcolm_X",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Autobiography_of_Malcolm_X",
   "description": "A powerful life narrative linking crime, conversion, race politics, and Black internationalism.",
+  "descriptionParagraphs": [
+    "A powerful life narrative linking crime, conversion, race politics, and Black internationalism.",
+    "The Autobiography of Malcolm X filters race, black liberation, and religion through personal memory and self-presentation. As a autobiography, it asks readers to judge not just events but the voice that arranges and interprets them.",
+    "The work endures because it links private experience to larger public structures. Readers come to it not only for events but for a way of seeing how identity, power, and history press on a single life."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

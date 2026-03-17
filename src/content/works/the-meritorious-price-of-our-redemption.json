@@ -11,6 +11,11 @@
   "wikipediaTitle": "The_Meritorious_Price_of_Our_Redemption",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Meritorious_Price_of_Our_Redemption",
   "description": "A Puritan theological work that triggered one of colonial New England's earliest book suppressions.",
+  "descriptionParagraphs": [
+    "A Puritan theological work that triggered one of colonial New England's earliest book suppressions.",
+    "The Meritorious Price of Our Redemption is organized less as a story than as an argument. As a theological tract, it tries to persuade readers through selection, emphasis, and direct claims about theology, colonial law, and heresy.",
+    "Its significance lies in the way it compresses large claims into memorable formulas and positions. Even readers who reject the work usually have to reckon with how sharply it frames questions about theology, colonial law, and heresy."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

@@ -11,6 +11,10 @@
   "wikipediaTitle": "Animal_Farm",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Animal_Farm",
   "description": "An allegorical fable about revolution, propaganda, and the corruption of power.",
+  "descriptionParagraphs": [
+    "Animal Farm retells the arc of revolution through a barnyard uprising in which exploited animals overthrow their human owner and attempt to build a more equal order. What begins as a hopeful experiment in liberation hardens into a new hierarchy, with the pigs gradually monopolizing language, law, memory, and force until they become indistinguishable from the rulers they replaced.",
+    "Orwell's brilliance is the economy of the fable. The book is short, lucid, and apparently simple, yet it condenses large themes about propaganda, political myth, class betrayal, and the corruption of ideals into a form that is immediately legible. It remains one of the sharpest literary accounts of how emancipatory rhetoric can be emptied out and reused by a new elite."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

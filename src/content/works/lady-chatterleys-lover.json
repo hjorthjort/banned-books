@@ -11,6 +11,10 @@
   "wikipediaTitle": "Lady_Chatterley's_Lover",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lady_Chatterley's_Lover",
   "description": "A novel of desire, class, marriage, and bodily candor that became a defining obscenity case.",
+  "descriptionParagraphs": [
+    "Lady Chatterley's Lover centers on the affair between Connie Chatterley, trapped in an emotionally barren marriage, and Oliver Mellors, the estate gamekeeper. Lawrence presents sex not as mere scandal but as a question of wholeness, reciprocity, tenderness, class division, and what industrial modernity does to feeling, touch, and the body.",
+    "The novel's notoriety came from explicit language and sexual candor, but its real argument is broader. Lawrence contrasts mechanical, abstract, status-driven life with forms of contact that feel rooted, vulnerable, and alive. The book became a landmark obscenity case because it made erotic experience central to its vision of human integrity rather than treating it as something marginal or shameful."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

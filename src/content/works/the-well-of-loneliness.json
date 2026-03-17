@@ -11,6 +11,11 @@
   "wikipediaTitle": "The_Well_of_Loneliness",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Well_of_Loneliness",
   "description": "A landmark lesbian novel about stigma, identity, and the plea for social recognition.",
+  "descriptionParagraphs": [
+    "A landmark lesbian novel about stigma, identity, and the plea for social recognition.",
+    "The Well of Loneliness is usually read through its treatment of queer life, gender identity, and sexuality. As a novel, it turns those concerns into conflicts of character, voice, setting, and social pressure rather than leaving them as abstract ideas.",
+    "Part of the work's durability lies in the way its form intensifies its themes. Readers return to it not only for subject matter but for the distinctive voice, structure, and atmosphere through which it makes queer life, gender identity, and sexuality feel immediate."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

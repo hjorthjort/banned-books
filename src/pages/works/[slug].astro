@@ -61,7 +61,7 @@ const tableRows = banEvents.map((event) => ({
             <figure>
               <img src={work.data.cover.sourceUrl} alt={work.data.cover.alt} />
               <figcaption>
-                Wikimedia-hosted thumbnail.
+                <strong>{work.data.title}</strong>. Wikimedia-hosted thumbnail.
                 <a href={work.data.cover.pageUrl} target="_blank" rel="noreferrer">View source</a>
               </figcaption>
             </figure>
@@ -73,6 +73,21 @@ const tableRows = banEvents.map((event) => ({
         }
       </aside>
     </header>
+
+    <section class="panel">
+      <div class="panel__header">
+        <div>
+          <p class="eyebrow">Description</p>
+          <h2>About the work</h2>
+        </div>
+        <SectionBadge status={work.data.sectionStatus.description} />
+      </div>
+      {
+        work.data.descriptionParagraphs.map((paragraph: string) => (
+          <p>{paragraph}</p>
+        ))
+      }
+    </section>
 
     <section class="panel">
       <div class="panel__header">

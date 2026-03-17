@@ -44,6 +44,7 @@ const workCollection = defineCollection({
     wikipediaTitle: z.string().nullable().optional(),
     wikipediaUrl: z.string().url().nullable().optional(),
     description: z.string(),
+    descriptionParagraphs: z.array(z.string()).min(2),
     descriptionSourceIds: z.array(z.string()),
     cover: z
       .object({

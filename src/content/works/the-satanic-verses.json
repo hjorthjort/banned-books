@@ -11,6 +11,10 @@
   "wikipediaTitle": "The_Satanic_Verses",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Satanic_Verses",
   "description": "A sprawling magical-realist novel about two Indian migrants, with dream sequences that satirize prophecy, revelation, migration, and political power.",
+  "descriptionParagraphs": [
+    "The novel begins with two Indian Muslim actors, Gibreel Farishta and Saladin Chamcha, falling from a hijacked plane and surviving in transformed bodies. From that opening, Rushdie braids migration, performance, memory, and religious argument into a book about what happens when people are forced to remake themselves between languages, nations, and belief systems.",
+    "Its most controversial sections are dream sequences that rewrite sacred history through satire, ambiguity, and layered narration. But the deeper subject of the book is instability: unstable identity, unstable revelation, unstable belonging, and unstable public truth. Rushdie treats faith not as a simple target of mockery but as something entangled with power, storytelling, exile, love, shame, and the desire to make a fractured life feel whole."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

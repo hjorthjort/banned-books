@@ -11,6 +11,11 @@
   "wikipediaTitle": null,
   "wikipediaUrl": null,
   "description": "A youth-oriented introduction to African history and culture associated with anti-colonial education.",
+  "descriptionParagraphs": [
+    "A youth-oriented introduction to African history and culture associated with anti-colonial education.",
+    "The First Book of Africa is usually read through its treatment of race, decolonization, and education. As a anthology, it turns those concerns into conflicts of character, voice, setting, and social pressure rather than leaving them as abstract ideas.",
+    "Part of the work's durability lies in the way its form intensifies its themes. Readers return to it not only for subject matter but for the distinctive voice, structure, and atmosphere through which it makes race, decolonization, and education feel immediate."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

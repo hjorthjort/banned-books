@@ -11,6 +11,11 @@
   "wikipediaTitle": "A_Short_History_of_the_World",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/A_Short_History_of_the_World",
   "description": "Wells's compressed global history, written from a secular and internationalist viewpoint.",
+  "descriptionParagraphs": [
+    "Wells's compressed global history, written from a secular and internationalist viewpoint.",
+    "A Short History of the World is organized less as a story than as an argument. As a history, it tries to persuade readers through selection, emphasis, and direct claims about history, internationalism, and secularism.",
+    "Its significance lies in the way it compresses large claims into memorable formulas and positions. Even readers who reject the work usually have to reckon with how sharply it frames questions about history, internationalism, and secularism."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

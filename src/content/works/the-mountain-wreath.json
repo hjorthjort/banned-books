@@ -11,6 +11,11 @@
   "wikipediaTitle": "The_Mountain_Wreath",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Mountain_Wreath",
   "description": "A canonical South Slavic poem tied to nationhood, faith, and controversial violence.",
+  "descriptionParagraphs": [
+    "A canonical South Slavic poem tied to nationhood, faith, and controversial violence.",
+    "The Mountain Wreath approaches nationalism, religion, and identity politics through voice, rhythm, and compression rather than plot alone. Its poetic form lets feeling, argument, and public speech overlap in a way prose often cannot.",
+    "Its staying power comes from the fit between subject and form. The language itself becomes part of the argument, so the work matters not just for what it says about nationalism, religion, and identity politics but for how it sounds and moves on the page."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

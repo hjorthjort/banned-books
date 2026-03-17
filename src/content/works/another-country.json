@@ -11,6 +11,11 @@
   "wikipediaTitle": "Another_Country_(novel)",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Another_Country_(novel)",
   "description": "A Baldwin novel about race, sex, grief, and intimacy across social and national boundaries.",
+  "descriptionParagraphs": [
+    "A Baldwin novel about race, sex, grief, and intimacy across social and national boundaries.",
+    "Another Country is usually read through its treatment of race, sexuality, and queer life. As a novel, it turns those concerns into conflicts of character, voice, setting, and social pressure rather than leaving them as abstract ideas.",
+    "Part of the work's durability lies in the way its form intensifies its themes. Readers return to it not only for subject matter but for the distinctive voice, structure, and atmosphere through which it makes race, sexuality, and queer life feel immediate."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

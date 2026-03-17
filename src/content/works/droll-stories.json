@@ -11,6 +11,11 @@
   "wikipediaTitle": "Les_Cent_Contes_drolatiques",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Les_Cent_Contes_drolatiques",
   "description": "Balzac's bawdy pseudo-medieval tales full of sexual farce and exuberant language.",
+  "descriptionParagraphs": [
+    "Balzac's bawdy pseudo-medieval tales full of sexual farce and exuberant language.",
+    "Across its separate pieces, Droll Stories returns again and again to sexuality, satire, and historical pastiche. The collection form lets the work test the same pressures from multiple angles instead of reducing them to a single plot line.",
+    "What makes the work memorable is the cumulative effect of repetition and variation. By circling the same tensions through different stories, it builds a larger picture of how sexuality, satire, and historical pastiche shape ordinary conduct and imagination."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

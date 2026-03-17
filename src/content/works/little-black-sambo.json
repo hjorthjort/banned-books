@@ -11,6 +11,11 @@
   "wikipediaTitle": "The_Story_of_Little_Black_Sambo",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Story_of_Little_Black_Sambo",
   "description": "A children's story whose racial caricatures later made it a target of official restriction.",
+  "descriptionParagraphs": [
+    "A children's story whose racial caricatures later made it a target of official restriction.",
+    "Little Black Sambo is usually read through its treatment of race, children's literature, and stereotype. As a children's book, it turns those concerns into conflicts of character, voice, setting, and social pressure rather than leaving them as abstract ideas.",
+    "Part of the work's durability lies in the way its form intensifies its themes. Readers return to it not only for subject matter but for the distinctive voice, structure, and atmosphere through which it makes race, children's literature, and stereotype feel immediate."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

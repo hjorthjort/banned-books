@@ -11,6 +11,11 @@
   "wikipediaTitle": "Boy_(novel)",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Boy_(novel)",
   "description": "A harsh sea novel about adolescence, labor, sexual threat, and institutional brutality.",
+  "descriptionParagraphs": [
+    "A harsh sea novel about adolescence, labor, sexual threat, and institutional brutality.",
+    "Boy is usually read through its treatment of sexuality, labor, and violence. As a novel, it turns those concerns into conflicts of character, voice, setting, and social pressure rather than leaving them as abstract ideas.",
+    "Part of the work's durability lies in the way its form intensifies its themes. Readers return to it not only for subject matter but for the distinctive voice, structure, and atmosphere through which it makes sexuality, labor, and violence feel immediate."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

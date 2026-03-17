@@ -12,6 +12,11 @@
   "wikipediaTitle": "How_to_Read_Donald_Duck",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/How_to_Read_Donald_Duck",
   "description": "A media-theory polemic arguing that Disney comics encode imperial and capitalist ideology.",
+  "descriptionParagraphs": [
+    "A media-theory polemic arguing that Disney comics encode imperial and capitalist ideology.",
+    "How to Read Donald Duck is organized less as a story than as an argument. As a critical essay, it tries to persuade readers through selection, emphasis, and direct claims about media criticism, imperialism, and ideology.",
+    "Its significance lies in the way it compresses large claims into memorable formulas and positions. Even readers who reject the work usually have to reckon with how sharply it frames questions about media criticism, imperialism, and ideology."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

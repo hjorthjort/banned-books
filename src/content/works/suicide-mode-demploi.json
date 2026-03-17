@@ -12,6 +12,11 @@
   "wikipediaTitle": "Suicide_mode_d'emploi",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Suicide_mode_d'emploi",
   "description": "A handbook discussing methods of suicide that became central to a French legal crackdown.",
+  "descriptionParagraphs": [
+    "A handbook discussing methods of suicide that became central to a French legal crackdown.",
+    "Suicide mode d'emploi is organized less as a story than as an argument. As a instructional manual, it tries to persuade readers through selection, emphasis, and direct claims about suicide, instruction, and public health.",
+    "Its significance lies in the way it compresses large claims into memorable formulas and positions. Even readers who reject the work usually have to reckon with how sharply it frames questions about suicide, instruction, and public health."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

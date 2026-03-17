@@ -11,6 +11,11 @@
   "wikipediaTitle": "Clandestine_in_Chile",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Clandestine_in_Chile",
   "description": "A report on clandestine return, dictatorship, and political persecution under Pinochet.",
+  "descriptionParagraphs": [
+    "A report on clandestine return, dictatorship, and political persecution under Pinochet.",
+    "Clandestine in Chile is usually read through its treatment of dictatorship, journalism, and state terror. As a non-fiction narrative, it turns those concerns into conflicts of character, voice, setting, and social pressure rather than leaving them as abstract ideas.",
+    "Part of the work's durability lies in the way its form intensifies its themes. Readers return to it not only for subject matter but for the distinctive voice, structure, and atmosphere through which it makes dictatorship, journalism, and state terror feel immediate."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

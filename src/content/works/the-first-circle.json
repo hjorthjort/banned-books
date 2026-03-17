@@ -11,6 +11,11 @@
   "wikipediaTitle": "The_First_Circle",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/The_First_Circle",
   "description": "A novel about scientists imprisoned in a privileged Soviet research prison.",
+  "descriptionParagraphs": [
+    "A novel about scientists imprisoned in a privileged Soviet research prison.",
+    "The First Circle is usually read through its treatment of state violence, surveillance, and anti totalitarianism. As a novel, it turns those concerns into conflicts of character, voice, setting, and social pressure rather than leaving them as abstract ideas.",
+    "Part of the work's durability lies in the way its form intensifies its themes. Readers return to it not only for subject matter but for the distinctive voice, structure, and atmosphere through which it makes state violence, surveillance, and anti totalitarianism feel immediate."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

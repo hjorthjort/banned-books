@@ -11,6 +11,11 @@
   "wikipediaTitle": "The_Anarchist_Cookbook",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Anarchist_Cookbook",
   "description": "A notorious manual of sabotage, explosives, and anti-state provocation.",
+  "descriptionParagraphs": [
+    "A notorious manual of sabotage, explosives, and anti-state provocation.",
+    "The Anarchist Cookbook is organized less as a story than as an argument. As a instructional manual, it tries to persuade readers through selection, emphasis, and direct claims about violence, instruction, and anti state.",
+    "Its significance lies in the way it compresses large claims into memorable formulas and positions. Even readers who reject the work usually have to reckon with how sharply it frames questions about violence, instruction, and anti state."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

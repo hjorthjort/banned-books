@@ -11,6 +11,11 @@
   "wikipediaTitle": "Amar_Fashi_Chai",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Amar_Fashi_Chai",
   "description": "A controversial Bangladeshi political memoir attacking Sheikh Hasina and ruling-party power.",
+  "descriptionParagraphs": [
+    "A controversial Bangladeshi political memoir attacking Sheikh Hasina and ruling-party power.",
+    "Amar Fashi Chai filters politics, leadership critique, and state retaliation through personal memory and self-presentation. As a political memoir, it asks readers to judge not just events but the voice that arranges and interprets them.",
+    "The work endures because it links private experience to larger public structures. Readers come to it not only for events but for a way of seeing how identity, power, and history press on a single life."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

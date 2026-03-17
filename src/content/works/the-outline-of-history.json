@@ -11,6 +11,11 @@
   "wikipediaTitle": "The_Outline_of_History",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Outline_of_History",
   "description": "A sweeping popular history of humanity written in an internationalist and anti-dogmatic spirit.",
+  "descriptionParagraphs": [
+    "A sweeping popular history of humanity written in an internationalist and anti-dogmatic spirit.",
+    "The Outline of History is organized less as a story than as an argument. As a history, it tries to persuade readers through selection, emphasis, and direct claims about history, internationalism, and anti nationalism.",
+    "Its significance lies in the way it compresses large claims into memorable formulas and positions. Even readers who reject the work usually have to reckon with how sharply it frames questions about history, internationalism, and anti nationalism."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

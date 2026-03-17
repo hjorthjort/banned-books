@@ -11,6 +11,11 @@
   "wikipediaTitle": "The_Satanic_Bible",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Satanic_Bible",
   "description": "A foundational text of LaVeyan Satanism combining ritual, polemic, and provocation.",
+  "descriptionParagraphs": [
+    "A foundational text of LaVeyan Satanism combining ritual, polemic, and provocation.",
+    "The Satanic Bible is best approached as a scriptural work rather than a single continuous plot. Its language and authority come from recitation, commentary, and repeated interpretation, with central concerns that include religion, blasphemy, and counterculture.",
+    "What gives the work lasting importance is not only doctrine but interpretive range. Readers return to it as a source of law, story, devotion, identity, and dispute, which is why arguments over the text rarely stay purely literary."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

@@ -11,6 +11,11 @@
   "wikipediaTitle": "Fanny_Hill",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Fanny_Hill",
   "description": "An eighteenth-century erotic novel that long stood near the center of obscenity law.",
+  "descriptionParagraphs": [
+    "An eighteenth-century erotic novel that long stood near the center of obscenity law.",
+    "Fanny Hill is usually read through its treatment of sexuality, prostitution, and obscenity law. As a novel, it turns those concerns into conflicts of character, voice, setting, and social pressure rather than leaving them as abstract ideas.",
+    "Part of the work's durability lies in the way its form intensifies its themes. Readers return to it not only for subject matter but for the distinctive voice, structure, and atmosphere through which it makes sexuality, prostitution, and obscenity law feel immediate."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

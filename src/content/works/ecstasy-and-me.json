@@ -11,6 +11,11 @@
   "wikipediaTitle": "Ecstasy_and_Me",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ecstasy_and_Me",
   "description": "A celebrity memoir whose sexual frankness drew censorship almost as quickly as attention.",
+  "descriptionParagraphs": [
+    "A celebrity memoir whose sexual frankness drew censorship almost as quickly as attention.",
+    "Ecstasy and Me filters sexuality, memoir, and celebrity scandal through personal memory and self-presentation. As a memoir, it asks readers to judge not just events but the voice that arranges and interprets them.",
+    "The work endures because it links private experience to larger public structures. Readers come to it not only for events but for a way of seeing how identity, power, and history press on a single life."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

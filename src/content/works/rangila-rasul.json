@@ -11,6 +11,11 @@
   "wikipediaTitle": "Rangila_Rasul",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Rangila_Rasul",
   "description": "A polemical pamphlet whose treatment of Muhammad triggered lasting legal and political conflict.",
+  "descriptionParagraphs": [
+    "A polemical pamphlet whose treatment of Muhammad triggered lasting legal and political conflict.",
+    "Rangila Rasul is organized less as a story than as an argument. As a pamphlet, it tries to persuade readers through selection, emphasis, and direct claims about religion, polemic, and communal politics.",
+    "Its significance lies in the way it compresses large claims into memorable formulas and positions. Even readers who reject the work usually have to reckon with how sharply it frames questions about religion, polemic, and communal politics."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

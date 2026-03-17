@@ -11,6 +11,10 @@
   "wikipediaTitle": "The_Gulag_Archipelago",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Gulag_Archipelago",
   "description": "A documentary indictment of the Soviet labor camp system and the political culture behind it.",
+  "descriptionParagraphs": [
+    "The Gulag Archipelago is part documentary history, part moral testimony, and part literary montage about the Soviet camp system and the institutions that fed it. Solzhenitsyn writes not only about prisons and labor camps, but about arrests, interrogations, denunciations, paperwork, fear, and the countless ordinary accommodations that allow a machinery of repression to function.",
+    "Its themes are terror, complicity, memory, conscience, and the corrosion of truth under bureaucratic power. What makes the work so influential is that it refuses to separate the spectacular violence of the camps from the smaller habits that sustain them. It reads the Soviet system as a moral environment in which language, obedience, cowardice, and survival are all entangled."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

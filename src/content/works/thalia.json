@@ -11,6 +11,11 @@
   "wikipediaTitle": null,
   "wikipediaUrl": null,
   "description": "A lost theological tract associated with Arius and the early Christian controversy over the Trinity.",
+  "descriptionParagraphs": [
+    "A lost theological tract associated with Arius and the early Christian controversy over the Trinity.",
+    "Thalia is organized less as a story than as an argument. As a theological tract, it tries to persuade readers through selection, emphasis, and direct claims about theology, heresy, and doctrinal conflict.",
+    "Its significance lies in the way it compresses large claims into memorable formulas and positions. Even readers who reject the work usually have to reckon with how sharply it frames questions about theology, heresy, and doctrinal conflict."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

@@ -11,6 +11,11 @@
   "wikipediaTitle": "The_Hoax_of_the_Twentieth_Century",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Hoax_of_the_Twentieth_Century",
   "description": "A Holocaust-denial text that packages antisemitic propaganda as historical revision.",
+  "descriptionParagraphs": [
+    "A Holocaust-denial text that packages antisemitic propaganda as historical revision.",
+    "The Hoax of the Twentieth Century is organized less as a story than as an argument. As a pseudo-history, it tries to persuade readers through selection, emphasis, and direct claims about antisemitism, holocaust denial, and propaganda.",
+    "Its significance lies in the way it compresses large claims into memorable formulas and positions. Even readers who reject the work usually have to reckon with how sharply it frames questions about antisemitism, holocaust denial, and propaganda."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

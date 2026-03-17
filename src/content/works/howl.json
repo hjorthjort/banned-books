@@ -11,6 +11,11 @@
   "wikipediaTitle": "Howl",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Howl",
   "description": "A Beat poem of ecstatic rage against conformity, repression, and industrial modernity.",
+  "descriptionParagraphs": [
+    "A Beat poem of ecstatic rage against conformity, repression, and industrial modernity.",
+    "Howl approaches poetry, sexuality, and counterculture through voice, rhythm, and compression rather than plot alone. Its poetic form lets feeling, argument, and public speech overlap in a way prose often cannot.",
+    "Its staying power comes from the fit between subject and form. The language itself becomes part of the argument, so the work matters not just for what it says about poetry, sexuality, and counterculture but for how it sounds and moves on the page."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

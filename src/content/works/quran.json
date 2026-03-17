@@ -11,6 +11,10 @@
   "wikipediaTitle": "Quran",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Quran",
   "description": "Islam's central scripture, transmitted in Arabic and widely translated into other languages.",
+  "descriptionParagraphs": [
+    "The Quran is Islam's central scripture, presented as divine revelation received by Muhammad and recited in Arabic. Its structure is not that of a single continuous narrative; instead, it moves through proclamation, warning, law, parable, prayer, and recollection, returning again and again to the oneness of God, human accountability, prophetic history, mercy, judgment, and moral discipline.",
+    "For readers encountering it outside devotional practice, one of the most important things to understand is that the text is inseparable from recitation and interpretation. The Quran is not simply a document of doctrine but a living scriptural language that has generated law, commentary, philosophy, mysticism, politics, and art. Its authority therefore lies as much in how communities read and perform it as in any single summarized message."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

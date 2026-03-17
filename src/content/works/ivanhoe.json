@@ -11,6 +11,11 @@
   "wikipediaTitle": "Ivanhoe",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivanhoe",
   "description": "Scott's historical romance of chivalry, nationhood, and conflict after the Norman conquest.",
+  "descriptionParagraphs": [
+    "Scott's historical romance of chivalry, nationhood, and conflict after the Norman conquest.",
+    "Ivanhoe is usually read through its treatment of history, nationhood, and Jewish representation. As a novel, it turns those concerns into conflicts of character, voice, setting, and social pressure rather than leaving them as abstract ideas.",
+    "Part of the work's durability lies in the way its form intensifies its themes. Readers return to it not only for subject matter but for the distinctive voice, structure, and atmosphere through which it makes history, nationhood, and Jewish representation feel immediate."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

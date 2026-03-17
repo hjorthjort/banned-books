@@ -11,6 +11,10 @@
   "wikipediaTitle": "Lolita",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lolita",
   "description": "A darkly comic and morally unsettling novel narrated by an obsessive and manipulative adult man.",
+  "descriptionParagraphs": [
+    "Lolita is narrated by Humbert Humbert, a cultivated and manipulative adult who tries to aestheticize his obsession with a twelve-year-old girl into a story of tragic love. Nabokov builds the novel around that monstrous act of self-justification, forcing the reader to separate linguistic brilliance from moral truth and to notice how rhetoric can disguise coercion, vanity, and abuse.",
+    "The book's central themes are not erotic freedom but domination, delusion, and the unreliability of voice. Nabokov uses wit, pattern, allusion, and tonal control to make the reader constantly aware of the distance between Humbert's style and the suffering he tries to control on the page. Its enduring power lies in that formal trap: the novel is a masterpiece about the danger of being seduced by mastery itself."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

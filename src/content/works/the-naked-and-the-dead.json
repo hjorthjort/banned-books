@@ -11,6 +11,11 @@
   "wikipediaTitle": "The_Naked_and_the_Dead",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Naked_and_the_Dead",
   "description": "A World War II novel about power, fear, masculinity, and the machinery of command.",
+  "descriptionParagraphs": [
+    "A World War II novel about power, fear, masculinity, and the machinery of command.",
+    "The Naked and the Dead is usually read through its treatment of war, violence, and sexuality. As a novel, it turns those concerns into conflicts of character, voice, setting, and social pressure rather than leaving them as abstract ideas.",
+    "Part of the work's durability lies in the way its form intensifies its themes. Readers return to it not only for subject matter but for the distinctive voice, structure, and atmosphere through which it makes war, violence, and sexuality feel immediate."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

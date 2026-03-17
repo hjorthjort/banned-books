@@ -11,6 +11,11 @@
   "wikipediaTitle": "The_Master_and_Margarita",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Master_and_Margarita",
   "description": "A satirical fantasy that collides Soviet literary bureaucracy with the demonic and the sacred.",
+  "descriptionParagraphs": [
+    "A satirical fantasy that collides Soviet literary bureaucracy with the demonic and the sacred.",
+    "The Master and Margarita is usually read through its treatment of satire, religion, and state control. As a novel, it turns those concerns into conflicts of character, voice, setting, and social pressure rather than leaving them as abstract ideas.",
+    "Part of the work's durability lies in the way its form intensifies its themes. Readers return to it not only for subject matter but for the distinctive voice, structure, and atmosphere through which it makes satire, religion, and state control feel immediate."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

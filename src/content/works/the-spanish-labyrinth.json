@@ -11,6 +11,11 @@
   "wikipediaTitle": "The_Spanish_Labyrinth",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Spanish_Labyrinth",
   "description": "A historical study of the social and political roots of modern Spain's conflicts.",
+  "descriptionParagraphs": [
+    "A historical study of the social and political roots of modern Spain's conflicts.",
+    "The Spanish Labyrinth is organized less as a story than as an argument. As a history, it tries to persuade readers through selection, emphasis, and direct claims about history, civil war, and political analysis.",
+    "Its significance lies in the way it compresses large claims into memorable formulas and positions. Even readers who reject the work usually have to reckon with how sharply it frames questions about history, civil war, and political analysis."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

@@ -11,6 +11,11 @@
   "wikipediaTitle": "Rights_of_Man",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Rights_of_Man",
   "description": "Paine's defense of revolution, popular sovereignty, and rights against hereditary government.",
+  "descriptionParagraphs": [
+    "Paine's defense of revolution, popular sovereignty, and rights against hereditary government.",
+    "Rights of Man is usually read through its treatment of rights, revolution, and anti monarchy. As a political treatise, it turns those concerns into conflicts of character, voice, setting, and social pressure rather than leaving them as abstract ideas.",
+    "Part of the work's durability lies in the way its form intensifies its themes. Readers return to it not only for subject matter but for the distinctive voice, structure, and atmosphere through which it makes rights, revolution, and anti monarchy feel immediate."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

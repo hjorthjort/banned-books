@@ -246,6 +246,8 @@ h2 {
   padding: 1rem;
   display: grid;
   place-items: center;
+  position: relative;
+  overflow: hidden;
 }
 
 .work-card__media img {
@@ -253,6 +255,20 @@ h2 {
   height: 100%;
   object-fit: contain;
   box-shadow: 0 12px 24px rgba(38, 23, 15, 0.12);
+}
+
+.work-card__media-title {
+  position: absolute;
+  left: 0.75rem;
+  right: 0.75rem;
+  bottom: 0.75rem;
+  margin: 0;
+  padding: 0.55rem 0.7rem;
+  border-radius: 14px;
+  background: rgba(255, 252, 246, 0.9);
+  color: var(--ink);
+  font-size: 1.05rem;
+  line-height: 1.1;
 }
 
 .work-card__placeholder,

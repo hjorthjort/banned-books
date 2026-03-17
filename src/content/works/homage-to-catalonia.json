@@ -11,6 +11,11 @@
   "wikipediaTitle": "Homage_to_Catalonia",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Homage_to_Catalonia",
   "description": "Orwell's firsthand account of the Spanish Civil War and the betrayals inside the anti-fascist camp.",
+  "descriptionParagraphs": [
+    "Orwell's firsthand account of the Spanish Civil War and the betrayals inside the anti-fascist camp.",
+    "Homage to Catalonia filters war, anti fascism, and left politics through personal memory and self-presentation. As a memoir, it asks readers to judge not just events but the voice that arranges and interprets them.",
+    "The work endures because it links private experience to larger public structures. Readers come to it not only for events but for a way of seeing how identity, power, and history press on a single life."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

@@ -1,0 +1,78 @@
+export const descriptionOverrides = {
+  "the-satanic-verses": [
+    "The novel begins with two Indian Muslim actors, Gibreel Farishta and Saladin Chamcha, falling from a hijacked plane and surviving in transformed bodies. From that opening, Rushdie braids migration, performance, memory, and religious argument into a book about what happens when people are forced to remake themselves between languages, nations, and belief systems.",
+    "Its most controversial sections are dream sequences that rewrite sacred history through satire, ambiguity, and layered narration. But the deeper subject of the book is instability: unstable identity, unstable revelation, unstable belonging, and unstable public truth. Rushdie treats faith not as a simple target of mockery but as something entangled with power, storytelling, exile, love, shame, and the desire to make a fractured life feel whole.",
+  ],
+  "animal-farm": [
+    "Animal Farm retells the arc of revolution through a barnyard uprising in which exploited animals overthrow their human owner and attempt to build a more equal order. What begins as a hopeful experiment in liberation hardens into a new hierarchy, with the pigs gradually monopolizing language, law, memory, and force until they become indistinguishable from the rulers they replaced.",
+    "Orwell's brilliance is the economy of the fable. The book is short, lucid, and apparently simple, yet it condenses large themes about propaganda, political myth, class betrayal, and the corruption of ideals into a form that is immediately legible. It remains one of the sharpest literary accounts of how emancipatory rhetoric can be emptied out and reused by a new elite.",
+  ],
+  "nineteen-eighty-four": [
+    "Nineteen Eighty-Four follows Winston Smith, a minor functionary in a regime that seeks control not only over bodies and institutions but over language, memory, and inner life itself. The novel's world is built from surveillance, falsified history, ritual hatred, and the slow destruction of private trust, all of it organized to make independent judgment feel impossible.",
+    "What gives the book its lasting force is the way Orwell links politics to habits of thought. Newspeak, doublethink, and perpetual war are not decorative inventions; they are mechanisms for shrinking the range of what can be imagined and said. The novel endures because it shows that tyranny is strongest not when it merely punishes dissent, but when it rearranges reality so thoroughly that dissent becomes difficult to formulate.",
+  ],
+  bible: [
+    "The Bible is not a single book in the modern sense but a many-layered scriptural library made up of law codes, poems, prophecies, wisdom literature, gospels, letters, and apocalyptic visions. Across those genres it gathers stories of creation, covenant, kingship, exile, judgment, mercy, redemption, and the struggle to live under divine command in changing historical worlds.",
+    "Its themes are vast and often internally contested: justice and sacrifice, sin and forgiveness, chosenness and universality, political rule and prophetic critique. Part of the Bible's power comes from exactly that range. It is read devotionally, legally, liturgically, politically, and literarily, which is why arguments over the text rarely remain confined to theology alone.",
+  ],
+  quran: [
+    "The Quran is Islam's central scripture, presented as divine revelation received by Muhammad and recited in Arabic. Its structure is not that of a single continuous narrative; instead, it moves through proclamation, warning, law, parable, prayer, and recollection, returning again and again to the oneness of God, human accountability, prophetic history, mercy, judgment, and moral discipline.",
+    "For readers encountering it outside devotional practice, one of the most important things to understand is that the text is inseparable from recitation and interpretation. The Quran is not simply a document of doctrine but a living scriptural language that has generated law, commentary, philosophy, mysticism, politics, and art. Its authority therefore lies as much in how communities read and perform it as in any single summarized message.",
+  ],
+  "mein-kampf": [
+    "Mein Kampf is a political manifesto built out of grievance, self-mythologizing, racial paranoia, and pseudo-historical explanation. Hitler combines autobiography, propaganda, and programmatic argument in order to portray politics as a biological struggle between nations and races, with antisemitism placed at the center of his account of modern history.",
+    "The book matters not because it is intellectually sound but because it shows how a totalizing ideology can present hatred as destiny and domination as necessity. Its prose is repetitive and often crude, yet its structure is revealing: it turns resentment into worldview, prejudice into system, and conspiracy thinking into a claim on state power. That is why it is read today chiefly as evidence of fascist political imagination and genocidal intent.",
+  ],
+  lolita: [
+    "Lolita is narrated by Humbert Humbert, a cultivated and manipulative adult who tries to aestheticize his obsession with a twelve-year-old girl into a story of tragic love. Nabokov builds the novel around that monstrous act of self-justification, forcing the reader to separate linguistic brilliance from moral truth and to notice how rhetoric can disguise coercion, vanity, and abuse.",
+    "The book's central themes are not erotic freedom but domination, delusion, and the unreliability of voice. Nabokov uses wit, pattern, allusion, and tonal control to make the reader constantly aware of the distance between Humbert's style and the suffering he tries to control on the page. Its enduring power lies in that formal trap: the novel is a masterpiece about the danger of being seduced by mastery itself.",
+  ],
+  "the-decameron": [
+    "The Decameron frames one hundred stories within a plague-time retreat, where young Florentines flee the city and create an ordered world of storytelling in the face of death and disorder. The tales range from comic deception to erotic intrigue, anticlerical satire, clever reversals of fortune, and sharp observations about money, class, appetite, luck, and social performance.",
+    "Boccaccio's great achievement is to make the collection feel both festive and analytical. Desire is everywhere in the book, but so are wit, opportunism, hypocrisy, and the improvisations people use to survive unstable times. The work remains central not only because of its erotic candor, but because it treats storytelling itself as a social technology for enduring catastrophe and reassembling community.",
+  ],
+  "american-psycho": [
+    "American Psycho is told through the deadened voice of Patrick Bateman, a Wall Street banker whose days are structured by restaurants, brands, workouts, status competition, and scenes of escalating cruelty. Bret Easton Ellis uses that flat, repetitive surface to create a world in which consumption and violence become nearly indistinguishable forms of display.",
+    "The novel's deepest subject is emptiness: empty masculinity, empty prestige, empty desire, and the collapse of moral seriousness into style. Whether every murder is literal is less important than the atmosphere the book produces, where people are so commodified and interchangeable that even atrocity feels like another luxury signal. Its satire works by pushing that logic to an almost unbearable extreme.",
+  ],
+  ulysses: [
+    "Ulysses follows a single day in Dublin through the intertwined movements of Stephen Dedalus, Leopold Bloom, and Molly Bloom. Joyce transforms ordinary errands, conversations, fantasies, bodily routines, and fleeting associations into an epic of urban consciousness, showing that the material of modern life can be as formally rich and emotionally charged as the high subjects of classical literature.",
+    "The novel's themes include exile, fidelity, grief, paternity, sexuality, nationalism, language, and the density of everyday perception. But what makes it revolutionary is form: each episode invents a different way of hearing thought, public speech, parody, desire, and memory. Ulysses matters because it expands the novel's claim on reality, insisting that nothing in ordinary life is too humble, messy, comic, or bodily to deserve serious art.",
+  ],
+  "uncle-toms-cabin": [
+    "Uncle Tom's Cabin turns slavery into an emotionally immediate domestic and moral crisis by tracing families broken by sale, violence, and legal power. Harriet Beecher Stowe writes through scenes of separation, flight, martyrdom, and Christian witness in order to make the plantation economy legible to readers who might otherwise keep its brutality at a distance.",
+    "The book is both historically powerful and critically complex. It helped mobilize antislavery sentiment on a mass scale, yet it also works through sentimental conventions and racial typologies that later readers have judged limited or damaging. Its importance lies in that double history: it is a politically consequential novel that shows both the force and the constraints of moral protest fiction.",
+  ],
+  "lady-chatterleys-lover": [
+    "Lady Chatterley's Lover centers on the affair between Connie Chatterley, trapped in an emotionally barren marriage, and Oliver Mellors, the estate gamekeeper. Lawrence presents sex not as mere scandal but as a question of wholeness, reciprocity, tenderness, class division, and what industrial modernity does to feeling, touch, and the body.",
+    "The novel's notoriety came from explicit language and sexual candor, but its real argument is broader. Lawrence contrasts mechanical, abstract, status-driven life with forms of contact that feel rooted, vulnerable, and alive. The book became a landmark obscenity case because it made erotic experience central to its vision of human integrity rather than treating it as something marginal or shameful.",
+  ],
+  "brave-new-world": [
+    "Brave New World imagines a society that has largely solved conflict by engineering its citizens from birth, organizing them into castes, and saturating daily life with pleasure, distraction, and conditioned consent. Huxley builds a world where stability is purchased at the cost of solitude, mourning, memory, high art, and the freedom to become difficult or dissatisfied.",
+    "The novel remains potent because it depicts soft domination rather than overt terror. People are not ruled mainly by pain but by managed desire, easy entertainment, chemical relief, and social scripts that make serious inward life look pathological. Its central question is whether comfort without depth, and order without freedom, can ever amount to a fully human civilization.",
+  ],
+  "the-gulag-archipelago": [
+    "The Gulag Archipelago is part documentary history, part moral testimony, and part literary montage about the Soviet camp system and the institutions that fed it. Solzhenitsyn writes not only about prisons and labor camps, but about arrests, interrogations, denunciations, paperwork, fear, and the countless ordinary accommodations that allow a machinery of repression to function.",
+    "Its themes are terror, complicity, memory, conscience, and the corrosion of truth under bureaucratic power. What makes the work so influential is that it refuses to separate the spectacular violence of the camps from the smaller habits that sustain them. It reads the Soviet system as a moral environment in which language, obedience, cowardice, and survival are all entangled.",
+  ],
+  "doctor-zhivago": [
+    "Doctor Zhivago follows Yuri Zhivago through revolution, civil war, displacement, and the remaking of Russian life under new political dogmas. Pasternak's emphasis is not on military strategy or party theory, but on weather, landscape, private love, poetry, memory, and the way large historical events fracture ordinary human continuity.",
+    "The novel's central themes are conscience, inwardness, and the irreducibility of personal life to ideological categories. Zhivago matters because it treats art and moral perception as forms of freedom that cannot be fully absorbed by political systems. In that sense, it is a historical novel about revolution and also an argument for the claims of singular experience against total explanations.",
+  ],
+  frankenstein: [
+    "Frankenstein begins with a scientific act of creation but quickly becomes a story about abandonment. Victor Frankenstein brings a sentient being into existence and then recoils from his responsibility, leaving the creature to learn language, desire, shame, and rage in a world that reads his appearance as monstrosity before it hears his voice.",
+    "Shelley's themes include ambition, care, loneliness, revenge, and the ethics of making what one cannot love. The novel endures because it never lets its questions settle into a single lesson about science. It is as much about failed parenthood, social exclusion, and the demand to be recognized as it is about experiment, discovery, or forbidden knowledge.",
+  ],
+  "the-communist-manifesto": [
+    "The Communist Manifesto compresses a sweeping theory of history into a short, urgent polemic about class struggle, capitalist transformation, and revolutionary possibility. Marx and Engels depict the bourgeoisie as an immensely dynamic force that has remade the world, even as they argue that capitalism generates exploitation, instability, and the collective power that could overthrow it.",
+    "What makes the text durable is its combination of diagnosis and slogan. It is both analytic and rhetorical, capable of striking formulations about markets, labor, and social change that have outlived the immediate moment of publication. Even critics read it because it captures the drama of capitalism's creative destruction with unusual speed, clarity, and antagonistic energy.",
+  ],
+  "the-prince": [
+    "The Prince is a compact treatise on how rulers gain, keep, and lose power in unstable political conditions. Machiavelli is less interested in moral perfection than in contingency, necessity, reputation, and the difficult choices made by leaders who operate in a world of enemies, shifting alliances, and unreliable fortune.",
+    "Its lasting fascination comes from the way it strips politics of comforting illusions without reducing it to simple cynicism. Machiavelli asks what effective rule requires when virtue in the classical or Christian sense does not reliably preserve the state. The result is a book that still frames debates about realism, reason of state, and the relation between ethics and power.",
+  ],
+  "leaves-of-grass": [
+    "Leaves of Grass is Whitman's long, evolving poetic project of self, nation, body, labor, comradeship, and democratic expansiveness. The poems stretch outward in catalogs, apostrophes, erotic addresses, and prophetic announcements, trying to invent a voice large enough to hold common speech, sensual life, spiritual speculation, and civic aspiration at once.",
+    "The work's themes are equality, embodiment, mortality, desire, and the hope that poetry can register the fullness of ordinary existence without hierarchy. Its importance lies in that wager on scale and inclusiveness. Whitman makes lyric poetry sound public, intimate, sexual, and national all at the same time, which is part of why the book was felt as liberating by some readers and scandalous by others.",
+  ],
+};

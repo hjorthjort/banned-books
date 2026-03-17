@@ -1,6 +1,7 @@
 import { mkdir, rm, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { counterPacks } from "./data/counter-packs.mjs";
+import { descriptionOverrides } from "./data/description-overrides.mjs";
 import { jurisdictions } from "./data/jurisdictions.mjs";
 import { sources } from "./data/sources.mjs";
 import { works } from "./data/works.mjs";
@@ -55,6 +56,96 @@ function buildCounterReadings(themeIds) {
   }
 
   return selected;
+}
+
+function humanizeTag(tag) {
+  return tag.replace(/-/g, " ");
+}
+
+function buildFormParagraph(work, themes) {
+  const lowerType = work.workType.toLowerCase();
+
+  if (lowerType.includes("religious text")) {
+    return `${work.title} is best approached as a scriptural work rather than a single continuous plot. Its language and authority come from recitation, commentary, and repeated interpretation, with central concerns that include ${themes}.`;
+  }
+
+  if (
+    lowerType.includes("manifesto") ||
+    lowerType.includes("pamphlet") ||
+    lowerType.includes("tract") ||
+    lowerType.includes("study") ||
+    lowerType.includes("manual") ||
+    lowerType.includes("history") ||
+    lowerType.includes("essay")
+  ) {
+    return `${work.title} is organized less as a story than as an argument. As a ${lowerType}, it tries to persuade readers through selection, emphasis, and direct claims about ${themes}.`;
+  }
+
+  if (lowerType.includes("memoir") || lowerType.includes("autobiography")) {
+    return `${work.title} filters ${themes} through personal memory and self-presentation. As a ${lowerType}, it asks readers to judge not just events but the voice that arranges and interprets them.`;
+  }
+
+  if (lowerType.includes("poem") || lowerType.includes("poetry")) {
+    return `${work.title} approaches ${themes} through voice, rhythm, and compression rather than plot alone. Its poetic form lets feeling, argument, and public speech overlap in a way prose often cannot.`;
+  }
+
+  if (lowerType.includes("play")) {
+    return `${work.title} stages ${themes} through conflict, speech, and performance. As a dramatic work, much of its force comes from what characters say in public, conceal in private, and embody on the stage.`;
+  }
+
+  if (lowerType.includes("story collection")) {
+    return `Across its separate pieces, ${work.title} returns again and again to ${themes}. The collection form lets the work test the same pressures from multiple angles instead of reducing them to a single plot line.`;
+  }
+
+  return `${work.title} is usually read through its treatment of ${themes}. As a ${lowerType}, it turns those concerns into conflicts of character, voice, setting, and social pressure rather than leaving them as abstract ideas.`;
+}
+
+function buildLegacyParagraph(work, themes) {
+  const lowerType = work.workType.toLowerCase();
+
+  if (lowerType.includes("religious text")) {
+    return "What gives the work lasting importance is not only doctrine but interpretive range. Readers return to it as a source of law, story, devotion, identity, and dispute, which is why arguments over the text rarely stay purely literary.";
+  }
+
+  if (
+    lowerType.includes("manifesto") ||
+    lowerType.includes("pamphlet") ||
+    lowerType.includes("tract") ||
+    lowerType.includes("study") ||
+    lowerType.includes("manual") ||
+    lowerType.includes("history") ||
+    lowerType.includes("essay")
+  ) {
+    return `Its significance lies in the way it compresses large claims into memorable formulas and positions. Even readers who reject the work usually have to reckon with how sharply it frames questions about ${themes}.`;
+  }
+
+  if (lowerType.includes("memoir") || lowerType.includes("autobiography")) {
+    return "The work endures because it links private experience to larger public structures. Readers come to it not only for events but for a way of seeing how identity, power, and history press on a single life.";
+  }
+
+  if (lowerType.includes("poem") || lowerType.includes("poetry")) {
+    return `Its staying power comes from the fit between subject and form. The language itself becomes part of the argument, so the work matters not just for what it says about ${themes} but for how it sounds and moves on the page.`;
+  }
+
+  if (lowerType.includes("play")) {
+    return "What keeps the work alive is the way argument becomes performance. Its themes stay vivid because they are enacted through timing, irony, confrontation, and the tension between private desire and public order.";
+  }
+
+  if (lowerType.includes("story collection")) {
+    return `What makes the work memorable is the cumulative effect of repetition and variation. By circling the same tensions through different stories, it builds a larger picture of how ${themes} shape ordinary conduct and imagination.`;
+  }
+
+  return `Part of the work's durability lies in the way its form intensifies its themes. Readers return to it not only for subject matter but for the distinctive voice, structure, and atmosphere through which it makes ${themes} feel immediate.`;
+}
+
+function buildDescriptionParagraphs(work) {
+  if (descriptionOverrides[work.id]) {
+    return descriptionOverrides[work.id];
+  }
+
+  const themes = formatList(unique(work.contentTags).map(humanizeTag));
+
+  return [work.description, buildFormParagraph(work, themes), buildLegacyParagraph(work, themes)];
 }
 
 function buildBanningParagraphs(work, banEvents, jurisdictionMap) {
@@ -143,6 +234,7 @@ async function main() {
   for (const work of works) {
     const summary = await fetchSummary(work.wikipediaTitle);
     const counterReadings = buildCounterReadings(work.counterThemes);
+    const descriptionParagraphs = buildDescriptionParagraphs(work);
     const banEvents = work.banEvents.map((event, index) => ({
       id: `${work.id}--${index + 1}`,
       workId: work.id,
@@ -183,6 +275,7 @@ async function main() {
       wikipediaTitle: work.wikipediaTitle ?? null,
       wikipediaUrl: work.wikipediaTitle ? `https://en.wikipedia.org/wiki/${work.wikipediaTitle}` : null,
       description: work.description,
+      descriptionParagraphs,
       descriptionSourceIds: unique(work.descriptionSourceIds ?? ["wikipedia-summary-api", "encyclopedia-censorship-2005"]),
       cover,
       ranking: {
@@ -229,4 +322,3 @@ main().catch((error) => {
   console.error(error);
   process.exitCode = 1;
 });
-

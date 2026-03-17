@@ -11,6 +11,11 @@
   "wikipediaTitle": "Borstal_Boy",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Borstal_Boy",
   "description": "Behan's memoir of imprisonment, Irish republicanism, and state punishment.",
+  "descriptionParagraphs": [
+    "Behan's memoir of imprisonment, Irish republicanism, and state punishment.",
+    "Borstal Boy filters crime, state punishment, and Irish politics through personal memory and self-presentation. As a memoir, it asks readers to judge not just events but the voice that arranges and interprets them.",
+    "The work endures because it links private experience to larger public structures. Readers come to it not only for events but for a way of seeing how identity, power, and history press on a single life."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

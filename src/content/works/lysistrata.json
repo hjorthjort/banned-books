@@ -11,6 +11,11 @@
   "wikipediaTitle": "Lysistrata",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lysistrata",
   "description": "A comic anti-war play in which women organize a sex strike to stop conflict.",
+  "descriptionParagraphs": [
+    "A comic anti-war play in which women organize a sex strike to stop conflict.",
+    "Lysistrata stages sexuality, anti war, and classical satire through conflict, speech, and performance. As a dramatic work, much of its force comes from what characters say in public, conceal in private, and embody on the stage.",
+    "What keeps the work alive is the way argument becomes performance. Its themes stay vivid because they are enacted through timing, irony, confrontation, and the tension between private desire and public order."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

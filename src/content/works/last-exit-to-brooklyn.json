@@ -11,6 +11,11 @@
   "wikipediaTitle": "Last_Exit_to_Brooklyn",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Last_Exit_to_Brooklyn",
   "description": "A grim novel about violence, poverty, sexuality, and social wreckage in postwar Brooklyn.",
+  "descriptionParagraphs": [
+    "A grim novel about violence, poverty, sexuality, and social wreckage in postwar Brooklyn.",
+    "Last Exit to Brooklyn is usually read through its treatment of violence, sexuality, and working class life. As a novel, it turns those concerns into conflicts of character, voice, setting, and social pressure rather than leaving them as abstract ideas.",
+    "Part of the work's durability lies in the way its form intensifies its themes. Readers return to it not only for subject matter but for the distinctive voice, structure, and atmosphere through which it makes violence, sexuality, and working class life feel immediate."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

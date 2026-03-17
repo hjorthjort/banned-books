@@ -11,6 +11,11 @@
   "wikipediaTitle": "The_White_Disease",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/The_White_Disease",
   "description": "A political allegory linking epidemic fear to dictatorship, militarism, and moral cowardice.",
+  "descriptionParagraphs": [
+    "A political allegory linking epidemic fear to dictatorship, militarism, and moral cowardice.",
+    "The White Disease stages anti fascism, allegory, and war critique through conflict, speech, and performance. As a dramatic work, much of its force comes from what characters say in public, conceal in private, and embody on the stage.",
+    "What keeps the work alive is the way argument becomes performance. Its themes stay vivid because they are enacted through timing, irony, confrontation, and the tension between private desire and public order."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"

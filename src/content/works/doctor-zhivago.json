@@ -11,6 +11,10 @@
   "wikipediaTitle": "Doctor_Zhivago_(novel)",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Doctor_Zhivago_(novel)",
   "description": "A sweeping novel of love, revolution, conscience, and the moral wreckage of Soviet history.",
+  "descriptionParagraphs": [
+    "Doctor Zhivago follows Yuri Zhivago through revolution, civil war, displacement, and the remaking of Russian life under new political dogmas. Pasternak's emphasis is not on military strategy or party theory, but on weather, landscape, private love, poetry, memory, and the way large historical events fracture ordinary human continuity.",
+    "The novel's central themes are conscience, inwardness, and the irreducibility of personal life to ideological categories. Zhivago matters because it treats art and moral perception as forms of freedom that cannot be fully absorbed by political systems. In that sense, it is a historical novel about revolution and also an argument for the claims of singular experience against total explanations."
+  ],
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"
