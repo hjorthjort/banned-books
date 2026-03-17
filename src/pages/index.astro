@@ -26,6 +26,13 @@ const sourceBacked = works
       </div>
     </div>
     <aside class="featured-panel">
+      {
+        featured.data.cover && (
+          <a class="featured-panel__media" href={`/works/${featured.data.slug}/`}>
+            <img src={featured.data.cover.sourceUrl} alt={featured.data.cover.alt} loading="eager" />
+          </a>
+        )
+      }
       <p class="featured-panel__label">Featured now</p>
       <h2>{featured.data.title}</h2>
       <p>{featured.data.authors.join(", ")}</p>
@@ -34,6 +41,16 @@ const sourceBacked = works
         <SectionBadge status={featured.data.reviewStatus} />
         <span class="metric">{featured.data.ranking.copiesSoldEstimate.toLocaleString()} estimated copies</span>
       </div>
+      {
+        featured.data.cover && (
+          <p class="featured-panel__caption">
+            Cover via{" "}
+            <a href={featured.data.cover.pageUrl} target="_blank" rel="noreferrer">
+              Wikipedia/Wikimedia
+            </a>
+          </p>
+        )
+      }
     </aside>
   </section>
 

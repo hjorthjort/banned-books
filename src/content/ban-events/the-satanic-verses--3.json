@@ -1,0 +1,22 @@
+{
+  "id": "the-satanic-verses--3",
+  "workId": "the-satanic-verses",
+  "jurisdictionId": "south-africa",
+  "governingBody": "South African censorship authorities",
+  "dateText": "November 1988",
+  "startYear": 1988,
+  "endYear": null,
+  "actionType": "banned import and sale",
+  "reasonTags": [
+    "blasphemy",
+    "religious-offense"
+  ],
+  "reasonSummary": "Apartheid-era authorities joined the first wave of state bans over alleged insults to Islam.",
+  "note": "South Africa appears in both broad censorship timelines and later retrospective reporting on the affair's first year.",
+  "quotation": null,
+  "sourceIds": [
+    "ala-satanic-verses-timeline",
+    "indian-express-satanic-verses-2024"
+  ],
+  "reviewStatus": "verified"
+}

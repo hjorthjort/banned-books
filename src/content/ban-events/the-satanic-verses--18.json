@@ -1,0 +1,22 @@
+{
+  "id": "the-satanic-verses--18",
+  "workId": "the-satanic-verses",
+  "jurisdictionId": "indonesia",
+  "governingBody": "Government of Indonesia",
+  "dateText": "March 1989",
+  "startYear": 1989,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "blasphemy",
+    "religious-offense"
+  ],
+  "reasonSummary": "Indonesia followed the earlier South Asian bans as the affair spread across Southeast Asia.",
+  "note": "The Indonesian record is consistently listed in both broad censorship timelines and later retrospective reporting.",
+  "quotation": null,
+  "sourceIds": [
+    "indian-express-satanic-verses-2024",
+    "ala-satanic-verses-timeline"
+  ],
+  "reviewStatus": "verified"
+}

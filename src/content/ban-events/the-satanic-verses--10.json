@@ -1,0 +1,22 @@
+{
+  "id": "the-satanic-verses--10",
+  "workId": "the-satanic-verses",
+  "jurisdictionId": "iran",
+  "governingBody": "Ayatollah Ruhollah Khomeini and the Islamic Republic of Iran",
+  "dateText": "14 February 1989",
+  "startYear": 1989,
+  "endYear": null,
+  "actionType": "issued state-backed fatwa and prohibition",
+  "reasonTags": [
+    "blasphemy",
+    "religious-offense"
+  ],
+  "reasonSummary": "Iran's supreme leader declared the novel blasphemous, called for Rushdie and those involved in publication to be killed, and turned the affair into a state-backed international crisis.",
+  "note": "This was not merely clerical commentary: it was a public decree from the head of the Iranian state that shaped censorship and violence worldwide for decades.",
+  "quotation": null,
+  "sourceIds": [
+    "upi-iran-fatwa-satanic-verses-1989",
+    "dw-rushdie-fatwa"
+  ],
+  "reviewStatus": "verified"
+}

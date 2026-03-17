@@ -1,0 +1,22 @@
+{
+  "id": "the-satanic-verses--13",
+  "workId": "the-satanic-verses",
+  "jurisdictionId": "malaysia",
+  "governingBody": "Government of Malaysia",
+  "dateText": "March 1989",
+  "startYear": 1989,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "blasphemy",
+    "religious-offense"
+  ],
+  "reasonSummary": "Malaysia joined the expanding regional ban list in March 1989 as the controversy deepened.",
+  "note": "Secondary timelines also note penalties for possession or circulation, but the current entry stays with the better-supported ban description.",
+  "quotation": null,
+  "sourceIds": [
+    "indian-express-satanic-verses-2024",
+    "ala-satanic-verses-timeline"
+  ],
+  "reviewStatus": "verified"
+}

@@ -1,22 +1,21 @@
 {
   "id": "the-satanic-verses--2",
   "workId": "the-satanic-verses",
-  "jurisdictionId": "egypt",
-  "governingBody": "Egyptian censors and import authorities",
-  "dateText": "1989",
-  "startYear": 1989,
+  "jurisdictionId": "pakistan",
+  "governingBody": "Government of Pakistan",
+  "dateText": "November 1988",
+  "startYear": 1988,
   "endYear": null,
-  "actionType": "blocked circulation",
+  "actionType": "banned circulation",
   "reasonTags": [
     "blasphemy",
     "religious-offense"
   ],
-  "reasonSummary": "Authorities treated the novel as religiously offensive and restricted access amid wider regional protest.",
-  "note": "The Egypt entry shows how state power and clerical outrage reinforced each other.",
+  "reasonSummary": "Pakistani authorities prohibited the novel as offensive to Islam before mass protests escalated into deadly unrest.",
+  "note": "The Pakistan case became one of the most violent early flashpoints in the wider controversy.",
   "quotation": null,
   "sourceIds": [
-    "dw-rushdie-fatwa",
-    "bald-religious-grounds"
+    "ala-satanic-verses-timeline"
   ],
   "reviewStatus": "verified"
 }

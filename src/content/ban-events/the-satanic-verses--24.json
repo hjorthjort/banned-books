@@ -1,0 +1,21 @@
+{
+  "id": "the-satanic-verses--24",
+  "workId": "the-satanic-verses",
+  "jurisdictionId": "turkey",
+  "governingBody": "Government of Turkey",
+  "dateText": "30 September 1989",
+  "startYear": 1989,
+  "endYear": null,
+  "actionType": "banned import, sale, and distribution",
+  "reasonTags": [
+    "blasphemy",
+    "religious-offense"
+  ],
+  "reasonSummary": "Turkey formally banned import, sale, and distribution of the novel months after the first bans elsewhere.",
+  "note": "Turkey later became one of the deadliest aftershock sites of the Rushdie affair because of violence directed at the book's Turkish translator and defenders.",
+  "quotation": null,
+  "sourceIds": [
+    "latimes-turkey-satanic-verses-1989"
+  ],
+  "reviewStatus": "verified"
+}

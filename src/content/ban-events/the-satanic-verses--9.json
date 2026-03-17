@@ -1,0 +1,21 @@
+{
+  "id": "the-satanic-verses--9",
+  "workId": "the-satanic-verses",
+  "jurisdictionId": "somalia",
+  "governingBody": "Government of Somalia",
+  "dateText": "1989",
+  "startYear": 1989,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "blasphemy",
+    "religious-offense"
+  ],
+  "reasonSummary": "Somalia appears in contemporary censorship timelines as one of the states that prohibited the novel over its treatment of Islam.",
+  "note": "The record is included here as part of the verified first-pass country census rather than a harvested local order text.",
+  "quotation": null,
+  "sourceIds": [
+    "ala-satanic-verses-timeline"
+  ],
+  "reviewStatus": "verified"
+}

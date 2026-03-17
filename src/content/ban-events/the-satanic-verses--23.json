@@ -1,0 +1,21 @@
+{
+  "id": "the-satanic-verses--23",
+  "workId": "the-satanic-verses",
+  "jurisdictionId": "poland",
+  "governingBody": "Polish authorities",
+  "dateText": "1989",
+  "startYear": 1989,
+  "endYear": null,
+  "actionType": "restricted distribution",
+  "reasonTags": [
+    "blasphemy",
+    "religious-offense"
+  ],
+  "reasonSummary": "Poland appears in ALA's censorship timeline as a government that restricted the novel's distribution.",
+  "note": "As with Bulgaria, the terminology here stays conservative because the harvested source describes restriction, not a total ban.",
+  "quotation": null,
+  "sourceIds": [
+    "ala-satanic-verses-timeline"
+  ],
+  "reviewStatus": "verified"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "the-satanic-verses--22",
+  "workId": "the-satanic-verses",
+  "jurisdictionId": "bulgaria",
+  "governingBody": "Bulgarian authorities",
+  "dateText": "1989",
+  "startYear": 1989,
+  "endYear": null,
+  "actionType": "restricted distribution",
+  "reasonTags": [
+    "blasphemy",
+    "religious-offense"
+  ],
+  "reasonSummary": "ALA's censorship timeline records Bulgaria as a government that restricted distribution of the novel.",
+  "note": "The current entry intentionally uses narrower wording than a blanket ban because the surviving source describes restriction rather than a complete prohibition.",
+  "quotation": null,
+  "sourceIds": [
+    "ala-satanic-verses-timeline"
+  ],
+  "reviewStatus": "verified"
+}

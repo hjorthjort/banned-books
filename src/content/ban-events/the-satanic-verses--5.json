@@ -1,0 +1,21 @@
+{
+  "id": "the-satanic-verses--5",
+  "workId": "the-satanic-verses",
+  "jurisdictionId": "sudan",
+  "governingBody": "Government of Sudan",
+  "dateText": "November 1988",
+  "startYear": 1988,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "blasphemy",
+    "religious-offense"
+  ],
+  "reasonSummary": "Sudanese authorities barred the book as offensive to Islam during the initial round of prohibitions.",
+  "note": "This record is supported by later timeline reporting rather than a harvested decree text.",
+  "quotation": null,
+  "sourceIds": [
+    "indian-express-satanic-verses-2024"
+  ],
+  "reviewStatus": "verified"
+}

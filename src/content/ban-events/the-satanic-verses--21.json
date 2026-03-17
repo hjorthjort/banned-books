@@ -1,0 +1,22 @@
+{
+  "id": "the-satanic-verses--21",
+  "workId": "the-satanic-verses",
+  "jurisdictionId": "japan",
+  "governingBody": "Japanese authorities",
+  "dateText": "1989",
+  "startYear": 1989,
+  "endYear": null,
+  "actionType": "restricted sale of the English-language edition",
+  "reasonTags": [
+    "blasphemy",
+    "religious-offense"
+  ],
+  "reasonSummary": "In Japan, the English-language edition was reportedly subject to fines or sale restrictions as part of the novel's broader censorship trail.",
+  "note": "The later murder of the novel's Japanese translator was not a state act, but it shows how the formal restriction existed alongside a wider climate of fear and violence.",
+  "quotation": null,
+  "sourceIds": [
+    "time-censored-satanic-verses",
+    "ala-satanic-verses-timeline"
+  ],
+  "reviewStatus": "verified"
+}

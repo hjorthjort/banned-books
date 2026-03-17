@@ -1,0 +1,23 @@
+{
+  "id": "the-satanic-verses--8",
+  "workId": "the-satanic-verses",
+  "jurisdictionId": "egypt",
+  "governingBody": "Egyptian censors and import authorities",
+  "dateText": "1989",
+  "startYear": 1989,
+  "endYear": null,
+  "actionType": "blocked circulation",
+  "reasonTags": [
+    "blasphemy",
+    "religious-offense"
+  ],
+  "reasonSummary": "Egyptian authorities treated the novel as religiously offensive and restricted access amid wider regional protest.",
+  "note": "The Egypt entry shows how state power and clerical outrage reinforced each other.",
+  "quotation": null,
+  "sourceIds": [
+    "dw-rushdie-fatwa",
+    "ala-satanic-verses-timeline",
+    "bald-religious-grounds"
+  ],
+  "reviewStatus": "verified"
+}

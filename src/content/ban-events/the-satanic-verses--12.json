@@ -1,0 +1,21 @@
+{
+  "id": "the-satanic-verses--12",
+  "workId": "the-satanic-verses",
+  "jurisdictionId": "qatar",
+  "governingBody": "Government of Qatar",
+  "dateText": "1989",
+  "startYear": 1989,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "blasphemy",
+    "religious-offense"
+  ],
+  "reasonSummary": "Qatar is listed among the governments that prohibited the book because it was considered offensive to Islam.",
+  "note": "Like Somalia and Saudi Arabia, Qatar is presently represented by high-confidence timeline sources rather than a harvested order text.",
+  "quotation": null,
+  "sourceIds": [
+    "ala-satanic-verses-timeline"
+  ],
+  "reviewStatus": "verified"
+}

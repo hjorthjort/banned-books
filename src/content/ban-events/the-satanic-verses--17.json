@@ -1,0 +1,21 @@
+{
+  "id": "the-satanic-verses--17",
+  "workId": "the-satanic-verses",
+  "jurisdictionId": "tanzania",
+  "governingBody": "Government of Tanzania",
+  "dateText": "March 1989",
+  "startYear": 1989,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "blasphemy",
+    "religious-offense"
+  ],
+  "reasonSummary": "Tanzania appears in the March 1989 expansion of bans around the novel.",
+  "note": "Later secondary timelines connect Tanzanian enforcement to possession penalties, but this seed record stays with the best-supported circulation ban.",
+  "quotation": null,
+  "sourceIds": [
+    "indian-express-satanic-verses-2024"
+  ],
+  "reviewStatus": "verified"
+}

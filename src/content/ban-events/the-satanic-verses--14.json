@@ -1,0 +1,22 @@
+{
+  "id": "the-satanic-verses--14",
+  "workId": "the-satanic-verses",
+  "jurisdictionId": "brunei",
+  "governingBody": "Minister of Home Affairs of Brunei",
+  "dateText": "1989",
+  "startYear": 1989,
+  "endYear": null,
+  "actionType": "prohibited import, sale, and circulation",
+  "reasonTags": [
+    "blasphemy",
+    "religious-offense"
+  ],
+  "reasonSummary": "Brunei formally listed The Satanic Verses under an order prohibiting the importation, sale, or circulation of undesirable publications.",
+  "note": "This entry is anchored in a primary-law source that names the book directly under GN 328/89.",
+  "quotation": null,
+  "sourceIds": [
+    "brunei-undesirable-publications-satanic-verses",
+    "indian-express-satanic-verses-2024"
+  ],
+  "reviewStatus": "verified"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "the-satanic-verses--15",
+  "workId": "the-satanic-verses",
+  "jurisdictionId": "kenya",
+  "governingBody": "Government of Kenya",
+  "dateText": "March 1989",
+  "startYear": 1989,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "blasphemy",
+    "religious-offense"
+  ],
+  "reasonSummary": "Kenya was part of the second regional wave of bans reported in March 1989.",
+  "note": "The current note reflects timeline-level evidence rather than a harvested Kenyan ban order.",
+  "quotation": null,
+  "sourceIds": [
+    "indian-express-satanic-verses-2024"
+  ],
+  "reviewStatus": "verified"
+}

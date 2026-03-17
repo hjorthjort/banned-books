@@ -1,0 +1,22 @@
+{
+  "id": "the-satanic-verses--4",
+  "workId": "the-satanic-verses",
+  "jurisdictionId": "bangladesh",
+  "governingBody": "Government of Bangladesh",
+  "dateText": "November 1988",
+  "startYear": 1988,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "blasphemy",
+    "religious-offense"
+  ],
+  "reasonSummary": "Bangladesh moved against the novel during the affair's first regional wave of bans.",
+  "note": "The ban predates the Iranian fatwa and shows how quickly the controversy jumped borders.",
+  "quotation": null,
+  "sourceIds": [
+    "ala-satanic-verses-timeline",
+    "indian-express-satanic-verses-2024"
+  ],
+  "reviewStatus": "verified"
+}

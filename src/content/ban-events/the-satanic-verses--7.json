@@ -1,0 +1,21 @@
+{
+  "id": "the-satanic-verses--7",
+  "workId": "the-satanic-verses",
+  "jurisdictionId": "saudi-arabia",
+  "governingBody": "Government of Saudi Arabia",
+  "dateText": "1989",
+  "startYear": 1989,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "blasphemy",
+    "religious-offense"
+  ],
+  "reasonSummary": "Saudi authorities are listed among the governments that prohibited the novel because it was judged insulting to Islam.",
+  "note": "The Saudi case is part of the broad regional consensus that formed around state-backed religious offense claims.",
+  "quotation": null,
+  "sourceIds": [
+    "ala-satanic-verses-timeline"
+  ],
+  "reviewStatus": "verified"
+}

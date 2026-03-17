@@ -10,7 +10,7 @@
   "publishedYearText": "1988",
   "wikipediaTitle": "The_Satanic_Verses",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Satanic_Verses",
-  "description": "A magical-realist novel about migration, faith, metamorphosis, and contested sacred history.",
+  "description": "A sprawling magical-realist novel about two Indian migrants, with dream sequences that satirize prophecy, revelation, migration, and political power.",
   "descriptionSourceIds": [
     "wikipedia-summary-api",
     "encyclopedia-censorship-2005"
@@ -38,11 +38,11 @@
     "religious-offense"
   ],
   "overview": {
-    "englishDescription": "A magical-realist novel about migration, faith, metamorphosis, and contested sacred history.",
+    "englishDescription": "A sprawling magical-realist novel about two Indian migrants, with dream sequences that satirize prophecy, revelation, migration, and political power.",
     "banningParagraphs": [
       "The Satanic Verses entered censorship debates as a novel associated with religion, migration, and magic realism. In the current dossier, the main state objections cluster around blasphemy, public order, and religious offense.",
-      "The earliest event currently captured here is 1988 in India, where Government of India banned imports. Officials moved quickly against the book after protests over alleged insults to Islam. The work became a global symbol of the conflict between literary freedom and religious offense.",
-      "The record already stretches across India and Egypt, which is why the page should be read as a cross-border censorship trail rather than a single isolated dispute."
+      "The earliest event currently captured here is 5 October 1988 in India, where Government of India and customs authorities banned imports. Rajiv Gandhi's government blocked import of the novel after pressure from Muslim politicians and protests claiming that it insulted Islam. A 2024 Delhi High Court proceeding later found the original ban notification untraceable, casting doubt on whether the import ban still has operative legal force.",
+      "The record already stretches across India, Pakistan, South Africa, Bangladesh, Sudan, Sri Lanka, Saudi Arabia, Egypt, Somalia, Iran, Jordan, Qatar, Malaysia, Brunei, Kenya, Thailand, Tanzania, Indonesia, Singapore, Venezuela, Japan, Bulgaria, Poland, and Turkey, which is why the page should be read as a cross-border censorship trail rather than a single isolated dispute."
     ]
   },
   "counterReadings": [
@@ -93,6 +93,15 @@
     "bald-religious-grounds",
     "karolides-1999",
     "dw-rushdie-fatwa",
+    "ala-satanic-verses-timeline",
+    "ap-india-satanic-verses-2024",
+    "indian-express-satanic-verses-2024",
+    "time-censored-satanic-verses",
+    "upi-iran-fatwa-satanic-verses-1989",
+    "upi-jordan-satanic-verses-1989",
+    "brunei-undesirable-publications-satanic-verses",
+    "singapore-mha-satanic-verses-2017",
+    "latimes-turkey-satanic-verses-1989",
     "hitchens-assassins-of-the-mind",
     "malik-from-fatwa-to-jihad",
     "haight-1978"

@@ -1,0 +1,22 @@
+{
+  "id": "the-satanic-verses--20",
+  "workId": "the-satanic-verses",
+  "jurisdictionId": "venezuela",
+  "governingBody": "Government of Venezuela",
+  "dateText": "1989",
+  "startYear": 1989,
+  "endYear": null,
+  "actionType": "criminalized possession and reading",
+  "reasonTags": [
+    "blasphemy",
+    "religious-offense"
+  ],
+  "reasonSummary": "Venezuelan officials threatened prison terms for people who owned or read the novel.",
+  "note": "This stands out because the sanction was framed not simply as import control but as punishment for possession itself.",
+  "quotation": null,
+  "sourceIds": [
+    "time-censored-satanic-verses",
+    "ala-satanic-verses-timeline"
+  ],
+  "reviewStatus": "verified"
+}

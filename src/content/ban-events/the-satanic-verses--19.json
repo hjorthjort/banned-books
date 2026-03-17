@@ -1,0 +1,21 @@
+{
+  "id": "the-satanic-verses--19",
+  "workId": "the-satanic-verses",
+  "jurisdictionId": "singapore",
+  "governingBody": "Government of Singapore",
+  "dateText": "1989",
+  "startYear": 1989,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "blasphemy",
+    "religious-offense"
+  ],
+  "reasonSummary": "Singapore later confirmed that it banned The Satanic Verses in 1989 because the mainstream Muslim community took offense and the state assessed the work as a threat to religious harmony.",
+  "note": "The useful part of the source is that the government itself retrospectively acknowledged the ban as a deliberate policy example.",
+  "quotation": null,
+  "sourceIds": [
+    "singapore-mha-satanic-verses-2017"
+  ],
+  "reviewStatus": "verified"
+}
