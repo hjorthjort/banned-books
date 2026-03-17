@@ -1,0 +1,98 @@
+{
+  "id": "leaves-of-grass",
+  "slug": "leaves-of-grass",
+  "title": "Leaves of Grass",
+  "authors": [
+    "Walt Whitman"
+  ],
+  "workType": "Poetry collection",
+  "originalLanguage": "English",
+  "publishedYearText": "1855",
+  "wikipediaTitle": "Leaves_of_Grass",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Leaves_of_Grass",
+  "description": "Whitman's expansive poetic celebration of democracy, the body, labor, and desire.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Walt_Whitman%2C_steel_engraving%2C_July_1854.jpg/330px-Walt_Whitman%2C_steel_engraving%2C_July_1854.jpg",
+    "width": 330,
+    "height": 432,
+    "alt": "Leaves of Grass cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Leaves_of_Grass",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 2000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "poetry",
+    "body",
+    "democracy"
+  ],
+  "reasonTags": [
+    "obscenity",
+    "sexuality"
+  ],
+  "overview": {
+    "englishDescription": "Whitman's expansive poetic celebration of democracy, the body, labor, and desire.",
+    "banningParagraphs": [
+      "Leaves of Grass entered censorship debates as a poetry collection associated with poetry, body, and democracy. In the current dossier, the main state objections cluster around obscenity and sexuality.",
+      "The earliest event currently captured here is 19th century in United States, where Postal and morals authorities suppressed editions. Whitman's treatment of the body and desire repeatedly drew moral attack. Its censorship history complicates the idea of a uniformly triumphant democratic literary canon.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "Banned Books: Literature Suppressed on Sexual Grounds",
+      "author": "Dawn B. Sova",
+      "url": "https://archive.org/details/literaturesuppre0000sova_r9r5",
+      "note": "Surveys the legal and moral language used to suppress books as obscene.",
+      "sourceIds": [
+        "sova-sexual-grounds"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for seeing how obscenity law and censorship habits changed over time.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "sova-sexual-grounds",
+    "haight-1978",
+    "karolides-1999"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Leaves%20of%20Grass%20Walt%20Whitman"
+}

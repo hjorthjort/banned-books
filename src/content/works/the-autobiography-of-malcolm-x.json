@@ -1,0 +1,111 @@
+{
+  "id": "the-autobiography-of-malcolm-x",
+  "slug": "the-autobiography-of-malcolm-x",
+  "title": "The Autobiography of Malcolm X",
+  "authors": [
+    "Malcolm X",
+    "Alex Haley"
+  ],
+  "workType": "Autobiography",
+  "originalLanguage": "English",
+  "publishedYearText": "1965",
+  "wikipediaTitle": "The_Autobiography_of_Malcolm_X",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Autobiography_of_Malcolm_X",
+  "description": "A powerful life narrative linking crime, conversion, race politics, and Black internationalism.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Autobiography_of_Malcolm_X_%281st_ed_dust_jacket_cover%29.jpg/330px-The_Autobiography_of_Malcolm_X_%281st_ed_dust_jacket_cover%29.jpg",
+    "width": 330,
+    "height": 481,
+    "alt": "The Autobiography of Malcolm X cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/The_Autobiography_of_Malcolm_X",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 6000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "race",
+    "black liberation",
+    "religion"
+  ],
+  "reasonTags": [
+    "racial-politics",
+    "anti-state"
+  ],
+  "overview": {
+    "englishDescription": "A powerful life narrative linking crime, conversion, race politics, and Black internationalism.",
+    "banningParagraphs": [
+      "The Autobiography of Malcolm X entered censorship debates as a autobiography associated with race, black liberation, and religion. In the current dossier, the main state objections cluster around racial politics and anti state.",
+      "The earliest event currently captured here is 1960s-1970s in South Africa, where Apartheid authorities banned circulation. The text's political force and Black radical critique made it unacceptable under apartheid. Its suppression shows censorship as an arm of racial governance.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "Everybody's Protest Novel",
+      "author": "James Baldwin",
+      "url": "https://harpers.org/archive/1949/06/everybodys-protest-novel/",
+      "note": "A skeptical response to the politics of moral uplift in canonical anti-slavery fiction.",
+      "sourceIds": [
+        "baldwin-everybodys-protest-novel"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "The Wretched of the Earth",
+      "author": "Frantz Fanon",
+      "url": "https://groveatlantic.com/book/the-wretched-of-the-earth/",
+      "note": "Helps contextualize race, violence, and liberation in books targeted under colonial or apartheid systems.",
+      "sourceIds": [
+        "fanon-wretched-of-the-earth"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "fanon-wretched-of-the-earth",
+    "baldwin-everybodys-protest-novel",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Autobiography%20of%20Malcolm%20X%20Malcolm%20X"
+}

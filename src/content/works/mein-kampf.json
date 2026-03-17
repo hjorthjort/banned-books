@@ -1,0 +1,112 @@
+{
+  "id": "mein-kampf",
+  "slug": "mein-kampf",
+  "title": "Mein Kampf",
+  "authors": [
+    "Adolf Hitler"
+  ],
+  "workType": "Political manifesto",
+  "originalLanguage": "German",
+  "publishedYearText": "1925",
+  "wikipediaTitle": "Mein_Kampf",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mein_Kampf",
+  "description": "Hitler's manifesto of racial ideology, antisemitism, dictatorship, and expansionist politics.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mein_Kampf_dust_jacket.jpeg/330px-Mein_Kampf_dust_jacket.jpeg",
+    "width": 330,
+    "height": 364,
+    "alt": "Mein Kampf cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Mein_Kampf",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 12000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "fascism",
+    "antisemitism",
+    "propaganda"
+  ],
+  "reasonTags": [
+    "nazism",
+    "extremism",
+    "hate-speech"
+  ],
+  "overview": {
+    "englishDescription": "Hitler's manifesto of racial ideology, antisemitism, dictatorship, and expansionist politics.",
+    "banningParagraphs": [
+      "Mein Kampf entered censorship debates as a political manifesto associated with fascism, antisemitism, and propaganda. In the current dossier, the main state objections cluster around nazism, extremism, and hate speech.",
+      "The earliest event currently captured here is 1947-present in Austria, where Austrian state under the Verbotsgesetz prohibited dissemination. Postwar Austria criminalized Nazi advocacy and restricted the book's uncritical circulation. The Austrian case reflects a modern democratic limit on explicitly genocidal propaganda.",
+      "The record already stretches across Austria and Russia, which is why the page should be read as a cross-border censorship trail rather than a single isolated dispute."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Third Reich in Power, 1933-1939",
+      "author": "Richard J. Evans",
+      "url": "https://www.penguinrandomhouse.com/books/294831/the-third-reich-in-power-1933-1939-by-richard-j-evans/",
+      "note": "A historical counterweight to fascist mythmaking and to books used as authoritarian propaganda.",
+      "sourceIds": [
+        "evans-third-reich"
+      ]
+    },
+    {
+      "type": "article",
+      "title": "Introduction to the Holocaust",
+      "author": "United States Holocaust Memorial Museum",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust",
+      "note": "A factual public rebuttal resource for antisemitic and Holocaust-distorting literature.",
+      "sourceIds": [
+        "ushmm-holocaust"
+      ]
+    },
+    {
+      "type": "article",
+      "title": "The Turner Diaries",
+      "author": "Anti-Defamation League",
+      "url": "https://www.adl.org/resources/backgrounder/turner-diaries",
+      "note": "Public backgrounder on how violent extremist fiction moved into real-world terror networks.",
+      "sourceIds": [
+        "adl-turner-diaries"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Denying the Holocaust",
+      "author": "Deborah E. Lipstadt",
+      "url": "https://www.penguinrandomhouse.com/books/189620/denying-the-holocaust-by-deborah-e-lipstadt/",
+      "note": "A clear historical rebuttal to denialist and revisionist propaganda.",
+      "sourceIds": [
+        "lipstadt-denying-the-holocaust"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "evans-third-reich",
+    "ushmm-holocaust",
+    "karolides-1999",
+    "encyclopedia-censorship-2005",
+    "adl-turner-diaries",
+    "lipstadt-denying-the-holocaust"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "verified",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "verified",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Mein%20Kampf%20Adolf%20Hitler"
+}

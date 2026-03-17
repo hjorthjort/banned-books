@@ -1,0 +1,23 @@
+{
+  "id": "the-da-vinci-code--1",
+  "workId": "the-da-vinci-code",
+  "jurisdictionId": "lebanon",
+  "governingBody": "Lebanese authorities",
+  "dateText": "2004",
+  "startYear": 2004,
+  "endYear": null,
+  "actionType": "banned sale",
+  "reasonTags": [
+    "religious-offense",
+    "blasphemy"
+  ],
+  "reasonSummary": "The novel was restricted for its speculative treatment of Christian history and symbols.",
+  "note": "This is a useful contemporary case where a global bestseller still met state religious censorship.",
+  "quotation": null,
+  "sourceIds": [
+    "bald-religious-grounds",
+    "karolides-1999",
+    "encyclopedia-censorship-2005"
+  ],
+  "reviewStatus": "verified"
+}

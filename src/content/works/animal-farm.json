@@ -1,0 +1,109 @@
+{
+  "id": "animal-farm",
+  "slug": "animal-farm",
+  "title": "Animal Farm",
+  "authors": [
+    "George Orwell"
+  ],
+  "workType": "Political novella",
+  "originalLanguage": "English",
+  "publishedYearText": "1945",
+  "wikipediaTitle": "Animal_Farm",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Animal_Farm",
+  "description": "An allegorical fable about revolution, propaganda, and the corruption of power.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Animal_Farm_-_1st_edition.jpg/330px-Animal_Farm_-_1st_edition.jpg",
+    "width": 330,
+    "height": 486,
+    "alt": "Animal Farm cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Animal_Farm",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 20000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "anti-totalitarianism",
+    "satire",
+    "revolution"
+  ],
+  "reasonTags": [
+    "anti-communism",
+    "political-dissent"
+  ],
+  "overview": {
+    "englishDescription": "An allegorical fable about revolution, propaganda, and the corruption of power.",
+    "banningParagraphs": [
+      "Animal Farm entered censorship debates as a political novella associated with anti totalitarianism, satire, and revolution. In the current dossier, the main state objections cluster around anti communism and political dissent.",
+      "The earliest event currently captured here is 1945-1990 in Soviet Union, where Soviet censors banned publication. The book's satire of Stalinist power made it unacceptable in the Soviet bloc for decades. Its path from suppressed allegory to classroom staple is central to the story of Cold War censorship.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "karolides-1999",
+    "haight-1978",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "verified",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "verified",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Animal%20Farm%20George%20Orwell"
+}

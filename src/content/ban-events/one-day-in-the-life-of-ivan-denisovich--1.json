@@ -1,0 +1,22 @@
+{
+  "id": "one-day-in-the-life-of-ivan-denisovich--1",
+  "workId": "one-day-in-the-life-of-ivan-denisovich",
+  "jurisdictionId": "soviet-union",
+  "governingBody": "Soviet censors",
+  "dateText": "1964 onward",
+  "startYear": 1964,
+  "endYear": null,
+  "actionType": "banned publication",
+  "reasonTags": [
+    "political-dissent",
+    "state-secrecy"
+  ],
+  "reasonSummary": "A brief thaw gave way to suppression once Solzhenitsyn again became politically inconvenient.",
+  "note": "The book captures how quickly limited liberalization could reverse under authoritarian rule.",
+  "quotation": null,
+  "sourceIds": [
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

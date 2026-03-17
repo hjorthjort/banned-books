@@ -1,0 +1,23 @@
+{
+  "id": "the-decameron--1",
+  "workId": "the-decameron",
+  "jurisdictionId": "australia",
+  "governingBody": "Australian customs and censors",
+  "dateText": "20th century",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "banned importation",
+  "reasonTags": [
+    "obscenity",
+    "morality"
+  ],
+  "reasonSummary": "Its erotic and anti-clerical material brought the classic into modern obscenity regimes.",
+  "note": "The case shows how medieval literature could still be treated as a live threat by modern censors.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978",
+    "encyclopedia-censorship-2005"
+  ],
+  "reviewStatus": "verified"
+}

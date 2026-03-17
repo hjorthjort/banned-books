@@ -1,0 +1,22 @@
+{
+  "id": "lady-chatterleys-lover--1",
+  "workId": "lady-chatterleys-lover",
+  "jurisdictionId": "united-kingdom",
+  "governingBody": "British obscenity authorities",
+  "dateText": "1928-1960",
+  "startYear": 1928,
+  "endYear": 1960,
+  "actionType": "banned unexpurgated editions",
+  "reasonTags": [
+    "obscenity",
+    "sexual-explicitness"
+  ],
+  "reasonSummary": "The novel was treated as obscene until its famous court case helped shift standards.",
+  "note": "This is one of the canonical legal turning points in English-language obscenity law.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

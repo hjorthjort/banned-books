@@ -1,0 +1,109 @@
+{
+  "id": "oliver-twist",
+  "slug": "oliver-twist",
+  "title": "Oliver Twist",
+  "authors": [
+    "Charles Dickens"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "English",
+  "publishedYearText": "1838",
+  "wikipediaTitle": "Oliver_Twist",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oliver_Twist",
+  "description": "A Dickens novel about poverty, crime, institutional cruelty, and the making of social innocence.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Olivertwist_front.jpg/330px-Olivertwist_front.jpg",
+    "width": 330,
+    "height": 279,
+    "alt": "Oliver Twist cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Oliver_Twist",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 20000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "poverty",
+    "crime",
+    "Jewish representation"
+  ],
+  "reasonTags": [
+    "antisemitism",
+    "ideological-control"
+  ],
+  "overview": {
+    "englishDescription": "A Dickens novel about poverty, crime, institutional cruelty, and the making of social innocence.",
+    "banningParagraphs": [
+      "Oliver Twist entered censorship debates as a novel associated with poverty, crime, and Jewish representation. In the current dossier, the main state objections cluster around antisemitism and ideological control.",
+      "The earliest event currently captured here is 1930s in Germany, where Nazi authorities banned circulation. The regime objected to the presence of Jewish characters rather than any attack on the state. It shows how racial ideology could override canonical prestige.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Third Reich in Power, 1933-1939",
+      "author": "Richard J. Evans",
+      "url": "https://www.penguinrandomhouse.com/books/294831/the-third-reich-in-power-1933-1939-by-richard-j-evans/",
+      "note": "A historical counterweight to fascist mythmaking and to books used as authoritarian propaganda.",
+      "sourceIds": [
+        "evans-third-reich"
+      ]
+    },
+    {
+      "type": "article",
+      "title": "Introduction to the Holocaust",
+      "author": "United States Holocaust Memorial Museum",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust",
+      "note": "A factual public rebuttal resource for antisemitic and Holocaust-distorting literature.",
+      "sourceIds": [
+        "ushmm-holocaust"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "evans-third-reich",
+    "ushmm-holocaust",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Oliver%20Twist%20Charles%20Dickens"
+}

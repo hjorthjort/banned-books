@@ -1,0 +1,22 @@
+{
+  "id": "the-world-is-full-of-married-men--1",
+  "workId": "the-world-is-full-of-married-men",
+  "jurisdictionId": "australia",
+  "governingBody": "Australian censors",
+  "dateText": "1968",
+  "startYear": 1968,
+  "endYear": null,
+  "actionType": "banned importation",
+  "reasonTags": [
+    "obscenity",
+    "morality"
+  ],
+  "reasonSummary": "Officials deemed the book too sexually explicit for circulation.",
+  "note": "It is part of a larger pattern in which mass-market women's commercial fiction drew heavy state scrutiny.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "nineteen-eighty-four",
+  "slug": "nineteen-eighty-four",
+  "title": "Nineteen Eighty-Four",
+  "authors": [
+    "George Orwell"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "English",
+  "publishedYearText": "1949",
+  "wikipediaTitle": "Nineteen_Eighty-Four",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four",
+  "description": "A dystopian novel about surveillance, language control, and total state power.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/1984_first_edition_cover.jpg",
+    "width": 220,
+    "height": 327,
+    "alt": "Nineteen Eighty-Four cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 30000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "surveillance",
+    "anti-totalitarianism",
+    "state violence"
+  ],
+  "reasonTags": [
+    "anti-communism",
+    "political-dissent"
+  ],
+  "overview": {
+    "englishDescription": "A dystopian novel about surveillance, language control, and total state power.",
+    "banningParagraphs": [
+      "Nineteen Eighty-Four entered censorship debates as a novel associated with surveillance, anti totalitarianism, and state violence. In the current dossier, the main state objections cluster around anti communism and political dissent.",
+      "The earliest event currently captured here is 1950-1990 in Soviet Union, where Soviet censors banned publication. Officials treated Orwell's dystopia as a hostile satire of Stalinist rule. The long ban helped turn the novel into a touchstone for anti-authoritarian reading cultures.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "karolides-1999",
+    "haight-1978",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "verified",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "verified",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Nineteen%20Eighty-Four%20George%20Orwell"
+}

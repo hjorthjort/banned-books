@@ -1,0 +1,22 @@
+{
+  "id": "by-grand-central-station--1",
+  "workId": "by-grand-central-station",
+  "jurisdictionId": "canada",
+  "governingBody": "Canadian authorities",
+  "dateText": "1940s",
+  "startYear": 1945,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "obscenity",
+    "morality"
+  ],
+  "reasonSummary": "The novel's intensity and adultery scandal drew official suppression.",
+  "note": "Its current literary status makes the earlier ban look particularly revealing.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "mein-kampf--1",
+  "workId": "mein-kampf",
+  "jurisdictionId": "austria",
+  "governingBody": "Austrian state under the Verbotsgesetz",
+  "dateText": "1947-present",
+  "startYear": 1947,
+  "endYear": null,
+  "actionType": "prohibited dissemination",
+  "reasonTags": [
+    "nazism",
+    "extremism"
+  ],
+  "reasonSummary": "Postwar Austria criminalized Nazi advocacy and restricted the book's uncritical circulation.",
+  "note": "The Austrian case reflects a modern democratic limit on explicitly genocidal propaganda.",
+  "quotation": null,
+  "sourceIds": [
+    "evans-third-reich",
+    "ushmm-holocaust",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "naked-lunch",
+  "slug": "naked-lunch",
+  "title": "Naked Lunch",
+  "authors": [
+    "William S. Burroughs"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "English",
+  "publishedYearText": "1959",
+  "wikipediaTitle": "Naked_Lunch",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Naked_Lunch",
+  "description": "A fractured, hallucinatory novel of addiction, control, bureaucracy, and obscene comedy.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/NakedLunch1stedition.jpg/120px-NakedLunch1stedition.jpg",
+    "width": 330,
+    "height": 485,
+    "alt": "Naked Lunch cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Naked_Lunch",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 1000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "drug use",
+    "sexuality",
+    "anti-bureaucratic satire"
+  ],
+  "reasonTags": [
+    "obscenity",
+    "sexual-explicitness"
+  ],
+  "overview": {
+    "englishDescription": "A fractured, hallucinatory novel of addiction, control, bureaucracy, and obscene comedy.",
+    "banningParagraphs": [
+      "Naked Lunch entered censorship debates as a novel associated with drug use, sexuality, and anti bureaucratic satire. In the current dossier, the main state objections cluster around obscenity and sexual explicitness.",
+      "The earliest event currently captured here is 1960s in United States, where Massachusetts and other obscenity authorities seized and prosecuted. Officials targeted the book for explicit scenes and its experimental obscenity. The case helped test whether avant-garde form mattered in obscenity law.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "Banned Books: Literature Suppressed on Sexual Grounds",
+      "author": "Dawn B. Sova",
+      "url": "https://archive.org/details/literaturesuppre0000sova_r9r5",
+      "note": "Surveys the legal and moral language used to suppress books as obscene.",
+      "sourceIds": [
+        "sova-sexual-grounds"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for seeing how obscenity law and censorship habits changed over time.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "sova-sexual-grounds",
+    "haight-1978",
+    "karolides-1999"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Naked%20Lunch%20William%20S.%20Burroughs"
+}

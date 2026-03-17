@@ -1,0 +1,9 @@
+{
+  "id": "roman-empire",
+  "name": "Roman Empire",
+  "jurisdictionType": "empire",
+  "region": "Mediterranean",
+  "historicalFrom": -27,
+  "historicalTo": 476,
+  "notes": "Used for late-antique imperial edicts."
+}

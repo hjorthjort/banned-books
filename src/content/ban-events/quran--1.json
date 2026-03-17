@@ -1,0 +1,22 @@
+{
+  "id": "quran--1",
+  "workId": "quran",
+  "jurisdictionId": "russia",
+  "governingBody": "Novorossiysk city court",
+  "dateText": "2013",
+  "startYear": 2013,
+  "endYear": null,
+  "actionType": "banned a translation",
+  "reasonTags": [
+    "extremism",
+    "religious-control"
+  ],
+  "reasonSummary": "A Russian court banned Elmir Kuliyev's translation under extremism laws before the ruling was overturned.",
+  "note": "The record is important because it shows how governments can target editions and translations of a scripture.",
+  "quotation": null,
+  "sourceIds": [
+    "reuters-russia-quran-2013",
+    "russia-moscow-times-quran"
+  ],
+  "reviewStatus": "verified"
+}

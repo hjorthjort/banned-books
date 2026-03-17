@@ -1,0 +1,22 @@
+{
+  "id": "we--1",
+  "workId": "we",
+  "jurisdictionId": "soviet-union",
+  "governingBody": "Soviet literary authorities",
+  "dateText": "1920s-1980s",
+  "startYear": 1924,
+  "endYear": 1988,
+  "actionType": "suppressed publication",
+  "reasonTags": [
+    "political-dissent",
+    "anti-state"
+  ],
+  "reasonSummary": "The book's vision of a regimented future was read as an attack on the emerging Soviet order.",
+  "note": "Its influence on later dystopian fiction grew partly because of the ban itself.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "the-naked-and-the-dead--1",
+  "workId": "the-naked-and-the-dead",
+  "jurisdictionId": "canada",
+  "governingBody": "Canadian censors",
+  "dateText": "late 1940s",
+  "startYear": 1948,
+  "endYear": null,
+  "actionType": "restricted circulation",
+  "reasonTags": [
+    "obscenity",
+    "offensive language"
+  ],
+  "reasonSummary": "Authorities objected to the novel's coarse language and sexual candor.",
+  "note": "The ban highlights how even war realism could be treated as indecent.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

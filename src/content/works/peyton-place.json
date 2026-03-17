@@ -1,0 +1,98 @@
+{
+  "id": "peyton-place",
+  "slug": "peyton-place",
+  "title": "Peyton Place",
+  "authors": [
+    "Grace Metalious"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "English",
+  "publishedYearText": "1956",
+  "wikipediaTitle": "Peyton_Place_(novel)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Peyton_Place_(novel)",
+  "description": "A small-town scandal novel exposing adultery, abuse, hypocrisy, and hidden violence.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Peyton_Place_first_edition_cover.jpg/330px-Peyton_Place_first_edition_cover.jpg",
+    "width": 330,
+    "height": 496,
+    "alt": "Peyton Place cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Peyton_Place_(novel)",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 12000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "sexuality",
+    "domestic hypocrisy",
+    "social scandal"
+  ],
+  "reasonTags": [
+    "obscenity",
+    "morality"
+  ],
+  "overview": {
+    "englishDescription": "A small-town scandal novel exposing adultery, abuse, hypocrisy, and hidden violence.",
+    "banningParagraphs": [
+      "Peyton Place entered censorship debates as a novel associated with sexuality, domestic hypocrisy, and social scandal. In the current dossier, the main state objections cluster around obscenity and morality.",
+      "The earliest event currently captured here is 1950s in Canada, where Canadian censors blocked importation. The novel's portrait of respectable vice made it vulnerable to obscenity controls. It joined a wave of mid-century bestsellers that states regarded as corrosive mass reading.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "Banned Books: Literature Suppressed on Sexual Grounds",
+      "author": "Dawn B. Sova",
+      "url": "https://archive.org/details/literaturesuppre0000sova_r9r5",
+      "note": "Surveys the legal and moral language used to suppress books as obscene.",
+      "sourceIds": [
+        "sova-sexual-grounds"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for seeing how obscenity law and censorship habits changed over time.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "sova-sexual-grounds",
+    "haight-1978",
+    "karolides-1999"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Peyton%20Place%20Grace%20Metalious"
+}

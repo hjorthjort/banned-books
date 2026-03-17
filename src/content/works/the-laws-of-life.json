@@ -1,0 +1,104 @@
+{
+  "id": "the-laws-of-life",
+  "slug": "the-laws-of-life",
+  "title": "The Laws of Life",
+  "authors": [
+    "Marie Stopes"
+  ],
+  "workType": "Sex education book",
+  "originalLanguage": "English",
+  "publishedYearText": "1921",
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "A popular sex-education and marriage manual associated with birth-control reform.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 200000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "sex education",
+    "reproduction",
+    "religion"
+  ],
+  "reasonTags": [
+    "sexuality",
+    "religious morality"
+  ],
+  "overview": {
+    "englishDescription": "A popular sex-education and marriage manual associated with birth-control reform.",
+    "banningParagraphs": [
+      "The Laws of Life entered censorship debates as a sex education book associated with sex education, reproduction, and religion. In the current dossier, the main state objections cluster around sexuality and religious morality.",
+      "The earliest event currently captured here is 20th century in Ireland, where Irish Censorship Board banned circulation. Authorities objected to its frank discussion of sex education and reproductive knowledge. The case shows how governments used morality law to police practical information.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "Banned Books: Literature Suppressed on Sexual Grounds",
+      "author": "Dawn B. Sova",
+      "url": "https://archive.org/details/literaturesuppre0000sova_r9r5",
+      "note": "Surveys the legal and moral language used to suppress books as obscene.",
+      "sourceIds": [
+        "sova-sexual-grounds"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for seeing how obscenity law and censorship habits changed over time.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    },
+    {
+      "type": "article",
+      "title": "Assassins of the Mind",
+      "author": "Christopher Hitchens",
+      "url": "https://www.vanityfair.com/news/2009/02/rushdie200902",
+      "note": "Frames the Rushdie affair as a test of free speech against violent religious intimidation.",
+      "sourceIds": [
+        "hitchens-assassins-of-the-mind"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "From Fatwa to Jihad",
+      "author": "Kenan Malik",
+      "url": "https://www.malikonline.co.uk/books/from-fatwa-to-jihad/",
+      "note": "Tracks how conflicts over blasphemy, race, and offense evolved after the Rushdie controversy.",
+      "sourceIds": [
+        "malik-from-fatwa-to-jihad"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "sova-sexual-grounds",
+    "haight-1978",
+    "hitchens-assassins-of-the-mind",
+    "malik-from-fatwa-to-jihad"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Laws%20of%20Life%20Marie%20Stopes"
+}

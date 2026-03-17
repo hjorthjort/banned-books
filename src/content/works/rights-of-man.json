@@ -1,0 +1,110 @@
+{
+  "id": "rights-of-man",
+  "slug": "rights-of-man",
+  "title": "Rights of Man",
+  "authors": [
+    "Thomas Paine"
+  ],
+  "workType": "Political treatise",
+  "originalLanguage": "English",
+  "publishedYearText": "1791",
+  "wikipediaTitle": "Rights_of_Man",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rights_of_Man",
+  "description": "Paine's defense of revolution, popular sovereignty, and rights against hereditary government.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/England_and_Yellow_flags.png/330px-England_and_Yellow_flags.png",
+    "width": 330,
+    "height": 210,
+    "alt": "Rights of Man cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Rights_of_Man",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 1000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "rights",
+    "revolution",
+    "anti-monarchy"
+  ],
+  "reasonTags": [
+    "sedition",
+    "revolutionary-politics",
+    "anti-state"
+  ],
+  "overview": {
+    "englishDescription": "Paine's defense of revolution, popular sovereignty, and rights against hereditary government.",
+    "banningParagraphs": [
+      "Rights of Man entered censorship debates as a political treatise associated with rights, revolution, and anti monarchy. In the current dossier, the main state objections cluster around sedition, revolutionary politics, and anti state.",
+      "The earliest event currently captured here is 1790s in United Kingdom, where British government and courts prosecuted and suppressed. Authorities targeted the book as a dangerous encouragement to democratic upheaval. It belongs to the classic archive of political writing criminalized as subversive.",
+      "The record already stretches across United Kingdom and Russia, which is why the page should be read as a cross-border censorship trail rather than a single isolated dispute."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "karolides-1999",
+    "haight-1978",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Rights%20of%20Man%20Thomas%20Paine"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "the-well-of-loneliness--1",
+  "workId": "the-well-of-loneliness",
+  "jurisdictionId": "united-kingdom",
+  "governingBody": "British obscenity authorities",
+  "dateText": "1928",
+  "startYear": 1928,
+  "endYear": null,
+  "actionType": "banned sale",
+  "reasonTags": [
+    "obscenity",
+    "queer sexuality"
+  ],
+  "reasonSummary": "The novel was prosecuted despite its restraint because lesbian existence itself was treated as obscene.",
+  "note": "It remains one of the classic queer censorship cases in English.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

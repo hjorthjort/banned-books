@@ -1,0 +1,103 @@
+{
+  "id": "amar-fashi-chai",
+  "slug": "amar-fashi-chai",
+  "title": "Amar Fashi Chai",
+  "authors": [
+    "Motiur Rahman Rentu"
+  ],
+  "workType": "Political memoir",
+  "originalLanguage": "Bengali",
+  "publishedYearText": "1999",
+  "wikipediaTitle": "Amar_Fashi_Chai",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amar_Fashi_Chai",
+  "description": "A controversial Bangladeshi political memoir attacking Sheikh Hasina and ruling-party power.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 20000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "politics",
+    "leadership critique",
+    "state retaliation"
+  ],
+  "reasonTags": [
+    "political-dissent",
+    "defamation"
+  ],
+  "overview": {
+    "englishDescription": "A controversial Bangladeshi political memoir attacking Sheikh Hasina and ruling-party power.",
+    "banningParagraphs": [
+      "Amar Fashi Chai entered censorship debates as a political memoir associated with politics, leadership critique, and state retaliation. In the current dossier, the main state objections cluster around political dissent and defamation.",
+      "The earliest event currently captured here is 1999 in Bangladesh, where Government of Bangladesh banned circulation. The state suppressed the book because of its claims about the prime minister and party politics. This entry represents contemporary political censorship rather than classic obscenity or blasphemy.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Amar%20Fashi%20Chai%20Motiur%20Rahman%20Rentu"
+}

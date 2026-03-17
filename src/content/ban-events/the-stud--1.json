@@ -1,0 +1,22 @@
+{
+  "id": "the-stud--1",
+  "workId": "the-stud",
+  "jurisdictionId": "australia",
+  "governingBody": "Australian censors",
+  "dateText": "1969",
+  "startYear": 1969,
+  "endYear": null,
+  "actionType": "banned importation",
+  "reasonTags": [
+    "obscenity",
+    "morality"
+  ],
+  "reasonSummary": "Collins's sequel was restricted for the same reasons as her first scandal novel.",
+  "note": "The recurring bans reveal how formula and readership could matter as much as any single passage.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

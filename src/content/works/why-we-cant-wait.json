@@ -1,0 +1,110 @@
+{
+  "id": "why-we-cant-wait",
+  "slug": "why-we-cant-wait",
+  "title": "Why We Can't Wait",
+  "authors": [
+    "Martin Luther King Jr."
+  ],
+  "workType": "Non-fiction",
+  "originalLanguage": "English",
+  "publishedYearText": "1964",
+  "wikipediaTitle": "Why_We_Can't_Wait",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Why_We_Can't_Wait",
+  "description": "King's account of Birmingham, civil disobedience, and the urgency of Black freedom struggles.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Why_We_Can%27t_Wait.jpg/250px-Why_We_Can%27t_Wait.jpg",
+    "width": 330,
+    "height": 489,
+    "alt": "Why We Can't Wait cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Why_We_Can't_Wait",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 500000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "civil rights",
+    "race",
+    "nonviolence"
+  ],
+  "reasonTags": [
+    "racial-politics",
+    "anti-state"
+  ],
+  "overview": {
+    "englishDescription": "King's account of Birmingham, civil disobedience, and the urgency of Black freedom struggles.",
+    "banningParagraphs": [
+      "Why We Can't Wait entered censorship debates as a non-fiction associated with civil rights, race, and nonviolence. In the current dossier, the main state objections cluster around racial politics and anti state.",
+      "The earliest event currently captured here is 1960s in South Africa, where Apartheid authorities banned circulation. Books associated with Black liberation and civil rights were treated as dangerous imports. The ban shows apartheid censors reacting not just to local organizing, but to transnational Black politics.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "Everybody's Protest Novel",
+      "author": "James Baldwin",
+      "url": "https://harpers.org/archive/1949/06/everybodys-protest-novel/",
+      "note": "A skeptical response to the politics of moral uplift in canonical anti-slavery fiction.",
+      "sourceIds": [
+        "baldwin-everybodys-protest-novel"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "The Wretched of the Earth",
+      "author": "Frantz Fanon",
+      "url": "https://groveatlantic.com/book/the-wretched-of-the-earth/",
+      "note": "Helps contextualize race, violence, and liberation in books targeted under colonial or apartheid systems.",
+      "sourceIds": [
+        "fanon-wretched-of-the-earth"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "fanon-wretched-of-the-earth",
+    "baldwin-everybodys-protest-novel",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Why%20We%20Can't%20Wait%20Martin%20Luther%20King%20Jr."
+}

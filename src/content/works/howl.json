@@ -1,0 +1,91 @@
+{
+  "id": "howl",
+  "slug": "howl",
+  "title": "Howl",
+  "authors": [
+    "Allen Ginsberg"
+  ],
+  "workType": "Poem",
+  "originalLanguage": "English",
+  "publishedYearText": "1956",
+  "wikipediaTitle": "Howl",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Howl",
+  "description": "A Beat poem of ecstatic rage against conformity, repression, and industrial modernity.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "poetry",
+    "sexuality",
+    "counterculture"
+  ],
+  "reasonTags": [
+    "obscenity",
+    "sexual-explicitness"
+  ],
+  "overview": {
+    "englishDescription": "A Beat poem of ecstatic rage against conformity, repression, and industrial modernity.",
+    "banningParagraphs": [
+      "Howl entered censorship debates as a poem associated with poetry, sexuality, and counterculture. In the current dossier, the main state objections cluster around obscenity and sexual explicitness.",
+      "The earliest event currently captured here is 1957 in United States, where Customs officials and local prosecutors seized copies and prosecuted publisher. The poem triggered one of the most famous U.S. obscenity trials in literature. Its legal victory became part of the mythology of postwar free expression.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "Banned Books: Literature Suppressed on Sexual Grounds",
+      "author": "Dawn B. Sova",
+      "url": "https://archive.org/details/literaturesuppre0000sova_r9r5",
+      "note": "Surveys the legal and moral language used to suppress books as obscene.",
+      "sourceIds": [
+        "sova-sexual-grounds"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for seeing how obscenity law and censorship habits changed over time.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "sova-sexual-grounds",
+    "haight-1978",
+    "karolides-1999"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Howl%20Allen%20Ginsberg"
+}

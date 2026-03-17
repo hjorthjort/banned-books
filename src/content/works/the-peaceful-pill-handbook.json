@@ -1,0 +1,111 @@
+{
+  "id": "the-peaceful-pill-handbook",
+  "slug": "the-peaceful-pill-handbook",
+  "title": "The Peaceful Pill Handbook",
+  "authors": [
+    "Philip Nitschke",
+    "Fiona Stewart"
+  ],
+  "workType": "Instructional manual",
+  "originalLanguage": "English",
+  "publishedYearText": "2007",
+  "wikipediaTitle": "The_Peaceful_Pill_Handbook",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Peaceful_Pill_Handbook",
+  "description": "A manual that discusses assisted dying methods, end-of-life autonomy, and practical self-deliverance.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/The_Peaceful_Pill_Handbook_cover.jpg/250px-The_Peaceful_Pill_Handbook_cover.jpg",
+    "width": 330,
+    "height": 491,
+    "alt": "The Peaceful Pill Handbook cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/The_Peaceful_Pill_Handbook",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 200000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "euthanasia",
+    "instruction",
+    "public health"
+  ],
+  "reasonTags": [
+    "self-harm",
+    "instructional harm"
+  ],
+  "overview": {
+    "englishDescription": "A manual that discusses assisted dying methods, end-of-life autonomy, and practical self-deliverance.",
+    "banningParagraphs": [
+      "The Peaceful Pill Handbook entered censorship debates as a instructional manual associated with euthanasia, instruction, and public health. In the current dossier, the main state objections cluster around self harm and instructional harm.",
+      "The earliest event currently captured here is 2007 onward in Australia, where Australian customs and classification authorities restricted circulation. Officials treated the book as an unacceptable guide to suicide and euthanasia methods. The case sits at the frontier between censorship, public health, and assisted-dying politics.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "Suicide prevention",
+      "author": "World Health Organization",
+      "url": "https://www.who.int/health-topics/suicide",
+      "note": "Public-health counterpoint for instruction manuals centered on self-harm or assisted death.",
+      "sourceIds": [
+        "who-suicide-prevention"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "Included here as a civic counterpoint when bans blur personal autonomy, panic, and state control.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "who-suicide-prevention",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "snyder-on-tyranny",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Peaceful%20Pill%20Handbook%20Philip%20Nitschke"
+}

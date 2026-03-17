@@ -1,0 +1,22 @@
+{
+  "id": "a-short-history-of-the-world--1",
+  "workId": "a-short-history-of-the-world",
+  "jurisdictionId": "spain",
+  "governingBody": "Francoist censors",
+  "dateText": "20th century",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "ideological-control",
+    "secularism"
+  ],
+  "reasonSummary": "Broad, secular world histories clashed with dictatorship-era ideological constraints.",
+  "note": "This shows censorship reaching well beyond fiction into narrative explanations of the world.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

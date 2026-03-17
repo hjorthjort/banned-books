@@ -1,0 +1,23 @@
+{
+  "id": "christianity-not-mysterious--1",
+  "workId": "christianity-not-mysterious",
+  "jurisdictionId": "ireland",
+  "governingBody": "Irish Parliament and church-backed authorities",
+  "dateText": "1697",
+  "startYear": 1697,
+  "endYear": null,
+  "actionType": "condemned and burned",
+  "reasonTags": [
+    "heresy",
+    "anti-clericalism"
+  ],
+  "reasonSummary": "The work challenged orthodox claims about mystery and revelation.",
+  "note": "Its punishment belongs to the long history of state-backed doctrinal control.",
+  "quotation": null,
+  "sourceIds": [
+    "bald-religious-grounds",
+    "karolides-1999",
+    "encyclopedia-censorship-2005"
+  ],
+  "reviewStatus": "verified"
+}

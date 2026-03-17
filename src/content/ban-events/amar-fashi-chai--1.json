@@ -1,0 +1,22 @@
+{
+  "id": "amar-fashi-chai--1",
+  "workId": "amar-fashi-chai",
+  "jurisdictionId": "bangladesh",
+  "governingBody": "Government of Bangladesh",
+  "dateText": "1999",
+  "startYear": 1999,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "political-dissent",
+    "defamation"
+  ],
+  "reasonSummary": "The state suppressed the book because of its claims about the prime minister and party politics.",
+  "note": "This entry represents contemporary political censorship rather than classic obscenity or blasphemy.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

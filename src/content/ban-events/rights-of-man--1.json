@@ -1,0 +1,22 @@
+{
+  "id": "rights-of-man--1",
+  "workId": "rights-of-man",
+  "jurisdictionId": "united-kingdom",
+  "governingBody": "British government and courts",
+  "dateText": "1790s",
+  "startYear": 1792,
+  "endYear": null,
+  "actionType": "prosecuted and suppressed",
+  "reasonTags": [
+    "sedition",
+    "revolutionary-politics"
+  ],
+  "reasonSummary": "Authorities targeted the book as a dangerous encouragement to democratic upheaval.",
+  "note": "It belongs to the classic archive of political writing criminalized as subversive.",
+  "quotation": null,
+  "sourceIds": [
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

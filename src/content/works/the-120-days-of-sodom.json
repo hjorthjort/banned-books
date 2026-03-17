@@ -1,0 +1,109 @@
+{
+  "id": "the-120-days-of-sodom",
+  "slug": "the-120-days-of-sodom",
+  "title": "The 120 Days of Sodom",
+  "authors": [
+    "Marquis de Sade"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "French",
+  "publishedYearText": "1904 publication of an 18th-century manuscript",
+  "wikipediaTitle": "The_120_Days_of_Sodom",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_120_Days_of_Sodom",
+  "description": "An extreme libertine novel about power, cruelty, and systematic sexual violence.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sade_-_Les_120_Journ%C3%A9es_de_Sodome%2C_%C3%A9d._D%C3%BChren%2C_1904_%28page_6_crop%29.jpg/330px-Sade_-_Les_120_Journ%C3%A9es_de_Sodome%2C_%C3%A9d._D%C3%BChren%2C_1904_%28page_6_crop%29.jpg",
+    "width": 330,
+    "height": 449,
+    "alt": "The 120 Days of Sodom cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/The_120_Days_of_Sodom",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 500000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "sexual-explicitness",
+    "violence",
+    "philosophical transgression"
+  ],
+  "reasonTags": [
+    "obscenity",
+    "sexual-explicitness"
+  ],
+  "overview": {
+    "englishDescription": "An extreme libertine novel about power, cruelty, and systematic sexual violence.",
+    "banningParagraphs": [
+      "The 120 Days of Sodom entered censorship debates as a novel associated with sexual explicitness, violence, and philosophical transgression. In the current dossier, the main state objections cluster around obscenity and sexual explicitness.",
+      "The earliest event currently captured here is 20th century in Australia, where Australian censors banned importation. Its combination of sadism and explicit material made it a routine target of censorship. Few books fit the classic obscenity-ban pattern more neatly than Sade.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "Banned Books: Literature Suppressed on Sexual Grounds",
+      "author": "Dawn B. Sova",
+      "url": "https://archive.org/details/literaturesuppre0000sova_r9r5",
+      "note": "Surveys the legal and moral language used to suppress books as obscene.",
+      "sourceIds": [
+        "sova-sexual-grounds"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for seeing how obscenity law and censorship habits changed over time.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    },
+    {
+      "type": "article",
+      "title": "The Turner Diaries",
+      "author": "Anti-Defamation League",
+      "url": "https://www.adl.org/resources/backgrounder/turner-diaries",
+      "note": "Public backgrounder on how violent extremist fiction moved into real-world terror networks.",
+      "sourceIds": [
+        "adl-turner-diaries"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Denying the Holocaust",
+      "author": "Deborah E. Lipstadt",
+      "url": "https://www.penguinrandomhouse.com/books/189620/denying-the-holocaust-by-deborah-e-lipstadt/",
+      "note": "A clear historical rebuttal to denialist and revisionist propaganda.",
+      "sourceIds": [
+        "lipstadt-denying-the-holocaust"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "sova-sexual-grounds",
+    "haight-1978",
+    "adl-turner-diaries",
+    "lipstadt-denying-the-holocaust"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20120%20Days%20of%20Sodom%20Marquis%20de%20Sade"
+}

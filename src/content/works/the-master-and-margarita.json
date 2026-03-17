@@ -1,0 +1,111 @@
+{
+  "id": "the-master-and-margarita",
+  "slug": "the-master-and-margarita",
+  "title": "The Master and Margarita",
+  "authors": [
+    "Mikhail Bulgakov"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "Russian",
+  "publishedYearText": "1967",
+  "wikipediaTitle": "The_Master_and_Margarita",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Master_and_Margarita",
+  "description": "A satirical fantasy that collides Soviet literary bureaucracy with the demonic and the sacred.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/MasterandMargaritaFirstEdition.jpg/330px-MasterandMargaritaFirstEdition.jpg",
+    "width": 330,
+    "height": 440,
+    "alt": "The Master and Margarita cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/The_Master_and_Margarita",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 3000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "satire",
+    "religion",
+    "state control"
+  ],
+  "reasonTags": [
+    "political-dissent",
+    "religious-content"
+  ],
+  "overview": {
+    "englishDescription": "A satirical fantasy that collides Soviet literary bureaucracy with the demonic and the sacred.",
+    "banningParagraphs": [
+      "The Master and Margarita entered censorship debates as a novel associated with satire, religion, and state control. In the current dossier, the main state objections cluster around political dissent and religious content.",
+      "The earliest event currently captured here is 1930s-1960s in Soviet Union, where Soviet censors suppressed manuscript and publication. The novel's mockery of official culture and its religious imagination made it difficult to publish uncut. It circulated in incomplete or delayed form before becoming a classic.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    },
+    {
+      "type": "article",
+      "title": "Assassins of the Mind",
+      "author": "Christopher Hitchens",
+      "url": "https://www.vanityfair.com/news/2009/02/rushdie200902",
+      "note": "Frames the Rushdie affair as a test of free speech against violent religious intimidation.",
+      "sourceIds": [
+        "hitchens-assassins-of-the-mind"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "From Fatwa to Jihad",
+      "author": "Kenan Malik",
+      "url": "https://www.malikonline.co.uk/books/from-fatwa-to-jihad/",
+      "note": "Tracks how conflicts over blasphemy, race, and offense evolved after the Rushdie controversy.",
+      "sourceIds": [
+        "malik-from-fatwa-to-jihad"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny",
+    "hitchens-assassins-of-the-mind",
+    "malik-from-fatwa-to-jihad"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Master%20and%20Margarita%20Mikhail%20Bulgakov"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "east-germany",
+  "name": "East Germany",
+  "jurisdictionType": "historical-state",
+  "region": "Europe",
+  "historicalFrom": 1949,
+  "historicalTo": 1990,
+  "notes": "German Democratic Republic censorship."
+}

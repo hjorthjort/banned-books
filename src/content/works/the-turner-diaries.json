@@ -1,0 +1,110 @@
+{
+  "id": "the-turner-diaries",
+  "slug": "the-turner-diaries",
+  "title": "The Turner Diaries",
+  "authors": [
+    "William Luther Pierce"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "English",
+  "publishedYearText": "1978",
+  "wikipediaTitle": "The_Turner_Diaries",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Turner_Diaries",
+  "description": "A white-supremacist insurgency novel that has influenced real-world extremist violence.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/The_Turner_Diaries_cover%2C_1978%2C_by_Dennis_Nix.jpg/330px-The_Turner_Diaries_cover%2C_1978%2C_by_Dennis_Nix.jpg",
+    "width": 330,
+    "height": 558,
+    "alt": "The Turner Diaries cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/The_Turner_Diaries",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 500000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "white supremacy",
+    "terrorism",
+    "extremism"
+  ],
+  "reasonTags": [
+    "hate-speech",
+    "extremism"
+  ],
+  "overview": {
+    "englishDescription": "A white-supremacist insurgency novel that has influenced real-world extremist violence.",
+    "banningParagraphs": [
+      "The Turner Diaries entered censorship debates as a novel associated with white supremacy, terrorism, and extremism. In the current dossier, the main state objections cluster around hate speech and extremism.",
+      "The earliest event currently captured here is 1990s in Canada, where Canadian customs and hate-literature authorities restricted importation. Authorities treated the novel as racist propaganda with real-world violent effects. This is a rare case where a 'counter' section can directly address the book's dangerous ideas rather than merely its censorship history.",
+      "The record already stretches across Canada and Russia, which is why the page should be read as a cross-border censorship trail rather than a single isolated dispute."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "The Turner Diaries",
+      "author": "Anti-Defamation League",
+      "url": "https://www.adl.org/resources/backgrounder/turner-diaries",
+      "note": "Public backgrounder on how violent extremist fiction moved into real-world terror networks.",
+      "sourceIds": [
+        "adl-turner-diaries"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Denying the Holocaust",
+      "author": "Deborah E. Lipstadt",
+      "url": "https://www.penguinrandomhouse.com/books/189620/denying-the-holocaust-by-deborah-e-lipstadt/",
+      "note": "A clear historical rebuttal to denialist and revisionist propaganda.",
+      "sourceIds": [
+        "lipstadt-denying-the-holocaust"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "The Third Reich in Power, 1933-1939",
+      "author": "Richard J. Evans",
+      "url": "https://www.penguinrandomhouse.com/books/294831/the-third-reich-in-power-1933-1939-by-richard-j-evans/",
+      "note": "A historical counterweight to fascist mythmaking and to books used as authoritarian propaganda.",
+      "sourceIds": [
+        "evans-third-reich"
+      ]
+    },
+    {
+      "type": "article",
+      "title": "Introduction to the Holocaust",
+      "author": "United States Holocaust Memorial Museum",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust",
+      "note": "A factual public rebuttal resource for antisemitic and Holocaust-distorting literature.",
+      "sourceIds": [
+        "ushmm-holocaust"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "adl-turner-diaries",
+    "evans-third-reich",
+    "ushmm-holocaust",
+    "karolides-1999",
+    "lipstadt-denying-the-holocaust"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Turner%20Diaries%20William%20Luther%20Pierce"
+}

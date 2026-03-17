@@ -1,0 +1,22 @@
+{
+  "id": "ecstasy-and-me--1",
+  "workId": "ecstasy-and-me",
+  "jurisdictionId": "australia",
+  "governingBody": "Australian censors",
+  "dateText": "1960s",
+  "startYear": 1966,
+  "endYear": null,
+  "actionType": "banned importation",
+  "reasonTags": [
+    "obscenity",
+    "morality"
+  ],
+  "reasonSummary": "The memoir was treated as too explicit for import.",
+  "note": "It shows how celebrity publishing could trigger the same moral restrictions as fiction.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

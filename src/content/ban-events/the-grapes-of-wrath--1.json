@@ -1,0 +1,22 @@
+{
+  "id": "the-grapes-of-wrath--1",
+  "workId": "the-grapes-of-wrath",
+  "jurisdictionId": "united-states",
+  "governingBody": "Local and county authorities",
+  "dateText": "1939-1940s",
+  "startYear": 1939,
+  "endYear": null,
+  "actionType": "removed and banned",
+  "reasonTags": [
+    "political-dissent",
+    "offense to local interests"
+  ],
+  "reasonSummary": "Officials and local elites attacked the novel as slanderous and inflammatory.",
+  "note": "Though often taught as an American classic, its path into the canon ran through conflict with local power.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

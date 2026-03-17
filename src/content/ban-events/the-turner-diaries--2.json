@@ -1,0 +1,22 @@
+{
+  "id": "the-turner-diaries--2",
+  "workId": "the-turner-diaries",
+  "jurisdictionId": "russia",
+  "governingBody": "Russian courts",
+  "dateText": "2020s",
+  "startYear": 2020,
+  "endYear": null,
+  "actionType": "banned as extremist",
+  "reasonTags": [
+    "extremism",
+    "hate-speech"
+  ],
+  "reasonSummary": "The text has also been classified as extremist in Russia.",
+  "note": "Its spread across contemporary extremist ecosystems makes it a live censorship problem rather than only a historical one.",
+  "quotation": null,
+  "sourceIds": [
+    "adl-turner-diaries",
+    "ushmm-holocaust"
+  ],
+  "reviewStatus": "verified"
+}

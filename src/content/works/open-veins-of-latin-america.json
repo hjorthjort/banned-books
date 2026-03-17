@@ -1,0 +1,110 @@
+{
+  "id": "open-veins-of-latin-america",
+  "slug": "the-open-veins-of-latin-america",
+  "title": "The Open Veins of Latin America",
+  "authors": [
+    "Eduardo Galeano"
+  ],
+  "workType": "History and political essay",
+  "originalLanguage": "Spanish",
+  "publishedYearText": "1971",
+  "wikipediaTitle": "Open_Veins_of_Latin_America",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Open_Veins_of_Latin_America",
+  "description": "A polemical history of extraction, dependency, and colonial capitalism in Latin America.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/OpenVeinCover.jpg/250px-OpenVeinCover.jpg",
+    "width": 330,
+    "height": 497,
+    "alt": "The Open Veins of Latin America cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Open_Veins_of_Latin_America",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 1000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "colonialism",
+    "political economy",
+    "imperialism"
+  ],
+  "reasonTags": [
+    "left politics",
+    "anti-dictatorship"
+  ],
+  "overview": {
+    "englishDescription": "A polemical history of extraction, dependency, and colonial capitalism in Latin America.",
+    "banningParagraphs": [
+      "The Open Veins of Latin America entered censorship debates as a history and political essay associated with colonialism, political economy, and imperialism. In the current dossier, the main state objections cluster around left politics and anti dictatorship.",
+      "The earliest event currently captured here is 1970s in Chile, where Pinochet regime banned circulation. Military authorities suppressed Galeano's anti-imperialist history. The book became a standard exile-era text precisely because states tried to erase it.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Wretched of the Earth",
+      "author": "Frantz Fanon",
+      "url": "https://groveatlantic.com/book/the-wretched-of-the-earth/",
+      "note": "A strong counter-reading for colonial rule, racial hierarchy, and imperial cultural power.",
+      "sourceIds": [
+        "fanon-wretched-of-the-earth"
+      ]
+    },
+    {
+      "type": "article",
+      "title": "Everybody's Protest Novel",
+      "author": "James Baldwin",
+      "url": "https://harpers.org/archive/1949/06/everybodys-protest-novel/",
+      "note": "Sharp criticism of sentimental protest fiction and its political limits.",
+      "sourceIds": [
+        "baldwin-everybodys-protest-novel"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "fanon-wretched-of-the-earth",
+    "baldwin-everybodys-protest-novel",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Open%20Veins%20of%20Latin%20America%20Eduardo%20Galeano"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "borstal-boy--1",
+  "workId": "borstal-boy",
+  "jurisdictionId": "ireland",
+  "governingBody": "Irish Censorship Board",
+  "dateText": "1958",
+  "startYear": 1958,
+  "endYear": null,
+  "actionType": "banned sale",
+  "reasonTags": [
+    "morality",
+    "political sensitivity"
+  ],
+  "reasonSummary": "The memoir ran into Irish censorship because of language, crime, and sexual candor.",
+  "note": "It became a classic example of mid-century Irish literary restriction.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

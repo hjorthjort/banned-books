@@ -1,0 +1,22 @@
+{
+  "id": "brave-new-world--1",
+  "workId": "brave-new-world",
+  "jurisdictionId": "australia",
+  "governingBody": "Australian customs censors",
+  "dateText": "1930s",
+  "startYear": 1932,
+  "endYear": null,
+  "actionType": "banned importation",
+  "reasonTags": [
+    "morality",
+    "sexual-explicitness"
+  ],
+  "reasonSummary": "The book's treatment of sex, reproduction, and social conditioning made it suspect.",
+  "note": "Even anti-authoritarian dystopias could be censored on moral rather than political grounds.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

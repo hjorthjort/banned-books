@@ -1,0 +1,22 @@
+{
+  "id": "forever-amber--1",
+  "workId": "forever-amber",
+  "jurisdictionId": "australia",
+  "governingBody": "Australian censors",
+  "dateText": "1940s",
+  "startYear": 1944,
+  "endYear": null,
+  "actionType": "banned importation",
+  "reasonTags": [
+    "obscenity",
+    "morality"
+  ],
+  "reasonSummary": "Its frank treatment of sex and ambition triggered a ban soon after publication.",
+  "note": "The book's mass popularity did not stop censorship; it likely intensified official concern.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

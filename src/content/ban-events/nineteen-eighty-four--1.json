@@ -1,0 +1,22 @@
+{
+  "id": "nineteen-eighty-four--1",
+  "workId": "nineteen-eighty-four",
+  "jurisdictionId": "soviet-union",
+  "governingBody": "Soviet censors",
+  "dateText": "1950-1990",
+  "startYear": 1950,
+  "endYear": 1990,
+  "actionType": "banned publication",
+  "reasonTags": [
+    "anti-communism",
+    "political-dissent"
+  ],
+  "reasonSummary": "Officials treated Orwell's dystopia as a hostile satire of Stalinist rule.",
+  "note": "The long ban helped turn the novel into a touchstone for anti-authoritarian reading cultures.",
+  "quotation": null,
+  "sourceIds": [
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

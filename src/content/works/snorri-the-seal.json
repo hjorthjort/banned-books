@@ -1,0 +1,103 @@
+{
+  "id": "snorri-the-seal",
+  "slug": "snorri-the-seal",
+  "title": "Snorri the Seal",
+  "authors": [
+    "Frithjof Saelen"
+  ],
+  "workType": "Satirical children's book",
+  "originalLanguage": "Norwegian",
+  "publishedYearText": "1941",
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "A wartime allegory that mocked fascist occupation through the format of a children's book.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 10000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "occupation",
+    "satire",
+    "children's literature"
+  ],
+  "reasonTags": [
+    "anti-fascism",
+    "satire"
+  ],
+  "overview": {
+    "englishDescription": "A wartime allegory that mocked fascist occupation through the format of a children's book.",
+    "banningParagraphs": [
+      "Snorri the Seal entered censorship debates as a satirical children's book associated with occupation, satire, and children's literature. In the current dossier, the main state objections cluster around anti fascism and satire.",
+      "The earliest event currently captured here is 1941 in Norway, where German occupation authorities banned circulation. Occupation censors targeted the book because its allegory mocked their rule. It is a small but vivid example of literary resistance under occupation.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Snorri%20the%20Seal%20Frithjof%20Saelen"
+}

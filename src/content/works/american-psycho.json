@@ -1,0 +1,110 @@
+{
+  "id": "american-psycho",
+  "slug": "american-psycho",
+  "title": "American Psycho",
+  "authors": [
+    "Bret Easton Ellis"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "English",
+  "publishedYearText": "1991",
+  "wikipediaTitle": "American_Psycho",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/American_Psycho",
+  "description": "A satirical horror novel about consumerism, misogyny, status anxiety, and stylized violence.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/b/b5/American_Psycho_by_Bret_Easton_Ellis_first_US_paperback_edition_1991.jpg",
+    "width": 254,
+    "height": 392,
+    "alt": "American Psycho cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/American_Psycho",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 3000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "violence",
+    "consumerism",
+    "sexual-explicitness"
+  ],
+  "reasonTags": [
+    "graphic-violence",
+    "sexual-explicitness"
+  ],
+  "overview": {
+    "englishDescription": "A satirical horror novel about consumerism, misogyny, status anxiety, and stylized violence.",
+    "banningParagraphs": [
+      "American Psycho entered censorship debates as a novel associated with violence, consumerism, and sexual explicitness. In the current dossier, the main state objections cluster around graphic violence and sexual explicitness.",
+      "The earliest event currently captured here is 1990s-present in Australia, where Australian classification authorities restricted sale. Australian regulators restricted the book and limited sales to adults. The book sits at the line between literary satire and material that governments treat as too graphic for general circulation.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "Banned Books: Literature Suppressed on Sexual Grounds",
+      "author": "Dawn B. Sova",
+      "url": "https://archive.org/details/literaturesuppre0000sova_r9r5",
+      "note": "Surveys the legal and moral language used to suppress books as obscene.",
+      "sourceIds": [
+        "sova-sexual-grounds"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for seeing how obscenity law and censorship habits changed over time.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    },
+    {
+      "type": "article",
+      "title": "The Turner Diaries",
+      "author": "Anti-Defamation League",
+      "url": "https://www.adl.org/resources/backgrounder/turner-diaries",
+      "note": "Public backgrounder on how violent extremist fiction moved into real-world terror networks.",
+      "sourceIds": [
+        "adl-turner-diaries"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Denying the Holocaust",
+      "author": "Deborah E. Lipstadt",
+      "url": "https://www.penguinrandomhouse.com/books/189620/denying-the-holocaust-by-deborah-e-lipstadt/",
+      "note": "A clear historical rebuttal to denialist and revisionist propaganda.",
+      "sourceIds": [
+        "lipstadt-denying-the-holocaust"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "sova-sexual-grounds",
+    "haight-1978",
+    "australia-classification-american-psycho",
+    "adl-turner-diaries",
+    "lipstadt-denying-the-holocaust"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "verified",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "verified",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=American%20Psycho%20Bret%20Easton%20Ellis"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "the-laws-of-life--1",
+  "workId": "the-laws-of-life",
+  "jurisdictionId": "ireland",
+  "governingBody": "Irish Censorship Board",
+  "dateText": "20th century",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "sexuality",
+    "religious morality"
+  ],
+  "reasonSummary": "Authorities objected to its frank discussion of sex education and reproductive knowledge.",
+  "note": "The case shows how governments used morality law to police practical information.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

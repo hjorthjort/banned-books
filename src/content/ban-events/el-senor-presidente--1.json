@@ -1,0 +1,22 @@
+{
+  "id": "el-senor-presidente--1",
+  "workId": "el-senor-presidente",
+  "jurisdictionId": "guatemala",
+  "governingBody": "Government under Jorge Ubico and successors",
+  "dateText": "mid-20th century",
+  "startYear": 1946,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "anti-dictatorship",
+    "political-dissent"
+  ],
+  "reasonSummary": "The novel's portrait of authoritarianism made it difficult to circulate safely in Guatemala.",
+  "note": "It stands near the origin of the Latin American dictator-novel tradition.",
+  "quotation": null,
+  "sourceIds": [
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

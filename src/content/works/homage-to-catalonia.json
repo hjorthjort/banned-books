@@ -1,0 +1,109 @@
+{
+  "id": "homage-to-catalonia",
+  "slug": "homage-to-catalonia",
+  "title": "Homage to Catalonia",
+  "authors": [
+    "George Orwell"
+  ],
+  "workType": "Memoir",
+  "originalLanguage": "English",
+  "publishedYearText": "1938",
+  "wikipediaTitle": "Homage_to_Catalonia",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Homage_to_Catalonia",
+  "description": "Orwell's firsthand account of the Spanish Civil War and the betrayals inside the anti-fascist camp.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/b/b6/Homage_to_Catalonia%2C_Cover%2C_1st_Edition.jpg",
+    "width": 254,
+    "height": 392,
+    "alt": "Homage to Catalonia cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Homage_to_Catalonia",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 1000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "war",
+    "anti-fascism",
+    "left politics"
+  ],
+  "reasonTags": [
+    "anti-fascism",
+    "political-dissent"
+  ],
+  "overview": {
+    "englishDescription": "Orwell's firsthand account of the Spanish Civil War and the betrayals inside the anti-fascist camp.",
+    "banningParagraphs": [
+      "Homage to Catalonia entered censorship debates as a memoir associated with war, anti fascism, and left politics. In the current dossier, the main state objections cluster around anti fascism and political dissent.",
+      "The earliest event currently captured here is 1939-1975 in Spain, where Francoist censors banned circulation. The memoir's defense of the Republic and exposure of authoritarian politics made it unacceptable under Franco. It is a key example of anti-fascist witness literature meeting state suppression.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "karolides-1999",
+    "haight-1978",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Homage%20to%20Catalonia%20George%20Orwell"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "the-song-of-the-red-ruby--1",
+  "workId": "the-song-of-the-red-ruby",
+  "jurisdictionId": "norway",
+  "governingBody": "Norwegian prosecutors",
+  "dateText": "1950s",
+  "startYear": 1956,
+  "endYear": null,
+  "actionType": "prosecuted for obscenity",
+  "reasonTags": [
+    "obscenity",
+    "sexual-explicitness"
+  ],
+  "reasonSummary": "The novel became the center of a famous Scandinavian obscenity case.",
+  "note": "Its legal battle reshaped the limits of literary candor in Norway.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978",
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

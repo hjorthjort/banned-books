@@ -1,0 +1,22 @@
+{
+  "id": "the-communist-manifesto--1",
+  "workId": "the-communist-manifesto",
+  "jurisdictionId": "russia",
+  "governingBody": "Tsarist censors",
+  "dateText": "19th century",
+  "startYear": 1848,
+  "endYear": null,
+  "actionType": "prohibited circulation",
+  "reasonTags": [
+    "revolutionary-politics",
+    "anti-state"
+  ],
+  "reasonSummary": "Imperial authorities treated the manifesto as a threat to state order.",
+  "note": "Its ban history illustrates how governments respond to explicitly revolutionary theory.",
+  "quotation": null,
+  "sourceIds": [
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

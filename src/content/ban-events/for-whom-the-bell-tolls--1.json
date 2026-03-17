@@ -1,0 +1,22 @@
+{
+  "id": "for-whom-the-bell-tolls--1",
+  "workId": "for-whom-the-bell-tolls",
+  "jurisdictionId": "spain",
+  "governingBody": "Francoist censors",
+  "dateText": "1940s-1960s",
+  "startYear": 1940,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "anti-fascism",
+    "political-dissent"
+  ],
+  "reasonSummary": "The novel's politics and sympathetic treatment of the Republican cause kept it out of circulation.",
+  "note": "This is one of the most famous dictatorship-era literary bans in Spain.",
+  "quotation": null,
+  "sourceIds": [
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

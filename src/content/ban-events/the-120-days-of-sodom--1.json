@@ -1,0 +1,22 @@
+{
+  "id": "the-120-days-of-sodom--1",
+  "workId": "the-120-days-of-sodom",
+  "jurisdictionId": "australia",
+  "governingBody": "Australian censors",
+  "dateText": "20th century",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "banned importation",
+  "reasonTags": [
+    "obscenity",
+    "sexual-explicitness"
+  ],
+  "reasonSummary": "Its combination of sadism and explicit material made it a routine target of censorship.",
+  "note": "Few books fit the classic obscenity-ban pattern more neatly than Sade.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

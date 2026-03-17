@@ -1,0 +1,22 @@
+{
+  "id": "the-prince--1",
+  "workId": "the-prince",
+  "jurisdictionId": "papal-states",
+  "governingBody": "Catholic authorities in the Papal States",
+  "dateText": "early modern period",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "forbade circulation",
+  "reasonTags": [
+    "anti-clericalism",
+    "political-danger"
+  ],
+  "reasonSummary": "The treatise's reputation for amoral politics and anticlericalism made it a target.",
+  "note": "This is a useful reminder that governments and churches often censored political realism itself.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

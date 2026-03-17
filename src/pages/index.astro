@@ -1,0 +1,104 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import WorkCard from "../components/WorkCard.astro";
+import SectionBadge from "../components/SectionBadge.astro";
+import { getPublishedWorks } from "../lib/content";
+
+const works = await getPublishedWorks();
+const featured = works.find((work) => work.data.featured) ?? works[0];
+const topList = works.slice(0, 12);
+const sourceBacked = works
+  .filter((work) => work.data.sectionStatus.banningOverview === "verified")
+  .slice(0, 8);
+---
+
+<BaseLayout>
+  <section class="hero">
+    <div class="hero__copy">
+      <p class="eyebrow">Forbidden Books Wiki</p>
+      <h1>Books, scriptures, tracts, and novels that governments tried to suppress.</h1>
+      <p class="hero__summary">
+        A source-backed index of famous works that were banned, restricted, confiscated, or otherwise targeted by state power.
+      </p>
+      <div class="hero__actions">
+        <a class="button button--primary" href={`/works/${featured.data.slug}/`}>Read the featured work</a>
+        <a class="button button--secondary" href="/random">Random article</a>
+      </div>
+    </div>
+    <aside class="featured-panel">
+      <p class="featured-panel__label">Featured now</p>
+      <h2>{featured.data.title}</h2>
+      <p>{featured.data.authors.join(", ")}</p>
+      <p>{featured.data.overview.englishDescription}</p>
+      <div class="badge-row">
+        <SectionBadge status={featured.data.reviewStatus} />
+        <span class="metric">{featured.data.ranking.copiesSoldEstimate.toLocaleString()} estimated copies</span>
+      </div>
+    </aside>
+  </section>
+
+  <section class="content-grid">
+    <div class="content-grid__main">
+      <section class="panel">
+        <div class="panel__header">
+          <div>
+            <p class="eyebrow">Most banned, proxy-ranked by sales</p>
+            <h2>Top list</h2>
+          </div>
+        </div>
+        <ol class="top-list">
+          {
+            topList.map((work) => (
+              <li>
+                <a href={`/works/${work.data.slug}/`}>
+                  <strong>{work.data.title}</strong>
+                  <span>{work.data.authors.join(", ")}</span>
+                </a>
+                <small>{work.data.ranking.copiesSoldEstimate.toLocaleString()} estimated copies</small>
+              </li>
+            ))
+          }
+        </ol>
+      </section>
+
+      <section class="panel">
+        <div class="panel__header">
+          <div>
+            <p class="eyebrow">Source-backed records</p>
+            <h2>Source-backed picks</h2>
+          </div>
+        </div>
+        <div class="card-grid">
+          {
+            sourceBacked.map((work) => (
+              <WorkCard
+                href={`/works/${work.data.slug}/`}
+                title={work.data.title}
+                authors={work.data.authors}
+                description={work.data.overview.englishDescription}
+                cover={work.data.cover ? { sourceUrl: work.data.cover.sourceUrl, alt: work.data.cover.alt } : null}
+                meta={`${work.data.workType} • ${work.data.publishedYearText}`}
+              />
+            ))
+          }
+        </div>
+      </section>
+    </div>
+
+    <aside class="content-grid__side">
+      <section class="panel panel--sticky">
+        <p class="eyebrow">Current scope</p>
+        <h2>What this tracks</h2>
+        <ul class="plain-list">
+          <li>Government bans and direct state restrictions</li>
+          <li>Short English summaries for each work</li>
+          <li>Counter and critical readings</li>
+          <li>Jurisdictions, dates, and notes about why the work was targeted</li>
+        </ul>
+        <p class="note">
+          Images appear only when a Wikimedia-hosted thumbnail was clearly available. Missing images are intentional.
+        </p>
+      </section>
+    </aside>
+  </section>
+</BaseLayout>

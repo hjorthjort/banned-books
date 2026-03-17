@@ -1,0 +1,22 @@
+{
+  "id": "ulysses--1",
+  "workId": "ulysses",
+  "jurisdictionId": "united-kingdom",
+  "governingBody": "British customs and obscenity authorities",
+  "dateText": "1922-1936",
+  "startYear": 1922,
+  "endYear": 1936,
+  "actionType": "banned import and sale",
+  "reasonTags": [
+    "obscenity",
+    "sexual-explicitness"
+  ],
+  "reasonSummary": "Officials treated parts of Joyce's stream-of-consciousness narrative as obscene.",
+  "note": "The long UK ban helped define one of the great twentieth-century censorship fights.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

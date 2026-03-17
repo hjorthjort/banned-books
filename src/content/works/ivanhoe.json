@@ -1,0 +1,109 @@
+{
+  "id": "ivanhoe",
+  "slug": "ivanhoe",
+  "title": "Ivanhoe",
+  "authors": [
+    "Walter Scott"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "English",
+  "publishedYearText": "1819",
+  "wikipediaTitle": "Ivanhoe",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivanhoe",
+  "description": "Scott's historical romance of chivalry, nationhood, and conflict after the Norman conquest.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ivanhoe_as_sculpted_on_the_Scott_Monument%2C_Edinburgh.jpg/330px-Ivanhoe_as_sculpted_on_the_Scott_Monument%2C_Edinburgh.jpg",
+    "width": 330,
+    "height": 496,
+    "alt": "Ivanhoe cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Ivanhoe",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 3000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "history",
+    "nationhood",
+    "Jewish representation"
+  ],
+  "reasonTags": [
+    "antisemitism",
+    "ideological-control"
+  ],
+  "overview": {
+    "englishDescription": "Scott's historical romance of chivalry, nationhood, and conflict after the Norman conquest.",
+    "banningParagraphs": [
+      "Ivanhoe entered censorship debates as a novel associated with history, nationhood, and Jewish representation. In the current dossier, the main state objections cluster around antisemitism and ideological control.",
+      "The earliest event currently captured here is 1930s in Germany, where Nazi authorities banned circulation. The book was suppressed for featuring Jewish characters sympathetically. This is a stark example of a regime banning even old canonical fiction on racial grounds.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Third Reich in Power, 1933-1939",
+      "author": "Richard J. Evans",
+      "url": "https://www.penguinrandomhouse.com/books/294831/the-third-reich-in-power-1933-1939-by-richard-j-evans/",
+      "note": "A historical counterweight to fascist mythmaking and to books used as authoritarian propaganda.",
+      "sourceIds": [
+        "evans-third-reich"
+      ]
+    },
+    {
+      "type": "article",
+      "title": "Introduction to the Holocaust",
+      "author": "United States Holocaust Memorial Museum",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust",
+      "note": "A factual public rebuttal resource for antisemitic and Holocaust-distorting literature.",
+      "sourceIds": [
+        "ushmm-holocaust"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "evans-third-reich",
+    "ushmm-holocaust",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Ivanhoe%20Walter%20Scott"
+}

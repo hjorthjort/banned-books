@@ -1,0 +1,22 @@
+{
+  "id": "the-mountain-wreath--1",
+  "workId": "the-mountain-wreath",
+  "jurisdictionId": "bosnia-herzegovina",
+  "governingBody": "School authorities under international administration",
+  "dateText": "late 1990s",
+  "startYear": 1998,
+  "endYear": null,
+  "actionType": "removed from schools",
+  "reasonTags": [
+    "ethnic conflict",
+    "hate-speech"
+  ],
+  "reasonSummary": "Officials objected to how the text could inflame postwar sectarian politics.",
+  "note": "The case turns on the difference between literary canon and contemporary conflict management.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

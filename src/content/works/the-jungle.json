@@ -1,0 +1,109 @@
+{
+  "id": "the-jungle",
+  "slug": "the-jungle",
+  "title": "The Jungle",
+  "authors": [
+    "Upton Sinclair"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "English",
+  "publishedYearText": "1906",
+  "wikipediaTitle": "The_Jungle",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Jungle",
+  "description": "A muckraking novel about labor exploitation, immigrant life, and industrial capitalism.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_Jungle_%281906%29_cover.jpg/330px-The_Jungle_%281906%29_cover.jpg",
+    "width": 330,
+    "height": 503,
+    "alt": "The Jungle cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/The_Jungle",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 2000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "labor politics",
+    "socialism",
+    "industrial abuse"
+  ],
+  "reasonTags": [
+    "anti-communism",
+    "political-dissent"
+  ],
+  "overview": {
+    "englishDescription": "A muckraking novel about labor exploitation, immigrant life, and industrial capitalism.",
+    "banningParagraphs": [
+      "The Jungle entered censorship debates as a novel associated with labor politics, socialism, and industrial abuse. In the current dossier, the main state objections cluster around anti communism and political dissent.",
+      "The earliest event currently captured here is 1956 in East Germany, where East German authorities banned circulation. The irony of banning Sinclair lay in the regime's fear of interpretations it could not tightly control. The case shows that even left-wing or reformist works could be censored by communist governments.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "karolides-1999",
+    "haight-1978",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Jungle%20Upton%20Sinclair"
+}

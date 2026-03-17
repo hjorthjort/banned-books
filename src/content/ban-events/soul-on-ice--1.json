@@ -1,0 +1,22 @@
+{
+  "id": "soul-on-ice--1",
+  "workId": "soul-on-ice",
+  "jurisdictionId": "south-africa",
+  "governingBody": "Apartheid authorities",
+  "dateText": "late 1960s",
+  "startYear": 1968,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "racial-politics",
+    "anti-state"
+  ],
+  "reasonSummary": "Cleaver's writing was treated as revolutionary and destabilizing.",
+  "note": "This entry underscores how governments police imported Black radical writing.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

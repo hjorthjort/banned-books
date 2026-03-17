@@ -1,0 +1,23 @@
+{
+  "id": "bible--1",
+  "workId": "bible",
+  "jurisdictionId": "papal-states",
+  "governingBody": "Catholic censorship authorities",
+  "dateText": "Early modern period",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "restricted vernacular circulation",
+  "reasonTags": [
+    "heresy",
+    "doctrinal-control"
+  ],
+  "reasonSummary": "Authorities targeted unauthorized translations and editions seen as doctrinally dangerous.",
+  "note": "For scriptures, bans often attached to versions, translations, and modes of circulation rather than a blanket destruction of the text.",
+  "quotation": null,
+  "sourceIds": [
+    "bald-religious-grounds",
+    "karolides-1999",
+    "encyclopedia-censorship-2005"
+  ],
+  "reviewStatus": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "the-satanic-verses--1",
+  "workId": "the-satanic-verses",
+  "jurisdictionId": "india",
+  "governingBody": "Government of India",
+  "dateText": "1988",
+  "startYear": 1988,
+  "endYear": null,
+  "actionType": "banned imports",
+  "reasonTags": [
+    "blasphemy",
+    "public-order"
+  ],
+  "reasonSummary": "Officials moved quickly against the book after protests over alleged insults to Islam.",
+  "note": "The work became a global symbol of the conflict between literary freedom and religious offense.",
+  "quotation": null,
+  "sourceIds": [
+    "dw-rushdie-fatwa",
+    "bald-religious-grounds"
+  ],
+  "reviewStatus": "verified"
+}

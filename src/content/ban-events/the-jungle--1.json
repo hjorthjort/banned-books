@@ -1,0 +1,22 @@
+{
+  "id": "the-jungle--1",
+  "workId": "the-jungle",
+  "jurisdictionId": "east-germany",
+  "governingBody": "East German authorities",
+  "dateText": "1956",
+  "startYear": 1956,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "anti-communism",
+    "political-dissent"
+  ],
+  "reasonSummary": "The irony of banning Sinclair lay in the regime's fear of interpretations it could not tightly control.",
+  "note": "The case shows that even left-wing or reformist works could be censored by communist governments.",
+  "quotation": null,
+  "sourceIds": [
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

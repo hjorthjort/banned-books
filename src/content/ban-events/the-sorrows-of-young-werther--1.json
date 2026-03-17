@@ -1,0 +1,22 @@
+{
+  "id": "the-sorrows-of-young-werther--1",
+  "workId": "the-sorrows-of-young-werther",
+  "jurisdictionId": "austria",
+  "governingBody": "Habsburg authorities",
+  "dateText": "late 18th century",
+  "startYear": 1775,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "morality",
+    "copycat-fear"
+  ],
+  "reasonSummary": "Officials worried that the novel glamorized emotional excess and suicide.",
+  "note": "Werther is an early example of authorities blaming literature for imitation effects.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

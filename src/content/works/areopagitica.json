@@ -1,0 +1,110 @@
+{
+  "id": "areopagitica",
+  "slug": "areopagitica",
+  "title": "Areopagitica",
+  "authors": [
+    "John Milton"
+  ],
+  "workType": "Pamphlet",
+  "originalLanguage": "English",
+  "publishedYearText": "1644",
+  "wikipediaTitle": "Areopagitica",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Areopagitica",
+  "description": "Milton's classic argument against pre-publication licensing and for open printing.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Areopagitica_bridwell.jpg/330px-Areopagitica_bridwell.jpg",
+    "width": 330,
+    "height": 464,
+    "alt": "Areopagitica cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Areopagitica",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 500000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "free speech",
+    "printing",
+    "censorship theory"
+  ],
+  "reasonTags": [
+    "press freedom",
+    "licensing"
+  ],
+  "overview": {
+    "englishDescription": "Milton's classic argument against pre-publication licensing and for open printing.",
+    "banningParagraphs": [
+      "Areopagitica entered censorship debates as a pamphlet associated with free speech, printing, and censorship theory. In the current dossier, the main state objections cluster around press freedom and licensing.",
+      "The earliest event currently captured here is 1640s in United Kingdom, where Parliamentary authorities suppressed circulation. A pamphlet against censorship predictably collided with the censorship regime it attacked. The work remains one of the sharpest internal critiques of state control over print.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "haight-1978",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Areopagitica%20John%20Milton"
+}

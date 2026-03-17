@@ -1,0 +1,22 @@
+{
+  "id": "black-power--1",
+  "workId": "black-power",
+  "jurisdictionId": "south-africa",
+  "governingBody": "Apartheid authorities",
+  "dateText": "late 1960s",
+  "startYear": 1967,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "racial-politics",
+    "anti-state"
+  ],
+  "reasonSummary": "The state treated the book as a threat to racial order and political control.",
+  "note": "Like many liberation texts, its ban history matters as much as its sales history.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

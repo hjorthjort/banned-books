@@ -1,0 +1,104 @@
+{
+  "id": "suicide-mode-demploi",
+  "slug": "suicide-mode-demploi",
+  "title": "Suicide mode d'emploi",
+  "authors": [
+    "Claude Guillon",
+    "Yves Le Bonniec"
+  ],
+  "workType": "Instructional manual",
+  "originalLanguage": "French",
+  "publishedYearText": "1982",
+  "wikipediaTitle": "Suicide_mode_d'emploi",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suicide_mode_d'emploi",
+  "description": "A handbook discussing methods of suicide that became central to a French legal crackdown.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 100000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "suicide",
+    "instruction",
+    "public health"
+  ],
+  "reasonTags": [
+    "self-harm",
+    "instructional harm"
+  ],
+  "overview": {
+    "englishDescription": "A handbook discussing methods of suicide that became central to a French legal crackdown.",
+    "banningParagraphs": [
+      "Suicide mode d'emploi entered censorship debates as a instructional manual associated with suicide, instruction, and public health. In the current dossier, the main state objections cluster around self harm and instructional harm.",
+      "The earliest event currently captured here is 1987 onward in France, where French lawmakers and courts made reprints illegal. The book's notoriety helped produce legislation against provocation to suicide. Here the legal target was not blasphemy or indecency but a perceived public-health danger.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "Suicide prevention",
+      "author": "World Health Organization",
+      "url": "https://www.who.int/health-topics/suicide",
+      "note": "Public-health counterpoint for instruction manuals centered on self-harm or assisted death.",
+      "sourceIds": [
+        "who-suicide-prevention"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "Included here as a civic counterpoint when bans blur personal autonomy, panic, and state control.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "who-suicide-prevention",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "snyder-on-tyranny",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Suicide%20mode%20d'emploi%20Claude%20Guillon"
+}

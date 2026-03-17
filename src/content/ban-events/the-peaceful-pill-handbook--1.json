@@ -1,0 +1,22 @@
+{
+  "id": "the-peaceful-pill-handbook--1",
+  "workId": "the-peaceful-pill-handbook",
+  "jurisdictionId": "australia",
+  "governingBody": "Australian customs and classification authorities",
+  "dateText": "2007 onward",
+  "startYear": 2007,
+  "endYear": null,
+  "actionType": "restricted circulation",
+  "reasonTags": [
+    "self-harm",
+    "instructional harm"
+  ],
+  "reasonSummary": "Officials treated the book as an unacceptable guide to suicide and euthanasia methods.",
+  "note": "The case sits at the frontier between censorship, public health, and assisted-dying politics.",
+  "quotation": null,
+  "sourceIds": [
+    "who-suicide-prevention",
+    "encyclopedia-censorship-2005"
+  ],
+  "reviewStatus": "verified"
+}

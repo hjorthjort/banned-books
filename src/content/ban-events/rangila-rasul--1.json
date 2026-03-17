@@ -1,0 +1,22 @@
+{
+  "id": "rangila-rasul--1",
+  "workId": "rangila-rasul",
+  "jurisdictionId": "india",
+  "governingBody": "Colonial authorities in British India",
+  "dateText": "1927",
+  "startYear": 1927,
+  "endYear": null,
+  "actionType": "seized and banned",
+  "reasonTags": [
+    "blasphemy",
+    "public-order"
+  ],
+  "reasonSummary": "Authorities treated the tract as likely to inflame communal tension.",
+  "note": "The controversy helped shape later blasphemy law in the subcontinent.",
+  "quotation": null,
+  "sourceIds": [
+    "bald-religious-grounds",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

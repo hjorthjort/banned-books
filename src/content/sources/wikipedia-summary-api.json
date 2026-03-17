@@ -1,0 +1,10 @@
+{
+  "id": "wikipedia-summary-api",
+  "title": "Wikipedia REST summary API",
+  "url": "https://en.wikipedia.org/api/rest_v1/",
+  "sourceType": "database",
+  "scope": "Short summaries and Wikimedia-hosted thumbnails for page cards.",
+  "harvestStatus": "partial",
+  "qualifiesForVerification": false,
+  "notes": "Used for thumbnails and orientation, not as the only verification source."
+}

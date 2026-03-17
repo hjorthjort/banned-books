@@ -1,0 +1,22 @@
+{
+  "id": "the-first-book-of-africa--1",
+  "workId": "the-first-book-of-africa",
+  "jurisdictionId": "south-africa",
+  "governingBody": "Apartheid authorities",
+  "dateText": "1960s",
+  "startYear": 1960,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "racial-politics",
+    "decolonization"
+  ],
+  "reasonSummary": "Educational books affirming African history and dignity were treated as politically dangerous.",
+  "note": "The ban reflects how censorship can operate through school-age materials as well as adult texts.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

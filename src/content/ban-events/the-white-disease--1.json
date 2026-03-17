@@ -1,0 +1,22 @@
+{
+  "id": "the-white-disease--1",
+  "workId": "the-white-disease",
+  "jurisdictionId": "czechoslovakia",
+  "governingBody": "Second Czechoslovak Republic authorities",
+  "dateText": "1938",
+  "startYear": 1938,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "political-dissent",
+    "anti-militarism"
+  ],
+  "reasonSummary": "The state blocked a play whose anti-authoritarian message collided with the crisis of the late 1930s.",
+  "note": "Its censorship came at the exact historical moment the play warned against.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

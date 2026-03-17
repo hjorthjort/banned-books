@@ -1,0 +1,22 @@
+{
+  "id": "animal-farm--1",
+  "workId": "animal-farm",
+  "jurisdictionId": "soviet-union",
+  "governingBody": "Soviet censors",
+  "dateText": "1945-1990",
+  "startYear": 1945,
+  "endYear": 1990,
+  "actionType": "banned publication",
+  "reasonTags": [
+    "anti-communism",
+    "political-dissent"
+  ],
+  "reasonSummary": "The book's satire of Stalinist power made it unacceptable in the Soviet bloc for decades.",
+  "note": "Its path from suppressed allegory to classroom staple is central to the story of Cold War censorship.",
+  "quotation": null,
+  "sourceIds": [
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

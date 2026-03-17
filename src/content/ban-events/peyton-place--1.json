@@ -1,0 +1,22 @@
+{
+  "id": "peyton-place--1",
+  "workId": "peyton-place",
+  "jurisdictionId": "canada",
+  "governingBody": "Canadian censors",
+  "dateText": "1950s",
+  "startYear": 1956,
+  "endYear": null,
+  "actionType": "blocked importation",
+  "reasonTags": [
+    "obscenity",
+    "morality"
+  ],
+  "reasonSummary": "The novel's portrait of respectable vice made it vulnerable to obscenity controls.",
+  "note": "It joined a wave of mid-century bestsellers that states regarded as corrosive mass reading.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

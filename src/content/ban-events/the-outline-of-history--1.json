@@ -1,0 +1,22 @@
+{
+  "id": "the-outline-of-history--1",
+  "workId": "the-outline-of-history",
+  "jurisdictionId": "germany",
+  "governingBody": "Nazi authorities",
+  "dateText": "1930s",
+  "startYear": 1933,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "anti-fascism",
+    "ideological-control"
+  ],
+  "reasonSummary": "Wells's internationalist history clashed with racial and nationalist doctrine.",
+  "note": "Broad synthetic histories often become targets because they frame the past differently from official ideology.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

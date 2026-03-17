@@ -1,0 +1,22 @@
+{
+  "id": "leaves-of-grass--1",
+  "workId": "leaves-of-grass",
+  "jurisdictionId": "united-states",
+  "governingBody": "Postal and morals authorities",
+  "dateText": "19th century",
+  "startYear": 1880,
+  "endYear": null,
+  "actionType": "suppressed editions",
+  "reasonTags": [
+    "obscenity",
+    "sexuality"
+  ],
+  "reasonSummary": "Whitman's treatment of the body and desire repeatedly drew moral attack.",
+  "note": "Its censorship history complicates the idea of a uniformly triumphant democratic literary canon.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

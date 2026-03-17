@@ -1,0 +1,22 @@
+{
+  "id": "boy--1",
+  "workId": "boy",
+  "jurisdictionId": "united-kingdom",
+  "governingBody": "British courts",
+  "dateText": "1934",
+  "startYear": 1934,
+  "endYear": null,
+  "actionType": "prosecuted publisher for obscenity",
+  "reasonTags": [
+    "obscenity",
+    "sexual-explicitness"
+  ],
+  "reasonSummary": "The book's treatment of exploitation and abuse led to a successful prosecution.",
+  "note": "It is a reminder that working-class realism could be criminalized as obscenity.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

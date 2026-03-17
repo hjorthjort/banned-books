@@ -1,0 +1,111 @@
+{
+  "id": "naree",
+  "slug": "naree",
+  "title": "Naree",
+  "authors": [
+    "Humayun Azad"
+  ],
+  "workType": "Non-fiction",
+  "originalLanguage": "Bengali",
+  "publishedYearText": "1992",
+  "wikipediaTitle": "Naree",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Naree",
+  "description": "A feminist Bengali work challenging patriarchy, religious orthodoxy, and gender hierarchy.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/The_cover_of_the_book_Naree_by_Humayun_Azad.png/250px-The_cover_of_the_book_Naree_by_Humayun_Azad.png",
+    "width": 330,
+    "height": 482,
+    "alt": "Naree cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Naree",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 50000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "feminism",
+    "religion",
+    "gender politics"
+  ],
+  "reasonTags": [
+    "religious-offense",
+    "gender politics"
+  ],
+  "overview": {
+    "englishDescription": "A feminist Bengali work challenging patriarchy, religious orthodoxy, and gender hierarchy.",
+    "banningParagraphs": [
+      "Naree entered censorship debates as a non-fiction associated with feminism, religion, and gender politics. In the current dossier, the main state objections cluster around religious offense and gender politics.",
+      "The earliest event currently captured here is 1995-2000 in Bangladesh, where Government of Bangladesh banned circulation. Authorities targeted the book after pressure from conservative religious groups. It is an important example of a feminist text banned in the name of religious order.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "Assassins of the Mind",
+      "author": "Christopher Hitchens",
+      "url": "https://www.vanityfair.com/news/2009/02/rushdie200902",
+      "note": "Frames the Rushdie affair as a test of free speech against violent religious intimidation.",
+      "sourceIds": [
+        "hitchens-assassins-of-the-mind"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "From Fatwa to Jihad",
+      "author": "Kenan Malik",
+      "url": "https://www.malikonline.co.uk/books/from-fatwa-to-jihad/",
+      "note": "Tracks how conflicts over blasphemy, race, and offense evolved after the Rushdie controversy.",
+      "sourceIds": [
+        "malik-from-fatwa-to-jihad"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "bald-religious-grounds",
+    "karolides-1999",
+    "encyclopedia-censorship-2005",
+    "hitchens-assassins-of-the-mind",
+    "malik-from-fatwa-to-jihad",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Naree%20Humayun%20Azad"
+}

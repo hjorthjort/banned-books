@@ -1,0 +1,22 @@
+{
+  "id": "the-gulag-archipelago--1",
+  "workId": "the-gulag-archipelago",
+  "jurisdictionId": "soviet-union",
+  "governingBody": "Soviet censors",
+  "dateText": "1970s-1980s",
+  "startYear": 1973,
+  "endYear": 1989,
+  "actionType": "banned publication",
+  "reasonTags": [
+    "political-dissent",
+    "state-secrecy"
+  ],
+  "reasonSummary": "The book directly challenged the official Soviet image of justice and progress.",
+  "note": "Its samizdat and exile circulation are central to the history of dissident publishing.",
+  "quotation": null,
+  "sourceIds": [
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

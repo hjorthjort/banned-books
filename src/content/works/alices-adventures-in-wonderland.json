@@ -1,0 +1,110 @@
+{
+  "id": "alices-adventures-in-wonderland",
+  "slug": "alices-adventures-in-wonderland",
+  "title": "Alice's Adventures in Wonderland",
+  "authors": [
+    "Lewis Carroll"
+  ],
+  "workType": "Children's novel",
+  "originalLanguage": "English",
+  "publishedYearText": "1865",
+  "wikipediaTitle": "Alice's_Adventures_in_Wonderland",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alice's_Adventures_in_Wonderland",
+  "description": "A children's fantasy of nonsense logic, verbal play, and destabilized authority.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alice%27s_Adventures_in_Wonderland_cover_%281865%29.jpg/330px-Alice%27s_Adventures_in_Wonderland_cover_%281865%29.jpg",
+    "width": 330,
+    "height": 511,
+    "alt": "Alice's Adventures in Wonderland cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Alice's_Adventures_in_Wonderland",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 100000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "children's literature",
+    "fantasy",
+    "satire"
+  ],
+  "reasonTags": [
+    "anthropomorphic animals",
+    "moral panic"
+  ],
+  "overview": {
+    "englishDescription": "A children's fantasy of nonsense logic, verbal play, and destabilized authority.",
+    "banningParagraphs": [
+      "Alice's Adventures in Wonderland entered censorship debates as a children's novel associated with children's literature, fantasy, and satire. In the current dossier, the main state objections cluster around anthropomorphic animals and moral panic.",
+      "The earliest event currently captured here is 1931 in China, where Hunan provincial authorities banned circulation. Officials reportedly objected to animals speaking and behaving like people. Whether comic or absurd, the case still illustrates how ideology can turn whimsy into a problem.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "haight-1978",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Alice's%20Adventures%20in%20Wonderland%20Lewis%20Carroll"
+}

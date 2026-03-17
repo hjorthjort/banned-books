@@ -1,0 +1,103 @@
+{
+  "id": "the-first-book-of-africa",
+  "slug": "the-first-book-of-africa",
+  "title": "The First Book of Africa",
+  "authors": [
+    "Langston Hughes"
+  ],
+  "workType": "Anthology",
+  "originalLanguage": "English",
+  "publishedYearText": "1960s",
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "A youth-oriented introduction to African history and culture associated with anti-colonial education.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 20000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "race",
+    "decolonization",
+    "education"
+  ],
+  "reasonTags": [
+    "racial-politics",
+    "decolonization"
+  ],
+  "overview": {
+    "englishDescription": "A youth-oriented introduction to African history and culture associated with anti-colonial education.",
+    "banningParagraphs": [
+      "The First Book of Africa entered censorship debates as a anthology associated with race, decolonization, and education. In the current dossier, the main state objections cluster around racial politics and decolonization.",
+      "The earliest event currently captured here is 1960s in South Africa, where Apartheid authorities banned circulation. Educational books affirming African history and dignity were treated as politically dangerous. The ban reflects how censorship can operate through school-age materials as well as adult texts.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "Everybody's Protest Novel",
+      "author": "James Baldwin",
+      "url": "https://harpers.org/archive/1949/06/everybodys-protest-novel/",
+      "note": "A skeptical response to the politics of moral uplift in canonical anti-slavery fiction.",
+      "sourceIds": [
+        "baldwin-everybodys-protest-novel"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "The Wretched of the Earth",
+      "author": "Frantz Fanon",
+      "url": "https://groveatlantic.com/book/the-wretched-of-the-earth/",
+      "note": "Helps contextualize race, violence, and liberation in books targeted under colonial or apartheid systems.",
+      "sourceIds": [
+        "fanon-wretched-of-the-earth"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "fanon-wretched-of-the-earth",
+    "baldwin-everybodys-protest-novel",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20First%20Book%20of%20Africa%20Langston%20Hughes"
+}

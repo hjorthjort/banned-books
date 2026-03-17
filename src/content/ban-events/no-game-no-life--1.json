@@ -1,0 +1,22 @@
+{
+  "id": "no-game-no-life--1",
+  "workId": "no-game-no-life",
+  "jurisdictionId": "australia",
+  "governingBody": "Australian classification authorities",
+  "dateText": "2020",
+  "startYear": 2020,
+  "endYear": null,
+  "actionType": "banned specific volumes",
+  "reasonTags": [
+    "child-protection",
+    "sexual-explicitness"
+  ],
+  "reasonSummary": "Several volumes were banned because of how they depicted underage-looking characters.",
+  "note": "This is a current-era example where classification standards target specific illustrated volumes rather than an entire series.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

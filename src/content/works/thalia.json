@@ -1,0 +1,104 @@
+{
+  "id": "thalia",
+  "slug": "thalia",
+  "title": "Thalia",
+  "authors": [
+    "Arius"
+  ],
+  "workType": "Theological tract",
+  "originalLanguage": "Greek",
+  "publishedYearText": "4th century",
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "A lost theological tract associated with Arius and the early Christian controversy over the Trinity.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 1000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "theology",
+    "heresy",
+    "doctrinal conflict"
+  ],
+  "reasonTags": [
+    "heresy",
+    "doctrinal-control"
+  ],
+  "overview": {
+    "englishDescription": "A lost theological tract associated with Arius and the early Christian controversy over the Trinity.",
+    "banningParagraphs": [
+      "Thalia entered censorship debates as a theological tract associated with theology, heresy, and doctrinal conflict. In the current dossier, the main state objections cluster around heresy and doctrinal control.",
+      "The earliest event currently captured here is 333 CE in Roman Empire, where Emperor Constantine and imperial authorities ordered burned. Arius's writings were condemned as destabilizing and contradictory to imperial orthodoxy. This is one of the oldest entries in the dataset and a reminder that book burning has a very long state history.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "Assassins of the Mind",
+      "author": "Christopher Hitchens",
+      "url": "https://www.vanityfair.com/news/2009/02/rushdie200902",
+      "note": "Frames the Rushdie affair as a test of free speech against violent religious intimidation.",
+      "sourceIds": [
+        "hitchens-assassins-of-the-mind"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "From Fatwa to Jihad",
+      "author": "Kenan Malik",
+      "url": "https://www.malikonline.co.uk/books/from-fatwa-to-jihad/",
+      "note": "Tracks how conflicts over blasphemy, race, and offense evolved after the Rushdie controversy.",
+      "sourceIds": [
+        "malik-from-fatwa-to-jihad"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "wlc-edict-against-arius",
+    "bald-religious-grounds",
+    "karolides-1999",
+    "hitchens-assassins-of-the-mind",
+    "malik-from-fatwa-to-jihad",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "verified",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "verified",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Thalia%20Arius"
+}

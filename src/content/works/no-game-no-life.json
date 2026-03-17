@@ -1,0 +1,99 @@
+{
+  "id": "no-game-no-life",
+  "slug": "no-game-no-life",
+  "title": "No Game No Life",
+  "authors": [
+    "Yuu Kamiya"
+  ],
+  "workType": "Light novel series",
+  "originalLanguage": "Japanese",
+  "publishedYearText": "2012-",
+  "wikipediaTitle": "No_Game_No_Life",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/No_Game_No_Life",
+  "description": "A fantasy light-novel series about gaming genius siblings in a world governed by contests.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/No_Game_No_Life_light_novel_vol_1.jpg/250px-No_Game_No_Life_light_novel_vol_1.jpg",
+    "width": 330,
+    "height": 450,
+    "alt": "No Game No Life cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/No_Game_No_Life",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 6000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "fantasy",
+    "sexualized minors",
+    "youth publishing"
+  ],
+  "reasonTags": [
+    "child-protection",
+    "sexual-explicitness"
+  ],
+  "overview": {
+    "englishDescription": "A fantasy light-novel series about gaming genius siblings in a world governed by contests.",
+    "banningParagraphs": [
+      "No Game No Life entered censorship debates as a light novel series associated with fantasy, sexualized minors, and youth publishing. In the current dossier, the main state objections cluster around child protection and sexual explicitness.",
+      "The earliest event currently captured here is 2020 in Australia, where Australian classification authorities banned specific volumes. Several volumes were banned because of how they depicted underage-looking characters. This is a current-era example where classification standards target specific illustrated volumes rather than an entire series.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "Banned Books: Literature Suppressed on Sexual Grounds",
+      "author": "Dawn B. Sova",
+      "url": "https://archive.org/details/literaturesuppre0000sova_r9r5",
+      "note": "Surveys the legal and moral language used to suppress books as obscene.",
+      "sourceIds": [
+        "sova-sexual-grounds"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for seeing how obscenity law and censorship habits changed over time.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "sova-sexual-grounds",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=No%20Game%20No%20Life%20Yuu%20Kamiya"
+}

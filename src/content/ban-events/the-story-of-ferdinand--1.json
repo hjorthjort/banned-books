@@ -1,0 +1,22 @@
+{
+  "id": "the-story-of-ferdinand--1",
+  "workId": "the-story-of-ferdinand",
+  "jurisdictionId": "germany",
+  "governingBody": "Nazi authorities",
+  "dateText": "1930s",
+  "startYear": 1936,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "anti-war",
+    "ideological-control"
+  ],
+  "reasonSummary": "A gentle pacifist book was unacceptable to a militarized regime.",
+  "note": "The ban is a useful reminder that censorship also targets tone and values, not only explicit politics.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

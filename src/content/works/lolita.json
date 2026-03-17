@@ -1,0 +1,99 @@
+{
+  "id": "lolita",
+  "slug": "lolita",
+  "title": "Lolita",
+  "authors": [
+    "Vladimir Nabokov"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "English",
+  "publishedYearText": "1955",
+  "wikipediaTitle": "Lolita",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lolita",
+  "description": "A darkly comic and morally unsettling novel narrated by an obsessive and manipulative adult man.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Lolita_1955.JPG/330px-Lolita_1955.JPG",
+    "width": 330,
+    "height": 521,
+    "alt": "Lolita cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Lolita",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 50000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "sexuality",
+    "obsession",
+    "narrative unreliability"
+  ],
+  "reasonTags": [
+    "obscenity",
+    "sexual-explicitness",
+    "morality"
+  ],
+  "overview": {
+    "englishDescription": "A darkly comic and morally unsettling novel narrated by an obsessive and manipulative adult man.",
+    "banningParagraphs": [
+      "Lolita entered censorship debates as a novel associated with sexuality, obsession, and narrative unreliability. In the current dossier, the main state objections cluster around obscenity, sexual explicitness, and morality.",
+      "The earliest event currently captured here is 1955-1958 in France, where French officials banned sale. Officials treated the novel as obscene soon after publication. Lolita became a classic example of how literary form did not protect a book from sexual-morality censorship.",
+      "The record already stretches across France and South Africa, which is why the page should be read as a cross-border censorship trail rather than a single isolated dispute."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "Banned Books: Literature Suppressed on Sexual Grounds",
+      "author": "Dawn B. Sova",
+      "url": "https://archive.org/details/literaturesuppre0000sova_r9r5",
+      "note": "Surveys the legal and moral language used to suppress books as obscene.",
+      "sourceIds": [
+        "sova-sexual-grounds"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for seeing how obscenity law and censorship habits changed over time.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "sova-sexual-grounds",
+    "haight-1978",
+    "karolides-1999"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Lolita%20Vladimir%20Nabokov"
+}

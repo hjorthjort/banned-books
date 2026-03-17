@@ -1,0 +1,101 @@
+{
+  "id": "ulysses",
+  "slug": "ulysses",
+  "title": "Ulysses",
+  "authors": [
+    "James Joyce"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "English",
+  "publishedYearText": "1922",
+  "wikipediaTitle": "Ulysses_(novel)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ulysses_(novel)",
+  "description": "Joyce's modernist epic of Dublin life, interior monologue, bodily detail, and formal experiment.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/JoyceUlysses2.jpg/330px-JoyceUlysses2.jpg",
+    "width": 330,
+    "height": 418,
+    "alt": "Ulysses cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Ulysses_(novel)",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 10000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "modernism",
+    "sexuality",
+    "experimental prose"
+  ],
+  "reasonTags": [
+    "obscenity",
+    "sexual-explicitness",
+    "morality",
+    "political-control"
+  ],
+  "overview": {
+    "englishDescription": "Joyce's modernist epic of Dublin life, interior monologue, bodily detail, and formal experiment.",
+    "banningParagraphs": [
+      "Ulysses entered censorship debates as a novel associated with modernism, sexuality, and experimental prose. In the current dossier, the main state objections cluster around obscenity, sexual explicitness, morality, and political control.",
+      "The earliest event currently captured here is 1922-1936 in United Kingdom, where British customs and obscenity authorities banned import and sale. Officials treated parts of Joyce's stream-of-consciousness narrative as obscene. The long UK ban helped define one of the great twentieth-century censorship fights.",
+      "The record already stretches across United Kingdom and Spain, which is why the page should be read as a cross-border censorship trail rather than a single isolated dispute."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "Banned Books: Literature Suppressed on Sexual Grounds",
+      "author": "Dawn B. Sova",
+      "url": "https://archive.org/details/literaturesuppre0000sova_r9r5",
+      "note": "Surveys the legal and moral language used to suppress books as obscene.",
+      "sourceIds": [
+        "sova-sexual-grounds"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for seeing how obscenity law and censorship habits changed over time.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "sova-sexual-grounds",
+    "haight-1978",
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Ulysses%20James%20Joyce"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "american-psycho--1",
+  "workId": "american-psycho",
+  "jurisdictionId": "australia",
+  "governingBody": "Australian classification authorities",
+  "dateText": "1990s-present",
+  "startYear": 1991,
+  "endYear": null,
+  "actionType": "restricted sale",
+  "reasonTags": [
+    "graphic-violence",
+    "sexual-explicitness"
+  ],
+  "reasonSummary": "Australian regulators restricted the book and limited sales to adults.",
+  "note": "The book sits at the line between literary satire and material that governments treat as too graphic for general circulation.",
+  "quotation": null,
+  "sourceIds": [
+    "australia-classification-american-psycho",
+    "sova-sexual-grounds"
+  ],
+  "reviewStatus": "verified"
+}

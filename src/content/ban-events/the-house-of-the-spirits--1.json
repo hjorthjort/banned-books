@@ -1,0 +1,22 @@
+{
+  "id": "the-house-of-the-spirits--1",
+  "workId": "the-house-of-the-spirits",
+  "jurisdictionId": "chile",
+  "governingBody": "Pinochet regime",
+  "dateText": "1980s",
+  "startYear": 1982,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "anti-dictatorship",
+    "political-dissent"
+  ],
+  "reasonSummary": "The regime suppressed literary works tied to exile, memory, and critique of military power.",
+  "note": "Allende's novel helped preserve a cultural memory that the state preferred to erase.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

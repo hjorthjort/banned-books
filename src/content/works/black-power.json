@@ -1,0 +1,111 @@
+{
+  "id": "black-power",
+  "slug": "black-power-the-politics-of-liberation",
+  "title": "Black Power: The Politics of Liberation",
+  "authors": [
+    "Stokely Carmichael",
+    "Charles V. Hamilton"
+  ],
+  "workType": "Political theory",
+  "originalLanguage": "English",
+  "publishedYearText": "1967",
+  "wikipediaTitle": "Black_Power:_The_Politics_of_Liberation",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Black_Power:_The_Politics_of_Liberation",
+  "description": "A foundational statement of Black Power as critique, strategy, and institutional demand.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Black_power.jpg",
+    "width": 215,
+    "height": 346,
+    "alt": "Black Power: The Politics of Liberation cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Black_Power%3A_The_Politics_of_Liberation",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 500000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "race",
+    "black power",
+    "anti-state critique"
+  ],
+  "reasonTags": [
+    "racial-politics",
+    "anti-state"
+  ],
+  "overview": {
+    "englishDescription": "A foundational statement of Black Power as critique, strategy, and institutional demand.",
+    "banningParagraphs": [
+      "Black Power: The Politics of Liberation entered censorship debates as a political theory associated with race, black power, and anti state critique. In the current dossier, the main state objections cluster around racial politics and anti state.",
+      "The earliest event currently captured here is late 1960s in South Africa, where Apartheid authorities banned circulation. The state treated the book as a threat to racial order and political control. Like many liberation texts, its ban history matters as much as its sales history.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "Everybody's Protest Novel",
+      "author": "James Baldwin",
+      "url": "https://harpers.org/archive/1949/06/everybodys-protest-novel/",
+      "note": "A skeptical response to the politics of moral uplift in canonical anti-slavery fiction.",
+      "sourceIds": [
+        "baldwin-everybodys-protest-novel"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "The Wretched of the Earth",
+      "author": "Frantz Fanon",
+      "url": "https://groveatlantic.com/book/the-wretched-of-the-earth/",
+      "note": "Helps contextualize race, violence, and liberation in books targeted under colonial or apartheid systems.",
+      "sourceIds": [
+        "fanon-wretched-of-the-earth"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "fanon-wretched-of-the-earth",
+    "baldwin-everybodys-protest-novel",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Black%20Power%3A%20The%20Politics%20of%20Liberation%20Stokely%20Carmichael"
+}

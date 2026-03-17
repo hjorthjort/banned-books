@@ -1,0 +1,22 @@
+{
+  "id": "last-exit-to-brooklyn--1",
+  "workId": "last-exit-to-brooklyn",
+  "jurisdictionId": "united-kingdom",
+  "governingBody": "British courts",
+  "dateText": "1960s",
+  "startYear": 1966,
+  "endYear": null,
+  "actionType": "convicted publisher for obscenity",
+  "reasonTags": [
+    "obscenity",
+    "sexual-explicitness"
+  ],
+  "reasonSummary": "The book was prosecuted and suppressed before later legal reversal.",
+  "note": "Its trajectory parallels other mid-century fights over literary realism and obscenity.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

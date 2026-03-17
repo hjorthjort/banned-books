@@ -1,0 +1,22 @@
+{
+  "id": "one-day-of-life--1",
+  "workId": "one-day-of-life",
+  "jurisdictionId": "el-salvador",
+  "governingBody": "Salvadoran authorities",
+  "dateText": "1980s",
+  "startYear": 1980,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "political-dissent",
+    "anti-state"
+  ],
+  "reasonSummary": "The novel's attention to repression made it unacceptable to the state it depicted.",
+  "note": "Its suppression belongs to the wider censorship of civil-war testimony in Central America.",
+  "quotation": null,
+  "sourceIds": [
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

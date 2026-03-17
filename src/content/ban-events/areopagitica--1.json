@@ -1,0 +1,22 @@
+{
+  "id": "areopagitica--1",
+  "workId": "areopagitica",
+  "jurisdictionId": "united-kingdom",
+  "governingBody": "Parliamentary authorities",
+  "dateText": "1640s",
+  "startYear": 1644,
+  "endYear": null,
+  "actionType": "suppressed circulation",
+  "reasonTags": [
+    "press freedom",
+    "licensing"
+  ],
+  "reasonSummary": "A pamphlet against censorship predictably collided with the censorship regime it attacked.",
+  "note": "The work remains one of the sharpest internal critiques of state control over print.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

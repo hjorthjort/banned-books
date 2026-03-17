@@ -1,0 +1,98 @@
+{
+  "id": "the-stud",
+  "slug": "the-stud",
+  "title": "The Stud",
+  "authors": [
+    "Jackie Collins"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "English",
+  "publishedYearText": "1969",
+  "wikipediaTitle": "The_Stud_(novel)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Stud_(novel)",
+  "description": "A glossy novel about sex, class, and ambition in the nightclub world.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/The_Stud_%28novel%29.jpg/250px-The_Stud_%28novel%29.jpg",
+    "width": 330,
+    "height": 491,
+    "alt": "The Stud cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/The_Stud_(novel)",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 1000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "sexuality",
+    "class",
+    "popular fiction"
+  ],
+  "reasonTags": [
+    "obscenity",
+    "morality"
+  ],
+  "overview": {
+    "englishDescription": "A glossy novel about sex, class, and ambition in the nightclub world.",
+    "banningParagraphs": [
+      "The Stud entered censorship debates as a novel associated with sexuality, class, and popular fiction. In the current dossier, the main state objections cluster around obscenity and morality.",
+      "The earliest event currently captured here is 1969 in Australia, where Australian censors banned importation. Collins's sequel was restricted for the same reasons as her first scandal novel. The recurring bans reveal how formula and readership could matter as much as any single passage.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "Banned Books: Literature Suppressed on Sexual Grounds",
+      "author": "Dawn B. Sova",
+      "url": "https://archive.org/details/literaturesuppre0000sova_r9r5",
+      "note": "Surveys the legal and moral language used to suppress books as obscene.",
+      "sourceIds": [
+        "sova-sexual-grounds"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for seeing how obscenity law and censorship habits changed over time.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "sova-sexual-grounds",
+    "haight-1978",
+    "karolides-1999"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Stud%20Jackie%20Collins"
+}

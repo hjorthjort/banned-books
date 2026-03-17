@@ -1,0 +1,24 @@
+{
+  "id": "lysistrata--1",
+  "workId": "lysistrata",
+  "jurisdictionId": "greece",
+  "governingBody": "Greek authorities",
+  "dateText": "20th century",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "banned performance and circulation",
+  "reasonTags": [
+    "obscenity",
+    "morality"
+  ],
+  "reasonSummary": "Authorities objected to the play's sexual frankness despite its canonical status.",
+  "note": "The episode shows how classics can still be treated as dangerous in modern morality campaigns.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "sova-sexual-grounds",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

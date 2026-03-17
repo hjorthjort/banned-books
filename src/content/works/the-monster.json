@@ -1,0 +1,103 @@
+{
+  "id": "the-monster",
+  "slug": "the-monster",
+  "title": "The Monster",
+  "authors": [
+    "Ismail Kadare"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "Albanian",
+  "publishedYearText": "1965",
+  "wikipediaTitle": null,
+  "wikipediaUrl": null,
+  "description": "A politically charged Albanian novel whose allegory became unacceptable under dictatorship.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 50000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "dictatorship",
+    "allegory",
+    "state paranoia"
+  ],
+  "reasonTags": [
+    "political-dissent",
+    "ideological-control"
+  ],
+  "overview": {
+    "englishDescription": "A politically charged Albanian novel whose allegory became unacceptable under dictatorship.",
+    "banningParagraphs": [
+      "The Monster entered censorship debates as a novel associated with dictatorship, allegory, and state paranoia. In the current dossier, the main state objections cluster around political dissent and ideological control.",
+      "The earliest event currently captured here is 1965-1990 in Albania, where Communist authorities banned circulation. Kadare's novel was suppressed for decades in communist Albania. It is one of the most important Albanian examples in the seed dataset.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Monster%20Ismail%20Kadare"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "quran",
+  "slug": "the-quran",
+  "title": "The Quran",
+  "authors": [
+    "Traditionally attributed to revelations received by Muhammad"
+  ],
+  "workType": "Religious text",
+  "originalLanguage": "Arabic",
+  "publishedYearText": "7th century",
+  "wikipediaTitle": "Quran",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Quran",
+  "description": "Islam's central scripture, transmitted in Arabic and widely translated into other languages.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Birmingham_Quran_manuscript_full.jpg/330px-Birmingham_Quran_manuscript_full.jpg",
+    "width": 330,
+    "height": 215,
+    "alt": "The Quran cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Quran",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 800000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "scripture",
+    "translation",
+    "religious authority"
+  ],
+  "reasonTags": [
+    "extremism",
+    "religious-control"
+  ],
+  "overview": {
+    "englishDescription": "Islam's central scripture, transmitted in Arabic and widely translated into other languages.",
+    "banningParagraphs": [
+      "The Quran entered censorship debates as a religious text associated with scripture, translation, and religious authority. In the current dossier, the main state objections cluster around extremism and religious control.",
+      "The earliest event currently captured here is 2013 in Russia, where Novorossiysk city court banned a translation. A Russian court banned Elmir Kuliyev's translation under extremism laws before the ruling was overturned. The record is important because it shows how governments can target editions and translations of a scripture.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "Assassins of the Mind",
+      "author": "Christopher Hitchens",
+      "url": "https://www.vanityfair.com/news/2009/02/rushdie200902",
+      "note": "Frames the Rushdie affair as a test of free speech against violent religious intimidation.",
+      "sourceIds": [
+        "hitchens-assassins-of-the-mind"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "From Fatwa to Jihad",
+      "author": "Kenan Malik",
+      "url": "https://www.malikonline.co.uk/books/from-fatwa-to-jihad/",
+      "note": "Tracks how conflicts over blasphemy, race, and offense evolved after the Rushdie controversy.",
+      "sourceIds": [
+        "malik-from-fatwa-to-jihad"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "bald-religious-grounds",
+    "karolides-1999",
+    "reuters-russia-quran-2013",
+    "russia-moscow-times-quran",
+    "hitchens-assassins-of-the-mind",
+    "malik-from-fatwa-to-jihad",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "verified",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "verified",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Quran%20Traditionally%20attributed%20to%20revelations%20received%20by%20Muhammad"
+}

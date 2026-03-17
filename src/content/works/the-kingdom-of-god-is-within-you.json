@@ -1,0 +1,112 @@
+{
+  "id": "the-kingdom-of-god-is-within-you",
+  "slug": "the-kingdom-of-god-is-within-you",
+  "title": "The Kingdom of God Is Within You",
+  "authors": [
+    "Leo Tolstoy"
+  ],
+  "workType": "Religious and political treatise",
+  "originalLanguage": "Russian",
+  "publishedYearText": "1894",
+  "wikipediaTitle": "The_Kingdom_of_God_Is_Within_You",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Kingdom_of_God_Is_Within_You",
+  "description": "Tolstoy's Christian anarchist critique of church, state, violence, and coercion.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Tolstoi1st.jpg/330px-Tolstoi1st.jpg",
+    "width": 330,
+    "height": 273,
+    "alt": "The Kingdom of God Is Within You cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/The_Kingdom_of_God_Is_Within_You",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 500000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "pacifism",
+    "religion",
+    "anti-state"
+  ],
+  "reasonTags": [
+    "religious-dissent",
+    "anti-state"
+  ],
+  "overview": {
+    "englishDescription": "Tolstoy's Christian anarchist critique of church, state, violence, and coercion.",
+    "banningParagraphs": [
+      "The Kingdom of God Is Within You entered censorship debates as a religious and political treatise associated with pacifism, religion, and anti state. In the current dossier, the main state objections cluster around religious dissent and anti state.",
+      "The earliest event currently captured here is 1890s in Russia, where Tsarist censors banned publication. Tolstoy's fusion of radical Christianity and anti-state ethics alarmed imperial censors. The ban reflects both political and ecclesiastical hostility to Tolstoyism.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "Assassins of the Mind",
+      "author": "Christopher Hitchens",
+      "url": "https://www.vanityfair.com/news/2009/02/rushdie200902",
+      "note": "Frames the Rushdie affair as a test of free speech against violent religious intimidation.",
+      "sourceIds": [
+        "hitchens-assassins-of-the-mind"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "From Fatwa to Jihad",
+      "author": "Kenan Malik",
+      "url": "https://www.malikonline.co.uk/books/from-fatwa-to-jihad/",
+      "note": "Tracks how conflicts over blasphemy, race, and offense evolved after the Rushdie controversy.",
+      "sourceIds": [
+        "malik-from-fatwa-to-jihad"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "bald-religious-grounds",
+    "karolides-1999",
+    "haight-1978",
+    "hitchens-assassins-of-the-mind",
+    "malik-from-fatwa-to-jihad",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Kingdom%20of%20God%20Is%20Within%20You%20Leo%20Tolstoy"
+}

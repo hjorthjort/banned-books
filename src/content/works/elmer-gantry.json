@@ -1,0 +1,111 @@
+{
+  "id": "elmer-gantry",
+  "slug": "elmer-gantry",
+  "title": "Elmer Gantry",
+  "authors": [
+    "Sinclair Lewis"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "English",
+  "publishedYearText": "1927",
+  "wikipediaTitle": "Elmer_Gantry",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elmer_Gantry",
+  "description": "A satirical novel about evangelical hypocrisy, ambition, and the business of religion.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/ElmerGantry.jpg",
+    "width": 274,
+    "height": 396,
+    "alt": "Elmer Gantry cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Elmer_Gantry",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 1000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "religion",
+    "satire",
+    "fraud"
+  ],
+  "reasonTags": [
+    "blasphemy",
+    "anti-clericalism"
+  ],
+  "overview": {
+    "englishDescription": "A satirical novel about evangelical hypocrisy, ambition, and the business of religion.",
+    "banningParagraphs": [
+      "Elmer Gantry entered censorship debates as a novel associated with religion, satire, and fraud. In the current dossier, the main state objections cluster around blasphemy and anti clericalism.",
+      "The earliest event currently captured here is 1920s-1930s in United States, where Municipal and customs authorities banned and challenged. Lewis's portrait of religious fraud provoked both legal challenges and moral outrage. Its censorship history sits at the boundary of blasphemy and literary satire.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "Assassins of the Mind",
+      "author": "Christopher Hitchens",
+      "url": "https://www.vanityfair.com/news/2009/02/rushdie200902",
+      "note": "Frames the Rushdie affair as a test of free speech against violent religious intimidation.",
+      "sourceIds": [
+        "hitchens-assassins-of-the-mind"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "From Fatwa to Jihad",
+      "author": "Kenan Malik",
+      "url": "https://www.malikonline.co.uk/books/from-fatwa-to-jihad/",
+      "note": "Tracks how conflicts over blasphemy, race, and offense evolved after the Rushdie controversy.",
+      "sourceIds": [
+        "malik-from-fatwa-to-jihad"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "bald-religious-grounds",
+    "karolides-1999",
+    "encyclopedia-censorship-2005",
+    "hitchens-assassins-of-the-mind",
+    "malik-from-fatwa-to-jihad",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Elmer%20Gantry%20Sinclair%20Lewis"
+}

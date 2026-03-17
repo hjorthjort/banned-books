@@ -1,0 +1,22 @@
+{
+  "id": "homage-to-catalonia--1",
+  "workId": "homage-to-catalonia",
+  "jurisdictionId": "spain",
+  "governingBody": "Francoist censors",
+  "dateText": "1939-1975",
+  "startYear": 1939,
+  "endYear": 1975,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "anti-fascism",
+    "political-dissent"
+  ],
+  "reasonSummary": "The memoir's defense of the Republic and exposure of authoritarian politics made it unacceptable under Franco.",
+  "note": "It is a key example of anti-fascist witness literature meeting state suppression.",
+  "quotation": null,
+  "sourceIds": [
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

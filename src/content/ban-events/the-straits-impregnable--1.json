@@ -1,0 +1,22 @@
+{
+  "id": "the-straits-impregnable--1",
+  "workId": "the-straits-impregnable",
+  "jurisdictionId": "australia",
+  "governingBody": "Military censor under the War Precautions Act",
+  "dateText": "1914",
+  "startYear": 1914,
+  "endYear": null,
+  "actionType": "banned publication",
+  "reasonTags": [
+    "wartime censorship",
+    "national security"
+  ],
+  "reasonSummary": "The second edition was suppressed by military censors during wartime.",
+  "note": "This entry is useful because the state objection was strategic and military, not moral.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

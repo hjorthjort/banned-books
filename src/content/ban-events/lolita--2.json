@@ -1,0 +1,22 @@
+{
+  "id": "lolita--2",
+  "workId": "lolita",
+  "jurisdictionId": "south-africa",
+  "governingBody": "Apartheid censors",
+  "dateText": "1950s-1960s",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "restricted circulation",
+  "reasonTags": [
+    "obscenity",
+    "morality"
+  ],
+  "reasonSummary": "The novel was also blocked under South African censorship rules.",
+  "note": "Its afterlife illustrates how one book could travel from scandal to canon while still triggering state panic.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

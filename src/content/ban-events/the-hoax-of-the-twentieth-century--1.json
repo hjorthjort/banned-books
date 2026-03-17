@@ -1,0 +1,22 @@
+{
+  "id": "the-hoax-of-the-twentieth-century--1",
+  "workId": "the-hoax-of-the-twentieth-century",
+  "jurisdictionId": "canada",
+  "governingBody": "Customs and hate-literature authorities",
+  "dateText": "1980s-1990s",
+  "startYear": 1980,
+  "endYear": null,
+  "actionType": "seized and prohibited import",
+  "reasonTags": [
+    "hate-speech",
+    "antisemitism"
+  ],
+  "reasonSummary": "Canadian authorities treated the work as hate literature rather than legitimate scholarship.",
+  "note": "This is a case where the ban responds directly to a text's propagandistic falsification.",
+  "quotation": null,
+  "sourceIds": [
+    "lipstadt-denying-the-holocaust",
+    "ushmm-holocaust"
+  ],
+  "reviewStatus": "verified"
+}

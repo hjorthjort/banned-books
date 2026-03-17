@@ -1,0 +1,111 @@
+{
+  "id": "the-house-of-the-spirits",
+  "slug": "the-house-of-the-spirits",
+  "title": "The House of the Spirits",
+  "authors": [
+    "Isabel Allende"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "Spanish",
+  "publishedYearText": "1982",
+  "wikipediaTitle": "The_House_of_the_Spirits",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_House_of_the_Spirits",
+  "description": "A family saga that links private memory to oligarchy, dictatorship, and historical violence.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/9/91/Houseofthesprirts.jpg",
+    "width": 250,
+    "height": 352,
+    "alt": "The House of the Spirits cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/The_House_of_the_Spirits",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 7000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "dictatorship",
+    "family saga",
+    "memory"
+  ],
+  "reasonTags": [
+    "anti-dictatorship",
+    "political-dissent"
+  ],
+  "overview": {
+    "englishDescription": "A family saga that links private memory to oligarchy, dictatorship, and historical violence.",
+    "banningParagraphs": [
+      "The House of the Spirits entered censorship debates as a novel associated with dictatorship, family saga, and memory. In the current dossier, the main state objections cluster around anti dictatorship and political dissent.",
+      "The earliest event currently captured here is 1980s in Chile, where Pinochet regime banned circulation. The regime suppressed literary works tied to exile, memory, and critique of military power. Allende's novel helped preserve a cultural memory that the state preferred to erase.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "The Wretched of the Earth",
+      "author": "Frantz Fanon",
+      "url": "https://groveatlantic.com/book/the-wretched-of-the-earth/",
+      "note": "A strong counter-reading for colonial rule, racial hierarchy, and imperial cultural power.",
+      "sourceIds": [
+        "fanon-wretched-of-the-earth"
+      ]
+    },
+    {
+      "type": "article",
+      "title": "Everybody's Protest Novel",
+      "author": "James Baldwin",
+      "url": "https://harpers.org/archive/1949/06/everybodys-protest-novel/",
+      "note": "Sharp criticism of sentimental protest fiction and its political limits.",
+      "sourceIds": [
+        "baldwin-everybodys-protest-novel"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny",
+    "fanon-wretched-of-the-earth",
+    "baldwin-everybodys-protest-novel"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20House%20of%20the%20Spirits%20Isabel%20Allende"
+}

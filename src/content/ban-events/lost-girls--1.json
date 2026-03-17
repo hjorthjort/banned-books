@@ -1,0 +1,24 @@
+{
+  "id": "lost-girls--1",
+  "workId": "lost-girls",
+  "jurisdictionId": "canada",
+  "governingBody": "Border authorities",
+  "dateText": "2006",
+  "startYear": 2006,
+  "endYear": null,
+  "actionType": "initially prohibited importation",
+  "reasonTags": [
+    "obscenity",
+    "sexual-explicitness"
+  ],
+  "reasonSummary": "Canadian customs first blocked the book before the decision was reversed on appeal.",
+  "note": "It demonstrates how the comics format still triggers its own censorship reflexes.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978",
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

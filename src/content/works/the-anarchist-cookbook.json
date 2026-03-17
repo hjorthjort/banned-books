@@ -1,0 +1,110 @@
+{
+  "id": "the-anarchist-cookbook",
+  "slug": "the-anarchist-cookbook",
+  "title": "The Anarchist Cookbook",
+  "authors": [
+    "William Powell"
+  ],
+  "workType": "Instructional manual",
+  "originalLanguage": "English",
+  "publishedYearText": "1971",
+  "wikipediaTitle": "The_Anarchist_Cookbook",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Anarchist_Cookbook",
+  "description": "A notorious manual of sabotage, explosives, and anti-state provocation.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/The_Anarchist_Cookbook_front_cover.jpg/330px-The_Anarchist_Cookbook_front_cover.jpg",
+    "width": 330,
+    "height": 425,
+    "alt": "The Anarchist Cookbook cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/The_Anarchist_Cookbook",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 2000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "violence",
+    "instruction",
+    "anti-state"
+  ],
+  "reasonTags": [
+    "violence",
+    "instructional harm"
+  ],
+  "overview": {
+    "englishDescription": "A notorious manual of sabotage, explosives, and anti-state provocation.",
+    "banningParagraphs": [
+      "The Anarchist Cookbook entered censorship debates as a instructional manual associated with violence, instruction, and anti state. In the current dossier, the main state objections cluster around violence and instructional harm.",
+      "The earliest event currently captured here is 1970s onward in Australia, where Australian censors banned importation. Authorities treated the manual as a practical danger rather than merely offensive literature. This is one of the clearest examples where a book ban focused on operational harm.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "The Turner Diaries",
+      "author": "Anti-Defamation League",
+      "url": "https://www.adl.org/resources/backgrounder/turner-diaries",
+      "note": "Public backgrounder on how violent extremist fiction moved into real-world terror networks.",
+      "sourceIds": [
+        "adl-turner-diaries"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Denying the Holocaust",
+      "author": "Deborah E. Lipstadt",
+      "url": "https://www.penguinrandomhouse.com/books/189620/denying-the-holocaust-by-deborah-e-lipstadt/",
+      "note": "A clear historical rebuttal to denialist and revisionist propaganda.",
+      "sourceIds": [
+        "lipstadt-denying-the-holocaust"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "adl-turner-diaries",
+    "lipstadt-denying-the-holocaust",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Anarchist%20Cookbook%20William%20Powell"
+}

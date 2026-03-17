@@ -1,0 +1,111 @@
+{
+  "id": "bible",
+  "slug": "the-bible",
+  "title": "The Bible",
+  "authors": [
+    "Various authors"
+  ],
+  "workType": "Religious text",
+  "originalLanguage": "Hebrew, Aramaic, and Greek",
+  "publishedYearText": "Ancient compilation",
+  "wikipediaTitle": "Bible",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bible",
+  "description": "A foundational scriptural collection in Judaism and Christianity, translated and contested across centuries.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/330px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg",
+    "width": 330,
+    "height": 206,
+    "alt": "The Bible cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Bible",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 5000000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "scripture",
+    "translation",
+    "religious authority"
+  ],
+  "reasonTags": [
+    "heresy",
+    "doctrinal-control"
+  ],
+  "overview": {
+    "englishDescription": "A foundational scriptural collection in Judaism and Christianity, translated and contested across centuries.",
+    "banningParagraphs": [
+      "The Bible entered censorship debates as a religious text associated with scripture, translation, and religious authority. In the current dossier, the main state objections cluster around heresy and doctrinal control.",
+      "The earliest event currently captured here is Early modern period in Papal States, where Catholic censorship authorities restricted vernacular circulation. Authorities targeted unauthorized translations and editions seen as doctrinally dangerous. For scriptures, bans often attached to versions, translations, and modes of circulation rather than a blanket destruction of the text.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "Assassins of the Mind",
+      "author": "Christopher Hitchens",
+      "url": "https://www.vanityfair.com/news/2009/02/rushdie200902",
+      "note": "Frames the Rushdie affair as a test of free speech against violent religious intimidation.",
+      "sourceIds": [
+        "hitchens-assassins-of-the-mind"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "From Fatwa to Jihad",
+      "author": "Kenan Malik",
+      "url": "https://www.malikonline.co.uk/books/from-fatwa-to-jihad/",
+      "note": "Tracks how conflicts over blasphemy, race, and offense evolved after the Rushdie controversy.",
+      "sourceIds": [
+        "malik-from-fatwa-to-jihad"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "bald-religious-grounds",
+    "karolides-1999",
+    "encyclopedia-censorship-2005",
+    "hitchens-assassins-of-the-mind",
+    "malik-from-fatwa-to-jihad",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Bible%20Various%20authors"
+}

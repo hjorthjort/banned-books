@@ -1,0 +1,22 @@
+{
+  "id": "droll-stories--1",
+  "workId": "droll-stories",
+  "jurisdictionId": "australia",
+  "governingBody": "Australian censors",
+  "dateText": "1901-c.1973",
+  "startYear": 1901,
+  "endYear": 1973,
+  "actionType": "prohibited importation",
+  "reasonTags": [
+    "obscenity",
+    "morality"
+  ],
+  "reasonSummary": "Officials repeatedly classed Balzac's stories as obscene.",
+  "note": "The Australian record lasted so long that it became one of the most striking examples of bureaucratic literary prudery.",
+  "quotation": null,
+  "sourceIds": [
+    "national-archives-australia-droll-stories",
+    "sova-sexual-grounds"
+  ],
+  "reviewStatus": "verified"
+}

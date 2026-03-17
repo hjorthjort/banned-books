@@ -1,0 +1,22 @@
+{
+  "id": "doctor-zhivago--1",
+  "workId": "doctor-zhivago",
+  "jurisdictionId": "soviet-union",
+  "governingBody": "Soviet literary authorities",
+  "dateText": "1957-1988",
+  "startYear": 1957,
+  "endYear": 1988,
+  "actionType": "banned publication",
+  "reasonTags": [
+    "political-dissent",
+    "anti-state"
+  ],
+  "reasonSummary": "The novel's moral skepticism about revolutionary history made it unacceptable at home.",
+  "note": "The Nobel scandal around Pasternak amplified the ban into an international free-expression story.",
+  "quotation": null,
+  "sourceIds": [
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

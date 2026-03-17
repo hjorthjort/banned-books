@@ -1,0 +1,99 @@
+{
+  "id": "albertine",
+  "slug": "albertine",
+  "title": "Albertine",
+  "authors": [
+    "Christian Krohg"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "Norwegian",
+  "publishedYearText": "1886",
+  "wikipediaTitle": "Albertine_(Krohg_novel)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albertine_(Krohg_novel)",
+  "description": "A Norwegian realist novel attacking sexual exploitation, prostitution, and official hypocrisy.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Christian_Krogh-Albertine_i_politil%C3%A6gens_ventev%C3%A6relse2.jpg/330px-Christian_Krogh-Albertine_i_politil%C3%A6gens_ventev%C3%A6relse2.jpg",
+    "width": 330,
+    "height": 217,
+    "alt": "Albertine cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Albertine_(Krohg_novel)",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 100000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "sexuality",
+    "social reform",
+    "realism"
+  ],
+  "reasonTags": [
+    "obscenity",
+    "public morality"
+  ],
+  "overview": {
+    "englishDescription": "A Norwegian realist novel attacking sexual exploitation, prostitution, and official hypocrisy.",
+    "banningParagraphs": [
+      "Albertine entered censorship debates as a novel associated with sexuality, social reform, and realism. In the current dossier, the main state objections cluster around obscenity and public morality.",
+      "The earliest event currently captured here is 1886 in Norway, where Norwegian authorities confiscated and banned. The book's realism about prostitution and abuse triggered confiscation soon after release. It is a foundational Scandinavian censorship case.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "Banned Books: Literature Suppressed on Sexual Grounds",
+      "author": "Dawn B. Sova",
+      "url": "https://archive.org/details/literaturesuppre0000sova_r9r5",
+      "note": "Surveys the legal and moral language used to suppress books as obscene.",
+      "sourceIds": [
+        "sova-sexual-grounds"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for seeing how obscenity law and censorship habits changed over time.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "sova-sexual-grounds",
+    "haight-1978",
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Albertine%20Christian%20Krohg"
+}

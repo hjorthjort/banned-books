@@ -1,0 +1,22 @@
+{
+  "id": "the-master-and-margarita--1",
+  "workId": "the-master-and-margarita",
+  "jurisdictionId": "soviet-union",
+  "governingBody": "Soviet censors",
+  "dateText": "1930s-1960s",
+  "startYear": 1930,
+  "endYear": 1967,
+  "actionType": "suppressed manuscript and publication",
+  "reasonTags": [
+    "political-dissent",
+    "religious-content"
+  ],
+  "reasonSummary": "The novel's mockery of official culture and its religious imagination made it difficult to publish uncut.",
+  "note": "It circulated in incomplete or delayed form before becoming a classic.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

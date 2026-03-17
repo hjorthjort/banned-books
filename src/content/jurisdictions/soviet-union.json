@@ -1,0 +1,9 @@
+{
+  "id": "soviet-union",
+  "name": "Soviet Union",
+  "jurisdictionType": "historical-state",
+  "region": "Europe and Asia",
+  "historicalFrom": 1922,
+  "historicalTo": 1991,
+  "notes": "Used for Soviet censorship."
+}

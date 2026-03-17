@@ -1,0 +1,25 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { getPublishedWorks } from "../lib/content";
+
+const works = await getPublishedWorks();
+const slugs = works
+  .filter((work) => work.data.reviewStatus !== "seeded")
+  .map((work) => `/works/${work.data.slug}/`);
+const fallback = slugs[0] ?? "/";
+---
+
+<BaseLayout title="Random article | Forbidden Books Wiki">
+  <section class="panel random-panel">
+    <p class="eyebrow">Random article</p>
+    <h1>Picking a random work</h1>
+    <p>If JavaScript is disabled, the featured fallback is linked below.</p>
+    <p><a class="button button--primary" href={fallback}>Open fallback article</a></p>
+  </section>
+
+  <script is:inline define:vars={{ slugs, fallback }}>
+    const picks = Array.isArray(slugs) ? slugs : [];
+    const target = picks.length ? picks[Math.floor(Math.random() * picks.length)] : fallback;
+    window.location.replace(target);
+  </script>
+</BaseLayout>

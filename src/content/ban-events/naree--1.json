@@ -1,0 +1,23 @@
+{
+  "id": "naree--1",
+  "workId": "naree",
+  "jurisdictionId": "bangladesh",
+  "governingBody": "Government of Bangladesh",
+  "dateText": "1995-2000",
+  "startYear": 1995,
+  "endYear": 2000,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "religious-offense",
+    "gender politics"
+  ],
+  "reasonSummary": "Authorities targeted the book after pressure from conservative religious groups.",
+  "note": "It is an important example of a feminist text banned in the name of religious order.",
+  "quotation": null,
+  "sourceIds": [
+    "bald-religious-grounds",
+    "karolides-1999",
+    "encyclopedia-censorship-2005"
+  ],
+  "reviewStatus": "verified"
+}

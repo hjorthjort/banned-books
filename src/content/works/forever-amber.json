@@ -1,0 +1,98 @@
+{
+  "id": "forever-amber",
+  "slug": "forever-amber",
+  "title": "Forever Amber",
+  "authors": [
+    "Kathleen Winsor"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "English",
+  "publishedYearText": "1944",
+  "wikipediaTitle": "Forever_Amber_(novel)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Forever_Amber_(novel)",
+  "description": "A historical bestseller about ambition, sex, and scandal in Restoration England.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/ForeverAmber.jpg/120px-ForeverAmber.jpg",
+    "width": 330,
+    "height": 468,
+    "alt": "Forever Amber cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Forever_Amber_(novel)",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 3000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "sexuality",
+    "historical romance",
+    "scandal"
+  ],
+  "reasonTags": [
+    "obscenity",
+    "morality"
+  ],
+  "overview": {
+    "englishDescription": "A historical bestseller about ambition, sex, and scandal in Restoration England.",
+    "banningParagraphs": [
+      "Forever Amber entered censorship debates as a novel associated with sexuality, historical romance, and scandal. In the current dossier, the main state objections cluster around obscenity and morality.",
+      "The earliest event currently captured here is 1940s in Australia, where Australian censors banned importation. Its frank treatment of sex and ambition triggered a ban soon after publication. The book's mass popularity did not stop censorship; it likely intensified official concern.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "Banned Books: Literature Suppressed on Sexual Grounds",
+      "author": "Dawn B. Sova",
+      "url": "https://archive.org/details/literaturesuppre0000sova_r9r5",
+      "note": "Surveys the legal and moral language used to suppress books as obscene.",
+      "sourceIds": [
+        "sova-sexual-grounds"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for seeing how obscenity law and censorship habits changed over time.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "sova-sexual-grounds",
+    "haight-1978",
+    "karolides-1999"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Forever%20Amber%20Kathleen%20Winsor"
+}

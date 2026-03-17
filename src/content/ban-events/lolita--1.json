@@ -1,0 +1,22 @@
+{
+  "id": "lolita--1",
+  "workId": "lolita",
+  "jurisdictionId": "france",
+  "governingBody": "French officials",
+  "dateText": "1955-1958",
+  "startYear": 1955,
+  "endYear": 1958,
+  "actionType": "banned sale",
+  "reasonTags": [
+    "obscenity",
+    "sexual-explicitness"
+  ],
+  "reasonSummary": "Officials treated the novel as obscene soon after publication.",
+  "note": "Lolita became a classic example of how literary form did not protect a book from sexual-morality censorship.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "a-world-of-strangers--1",
+  "workId": "a-world-of-strangers",
+  "jurisdictionId": "south-africa",
+  "governingBody": "Apartheid censors",
+  "dateText": "1958 onward",
+  "startYear": 1958,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "racial-politics",
+    "anti-state"
+  ],
+  "reasonSummary": "The novel's interracial social world was unacceptable under apartheid censorship rules.",
+  "note": "Gordimer's career repeatedly collided with a state determined to police representation itself.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

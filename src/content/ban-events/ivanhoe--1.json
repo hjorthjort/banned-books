@@ -1,0 +1,23 @@
+{
+  "id": "ivanhoe--1",
+  "workId": "ivanhoe",
+  "jurisdictionId": "germany",
+  "governingBody": "Nazi authorities",
+  "dateText": "1930s",
+  "startYear": 1933,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "antisemitism",
+    "ideological-control"
+  ],
+  "reasonSummary": "The book was suppressed for featuring Jewish characters sympathetically.",
+  "note": "This is a stark example of a regime banning even old canonical fiction on racial grounds.",
+  "quotation": null,
+  "sourceIds": [
+    "evans-third-reich",
+    "ushmm-holocaust",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

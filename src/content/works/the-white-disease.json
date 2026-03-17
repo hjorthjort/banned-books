@@ -1,0 +1,103 @@
+{
+  "id": "the-white-disease",
+  "slug": "the-white-disease",
+  "title": "The White Disease",
+  "authors": [
+    "Karel Capek"
+  ],
+  "workType": "Play",
+  "originalLanguage": "Czech",
+  "publishedYearText": "1937",
+  "wikipediaTitle": "The_White_Disease",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_White_Disease",
+  "description": "A political allegory linking epidemic fear to dictatorship, militarism, and moral cowardice.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 200000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "anti-fascism",
+    "allegory",
+    "war critique"
+  ],
+  "reasonTags": [
+    "political-dissent",
+    "anti-militarism"
+  ],
+  "overview": {
+    "englishDescription": "A political allegory linking epidemic fear to dictatorship, militarism, and moral cowardice.",
+    "banningParagraphs": [
+      "The White Disease entered censorship debates as a play associated with anti fascism, allegory, and war critique. In the current dossier, the main state objections cluster around political dissent and anti militarism.",
+      "The earliest event currently captured here is 1938 in Czechoslovakia, where Second Czechoslovak Republic authorities banned circulation. The state blocked a play whose anti-authoritarian message collided with the crisis of the late 1930s. Its censorship came at the exact historical moment the play warned against.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20White%20Disease%20Karel%20Capek"
+}

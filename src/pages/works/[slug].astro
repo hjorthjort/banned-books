@@ -1,0 +1,147 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import BanHistoryTable from "../../components/BanHistoryTable.astro";
+import SectionBadge from "../../components/SectionBadge.astro";
+import SourceList from "../../components/SourceList.astro";
+import { getCollection } from "astro:content";
+import { getAllJurisdictions, getAllSources, getBanEventsForWork, getUniqueSourceIds } from "../../lib/content";
+
+export async function getStaticPaths() {
+  const works = await getCollection("works", ({ data }) => data.published);
+  return works.map((work) => ({
+    params: { slug: work.data.slug },
+    props: { work },
+  }));
+}
+
+const { work } = Astro.props;
+const banEvents = await getBanEventsForWork(work.data.id);
+const jurisdictions = await getAllJurisdictions();
+const sources = await getAllSources();
+const banSourceIds = banEvents.flatMap((event) => event.data.sourceIds);
+const pageSourceIds = getUniqueSourceIds(work.data.sourceIds, banSourceIds);
+const pageSources = pageSourceIds
+  .map((sourceId: string) => {
+    const source = sources.get(sourceId);
+    return source ? { ...source, id: sourceId } : null;
+  })
+  .filter((source): source is NonNullable<typeof source> => Boolean(source));
+const tableRows = banEvents.map((event) => ({
+  dateText: event.data.dateText,
+  jurisdictionName: jurisdictions.get(event.data.jurisdictionId)?.name ?? event.data.jurisdictionId,
+  actionType: event.data.actionType,
+  reasonSummary: event.data.reasonSummary,
+  note: event.data.note,
+}));
+---
+
+<BaseLayout title={`${work.data.title} | Forbidden Books Wiki`} description={work.data.overview.englishDescription}>
+  <article class="work-page">
+    <header class="work-hero">
+      <div class="work-hero__copy">
+        <p class="eyebrow">{work.data.workType}</p>
+        <h1>{work.data.title}</h1>
+        <p class="work-hero__authors">{work.data.authors.join(", ")}</p>
+        <p class="work-hero__meta">{work.data.originalLanguage} • {work.data.publishedYearText}</p>
+        <div class="badge-row">
+          <SectionBadge status={work.data.reviewStatus} />
+          <span class="metric">Top-list proxy: {work.data.ranking.copiesSoldEstimate.toLocaleString()} estimated copies sold</span>
+        </div>
+        <p class="work-hero__summary">{work.data.overview.englishDescription}</p>
+        <p>
+          <a class="button button--secondary" href={work.data.amazonSearchUrl} target="_blank" rel="noreferrer">
+            Search on Amazon
+          </a>
+        </p>
+      </div>
+
+      <aside class="work-hero__cover">
+        {
+          work.data.cover ? (
+            <figure>
+              <img src={work.data.cover.sourceUrl} alt={work.data.cover.alt} />
+              <figcaption>
+                Wikimedia-hosted thumbnail.
+                <a href={work.data.cover.pageUrl} target="_blank" rel="noreferrer">View source</a>
+              </figcaption>
+            </figure>
+          ) : (
+            <div class="cover-placeholder">
+              <p>No Wikimedia-hosted cover is attached yet.</p>
+            </div>
+          )
+        }
+      </aside>
+    </header>
+
+    <section class="panel">
+      <div class="panel__header">
+        <div>
+          <p class="eyebrow">Overview</p>
+          <h2>Why it was banned</h2>
+        </div>
+        <SectionBadge status={work.data.sectionStatus.banningOverview} />
+      </div>
+      {
+        work.data.overview.banningParagraphs.map((paragraph: string) => (
+          <p>{paragraph}</p>
+        ))
+      }
+      {
+        work.data.incompleteCoverage && (
+          <p class="notice">
+            This page is intentionally incomplete. The ban history is a starter dataset, not a final census of every jurisdiction or decree.
+          </p>
+        )
+      }
+    </section>
+
+    <section class="panel">
+      <div class="panel__header">
+        <div>
+          <p class="eyebrow">Counter and critical readings</p>
+          <h2>Context, rebuttals, and criticism</h2>
+        </div>
+        <SectionBadge status={work.data.sectionStatus.counterReadings} />
+      </div>
+      <ul class="counter-list">
+        {
+          work.data.counterReadings.map((item) => (
+            <li>
+              <strong>
+                {item.url ? (
+                  <a href={item.url} target="_blank" rel="noreferrer">{item.title}</a>
+                ) : (
+                  item.title
+                )}
+              </strong>
+              <span>{item.author}</span>
+              <p>{item.note}</p>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+
+    <section class="panel">
+      <div class="panel__header">
+        <div>
+          <p class="eyebrow">Ban history</p>
+          <h2>Known government actions</h2>
+        </div>
+        <SectionBadge status="verified" />
+      </div>
+      <BanHistoryTable rows={tableRows} />
+    </section>
+
+    <section class="panel">
+      <div class="panel__header">
+        <div>
+          <p class="eyebrow">Sources</p>
+          <h2>Harvested references for this page</h2>
+        </div>
+      </div>
+      <SourceList sources={pageSources} />
+    </section>
+  </article>
+</BaseLayout>

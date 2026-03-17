@@ -1,0 +1,109 @@
+{
+  "id": "the-naked-and-the-dead",
+  "slug": "the-naked-and-the-dead",
+  "title": "The Naked and the Dead",
+  "authors": [
+    "Norman Mailer"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "English",
+  "publishedYearText": "1948",
+  "wikipediaTitle": "The_Naked_and_the_Dead",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Naked_and_the_Dead",
+  "description": "A World War II novel about power, fear, masculinity, and the machinery of command.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/e/e6/TheNakedAndTheDead.jpg",
+    "width": 255,
+    "height": 395,
+    "alt": "The Naked and the Dead cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/The_Naked_and_the_Dead",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 2000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "war",
+    "violence",
+    "sexuality"
+  ],
+  "reasonTags": [
+    "obscenity",
+    "offensive language"
+  ],
+  "overview": {
+    "englishDescription": "A World War II novel about power, fear, masculinity, and the machinery of command.",
+    "banningParagraphs": [
+      "The Naked and the Dead entered censorship debates as a novel associated with war, violence, and sexuality. In the current dossier, the main state objections cluster around obscenity and offensive language.",
+      "The earliest event currently captured here is late 1940s in Canada, where Canadian censors restricted circulation. Authorities objected to the novel's coarse language and sexual candor. The ban highlights how even war realism could be treated as indecent.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "Banned Books: Literature Suppressed on Sexual Grounds",
+      "author": "Dawn B. Sova",
+      "url": "https://archive.org/details/literaturesuppre0000sova_r9r5",
+      "note": "Surveys the legal and moral language used to suppress books as obscene.",
+      "sourceIds": [
+        "sova-sexual-grounds"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for seeing how obscenity law and censorship habits changed over time.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "sova-sexual-grounds",
+    "haight-1978",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Naked%20and%20the%20Dead%20Norman%20Mailer"
+}

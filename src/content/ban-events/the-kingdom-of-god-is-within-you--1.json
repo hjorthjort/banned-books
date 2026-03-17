@@ -1,0 +1,23 @@
+{
+  "id": "the-kingdom-of-god-is-within-you--1",
+  "workId": "the-kingdom-of-god-is-within-you",
+  "jurisdictionId": "russia",
+  "governingBody": "Tsarist censors",
+  "dateText": "1890s",
+  "startYear": 1894,
+  "endYear": null,
+  "actionType": "banned publication",
+  "reasonTags": [
+    "religious-dissent",
+    "anti-state"
+  ],
+  "reasonSummary": "Tolstoy's fusion of radical Christianity and anti-state ethics alarmed imperial censors.",
+  "note": "The ban reflects both political and ecclesiastical hostility to Tolstoyism.",
+  "quotation": null,
+  "sourceIds": [
+    "bald-religious-grounds",
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

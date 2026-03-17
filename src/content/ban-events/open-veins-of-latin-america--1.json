@@ -1,0 +1,22 @@
+{
+  "id": "open-veins-of-latin-america--1",
+  "workId": "open-veins-of-latin-america",
+  "jurisdictionId": "chile",
+  "governingBody": "Pinochet regime",
+  "dateText": "1970s",
+  "startYear": 1973,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "left politics",
+    "anti-dictatorship"
+  ],
+  "reasonSummary": "Military authorities suppressed Galeano's anti-imperialist history.",
+  "note": "The book became a standard exile-era text precisely because states tried to erase it.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

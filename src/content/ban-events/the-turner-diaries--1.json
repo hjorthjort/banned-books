@@ -1,0 +1,22 @@
+{
+  "id": "the-turner-diaries--1",
+  "workId": "the-turner-diaries",
+  "jurisdictionId": "canada",
+  "governingBody": "Canadian customs and hate-literature authorities",
+  "dateText": "1990s",
+  "startYear": 1990,
+  "endYear": null,
+  "actionType": "restricted importation",
+  "reasonTags": [
+    "hate-speech",
+    "extremism"
+  ],
+  "reasonSummary": "Authorities treated the novel as racist propaganda with real-world violent effects.",
+  "note": "This is a rare case where a 'counter' section can directly address the book's dangerous ideas rather than merely its censorship history.",
+  "quotation": null,
+  "sourceIds": [
+    "adl-turner-diaries",
+    "ushmm-holocaust"
+  ],
+  "reviewStatus": "verified"
+}

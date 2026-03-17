@@ -1,0 +1,110 @@
+{
+  "id": "uncle-toms-cabin",
+  "slug": "uncle-toms-cabin",
+  "title": "Uncle Tom's Cabin",
+  "authors": [
+    "Harriet Beecher Stowe"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "English",
+  "publishedYearText": "1852",
+  "wikipediaTitle": "Uncle_Tom's_Cabin",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Uncle_Tom's_Cabin",
+  "description": "A landmark antislavery novel that turned plantation brutality into mass political reading.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/UncleTomsCabinCover.jpg/330px-UncleTomsCabinCover.jpg",
+    "width": 330,
+    "height": 573,
+    "alt": "Uncle Tom's Cabin cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Uncle_Tom's_Cabin",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 20000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "slavery",
+    "abolition",
+    "sentimental protest"
+  ],
+  "reasonTags": [
+    "political-dissent",
+    "racial-politics"
+  ],
+  "overview": {
+    "englishDescription": "A landmark antislavery novel that turned plantation brutality into mass political reading.",
+    "banningParagraphs": [
+      "Uncle Tom's Cabin entered censorship debates as a novel associated with slavery, abolition, and sentimental protest. In the current dossier, the main state objections cluster around political dissent and racial politics.",
+      "The earliest event currently captured here is 1850s in United States, where Slave-state authorities and wartime officials suppressed circulation. The novel was attacked in pro-slavery jurisdictions because it mobilized abolitionist sentiment. Its history shows governments suppressing literature not for obscenity, but for moral and political effect.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "Everybody's Protest Novel",
+      "author": "James Baldwin",
+      "url": "https://harpers.org/archive/1949/06/everybodys-protest-novel/",
+      "note": "A skeptical response to the politics of moral uplift in canonical anti-slavery fiction.",
+      "sourceIds": [
+        "baldwin-everybodys-protest-novel"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "The Wretched of the Earth",
+      "author": "Frantz Fanon",
+      "url": "https://groveatlantic.com/book/the-wretched-of-the-earth/",
+      "note": "Helps contextualize race, violence, and liberation in books targeted under colonial or apartheid systems.",
+      "sourceIds": [
+        "fanon-wretched-of-the-earth"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "baldwin-everybodys-protest-novel",
+    "fanon-wretched-of-the-earth",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Uncle%20Tom's%20Cabin%20Harriet%20Beecher%20Stowe"
+}

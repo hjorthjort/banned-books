@@ -1,0 +1,110 @@
+{
+  "id": "borstal-boy",
+  "slug": "borstal-boy",
+  "title": "Borstal Boy",
+  "authors": [
+    "Brendan Behan"
+  ],
+  "workType": "Memoir",
+  "originalLanguage": "English",
+  "publishedYearText": "1958",
+  "wikipediaTitle": "Borstal_Boy",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Borstal_Boy",
+  "description": "Behan's memoir of imprisonment, Irish republicanism, and state punishment.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Borstal_Boy.jpg/120px-Borstal_Boy.jpg",
+    "width": 330,
+    "height": 553,
+    "alt": "Borstal Boy cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Borstal_Boy",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 500000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "crime",
+    "state punishment",
+    "Irish politics"
+  ],
+  "reasonTags": [
+    "morality",
+    "political sensitivity"
+  ],
+  "overview": {
+    "englishDescription": "Behan's memoir of imprisonment, Irish republicanism, and state punishment.",
+    "banningParagraphs": [
+      "Borstal Boy entered censorship debates as a memoir associated with crime, state punishment, and Irish politics. In the current dossier, the main state objections cluster around morality and political sensitivity.",
+      "The earliest event currently captured here is 1958 in Ireland, where Irish Censorship Board banned sale. The memoir ran into Irish censorship because of language, crime, and sexual candor. It became a classic example of mid-century Irish literary restriction.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "haight-1978",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Borstal%20Boy%20Brendan%20Behan"
+}

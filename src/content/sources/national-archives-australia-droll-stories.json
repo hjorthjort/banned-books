@@ -1,0 +1,10 @@
+{
+  "id": "national-archives-australia-droll-stories",
+  "title": "National Archives of Australia: Droll Stories",
+  "url": "https://bannedpublications.naa.gov.au/record/droll-stories",
+  "sourceType": "official",
+  "scope": "Australian censorship example for Balzac's Droll Stories.",
+  "harvestStatus": "partial",
+  "qualifiesForVerification": true,
+  "notes": "Supports one of the long-running obscenity bans in the dataset."
+}

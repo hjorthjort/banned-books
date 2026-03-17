@@ -1,0 +1,22 @@
+{
+  "id": "howl--1",
+  "workId": "howl",
+  "jurisdictionId": "united-states",
+  "governingBody": "Customs officials and local prosecutors",
+  "dateText": "1957",
+  "startYear": 1957,
+  "endYear": null,
+  "actionType": "seized copies and prosecuted publisher",
+  "reasonTags": [
+    "obscenity",
+    "sexual-explicitness"
+  ],
+  "reasonSummary": "The poem triggered one of the most famous U.S. obscenity trials in literature.",
+  "note": "Its legal victory became part of the mythology of postwar free expression.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

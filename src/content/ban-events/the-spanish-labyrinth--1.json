@@ -1,0 +1,22 @@
+{
+  "id": "the-spanish-labyrinth--1",
+  "workId": "the-spanish-labyrinth",
+  "jurisdictionId": "spain",
+  "governingBody": "Francoist censors",
+  "dateText": "1940s-1970s",
+  "startYear": 1943,
+  "endYear": 1975,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "political-dissent",
+    "unauthorized history"
+  ],
+  "reasonSummary": "Critical histories of Spain's conflict were tightly restricted under the dictatorship.",
+  "note": "It stands for the censorship of explanatory history, not just partisan fiction.",
+  "quotation": null,
+  "sourceIds": [
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

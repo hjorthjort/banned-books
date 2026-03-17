@@ -1,0 +1,22 @@
+{
+  "id": "a-feast-for-the-seaweeds--1",
+  "workId": "a-feast-for-the-seaweeds",
+  "jurisdictionId": "egypt",
+  "governingBody": "Al-Azhar-backed authorities and Egyptian officials",
+  "dateText": "2000-2001",
+  "startYear": 2000,
+  "endYear": null,
+  "actionType": "confiscated and banned",
+  "reasonTags": [
+    "blasphemy",
+    "heresy"
+  ],
+  "reasonSummary": "Clerical protests turned the novel into a national controversy and triggered confiscation.",
+  "note": "The case shows how quickly republication can reactivate old censorship lines.",
+  "quotation": null,
+  "sourceIds": [
+    "al-ahram-seaweeds",
+    "bald-religious-grounds"
+  ],
+  "reviewStatus": "verified"
+}

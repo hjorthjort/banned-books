@@ -1,0 +1,22 @@
+{
+  "id": "clandestine-in-chile--1",
+  "workId": "clandestine-in-chile",
+  "jurisdictionId": "chile",
+  "governingBody": "Military authorities",
+  "dateText": "1986",
+  "startYear": 1986,
+  "endYear": null,
+  "actionType": "seized and burned copies",
+  "reasonTags": [
+    "anti-dictatorship",
+    "political-dissent"
+  ],
+  "reasonSummary": "Thousands of copies were confiscated and burned by Chilean authorities.",
+  "note": "The destruction of physical stock makes this one of the clearest book-burning records in the seed set.",
+  "quotation": null,
+  "sourceIds": [
+    "latimes-clandestine-chile",
+    "encyclopedia-censorship-2005"
+  ],
+  "reviewStatus": "verified"
+}

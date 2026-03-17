@@ -1,0 +1,36 @@
+---
+interface Props {
+  href: string;
+  title: string;
+  authors: string[];
+  description: string;
+  cover?: {
+    sourceUrl: string;
+    alt: string;
+  } | null;
+  meta: string;
+}
+
+const { href, title, authors, description, cover = null, meta } = Astro.props;
+---
+
+<article class="work-card">
+  <a class="work-card__link" href={href}>
+    <div class="work-card__media">
+      {
+        cover ? (
+          <img src={cover.sourceUrl} alt={cover.alt} loading="lazy" />
+        ) : (
+          <div class="work-card__placeholder">No cover image</div>
+        )
+      }
+    </div>
+    <div class="work-card__body">
+      <p class="work-card__meta">{meta}</p>
+      <h3>{title}</h3>
+      <p class="work-card__authors">{authors.join(", ")}</p>
+      <p>{description}</p>
+    </div>
+  </a>
+</article>
+

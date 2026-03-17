@@ -1,0 +1,22 @@
+{
+  "id": "how-to-read-donald-duck--1",
+  "workId": "how-to-read-donald-duck",
+  "jurisdictionId": "chile",
+  "governingBody": "Pinochet regime",
+  "dateText": "1973 onward",
+  "startYear": 1973,
+  "endYear": null,
+  "actionType": "banned and burned",
+  "reasonTags": [
+    "left politics",
+    "anti-imperialism"
+  ],
+  "reasonSummary": "The military regime targeted the book as part of a broader purge of socialist culture.",
+  "note": "It is a useful counterexample to the claim that only fiction gets banned.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

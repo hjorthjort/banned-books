@@ -1,0 +1,22 @@
+{
+  "id": "rights-of-man--2",
+  "workId": "rights-of-man",
+  "jurisdictionId": "russia",
+  "governingBody": "Tsarist censors",
+  "dateText": "19th century",
+  "startYear": 1825,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "revolutionary-politics",
+    "anti-state"
+  ],
+  "reasonSummary": "Imperial authorities later banned the text as well.",
+  "note": "The same work could be seditious in both monarchical Britain and Tsarist Russia.",
+  "quotation": null,
+  "sourceIds": [
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

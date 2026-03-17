@@ -1,0 +1,22 @@
+{
+  "id": "the-anarchist-cookbook--1",
+  "workId": "the-anarchist-cookbook",
+  "jurisdictionId": "australia",
+  "governingBody": "Australian censors",
+  "dateText": "1970s onward",
+  "startYear": 1971,
+  "endYear": null,
+  "actionType": "banned importation",
+  "reasonTags": [
+    "violence",
+    "instructional harm"
+  ],
+  "reasonSummary": "Authorities treated the manual as a practical danger rather than merely offensive literature.",
+  "note": "This is one of the clearest examples where a book ban focused on operational harm.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

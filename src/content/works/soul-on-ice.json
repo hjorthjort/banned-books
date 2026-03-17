@@ -1,0 +1,110 @@
+{
+  "id": "soul-on-ice",
+  "slug": "soul-on-ice",
+  "title": "Soul on Ice",
+  "authors": [
+    "Eldridge Cleaver"
+  ],
+  "workType": "Essay collection",
+  "originalLanguage": "English",
+  "publishedYearText": "1968",
+  "wikipediaTitle": "Soul_on_Ice_(book)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Soul_on_Ice_(book)",
+  "description": "An explosive collection of prison essays on race, sexuality, violence, and American power.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/SOIcover.jpg/120px-SOIcover.jpg",
+    "width": 330,
+    "height": 493,
+    "alt": "Soul on Ice cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Soul_on_Ice_(book)",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 1000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "race",
+    "prison writing",
+    "radical politics"
+  ],
+  "reasonTags": [
+    "racial-politics",
+    "anti-state"
+  ],
+  "overview": {
+    "englishDescription": "An explosive collection of prison essays on race, sexuality, violence, and American power.",
+    "banningParagraphs": [
+      "Soul on Ice entered censorship debates as a essay collection associated with race, prison writing, and radical politics. In the current dossier, the main state objections cluster around racial politics and anti state.",
+      "The earliest event currently captured here is late 1960s in South Africa, where Apartheid authorities banned circulation. Cleaver's writing was treated as revolutionary and destabilizing. This entry underscores how governments police imported Black radical writing.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "Everybody's Protest Novel",
+      "author": "James Baldwin",
+      "url": "https://harpers.org/archive/1949/06/everybodys-protest-novel/",
+      "note": "A skeptical response to the politics of moral uplift in canonical anti-slavery fiction.",
+      "sourceIds": [
+        "baldwin-everybodys-protest-novel"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "The Wretched of the Earth",
+      "author": "Frantz Fanon",
+      "url": "https://groveatlantic.com/book/the-wretched-of-the-earth/",
+      "note": "Helps contextualize race, violence, and liberation in books targeted under colonial or apartheid systems.",
+      "sourceIds": [
+        "fanon-wretched-of-the-earth"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "fanon-wretched-of-the-earth",
+    "baldwin-everybodys-protest-novel",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Soul%20on%20Ice%20Eldridge%20Cleaver"
+}

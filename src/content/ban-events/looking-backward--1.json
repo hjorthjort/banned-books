@@ -1,0 +1,22 @@
+{
+  "id": "looking-backward--1",
+  "workId": "looking-backward",
+  "jurisdictionId": "russia",
+  "governingBody": "Tsarist censors",
+  "dateText": "late 19th century",
+  "startYear": 1888,
+  "endYear": null,
+  "actionType": "prohibited circulation",
+  "reasonTags": [
+    "utopian politics",
+    "anti-state"
+  ],
+  "reasonSummary": "Imperial censors treated Bellamy's social vision as ideologically dangerous.",
+  "note": "Even peaceful utopias could be read as threats in highly policed political systems.",
+  "quotation": null,
+  "sourceIds": [
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "the-song-of-the-red-ruby",
+  "slug": "the-song-of-the-red-ruby",
+  "title": "The Song of the Red Ruby",
+  "authors": [
+    "Agnar Mykle"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "Norwegian",
+  "publishedYearText": "1956",
+  "wikipediaTitle": "The_Song_of_the_Red_Ruby",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Song_of_the_Red_Ruby",
+  "description": "A novel of sexuality, guilt, youth, and postwar Scandinavian modernity.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": null,
+  "ranking": {
+    "copiesSoldEstimate": 200000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "sexuality",
+    "youth",
+    "modernity"
+  ],
+  "reasonTags": [
+    "obscenity",
+    "sexual-explicitness"
+  ],
+  "overview": {
+    "englishDescription": "A novel of sexuality, guilt, youth, and postwar Scandinavian modernity.",
+    "banningParagraphs": [
+      "The Song of the Red Ruby entered censorship debates as a novel associated with sexuality, youth, and modernity. In the current dossier, the main state objections cluster around obscenity and sexual explicitness.",
+      "The earliest event currently captured here is 1950s in Norway, where Norwegian prosecutors prosecuted for obscenity. The novel became the center of a famous Scandinavian obscenity case. Its legal battle reshaped the limits of literary candor in Norway.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "Banned Books: Literature Suppressed on Sexual Grounds",
+      "author": "Dawn B. Sova",
+      "url": "https://archive.org/details/literaturesuppre0000sova_r9r5",
+      "note": "Surveys the legal and moral language used to suppress books as obscene.",
+      "sourceIds": [
+        "sova-sexual-grounds"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for seeing how obscenity law and censorship habits changed over time.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "sova-sexual-grounds",
+    "haight-1978",
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Song%20of%20the%20Red%20Ruby%20Agnar%20Mykle"
+}

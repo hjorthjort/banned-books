@@ -1,0 +1,22 @@
+{
+  "id": "fanny-hill--1",
+  "workId": "fanny-hill",
+  "jurisdictionId": "united-kingdom",
+  "governingBody": "British obscenity authorities",
+  "dateText": "18th-20th centuries",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "suppressed editions",
+  "reasonTags": [
+    "obscenity",
+    "sexual-explicitness"
+  ],
+  "reasonSummary": "The novel repeatedly reappeared in prosecutions over indecent publication.",
+  "note": "It remained a benchmark case for what the law considered pornographic literature.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

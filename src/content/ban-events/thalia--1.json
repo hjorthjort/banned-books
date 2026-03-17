@@ -1,0 +1,22 @@
+{
+  "id": "thalia--1",
+  "workId": "thalia",
+  "jurisdictionId": "roman-empire",
+  "governingBody": "Emperor Constantine and imperial authorities",
+  "dateText": "333 CE",
+  "startYear": 333,
+  "endYear": null,
+  "actionType": "ordered burned",
+  "reasonTags": [
+    "heresy",
+    "doctrinal-control"
+  ],
+  "reasonSummary": "Arius's writings were condemned as destabilizing and contradictory to imperial orthodoxy.",
+  "note": "This is one of the oldest entries in the dataset and a reminder that book burning has a very long state history.",
+  "quotation": null,
+  "sourceIds": [
+    "wlc-edict-against-arius",
+    "bald-religious-grounds"
+  ],
+  "reviewStatus": "verified"
+}

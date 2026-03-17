@@ -1,0 +1,22 @@
+{
+  "id": "tropic-of-cancer--1",
+  "workId": "tropic-of-cancer",
+  "jurisdictionId": "united-states",
+  "governingBody": "Federal and state obscenity authorities",
+  "dateText": "1930s-1964",
+  "startYear": 1934,
+  "endYear": 1964,
+  "actionType": "suppressed publication",
+  "reasonTags": [
+    "obscenity",
+    "sexual-explicitness"
+  ],
+  "reasonSummary": "The novel was long blocked as obscene before a series of court fights changed the law.",
+  "note": "It became a landmark in the liberalization of postwar U.S. publishing.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

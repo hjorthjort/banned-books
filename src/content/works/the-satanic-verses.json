@@ -1,0 +1,112 @@
+{
+  "id": "the-satanic-verses",
+  "slug": "the-satanic-verses",
+  "title": "The Satanic Verses",
+  "authors": [
+    "Salman Rushdie"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "English",
+  "publishedYearText": "1988",
+  "wikipediaTitle": "The_Satanic_Verses",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Satanic_Verses",
+  "description": "A magical-realist novel about migration, faith, metamorphosis, and contested sacred history.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/1988_Salman_Rushdie_The_Satanic_Verses.jpg/250px-1988_Salman_Rushdie_The_Satanic_Verses.jpg",
+    "width": 330,
+    "height": 508,
+    "alt": "The Satanic Verses cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/The_Satanic_Verses",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 1500000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "religion",
+    "migration",
+    "magic realism"
+  ],
+  "reasonTags": [
+    "blasphemy",
+    "public-order",
+    "religious-offense"
+  ],
+  "overview": {
+    "englishDescription": "A magical-realist novel about migration, faith, metamorphosis, and contested sacred history.",
+    "banningParagraphs": [
+      "The Satanic Verses entered censorship debates as a novel associated with religion, migration, and magic realism. In the current dossier, the main state objections cluster around blasphemy, public order, and religious offense.",
+      "The earliest event currently captured here is 1988 in India, where Government of India banned imports. Officials moved quickly against the book after protests over alleged insults to Islam. The work became a global symbol of the conflict between literary freedom and religious offense.",
+      "The record already stretches across India and Egypt, which is why the page should be read as a cross-border censorship trail rather than a single isolated dispute."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "Assassins of the Mind",
+      "author": "Christopher Hitchens",
+      "url": "https://www.vanityfair.com/news/2009/02/rushdie200902",
+      "note": "Frames the Rushdie affair as a test of free speech against violent religious intimidation.",
+      "sourceIds": [
+        "hitchens-assassins-of-the-mind"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "From Fatwa to Jihad",
+      "author": "Kenan Malik",
+      "url": "https://www.malikonline.co.uk/books/from-fatwa-to-jihad/",
+      "note": "Tracks how conflicts over blasphemy, race, and offense evolved after the Rushdie controversy.",
+      "sourceIds": [
+        "malik-from-fatwa-to-jihad"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "bald-religious-grounds",
+    "karolides-1999",
+    "dw-rushdie-fatwa",
+    "hitchens-assassins-of-the-mind",
+    "malik-from-fatwa-to-jihad",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "verified",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "verified",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": true,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Satanic%20Verses%20Salman%20Rushdie"
+}

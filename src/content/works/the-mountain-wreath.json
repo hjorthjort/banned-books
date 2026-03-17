@@ -1,0 +1,110 @@
+{
+  "id": "the-mountain-wreath",
+  "slug": "the-mountain-wreath",
+  "title": "The Mountain Wreath",
+  "authors": [
+    "Petar II Petrovic-Njegos"
+  ],
+  "workType": "Epic poem",
+  "originalLanguage": "Serbian",
+  "publishedYearText": "1847",
+  "wikipediaTitle": "The_Mountain_Wreath",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Mountain_Wreath",
+  "description": "A canonical South Slavic poem tied to nationhood, faith, and controversial violence.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Gorski_Vijenac.jpg/330px-Gorski_Vijenac.jpg",
+    "width": 330,
+    "height": 540,
+    "alt": "The Mountain Wreath cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/The_Mountain_Wreath",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 300000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "nationalism",
+    "religion",
+    "identity politics"
+  ],
+  "reasonTags": [
+    "ethnic conflict",
+    "hate-speech"
+  ],
+  "overview": {
+    "englishDescription": "A canonical South Slavic poem tied to nationhood, faith, and controversial violence.",
+    "banningParagraphs": [
+      "The Mountain Wreath entered censorship debates as a epic poem associated with nationalism, religion, and identity politics. In the current dossier, the main state objections cluster around ethnic conflict and hate speech.",
+      "The earliest event currently captured here is late 1990s in Bosnia and Herzegovina, where School authorities under international administration removed from schools. Officials objected to how the text could inflame postwar sectarian politics. The case turns on the difference between literary canon and contemporary conflict management.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Wretched of the Earth",
+      "author": "Frantz Fanon",
+      "url": "https://groveatlantic.com/book/the-wretched-of-the-earth/",
+      "note": "A strong counter-reading for colonial rule, racial hierarchy, and imperial cultural power.",
+      "sourceIds": [
+        "fanon-wretched-of-the-earth"
+      ]
+    },
+    {
+      "type": "article",
+      "title": "Everybody's Protest Novel",
+      "author": "James Baldwin",
+      "url": "https://harpers.org/archive/1949/06/everybodys-protest-novel/",
+      "note": "Sharp criticism of sentimental protest fiction and its political limits.",
+      "sourceIds": [
+        "baldwin-everybodys-protest-novel"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "fanon-wretched-of-the-earth",
+    "baldwin-everybodys-protest-novel",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Mountain%20Wreath%20Petar%20II%20Petrovic-Njegos"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "the-monster--1",
+  "workId": "the-monster",
+  "jurisdictionId": "albania",
+  "governingBody": "Communist authorities",
+  "dateText": "1965-1990",
+  "startYear": 1965,
+  "endYear": 1990,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "political-dissent",
+    "ideological-control"
+  ],
+  "reasonSummary": "Kadare's novel was suppressed for decades in communist Albania.",
+  "note": "It is one of the most important Albanian examples in the seed dataset.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

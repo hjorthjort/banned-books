@@ -1,0 +1,112 @@
+{
+  "id": "lajja",
+  "slug": "lajja",
+  "title": "Lajja",
+  "authors": [
+    "Taslima Nasrin"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "Bengali",
+  "publishedYearText": "1993",
+  "wikipediaTitle": "Lajja_(novel)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lajja_(novel)",
+  "description": "A novel about anti-Hindu violence, majoritarianism, and the fragility of secular citizenship.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Cover_of_Book_named_Lajja.jpg/250px-Cover_of_Book_named_Lajja.jpg",
+    "width": 330,
+    "height": 501,
+    "alt": "Lajja cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Lajja_(novel)",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 300000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "religion",
+    "communal violence",
+    "secularism"
+  ],
+  "reasonTags": [
+    "religious-offense",
+    "public-order"
+  ],
+  "overview": {
+    "englishDescription": "A novel about anti-Hindu violence, majoritarianism, and the fragility of secular citizenship.",
+    "banningParagraphs": [
+      "Lajja entered censorship debates as a novel associated with religion, communal violence, and secularism. In the current dossier, the main state objections cluster around religious offense and public order.",
+      "The earliest event currently captured here is 1994 in Bangladesh, where Government of Bangladesh banned circulation. The novel's criticism of Islamist violence and communalism triggered state suppression. It remains one of the most internationally recognized Bangladeshi book bans.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "Assassins of the Mind",
+      "author": "Christopher Hitchens",
+      "url": "https://www.vanityfair.com/news/2009/02/rushdie200902",
+      "note": "Frames the Rushdie affair as a test of free speech against violent religious intimidation.",
+      "sourceIds": [
+        "hitchens-assassins-of-the-mind"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "From Fatwa to Jihad",
+      "author": "Kenan Malik",
+      "url": "https://www.malikonline.co.uk/books/from-fatwa-to-jihad/",
+      "note": "Tracks how conflicts over blasphemy, race, and offense evolved after the Rushdie controversy.",
+      "sourceIds": [
+        "malik-from-fatwa-to-jihad"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "bald-religious-grounds",
+    "karolides-1999",
+    "bbc-taslima-1999",
+    "bbc-taslima-2002",
+    "hitchens-assassins-of-the-mind",
+    "malik-from-fatwa-to-jihad",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "verified",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "verified",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Lajja%20Taslima%20Nasrin"
+}

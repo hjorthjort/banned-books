@@ -1,0 +1,22 @@
+{
+  "id": "little-black-sambo--1",
+  "workId": "little-black-sambo",
+  "jurisdictionId": "japan",
+  "governingBody": "Japanese authorities and publishers under pressure",
+  "dateText": "1988-2005",
+  "startYear": 1988,
+  "endYear": 2005,
+  "actionType": "withdrew and blocked editions",
+  "reasonTags": [
+    "racism",
+    "discrimination"
+  ],
+  "reasonSummary": "The book was restricted because its imagery and language were widely understood as racist.",
+  "note": "This is a useful counterexample where the ban responds to racial harm rather than sexual or political panic.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

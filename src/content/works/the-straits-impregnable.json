@@ -1,0 +1,110 @@
+{
+  "id": "the-straits-impregnable",
+  "slug": "the-straits-impregnable",
+  "title": "The Straits Impregnable",
+  "authors": [
+    "Sydney De Loghe"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "English",
+  "publishedYearText": "1914",
+  "wikipediaTitle": "The_Straits_Impregnable",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Straits_Impregnable",
+  "description": "An Australian war novel whose publication collided with military censorship during World War I.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_Straits_Impregnable.png/330px-The_Straits_Impregnable.png",
+    "width": 330,
+    "height": 520,
+    "alt": "The Straits Impregnable cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/The_Straits_Impregnable",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 10000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "war",
+    "military censorship",
+    "politics"
+  ],
+  "reasonTags": [
+    "wartime censorship",
+    "national security"
+  ],
+  "overview": {
+    "englishDescription": "An Australian war novel whose publication collided with military censorship during World War I.",
+    "banningParagraphs": [
+      "The Straits Impregnable entered censorship debates as a novel associated with war, military censorship, and politics. In the current dossier, the main state objections cluster around wartime censorship and national security.",
+      "The earliest event currently captured here is 1914 in Australia, where Military censor under the War Precautions Act banned publication. The second edition was suppressed by military censors during wartime. This entry is useful because the state objection was strategic and military, not moral.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Straits%20Impregnable%20Sydney%20De%20Loghe"
+}

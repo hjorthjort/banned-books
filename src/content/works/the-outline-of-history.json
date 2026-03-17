@@ -1,0 +1,110 @@
+{
+  "id": "the-outline-of-history",
+  "slug": "the-outline-of-history",
+  "title": "The Outline of History",
+  "authors": [
+    "H. G. Wells"
+  ],
+  "workType": "History",
+  "originalLanguage": "English",
+  "publishedYearText": "1920",
+  "wikipediaTitle": "The_Outline_of_History",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Outline_of_History",
+  "description": "A sweeping popular history of humanity written in an internationalist and anti-dogmatic spirit.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/e/e2/Wells_Outline_of_History.jpg",
+    "width": 280,
+    "height": 284,
+    "alt": "The Outline of History cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/The_Outline_of_History",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 1000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "history",
+    "internationalism",
+    "anti-nationalism"
+  ],
+  "reasonTags": [
+    "anti-fascism",
+    "ideological-control"
+  ],
+  "overview": {
+    "englishDescription": "A sweeping popular history of humanity written in an internationalist and anti-dogmatic spirit.",
+    "banningParagraphs": [
+      "The Outline of History entered censorship debates as a history associated with history, internationalism, and anti nationalism. In the current dossier, the main state objections cluster around anti fascism and ideological control.",
+      "The earliest event currently captured here is 1930s in Germany, where Nazi authorities banned circulation. Wells's internationalist history clashed with racial and nationalist doctrine. Broad synthetic histories often become targets because they frame the past differently from official ideology.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Outline%20of%20History%20H.%20G.%20Wells"
+}

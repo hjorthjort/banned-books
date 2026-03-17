@@ -1,0 +1,22 @@
+{
+  "id": "alices-adventures-in-wonderland--1",
+  "workId": "alices-adventures-in-wonderland",
+  "jurisdictionId": "china",
+  "governingBody": "Hunan provincial authorities",
+  "dateText": "1931",
+  "startYear": 1931,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "anthropomorphic animals",
+    "moral panic"
+  ],
+  "reasonSummary": "Officials reportedly objected to animals speaking and behaving like people.",
+  "note": "Whether comic or absurd, the case still illustrates how ideology can turn whimsy into a problem.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

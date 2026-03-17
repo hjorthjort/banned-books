@@ -1,0 +1,32 @@
+{
+  "name": "forbidden-books",
+  "version": "1.0.0",
+  "description": "Static wiki for notable books and texts banned by governments.",
+  "scripts": {
+    "generate-data": "node scripts/generate-content.mjs",
+    "validate-data": "node scripts/validate-data.mjs",
+    "dev": "npm run generate-data && astro dev",
+    "start": "npm run generate-data && astro dev --host",
+    "build": "npm run generate-data && npm run validate-data && astro build",
+    "preview": "astro preview --host",
+    "serve": "npm run build && npm run preview",
+    "check": "npm run generate-data && npm run validate-data && astro check"
+  },
+  "keywords": [
+    "astro",
+    "forbidden-books",
+    "wiki",
+    "static-site"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.1",
+    "astro": "^6.0.5"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.8",
+    "typescript": "^5.9.3"
+  }
+}

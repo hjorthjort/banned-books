@@ -1,0 +1,8 @@
+{
+  "id": "papal-states",
+  "name": "Papal States",
+  "jurisdictionType": "religious-state",
+  "region": "Europe",
+  "historicalTo": 1870,
+  "notes": "Temporal state of the papacy."
+}

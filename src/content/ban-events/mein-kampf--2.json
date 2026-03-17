@@ -1,0 +1,24 @@
+{
+  "id": "mein-kampf--2",
+  "workId": "mein-kampf",
+  "jurisdictionId": "russia",
+  "governingBody": "Russian courts and extremist-materials regulators",
+  "dateText": "2010s-present",
+  "startYear": 2010,
+  "endYear": null,
+  "actionType": "listed as extremist",
+  "reasonTags": [
+    "extremism",
+    "hate-speech"
+  ],
+  "reasonSummary": "Russian authorities treated the work as extremist propaganda.",
+  "note": "This is a reminder that some bans target a work because the text itself is openly dangerous.",
+  "quotation": null,
+  "sourceIds": [
+    "evans-third-reich",
+    "ushmm-holocaust",
+    "karolides-1999",
+    "encyclopedia-censorship-2005"
+  ],
+  "reviewStatus": "verified"
+}

@@ -1,0 +1,110 @@
+{
+  "id": "little-black-sambo",
+  "slug": "little-black-sambo",
+  "title": "Little Black Sambo",
+  "authors": [
+    "Helen Bannerman"
+  ],
+  "workType": "Children's book",
+  "originalLanguage": "English",
+  "publishedYearText": "1899",
+  "wikipediaTitle": "The_Story_of_Little_Black_Sambo",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Story_of_Little_Black_Sambo",
+  "description": "A children's story whose racial caricatures later made it a target of official restriction.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/The_Story_of_Little_Black_Sambo_1899_First_Edition_Cover.jpg/330px-The_Story_of_Little_Black_Sambo_1899_First_Edition_Cover.jpg",
+    "width": 330,
+    "height": 494,
+    "alt": "Little Black Sambo cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/The_Story_of_Little_Black_Sambo",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 4000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "race",
+    "children's literature",
+    "stereotype"
+  ],
+  "reasonTags": [
+    "racism",
+    "discrimination"
+  ],
+  "overview": {
+    "englishDescription": "A children's story whose racial caricatures later made it a target of official restriction.",
+    "banningParagraphs": [
+      "Little Black Sambo entered censorship debates as a children's book associated with race, children's literature, and stereotype. In the current dossier, the main state objections cluster around racism and discrimination.",
+      "The earliest event currently captured here is 1988-2005 in Japan, where Japanese authorities and publishers under pressure withdrew and blocked editions. The book was restricted because its imagery and language were widely understood as racist. This is a useful counterexample where the ban responds to racial harm rather than sexual or political panic.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "Everybody's Protest Novel",
+      "author": "James Baldwin",
+      "url": "https://harpers.org/archive/1949/06/everybodys-protest-novel/",
+      "note": "A skeptical response to the politics of moral uplift in canonical anti-slavery fiction.",
+      "sourceIds": [
+        "baldwin-everybodys-protest-novel"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "The Wretched of the Earth",
+      "author": "Frantz Fanon",
+      "url": "https://groveatlantic.com/book/the-wretched-of-the-earth/",
+      "note": "Helps contextualize race, violence, and liberation in books targeted under colonial or apartheid systems.",
+      "sourceIds": [
+        "fanon-wretched-of-the-earth"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "baldwin-everybodys-protest-novel",
+    "fanon-wretched-of-the-earth",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "verified",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "verified",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Little%20Black%20Sambo%20Helen%20Bannerman"
+}

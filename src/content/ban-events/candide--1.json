@@ -1,0 +1,22 @@
+{
+  "id": "candide--1",
+  "workId": "candide",
+  "jurisdictionId": "united-states",
+  "governingBody": "Customs and postal authorities",
+  "dateText": "19th-20th century",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "seized copies",
+  "reasonTags": [
+    "obscenity",
+    "anti-clericalism"
+  ],
+  "reasonSummary": "Voltaire's satire was periodically treated as indecent or socially disruptive.",
+  "note": "The case shows how a philosophical classic could still be reduced to scandal by censors.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

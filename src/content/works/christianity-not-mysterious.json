@@ -1,0 +1,111 @@
+{
+  "id": "christianity-not-mysterious",
+  "slug": "christianity-not-mysterious",
+  "title": "Christianity not Mysterious",
+  "authors": [
+    "John Toland"
+  ],
+  "workType": "Philosophical treatise",
+  "originalLanguage": "English",
+  "publishedYearText": "1696",
+  "wikipediaTitle": "Christianity_not_Mysterious",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christianity_not_Mysterious",
+  "description": "A deist argument that Christianity contains nothing contrary to reason.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/4/44/Christianity_not_mysterious.jpg",
+    "width": 200,
+    "height": 366,
+    "alt": "Christianity not Mysterious cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/Christianity_not_Mysterious",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 50000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "deism",
+    "reason",
+    "anti-clericalism"
+  ],
+  "reasonTags": [
+    "heresy",
+    "anti-clericalism"
+  ],
+  "overview": {
+    "englishDescription": "A deist argument that Christianity contains nothing contrary to reason.",
+    "banningParagraphs": [
+      "Christianity not Mysterious entered censorship debates as a philosophical treatise associated with deism, reason, and anti clericalism. In the current dossier, the main state objections cluster around heresy and anti clericalism.",
+      "The earliest event currently captured here is 1697 in Ireland, where Irish Parliament and church-backed authorities condemned and burned. The work challenged orthodox claims about mystery and revelation. Its punishment belongs to the long history of state-backed doctrinal control.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "Assassins of the Mind",
+      "author": "Christopher Hitchens",
+      "url": "https://www.vanityfair.com/news/2009/02/rushdie200902",
+      "note": "Frames the Rushdie affair as a test of free speech against violent religious intimidation.",
+      "sourceIds": [
+        "hitchens-assassins-of-the-mind"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "From Fatwa to Jihad",
+      "author": "Kenan Malik",
+      "url": "https://www.malikonline.co.uk/books/from-fatwa-to-jihad/",
+      "note": "Tracks how conflicts over blasphemy, race, and offense evolved after the Rushdie controversy.",
+      "sourceIds": [
+        "malik-from-fatwa-to-jihad"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "bald-religious-grounds",
+    "karolides-1999",
+    "encyclopedia-censorship-2005",
+    "hitchens-assassins-of-the-mind",
+    "malik-from-fatwa-to-jihad",
+    "haight-1978"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=Christianity%20not%20Mysterious%20John%20Toland"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ulysses--2",
+  "workId": "ulysses",
+  "jurisdictionId": "spain",
+  "governingBody": "Francoist censors",
+  "dateText": "1939-1975",
+  "startYear": 1939,
+  "endYear": 1975,
+  "actionType": "prohibited circulation",
+  "reasonTags": [
+    "morality",
+    "political-control"
+  ],
+  "reasonSummary": "Joyce's reputation for difficulty and sexual candor did not protect the novel under dictatorship.",
+  "note": "The Spanish ban shows how the same book could be attacked under very different moral and political logics.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978",
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

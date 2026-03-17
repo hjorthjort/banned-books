@@ -1,0 +1,23 @@
+{
+  "id": "oliver-twist--1",
+  "workId": "oliver-twist",
+  "jurisdictionId": "germany",
+  "governingBody": "Nazi authorities",
+  "dateText": "1930s",
+  "startYear": 1933,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "antisemitism",
+    "ideological-control"
+  ],
+  "reasonSummary": "The regime objected to the presence of Jewish characters rather than any attack on the state.",
+  "note": "It shows how racial ideology could override canonical prestige.",
+  "quotation": null,
+  "sourceIds": [
+    "evans-third-reich",
+    "ushmm-holocaust",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

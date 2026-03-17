@@ -1,0 +1,10 @@
+{
+  "id": "wikipedia-government-list",
+  "title": "Wikipedia: List of books banned by governments",
+  "url": "https://en.wikipedia.org/wiki/List_of_books_banned_by_governments",
+  "sourceType": "reference",
+  "scope": "Seed list, linked country tables, and initial harvesting targets.",
+  "harvestStatus": "partial",
+  "qualifiesForVerification": false,
+  "notes": "Primary seed source for candidate works and jurisdictions. Not enough on its own for verified sections."
+}

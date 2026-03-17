@@ -1,0 +1,22 @@
+{
+  "id": "naked-lunch--1",
+  "workId": "naked-lunch",
+  "jurisdictionId": "united-states",
+  "governingBody": "Massachusetts and other obscenity authorities",
+  "dateText": "1960s",
+  "startYear": 1962,
+  "endYear": null,
+  "actionType": "seized and prosecuted",
+  "reasonTags": [
+    "obscenity",
+    "sexual-explicitness"
+  ],
+  "reasonSummary": "Officials targeted the book for explicit scenes and its experimental obscenity.",
+  "note": "The case helped test whether avant-garde form mattered in obscenity law.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

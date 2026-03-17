@@ -1,0 +1,23 @@
+{
+  "id": "the-satanic-bible--1",
+  "workId": "the-satanic-bible",
+  "jurisdictionId": "south-africa",
+  "governingBody": "Apartheid censors",
+  "dateText": "1970s-1980s",
+  "startYear": 1970,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "religious-offense",
+    "morality"
+  ],
+  "reasonSummary": "The text's anti-Christian posture and occult content drew censorship.",
+  "note": "It sits at the intersection of moral panic and religious control.",
+  "quotation": null,
+  "sourceIds": [
+    "bald-religious-grounds",
+    "karolides-1999",
+    "encyclopedia-censorship-2005"
+  ],
+  "reviewStatus": "verified"
+}

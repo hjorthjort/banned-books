@@ -1,0 +1,27 @@
+---
+interface SourceItem {
+  title: string;
+  url: string;
+  sourceType: string;
+  harvestStatus: string;
+}
+
+interface Props {
+  sources: SourceItem[];
+}
+
+const { sources } = Astro.props;
+---
+
+<ul class="source-list">
+  {
+    sources.map((source) => (
+      <li>
+        <a href={source.url} target="_blank" rel="noreferrer">{source.title}</a>
+        <span>{source.sourceType}</span>
+        <span>{source.harvestStatus}</span>
+      </li>
+    ))
+  }
+</ul>
+

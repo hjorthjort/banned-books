@@ -1,0 +1,23 @@
+{
+  "id": "elmer-gantry--1",
+  "workId": "elmer-gantry",
+  "jurisdictionId": "united-states",
+  "governingBody": "Municipal and customs authorities",
+  "dateText": "1920s-1930s",
+  "startYear": 1927,
+  "endYear": null,
+  "actionType": "banned and challenged",
+  "reasonTags": [
+    "blasphemy",
+    "anti-clericalism"
+  ],
+  "reasonSummary": "Lewis's portrait of religious fraud provoked both legal challenges and moral outrage.",
+  "note": "Its censorship history sits at the boundary of blasphemy and literary satire.",
+  "quotation": null,
+  "sourceIds": [
+    "bald-religious-grounds",
+    "karolides-1999",
+    "encyclopedia-censorship-2005"
+  ],
+  "reviewStatus": "verified"
+}

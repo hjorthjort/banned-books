@@ -1,0 +1,22 @@
+{
+  "id": "another-country--1",
+  "workId": "another-country",
+  "jurisdictionId": "australia",
+  "governingBody": "Australian censors",
+  "dateText": "1960s",
+  "startYear": 1962,
+  "endYear": null,
+  "actionType": "banned importation",
+  "reasonTags": [
+    "obscenity",
+    "sexual-explicitness"
+  ],
+  "reasonSummary": "The book's interracial and queer intimacy triggered obscenity controls.",
+  "note": "Its censorship reveals how race and sexuality often traveled together in official panic.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

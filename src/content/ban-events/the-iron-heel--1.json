@@ -1,0 +1,22 @@
+{
+  "id": "the-iron-heel--1",
+  "workId": "the-iron-heel",
+  "jurisdictionId": "germany",
+  "governingBody": "Nazi authorities",
+  "dateText": "1933 onward",
+  "startYear": 1933,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "anti-fascism",
+    "political-dissent"
+  ],
+  "reasonSummary": "The Nazis suppressed London's anti-authoritarian and socialist writing.",
+  "note": "The ban highlights the regime's hostility to rival mass politics and class analysis.",
+  "quotation": null,
+  "sourceIds": [
+    "karolides-1999",
+    "haight-1978"
+  ],
+  "reviewStatus": "verified"
+}

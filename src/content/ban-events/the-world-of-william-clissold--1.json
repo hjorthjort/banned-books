@@ -1,0 +1,22 @@
+{
+  "id": "the-world-of-william-clissold--1",
+  "workId": "the-world-of-william-clissold",
+  "jurisdictionId": "germany",
+  "governingBody": "Nazi authorities",
+  "dateText": "1936",
+  "startYear": 1936,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "anti-fascism",
+    "ideological-control"
+  ],
+  "reasonSummary": "Nazi censors expanded their order to suppress Wells's wider body of work.",
+  "note": "The ban shows how regimes often move from one disliked title to an author-wide blacklist.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "why-we-cant-wait--1",
+  "workId": "why-we-cant-wait",
+  "jurisdictionId": "south-africa",
+  "governingBody": "Apartheid authorities",
+  "dateText": "1960s",
+  "startYear": 1964,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "racial-politics",
+    "anti-state"
+  ],
+  "reasonSummary": "Books associated with Black liberation and civil rights were treated as dangerous imports.",
+  "note": "The ban shows apartheid censors reacting not just to local organizing, but to transnational Black politics.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

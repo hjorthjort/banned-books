@@ -1,0 +1,22 @@
+{
+  "id": "lajja--1",
+  "workId": "lajja",
+  "jurisdictionId": "bangladesh",
+  "governingBody": "Government of Bangladesh",
+  "dateText": "1994",
+  "startYear": 1994,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "religious-offense",
+    "public-order"
+  ],
+  "reasonSummary": "The novel's criticism of Islamist violence and communalism triggered state suppression.",
+  "note": "It remains one of the most internationally recognized Bangladeshi book bans.",
+  "quotation": null,
+  "sourceIds": [
+    "bbc-taslima-1999",
+    "bald-religious-grounds"
+  ],
+  "reviewStatus": "verified"
+}

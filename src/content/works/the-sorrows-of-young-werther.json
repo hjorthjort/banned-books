@@ -1,0 +1,110 @@
+{
+  "id": "the-sorrows-of-young-werther",
+  "slug": "the-sorrows-of-young-werther",
+  "title": "The Sorrows of Young Werther",
+  "authors": [
+    "Johann Wolfgang von Goethe"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "German",
+  "publishedYearText": "1774",
+  "wikipediaTitle": "The_Sorrows_of_Young_Werther",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Sorrows_of_Young_Werther",
+  "description": "A novel of romantic obsession, emotional extremity, and self-destruction.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Goethe_1774.JPG/330px-Goethe_1774.JPG",
+    "width": 330,
+    "height": 261,
+    "alt": "The Sorrows of Young Werther cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/The_Sorrows_of_Young_Werther",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 2000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "romanticism",
+    "suicide",
+    "emotion"
+  ],
+  "reasonTags": [
+    "morality",
+    "copycat-fear"
+  ],
+  "overview": {
+    "englishDescription": "A novel of romantic obsession, emotional extremity, and self-destruction.",
+    "banningParagraphs": [
+      "The Sorrows of Young Werther entered censorship debates as a novel associated with romanticism, suicide, and emotion. In the current dossier, the main state objections cluster around morality and copycat fear.",
+      "The earliest event currently captured here is late 18th century in Austria, where Habsburg authorities banned circulation. Officials worried that the novel glamorized emotional excess and suicide. Werther is an early example of authorities blaming literature for imitation effects.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    },
+    {
+      "type": "article",
+      "title": "Suicide prevention",
+      "author": "World Health Organization",
+      "url": "https://www.who.int/health-topics/suicide",
+      "note": "Public-health counterpoint for instruction manuals centered on self-harm or assisted death.",
+      "sourceIds": [
+        "who-suicide-prevention"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "Included here as a civic counterpoint when bans blur personal autonomy, panic, and state control.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005",
+    "karolides-1999",
+    "haight-1978",
+    "who-suicide-prevention",
+    "snyder-on-tyranny"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Sorrows%20of%20Young%20Werther%20Johann%20Wolfgang%20von%20Goethe"
+}

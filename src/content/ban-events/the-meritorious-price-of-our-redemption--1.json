@@ -1,0 +1,23 @@
+{
+  "id": "the-meritorious-price-of-our-redemption--1",
+  "workId": "the-meritorious-price-of-our-redemption",
+  "jurisdictionId": "united-states",
+  "governingBody": "Massachusetts Bay colonial authorities",
+  "dateText": "1650",
+  "startYear": 1650,
+  "endYear": null,
+  "actionType": "ordered burned",
+  "reasonTags": [
+    "heresy",
+    "doctrinal-control"
+  ],
+  "reasonSummary": "Colonial magistrates condemned the tract as theologically unsound.",
+  "note": "It is one of the earliest English-language American examples of the state destroying a book.",
+  "quotation": null,
+  "sourceIds": [
+    "bald-religious-grounds",
+    "karolides-1999",
+    "encyclopedia-censorship-2005"
+  ],
+  "reviewStatus": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "uncle-toms-cabin--1",
+  "workId": "uncle-toms-cabin",
+  "jurisdictionId": "united-states",
+  "governingBody": "Slave-state authorities and wartime officials",
+  "dateText": "1850s",
+  "startYear": 1852,
+  "endYear": null,
+  "actionType": "suppressed circulation",
+  "reasonTags": [
+    "political-dissent",
+    "racial-politics"
+  ],
+  "reasonSummary": "The novel was attacked in pro-slavery jurisdictions because it mobilized abolitionist sentiment.",
+  "note": "Its history shows governments suppressing literature not for obscenity, but for moral and political effect.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

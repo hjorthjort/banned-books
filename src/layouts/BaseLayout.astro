@@ -1,0 +1,47 @@
+---
+import "../styles/global.css";
+import { SITE_DESCRIPTION, SITE_TITLE } from "../lib/constants";
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const { title = SITE_TITLE, description = SITE_DESCRIPTION } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="site-header">
+        <a class="site-title" href="/">{SITE_TITLE}</a>
+        <nav class="site-nav">
+          <a href="/random">Random article</a>
+          <a href="https://en.wikipedia.org/wiki/List_of_books_banned_by_governments" target="_blank" rel="noreferrer">
+            Seed source
+          </a>
+        </nav>
+      </header>
+      <main>
+        <slot />
+      </main>
+      <footer class="site-footer">
+        <p>Government bans only in v1. Records are intentionally incomplete and source-tracked.</p>
+      </footer>
+    </div>
+  </body>
+</html>
+

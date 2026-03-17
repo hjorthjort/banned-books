@@ -1,0 +1,24 @@
+{
+  "id": "albertine--1",
+  "workId": "albertine",
+  "jurisdictionId": "norway",
+  "governingBody": "Norwegian authorities",
+  "dateText": "1886",
+  "startYear": 1886,
+  "endYear": null,
+  "actionType": "confiscated and banned",
+  "reasonTags": [
+    "obscenity",
+    "public morality"
+  ],
+  "reasonSummary": "The book's realism about prostitution and abuse triggered confiscation soon after release.",
+  "note": "It is a foundational Scandinavian censorship case.",
+  "quotation": null,
+  "sourceIds": [
+    "sova-sexual-grounds",
+    "haight-1978",
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

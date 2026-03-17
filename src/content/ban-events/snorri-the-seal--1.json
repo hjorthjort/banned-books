@@ -1,0 +1,22 @@
+{
+  "id": "snorri-the-seal--1",
+  "workId": "snorri-the-seal",
+  "jurisdictionId": "norway",
+  "governingBody": "German occupation authorities",
+  "dateText": "1941",
+  "startYear": 1941,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "anti-fascism",
+    "satire"
+  ],
+  "reasonSummary": "Occupation censors targeted the book because its allegory mocked their rule.",
+  "note": "It is a small but vivid example of literary resistance under occupation.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

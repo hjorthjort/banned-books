@@ -1,0 +1,110 @@
+{
+  "id": "the-hoax-of-the-twentieth-century",
+  "slug": "the-hoax-of-the-twentieth-century",
+  "title": "The Hoax of the Twentieth Century",
+  "authors": [
+    "Arthur Butz"
+  ],
+  "workType": "Pseudo-history",
+  "originalLanguage": "English",
+  "publishedYearText": "1976",
+  "wikipediaTitle": "The_Hoax_of_the_Twentieth_Century",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Hoax_of_the_Twentieth_Century",
+  "description": "A Holocaust-denial text that packages antisemitic propaganda as historical revision.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/The_Hoax_of_the_Twentieth_Century.jpg/250px-The_Hoax_of_the_Twentieth_Century.jpg",
+    "width": 330,
+    "height": 505,
+    "alt": "The Hoax of the Twentieth Century cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/The_Hoax_of_the_Twentieth_Century",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 100000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "antisemitism",
+    "holocaust denial",
+    "propaganda"
+  ],
+  "reasonTags": [
+    "hate-speech",
+    "antisemitism"
+  ],
+  "overview": {
+    "englishDescription": "A Holocaust-denial text that packages antisemitic propaganda as historical revision.",
+    "banningParagraphs": [
+      "The Hoax of the Twentieth Century entered censorship debates as a pseudo-history associated with antisemitism, holocaust denial, and propaganda. In the current dossier, the main state objections cluster around hate speech and antisemitism.",
+      "The earliest event currently captured here is 1980s-1990s in Canada, where Customs and hate-literature authorities seized and prohibited import. Canadian authorities treated the work as hate literature rather than legitimate scholarship. This is a case where the ban responds directly to a text's propagandistic falsification.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "The Turner Diaries",
+      "author": "Anti-Defamation League",
+      "url": "https://www.adl.org/resources/backgrounder/turner-diaries",
+      "note": "Public backgrounder on how violent extremist fiction moved into real-world terror networks.",
+      "sourceIds": [
+        "adl-turner-diaries"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Denying the Holocaust",
+      "author": "Deborah E. Lipstadt",
+      "url": "https://www.penguinrandomhouse.com/books/189620/denying-the-holocaust-by-deborah-e-lipstadt/",
+      "note": "A clear historical rebuttal to denialist and revisionist propaganda.",
+      "sourceIds": [
+        "lipstadt-denying-the-holocaust"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "The Third Reich in Power, 1933-1939",
+      "author": "Richard J. Evans",
+      "url": "https://www.penguinrandomhouse.com/books/294831/the-third-reich-in-power-1933-1939-by-richard-j-evans/",
+      "note": "A historical counterweight to fascist mythmaking and to books used as authoritarian propaganda.",
+      "sourceIds": [
+        "evans-third-reich"
+      ]
+    },
+    {
+      "type": "article",
+      "title": "Introduction to the Holocaust",
+      "author": "United States Holocaust Memorial Museum",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust",
+      "note": "A factual public rebuttal resource for antisemitic and Holocaust-distorting literature.",
+      "sourceIds": [
+        "ushmm-holocaust"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "evans-third-reich",
+    "ushmm-holocaust",
+    "karolides-1999",
+    "lipstadt-denying-the-holocaust",
+    "adl-turner-diaries"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Hoax%20of%20the%20Twentieth%20Century%20Arthur%20Butz"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "el-senor-presidente",
+  "slug": "el-senor-presidente",
+  "title": "El Senor Presidente",
+  "authors": [
+    "Miguel Angel Asturias"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "Spanish",
+  "publishedYearText": "1946",
+  "wikipediaTitle": "El_Señor_Presidente",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/El_Señor_Presidente",
+  "description": "A dictatorship novel about fear, arbitrary power, and the texture of political terror.",
+  "descriptionSourceIds": [
+    "wikipedia-summary-api",
+    "encyclopedia-censorship-2005"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/El_senor_presidente.gif/250px-El_senor_presidente.gif",
+    "width": 330,
+    "height": 511,
+    "alt": "El Senor Presidente cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/El_Se%C3%B1or_Presidente",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 1000000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "dictatorship",
+    "state terror",
+    "Latin America"
+  ],
+  "reasonTags": [
+    "anti-dictatorship",
+    "political-dissent"
+  ],
+  "overview": {
+    "englishDescription": "A dictatorship novel about fear, arbitrary power, and the texture of political terror.",
+    "banningParagraphs": [
+      "El Senor Presidente entered censorship debates as a novel associated with dictatorship, state terror, and Latin America. In the current dossier, the main state objections cluster around anti dictatorship and political dissent.",
+      "The earliest event currently captured here is mid-20th century in Guatemala, where Government under Jorge Ubico and successors banned circulation. The novel's portrait of authoritarianism made it difficult to circulate safely in Guatemala. It stands near the origin of the Latin American dictator-novel tradition.",
+      "This entry is still incomplete: more jurisdictions, court orders, and translated justifications should be added over time."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "book",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "url": "https://www.penguinrandomhouse.com/books/307494/the-origins-of-totalitarianism-by-hannah-arendt/",
+      "note": "A foundational analysis of state terror, propaganda, and ideological conformity.",
+      "sourceIds": [
+        "arendt-origins-totalitarianism"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "url": "https://timothysnyder.org/on-tyranny",
+      "note": "A short modern guide to resisting authoritarian politics and controlled public discourse.",
+      "sourceIds": [
+        "snyder-on-tyranny"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "100 Banned Books: Censorship Histories of World Literature",
+      "author": "Nicholas J. Karolides, Margaret Bald, and Dawn B. Sova",
+      "url": "https://books.google.com/books?id=Ab8vAQAAIAAJ",
+      "note": "A compact reference on how censorship systems moved across states, churches, and courts.",
+      "sourceIds": [
+        "karolides-1999"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "Banned Books: 387 B.C. to 1978 A.D.",
+      "author": "Anne Lyon Haight",
+      "url": "https://archive.org/details/bannedbooks387bc0000haig",
+      "note": "Useful for comparing older obscenity, heresy, and political bans with modern free-speech disputes.",
+      "sourceIds": [
+        "haight-1978"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "karolides-1999",
+    "haight-1978",
+    "arendt-origins-totalitarianism",
+    "snyder-on-tyranny"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": false,
+  "addedOn": "2026-03-17",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=El%20Senor%20Presidente%20Miguel%20Angel%20Asturias"
+}

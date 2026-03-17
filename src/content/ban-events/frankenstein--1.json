@@ -1,0 +1,22 @@
+{
+  "id": "frankenstein--1",
+  "workId": "frankenstein",
+  "jurisdictionId": "south-africa",
+  "governingBody": "Apartheid censors",
+  "dateText": "20th century",
+  "startYear": null,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "morality",
+    "political sensitivity"
+  ],
+  "reasonSummary": "The novel appeared on lists of disallowed books in apartheid South Africa.",
+  "note": "Canonical fiction could be swept up by broad racial and moral censorship systems.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}

@@ -1,0 +1,14 @@
+---
+import { REVIEW_DESCRIPTIONS, REVIEW_LABELS } from "../lib/constants";
+
+interface Props {
+  status: keyof typeof REVIEW_LABELS;
+}
+
+const { status } = Astro.props;
+---
+
+<span class={`section-badge section-badge--${status}`} title={REVIEW_DESCRIPTIONS[status]}>
+  {REVIEW_LABELS[status]}
+</span>
+

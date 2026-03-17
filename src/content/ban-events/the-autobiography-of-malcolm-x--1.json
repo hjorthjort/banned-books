@@ -1,0 +1,22 @@
+{
+  "id": "the-autobiography-of-malcolm-x--1",
+  "workId": "the-autobiography-of-malcolm-x",
+  "jurisdictionId": "south-africa",
+  "governingBody": "Apartheid authorities",
+  "dateText": "1960s-1970s",
+  "startYear": 1965,
+  "endYear": null,
+  "actionType": "banned circulation",
+  "reasonTags": [
+    "racial-politics",
+    "anti-state"
+  ],
+  "reasonSummary": "The text's political force and Black radical critique made it unacceptable under apartheid.",
+  "note": "Its suppression shows censorship as an arm of racial governance.",
+  "quotation": null,
+  "sourceIds": [
+    "encyclopedia-censorship-2005",
+    "karolides-1999"
+  ],
+  "reviewStatus": "verified"
+}
