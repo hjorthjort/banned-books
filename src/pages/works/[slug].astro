@@ -33,6 +33,7 @@ const tableRows = banEvents.map((event) => ({
   reasonSummary: event.data.reasonSummary,
   note: event.data.note,
 }));
+const banHistoryStatus = banEvents.length > 0 ? "verified" : work.data.sectionStatus.banningOverview;
 ---
 
 <BaseLayout title={`${work.data.title} | Forbidden Books Wiki`} description={work.data.overview.englishDescription}>
@@ -144,7 +145,7 @@ const tableRows = banEvents.map((event) => ({
           <p class="eyebrow">Ban history</p>
           <h2>Known government actions</h2>
         </div>
-        <SectionBadge status="verified" />
+        <SectionBadge status={banHistoryStatus} />
       </div>
       <BanHistoryTable rows={tableRows} />
     </section>

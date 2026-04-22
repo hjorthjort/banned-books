@@ -14,30 +14,38 @@ interface Props {
 const { rows } = Astro.props;
 ---
 
-<div class="table-wrap">
-  <table class="ban-table">
-    <thead>
-      <tr>
-        <th>Date</th>
-        <th>Jurisdiction</th>
-        <th>Action</th>
-        <th>Reason</th>
-        <th>Note</th>
-      </tr>
-    </thead>
-    <tbody>
-      {
-        rows.map((row) => (
+{
+  rows.length === 0 ? (
+    <p class="notice">
+      No verified government actions are recorded for this work in the current dataset. Reported marketplace or platform
+      restrictions, if any, are discussed in the overview above and are not counted here as state bans.
+    </p>
+  ) : (
+    <div class="table-wrap">
+      <table class="ban-table">
+        <thead>
           <tr>
-            <td>{row.dateText}</td>
-            <td>{row.jurisdictionName}</td>
-            <td>{row.actionType}</td>
-            <td>{row.reasonSummary}</td>
-            <td>{row.note}</td>
+            <th>Date</th>
+            <th>Jurisdiction</th>
+            <th>Action</th>
+            <th>Reason</th>
+            <th>Note</th>
           </tr>
-        ))
-      }
-    </tbody>
-  </table>
-</div>
-
+        </thead>
+        <tbody>
+          {
+            rows.map((row) => (
+              <tr>
+                <td>{row.dateText}</td>
+                <td>{row.jurisdictionName}</td>
+                <td>{row.actionType}</td>
+                <td>{row.reasonSummary}</td>
+                <td>{row.note}</td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+  )
+}

@@ -1,0 +1,119 @@
+{
+  "id": "the-camp-of-the-saints",
+  "slug": "the-camp-of-the-saints",
+  "title": "The Camp of the Saints",
+  "authors": [
+    "Jean Raspail"
+  ],
+  "workType": "Novel",
+  "originalLanguage": "French",
+  "publishedYearText": "1973 (French); 1975 (English translation)",
+  "wikipediaTitle": "The_Camp_of_the_Saints",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Camp_of_the_Saints",
+  "description": "A dystopian French novel that imagines mass migration as civilizational collapse and became a cult text of anti-immigration and white-nationalist politics.",
+  "descriptionParagraphs": [
+    "The Camp of the Saints imagines a flotilla of impoverished Indian migrants sailing toward France while political leaders, clerics, journalists, and intellectuals fail to stop what the novel presents as a terminal civilizational surrender. Raspail structures the book as an apocalypse of demographic panic: the migrants are less individualized characters than a mass symbol, while much of the narrative energy goes into portraying French elites as weak, self-hating, sentimental, or incapable of defending national and racial boundaries.",
+    "Its central themes are not immigration policy in any ordinary sense but racial fear, decadence, and the fantasy that humanitarian language masks collective suicide. The novel repeatedly casts compassion, universalism, Christian charity, and liberal legality as tools of disarmament, while presenting non-white migration as contamination and replacement. That is why critics usually read it less as speculative fiction than as a political myth: it dramatizes xenophobia through prophecy and gives reactionary politics the emotional tone of tragic foresight.",
+    "The book matters because of its afterlife. Over decades it has become a cult object for parts of the French and American far right, especially readers drawn to 'great replacement' politics, white-nationalist grievance, and civilizational decline rhetoric. Its significance today lies not in literary subtlety but in the way it packages racist hierarchy as realism and turns demographic change into a story of siege, betrayal, and sacred loss."
+  ],
+  "descriptionSourceIds": [
+    "new-republic-camp-of-the-saints-2018",
+    "pharos-camp-of-the-saints-2020",
+    "le-monde-camp-of-the-saints-2026"
+  ],
+  "cover": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/f/fd/TheCampOfTheSaints.jpg",
+    "width": 261,
+    "height": 375,
+    "alt": "The Camp of the Saints cover thumbnail from Wikipedia",
+    "pageUrl": "https://en.wikipedia.org/wiki/The_Camp_of_the_Saints",
+    "licenseLabel": "Wikimedia-hosted thumbnail"
+  },
+  "ranking": {
+    "copiesSoldEstimate": 350000,
+    "basis": "copies_sold_estimate"
+  },
+  "contentTags": [
+    "immigration",
+    "xenophobia",
+    "racial panic",
+    "apocalypse"
+  ],
+  "criticismTargets": [
+    "clerical-authority",
+    "state-bureaucracy"
+  ],
+  "reasonTags": [],
+  "overview": {
+    "englishDescription": "A dystopian French novel that imagines mass migration as civilizational collapse and became a cult text of anti-immigration and white-nationalist politics.",
+    "banningParagraphs": [
+      "In the current source pass, The Camp of the Saints is not supported by a verified government-ban record. What is well documented instead is a long reputation for toxicity: critics describe it as a racist and apocalyptic novel that treats non-white migration as a demographic invasion and that has been repeatedly embraced by French identitarians, American nativists, and white-nationalist circles.",
+      "That distinction matters. The book has often circulated with an aura of prohibition, but much of that story is really about who would publish or distribute it. After the original French edition and a 1975 English translation, the novel's English-language afterlife ran through later ideological sponsors, including Social Contract Press in the 1990s and a Vauban Books reissue in 2025. Le Monde describes it as a book with an 'air of prohibition,' but that is a social and market history, not the same thing as a documented state ban by France, Britain, or the United States.",
+      "The closest thing to a recent 'shadow ban' claim in this source set is a reported temporary Amazon delisting in the United States in April 2026. Blaze reported on April 21, 2026 that a paperback listing had briefly disappeared and that Amazon said the removal was an error before restoring it. Until stronger primary documentation surfaces, this episode is tracked here as a reported platform restriction rather than a government action, and no official ban event is entered below."
+    ]
+  },
+  "counterReadings": [
+    {
+      "type": "article",
+      "title": "The Notorious Book That Ties the Right to the Far Right",
+      "author": "Talia Lavin",
+      "url": "https://newrepublic.com/article/146925/notorious-book-ties-right-far-right",
+      "note": "A direct critical history of how the novel moved from French reactionary fiction into the symbolic library of the modern far right.",
+      "sourceIds": [
+        "new-republic-camp-of-the-saints-2018"
+      ]
+    },
+    {
+      "type": "article",
+      "title": "Miller pushed racist 'Camp of the Saints' beloved by far right",
+      "author": "SPLC Hatewatch",
+      "url": "https://www.splcenter.org/resources/hatewatch/miller-pushed-racist-camp-saints-beloved-far-right/",
+      "note": "Traces the book's role inside American anti-immigration politics and treats it as a white-nationalist reference point rather than a neutral dystopian novel.",
+      "sourceIds": [
+        "splc-miller-camp-of-the-saints-2019"
+      ]
+    },
+    {
+      "type": "article",
+      "title": "Jean Raspail's Camp of the Saints, the fall of Rome, and white nationalist xenophobia",
+      "author": "Sarah Bond",
+      "url": "https://pharos.vassarspaces.net/2020/09/16/jean-raspail-camp-of-saints-fall-of-rome-xenophobia/",
+      "note": "Places the novel in a longer tradition of race panic and classical decline imagery, and argues against the book's pseudo-historical civilizational frame.",
+      "sourceIds": [
+        "pharos-camp-of-the-saints-2020"
+      ]
+    },
+    {
+      "type": "book",
+      "title": "The Wretched of the Earth",
+      "author": "Frantz Fanon",
+      "url": "https://groveatlantic.com/book/the-wretched-of-the-earth/",
+      "note": "A powerful anti-colonial counter-reading against the racial hierarchy, fear of decolonization, and civilizational panic that structure Raspail's novel.",
+      "sourceIds": [
+        "fanon-wretched-of-the-earth"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "wikipedia-government-list",
+    "wikipedia-summary-api",
+    "new-republic-camp-of-the-saints-2018",
+    "splc-miller-camp-of-the-saints-2019",
+    "pharos-camp-of-the-saints-2020",
+    "le-monde-camp-of-the-saints-2026",
+    "blaze-camp-of-the-saints-amazon-2026",
+    "fanon-wretched-of-the-earth"
+  ],
+  "sectionStatus": {
+    "bibliographic": "verified",
+    "description": "reviewed",
+    "banningOverview": "reviewed",
+    "counterReadings": "reviewed"
+  },
+  "reviewStatus": "reviewed",
+  "published": true,
+  "incompleteCoverage": true,
+  "featured": true,
+  "addedOn": "2026-04-22",
+  "amazonSearchUrl": "https://www.amazon.com/s?k=The%20Camp%20of%20the%20Saints%20Jean%20Raspail"
+}

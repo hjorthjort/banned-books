@@ -40,9 +40,17 @@ function formatList(values) {
   return `${values.slice(0, -1).join(", ")}, and ${values.at(-1)}`;
 }
 
-function buildCounterReadings(themeIds) {
+function buildCounterReadings(themeIds, customItems = []) {
   const selected = [];
   const seen = new Set();
+
+  for (const item of customItems) {
+    const key = `${item.title}|${item.author}`;
+    if (!seen.has(key)) {
+      selected.push(item);
+      seen.add(key);
+    }
+  }
 
   for (const themeId of themeIds) {
     for (const item of counterPacks[themeId] ?? []) {
@@ -151,6 +159,18 @@ function buildDescriptionParagraphs(work) {
 }
 
 function buildBanningParagraphs(work, banEvents, jurisdictionMap) {
+  if ((work.banningParagraphs ?? []).length > 0) {
+    return work.banningParagraphs;
+  }
+
+  if (banEvents.length === 0) {
+    return [
+      `${work.title} is included in the project because it has attracted censorship rhetoric, informal suppression claims, or reputational exclusion, but the current source pass has not verified a government ban event yet.`,
+      "This page should therefore be read as a documented controversy file rather than a completed state-ban dossier. Reported marketplace removals, publisher disputes, and quasi-prohibition claims may appear in the notes, but they are not treated here as government actions unless stronger evidence is harvested.",
+      "The entry remains intentionally incomplete. If archival or primary evidence of an official ban surfaces later, the record can be upgraded from controversy tracking to a full ban-history page.",
+    ];
+  }
+
   const reasons = unique(banEvents.flatMap((event) => event.reasonTags)).map((tag) => tag.replace(/-/g, " "));
   const placeNames = unique(
     banEvents.map((event) => jurisdictionMap.get(event.jurisdictionId)?.name ?? event.jurisdictionId),
@@ -235,7 +255,7 @@ async function main() {
 
   for (const work of works) {
     const summary = await fetchSummary(work.wikipediaTitle);
-    const counterReadings = buildCounterReadings(work.counterThemes);
+    const counterReadings = buildCounterReadings(work.counterThemes ?? [], work.counterReadings ?? []);
     const descriptionParagraphs = buildDescriptionParagraphs(work);
     const criticismTargets = unique([...(work.criticismTargets ?? []), ...(criticismTargetOverrides[work.id] ?? [])]);
     const banEvents = work.banEvents.map((event, index) => ({
